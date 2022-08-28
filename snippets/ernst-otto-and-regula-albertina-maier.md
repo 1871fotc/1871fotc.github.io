@@ -1,0 +1,3 @@
+Ernst Otto Maier was born on 13 April 1853 in Köngen, Württemberg and died on 15 March 1905. He was the first of five Basel trained pastors to serve the “German Lutheran Church North Brisbane” (St Andreas) from 1888 until his death. This monument was erected by his family, friends and congregation. He is buried with his wife Regula Albertina Maier née Bunzli who was born on 1 April 1853 in Zurich, Switzerland and died on 11 August 1935 at Ipswich. 
+
+Also buried in the grave is Martha Maria Hiller née Maier who was born on 26 August 1880 at German Station (Nundah) and died on 4 December 1915. She was the organist at St. Andreas in 1900 before she married the Rev. Eugen Hiller (1870—1958) who was the pastor there in 1905‑06.

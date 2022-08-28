@@ -1,0 +1,3 @@
+## Elizabeth Margaret Hulett <small>(15A‑9‑16)</small>
+
+Elizabeth Hulett completed her general training at the Royal Children’s Hospital, Brisbane in 1922, and her midwifery training at the Royal Women’s Hospital in 1938 after the premature death of her husband, John Hulett. She was appointed to the staff of the Women’s Hospital in December 1943 and was promoted to Senior Sister in 1946. After 18 years service she retired from the staff of the Women’s Hospital in January 1961 to join the staff of the new Mater Mothers’ Hospital. She taught midwifery for many years, affectionately known to her students as “Granny Hulett”. Sister Hulett died in 1986 aged 87.

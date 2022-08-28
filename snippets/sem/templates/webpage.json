@@ -1,0 +1,26 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph":[
+    {
+      "@type": "Organization",
+      "@id": "https://1871fotc.github.io/#/schema/organization/1",
+      "name": "Friends of Toowong Cemetery Association Inc.",
+      "url": "https://1871fotc.github.io/",
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://1871fotc.github.io/#/schema/website/1",
+      "name": "Friends of Toowong Cemetery",
+      "url": "https://1871fotc.github.io/",
+      "publisher": {"@id": "https://1871fotc.github.io/#/schema/organization/1"}
+    },  
+    {
+      "@type": "WebPage",
+      "@id": "https://1871fotc.github.io/xxx",
+      "url": "https://1871fotc.github.io/xxx",
+      "name": "xxx",
+    }
+  ]
+}
+</script>

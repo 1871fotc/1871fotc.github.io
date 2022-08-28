@@ -1,0 +1,3 @@
+## Richard Henry Sholl <small>(9‑24‑1/2)</small>
+
+Richard Henry Sholl (1821-1892) was born in the London borough of Southwark. Following the death of his father Richard Sholl, his mother Elizabeth (née Motton) took her young family to Western Australia. Young Richard later became master of coastal vessels plying the trade routes in the Pacific region and across the Great Australian Bight during the great age of sail. Just prior to Separation in 1859, Captain Sholl was appointed pilot for Moreton Bay by the NSW Government and in January 1864 he was promoted to the position of senior sea pilot for this port, a position he held until 1881. 

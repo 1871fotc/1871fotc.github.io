@@ -1,0 +1,40 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph":[
+    {
+    "@type": "Organization",
+    "@id": "https://1871fotc.github.io/#/schema/organization/1",
+    "name": "Friends of Toowong Cemetery Association Inc.",
+    "url": "https://1871fotc.github.io/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://1871fotc.github.io/#/schema/website/1",
+      "name": "Friends of Toowong Cemetery",
+      "url": "https://1871fotc.github.io/",
+      "publisher": {
+          "@id": "https://1871fotc.github.io/#/schema/organization/1"
+        }
+    },
+    {
+      "@type": "AboutPage",
+      "@id": "https://1871fotc.github.io/about/",
+      "url": "https://1871fotc.github.io/about/",
+      "inLanguage": "en-GB",
+      "name": "About Friends of Toowong Cemetery",
+      "isPartOf": {
+          "@id": "https://1871fotc.github.io/#/schema/website/1"
+        },
+      "about": {
+          "@id": "https://1871fotc.github.io/#/schema/organization/1"
+        },
+      "dateModified": "2022-05-09",
+      "datePublished": "2022-05-09",
+      "description": "Learn what Friends of Toowong Cemetery do, what we've done, what we're working on, and how you can join in",
+      "author": {"@id": "https://1871fotc.github.io/#/schema/organization/1"},
+      "image": ["https://1871fotc.github.io/assets/logo/fotc-1x1.png", "https://1871fotc.github.io/assets/logo/fotc-banner-4x3.png", "https://1871fotc.github.io/assets/images/social/about/index.png"]
+    }
+  ]
+}
+</script>

@@ -1,0 +1,3 @@
+## William Maguire <small>(5‑105‑14)</small> 
+
+Irish‑born Sub‑inspector Maguire died on 25 April 1917 at his residence in Franklin Street, West End after a severe illness. Prior to joining the police in 1886, Maguire had been a soldier. He rose steadily through the ranks serving in Brisbane, Allora and Gympie before he was appointed to the Police Depot on Petrie Terrace but he was transferred soon afterwards to Charleville to relieve Sub‑inspector King but owing to ill health he came back to Brisbane. He spent some time in the Victoria Private Hospital but returned to his home when it became obvious he wasn’t going to recover. He was 56 years of age. General regret was expressed throughout the Police Force at his death.

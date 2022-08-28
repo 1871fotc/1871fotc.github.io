@@ -1,0 +1,26 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph":[
+    {
+      "@type": [
+          "Cemetery",
+          "TouristAttraction"
+        ],
+      "@id": "https://1871fotc.github.io/#/schema/place/toowong-cemetery/",
+      "name": "Toowong Cemetery",
+      "url": "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery",
+      "description": "The heritage‑listed Toowong Cemetery, previously known as the Brisbane General Cemetery, is the largest cemetery in Queensland at 44 Hectares. It was officially opened on 5 July 1875 and over 119,000 people are buried in approximately 46,000 graves",
+      "touristType": {
+          "@type": "Audience",
+          "audienceType" : "Memorial Tourism"
+        },
+      "hasMap": "https://1871fotc.github.io/assets/toowong-cemetery-map-alt.jpg", 
+      "publicAccess": true,
+      "isAccessibleForFree": true,
+      "openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 06:00-18:00",
+      "tourBookingPage": "https://1871fotc.github.io/guided-tours/"
+    }
+  ]
+}
+</script>

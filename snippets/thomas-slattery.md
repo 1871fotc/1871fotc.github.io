@@ -1,0 +1,3 @@
+## Thomas Slattery <small>(7‑9‑4)</small> 
+
+Slattery was born at Ballaglass, County Tipperary, Ireland, ca. 1824. After emigrating, he served some seven years as a police officer in New Zealand and Victoria. In his first year on the Queensland force (1866), Constable Slattery was awarded £5 for his zeal and ability in the apprehension of John Mulrooney. He was promoted to First Class Detective in 1867 and again promoted to the Inspector of Detectives in July 1876. His death, aged 54, on 5 February 1878 still came as a shock even though Slattery had been indisposed for some time with acute rheumatism. Over 80 police officers attended his burial and his headstone was erected through the contributions made by 136 members of the Police Force.

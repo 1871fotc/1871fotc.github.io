@@ -1,0 +1,48 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph":[
+    {
+    "@type": "Organization",
+    "@id": "https://1871fotc.github.io/#/schema/organization/1",
+    "name": "Friends of Toowong Cemetery Association Inc.",
+    "url": "https://1871fotc.github.io/"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://1871fotc.github.io/#/schema/place/1",
+      "name": "Toowong Cemetery",
+      "sameAs": ["https://en.wikipedia.org/wiki/Toowong_Cemetery", "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery"]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://1871fotc.github.io/#/schema/website/1",
+      "name": "Friends of Toowong Cemetery",
+      "url": "https://1871fotc.github.io/",
+      "publisher": {
+          "@id": "https://1871fotc.github.io/#/schema/organization/1"
+        }
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://1871fotc.github.io/stories/",
+      "url": "https://1871fotc.github.io/stories/",
+      "inLanguage": "en",
+      "name": "Toowong Cemetery Stories and Walks",
+      "isPartOf": {
+          "@id": "https://1871fotc.github.io/#/schema/website/1"
+        },
+      "dateModified": "2022-05-14",
+      "datePublished": "2022-05-14",
+      "description": "Stories and walks to discover the people remembered in Toowong Cemetery",
+      "about": {
+          "@id": "https://1871fotc.github.io/#/schema/place/1"
+        },
+      "author": {
+          "@id": "https://1871fotc.github.io/#/schema/organization/1"
+        },
+      "image": ["https://1871fotc.github.io/assets/logo/fotc-1x1.png", "https://1871fotc.github.io/assets/logo/fotc-banner-4x3.png", "https://1871fotc.github.io/assets/images/social/stories/index.png"]
+    }
+  ]
+}
+</script>

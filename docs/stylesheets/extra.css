@@ -1,0 +1,192 @@
+.deep-purple {
+  color: #7e56c2;
+}
+
+.orange {
+  color: #ff9100;
+}
+
+/* input form */
+
+.search-container {
+  height: 36px;
+  box-sizing: border-box;
+  border-radius: 2px;
+  border-left: .2rem solid #7e56c2; 
+  border-top:  1px solid #7e56c2; 
+  border-right: 1px solid #7e56c2; 
+  border-bottom: 1px solid #7e56c2; 
+}
+
+.search-button-container {
+  float: right;
+}
+
+.table-filter-input input[type=text] {
+  padding-top: 8px;  
+  padding-left: 10px;  
+  font-size: 12.8px;
+  width: 60%;
+}
+
+.table-filter-search-button input[type=image] {
+  background-color: #7e56c2; 
+  background-repeat: no-repeat;
+  padding: 10px; 
+  width: 34px;
+  height: 34px;
+  float: right;
+  border-radius-top-left: 0px;
+  border-radius-top-right: 2px;
+  border-radius-bottom-left: 0px;
+  border-radius-bottom-right: 2px;
+}
+
+.table-filter-search-button input[type=image]:hover {
+  background-color: #df41fb;
+}
+
+.table-filter-reset-button input[type=image] {
+  padding: 10px; 
+  width: 34px;
+  height: 34px;
+  background-color: #fff;
+}
+
+.table-filter-reset-button input[type=image]:hover {
+  background-color: rgba(126, 86, 194, 0.1);
+}
+
+/* change colour of sort icons in table */
+
+.md-typeset table th[role=columnheader][aria-sort=ascending]:after {
+  background-color: white !important;
+}
+
+.md-typeset table th[role=columnheader][aria-sort=descending]:after {
+  background-color: white !important;
+}
+
+.md-typeset table th[role=columnheader]:hover:after {
+  background-color: white !important;
+}
+
+
+/* Force table width to 100% */
+
+.md-typeset__table {
+  width: 100%;
+}
+
+.md-typeset__table table:not([class]) {
+  display: table
+}
+
+/* banded rows matching admonitions */
+tr:nth-child(even) {
+  background-color: rgba(126, 86, 194, 0.1); 
+}
+
+th {
+  background-color: #7e56c2;
+  color: white;
+  text-align: left; 
+}
+
+/* compress table layout */
+
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+    padding: 6px 10px;
+}
+
+/* YouTube embed */
+.video-wrapper {
+  position: relative;
+  display: block;
+  height: 0;
+  padding: 0;
+  overflow: hidden;
+  padding-bottom: 56.25%;
+}
+
+.video-wrapper > iframe {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 96%;
+  height: 96%;
+  border: 0;
+}
+
+/* 100% Image Width on Smaller Screens */
+
+@media only screen and (max-width: 76.25em){
+  .full-width {
+    width: 100%;
+  }
+}
+
+/* dont print certain elements */
+@media print {
+  .noprint {
+     visibility: hidden;
+     display: none;
+  }
+}
+
+/* change styling of link in banner*/
+.md-banner a {
+  color: var(--md-primary-bg-color);
+  text-decoration: underline;
+}
+
+/* change styling of admonition to match deep purple */
+
+/* try viewBox="0 0 496 512" */
+
+:root {
+  --md-admonition-icon--directions: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M347.94 129.86L203.6 195.83a31.938 31.938 0 0 0-15.77 15.77l-65.97 144.34c-7.61 16.65 9.54 33.81 26.2 26.2l144.34-65.97a31.938 31.938 0 0 0 15.77-15.77l65.97-144.34c7.61-16.66-9.54-33.81-26.2-26.2zm-77.36 148.72c-12.47 12.47-32.69 12.47-45.16 0-12.47-12.47-12.47-32.69 0-45.16 12.47-12.47 32.69-12.47 45.16 0 12.47 12.47 12.47 32.69 0 45.16zM248 8C111.03 8 0 119.03 0 256s111.03 248 248 248 248-111.03 248-248S384.97 8 248 8zm0 448c-110.28 0-200-89.72-200-200S137.72 56 248 56s200 89.72 200 200-89.72 200-200 200z"/></svg>')
+}
+
+.md-typeset .admonition.directions,
+.md-typeset details.directions {
+  border-color: rgb(126, 86, 194);
+}
+.md-typeset .directions > .admonition-title,
+.md-typeset .directions > summary {
+  background-color: rgba(126, 86, 194, 0.1);
+  border-color: rgb(126, 86, 194);
+}
+.md-typeset .directions > .admonition-title::before,
+.md-typeset .directions > summary::before {
+  background-color: rgb(126, 86, 194);
+  -webkit-mask-image: var(--md-admonition-icon--directions);
+          mask-image: var(--md-admonition-icon--directions); 
+}
+
+/* css for imageZoom. need to blackout rest of screen for imageZoom. see https://github.com/squidfunk/mkdocs-material/issues/1635 
+
+.zoom {
+    transition: transform ease-in-out 0.5s;
+    cursor: zoom-in;
+}
+
+.image-zoom-large {
+    transform: scale(1.5);
+    cursor: zoom-out;
+    z-index: 100;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    height: 96%;
+    width: auto;
+    padding: 4px;
+    background-color: rgba(0,0,0,0.9); /* Black w/ opacity only for "border"*/
+}
+
+*/

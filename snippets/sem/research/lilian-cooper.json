@@ -1,0 +1,68 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph":[
+    {
+      "@type": "Organization",
+      "@id": "https://1871fotc.github.io/#/schema/organization/1",
+      "name": "Friends of Toowong Cemetery Association Inc.",
+      "url": "https://1871fotc.github.io/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://1871fotc.github.io/#/schema/website/1",
+      "name": "Friends of Toowong Cemetery",
+      "url": "https://1871fotc.github.io/",
+      "publisher": {
+          "@id": "https://1871fotc.github.io/#/schema/organization/1"
+      }
+    },  
+    {
+      "@type": "WebPage",
+      "@id": "https://1871fotc.github.io/research/lilian-cooper/",
+      "url": "https://1871fotc.github.io/research/lilian-cooper/",
+      "name": "Lilian Violet Cooper",
+      "isPartOf": {
+          "@id": "https://1871fotc.github.io/#/schema/website/1"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://1871fotc.github.io/#/schema/person/lilian-cooper",
+      "givenName": "Lilian",
+      "additionalName": "Violet",
+      "familyName": "Cooper",
+      "name": "Lilian Voilet Cooper",
+      "sameAs": [
+          "https://www.wikidata.org/wiki/Q21536305",
+          "https://adb.anu.edu.au/biography/cooper-lilian-violet-5770/text9781"
+      ] 
+    },
+    {
+      "@type": "Article",
+      "@id": "https://1871fotc.github.io/#/article/lilian-cooper/",
+      "name": "Lilian Voilet Cooper",
+      "headline": "A smoking, swearing, lesbian surgeon that went to war",
+      "description": "A smoking, swearing, lesbian surgeon that went to war ",
+      "mainEntityOfPage": "https://1871fotc.github.io/research/lilian-cooper/",
+      "keywords": ["Lilian Voilet Cooper", "Lilian Cooper"],
+      "dateModified": "2022-05-15",
+      "datePublished": "2022-05-15",
+      "inLanguage": "en",
+      "author": {
+          "@id": "https://1871fotc.github.io/#/schema/organization/1"
+        },  
+      "publisher": {
+          "@id": "https://1871fotc.github.io/#/schema/organization/1"
+        },
+      "isPartOf": {
+           "@id": "https://1871fotc.github.io/research/lilian-cooper/"
+        },  
+      "image": ["https://1871fotc.github.io/assets/logo/fotc-1x1.png", "https://1871fotc.github.io/assets/logo/fotc-banner-4x3.png", "https://1871fotc.github.io/assets/images/social/research/lilian-cooper.png"],
+      "about": {
+        "@id": "https://1871fotc.github.io/#/schema/person/lilian-cooper"
+        }  
+    }
+  ]
+}
+</script>

@@ -1,0 +1,5286 @@
+<!-- script src='tablesort.number.js'></script -->
+
+<script src="../../javascripts/lost-headstone-tablefilter.js"></script>
+
+<div class="search-container">
+  <span class="table-filter-input">
+    <input type="text" id="myInput" name="myInput" placeholder="Name Search. (works best in Google Chrome)">
+  </span> 
+  <div class="search-button-container">
+    <span class="table-filter-reset-button">
+      <input type="image" id="resetButton" src="../../assets/clear.svg" alt="Reset" onclick="clearInput()">
+    </span>
+    <span class="table-filter-search-button">
+      <input type="image" id="searchButton" src="../../assets/search.svg" alt="Submit" onmousedown="setSearchButton()" onclick="searchIndex()">
+    </span>
+  </div>  
+</div>
+
+
+<!-- must use a html table to enable filter and default sort order - http://tristen.ca/tablesort/demo/ -->
+
+<table id="lostHeadstoneTable">
+  <thead>
+    <tr>
+      <th>Headstone</th>
+      <th>Given Names</th>
+      <th>Last Name</th>
+      <th>Honorific Prefix</th>
+      <th>Note</th>
+      <th>Denomination</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>1</td>
+        <td>John</td>
+        <td>Aitchison</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>John</td>
+        <td>Allen</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>2</td>
+        <td>John</td>
+        <td>Allen</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>W. J.</td>
+        <td>Allen</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>3</td>
+        <td>J.</td>
+        <td>Allen</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>John</td>
+        <td>Amy</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>William Grovenor</td>
+        <td>Armstrong</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>John</td>
+        <td>Ashworth</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>J. F.</td>
+        <td>Atkinson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>Percy</td>
+        <td>Backhouse</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>C. J.</td>
+        <td>Baker</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>William</td>
+        <td>Baker</td>
+        <td>Reverend</td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>James</td>
+        <td>Balfour</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>C. A.</td>
+        <td>Barham</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>C. H.</td>
+        <td>Barlee</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>A. W.</td>
+        <td>Barlee</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>E. H.</td>
+        <td>Barlee</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>E. L.</td>
+        <td>Barlee</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>Henry Robert</td>
+        <td>Barlthrop</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>Wille J.</td>
+        <td>Barnes</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>J. W.</td>
+        <td>Barnett</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>17</td>
+        <td>John E.</td>
+        <td>Barney</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>18</td>
+        <td>S. M.</td>
+        <td>Barrington</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>18</td>
+        <td>F. A.</td>
+        <td>Barrington</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>19</td>
+        <td>M. E.</td>
+        <td>Barron</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>20</td>
+        <td>P. P.</td>
+        <td>Baskerville</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>21</td>
+        <td>Elizabeth</td>
+        <td>Bateman</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>22</td>
+        <td>F. G.</td>
+        <td>Bennett</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>22</td>
+        <td>A. W.</td>
+        <td>Bennett</td>
+        <td></td>
+        <td>and infant</td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>23</td>
+        <td>Arthur S.</td>
+        <td>Bernays</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>24</td>
+        <td>William</td>
+        <td>Betz</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>25</td>
+        <td>B. E. </td>
+        <td>P.</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>26</td>
+        <td>E. J.</td>
+        <td>Black</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>26</td>
+        <td>Thomas</td>
+        <td>Black</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>27</td>
+        <td>C. J.</td>
+        <td>Blakeney</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>28</td>
+        <td>G. D.</td>
+        <td>Blanche</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>29</td>
+        <td>William B.</td>
+        <td>Blunt</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>T. H.</td>
+        <td>Bothamley</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>31</td>
+        <td>Richard</td>
+        <td>Bower</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>32</td>
+        <td>Elizabeth</td>
+        <td>Bowers</td>
+        <td></td>
+        <td>same as W. J. and R. H. Sparkes: 226</td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>33</td>
+        <td>J.</td>
+        <td>Brackenridge</td>
+        <td>Reverend</td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>34</td>
+        <td>Amos</td>
+        <td>Braysher</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>35</td>
+        <td>J. W.</td>
+        <td>Brown</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>36</td>
+        <td>William A.</td>
+        <td>Brown</td>
+        <td></td>
+        <td>same as T. Seymour: 217. <i>'William Anthony' on the headstone.</i> </td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>37</td>
+        <td>Paul L.</td>
+        <td>Burke</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>38</td>
+        <td>Eliza</td>
+        <td>Burley</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>38</td>
+        <td>James</td>
+        <td>Burley</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>39</td>
+        <td>Ernest A.</td>
+        <td>Cairncross</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>40</td>
+        <td>James F.</td>
+        <td>Calcott</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>41</td>
+        <td>Peter</td>
+        <td>Callon</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>     
+    <tr>
+        <td>42</td>
+        <td>James C.</td>
+        <td>Campbell</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>     
+    <tr>
+        <td>42</td>
+        <td>J. C.</td>
+        <td>Campbell</td>
+        <td></td>
+        <td>same as C. Obsbourn: 182</td>
+        <td>Episcopalian</td>
+    </tr> 
+    <tr>
+        <td>42</td>
+        <td>J.</td>
+        <td>Robinson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>     
+    <tr>
+        <td>42</td>
+        <td>D. C.</td>
+        <td>Campbell</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>     
+    <tr>
+        <td>43</td>
+        <td>Agnes</td>
+        <td>Carby</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>43</td>
+        <td>F. M.</td>
+        <td>Carby</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>      
+    <tr>
+        <td>44</td>
+        <td>M. A.</td>
+        <td>Carter</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>     
+    <tr>
+        <td>45</td>
+        <td>J. W.</td>
+        <td>Cayzer</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>     
+    <tr>
+        <td>46</td>
+        <td>John G.</td>
+        <td>Chapman</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>     
+    <tr>
+        <td>47</td>
+        <td>A. L.</td>
+        <td>Clarke</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>     
+    <tr>
+        <td>48</td>
+        <td>R.</td>
+        <td>Clarke</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>     
+    <tr>
+        <td>49</td>
+        <td>C. R.</td>
+        <td>Clay</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>50</td>
+        <td>David</td>
+        <td>Clifford</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr> 
+    <tr>
+        <td>51</td>
+        <td>S. J.</td>
+        <td>Cockerill</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>51</td>
+        <td>S. J.</td>
+        <td>Cockerill</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>51</td>
+        <td>E. R.</td>
+        <td>Cockerill</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>51</td>
+        <td>C. C.</td>
+        <td>Cockerill</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>52</td>
+        <td>Agatha K.</td>
+        <td>Cockle</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>53</td>
+        <td>H. S. G.</td>
+        <td>Colfoys</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>54</td>
+        <td>Alfred</td>
+        <td>Compigne</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>55</td>
+        <td>Jessie</td>
+        <td>Compigne</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>56</td>
+        <td>M.</td>
+        <td>Connan</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>56</td>
+        <td>C. L.</td>
+        <td>Connan</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>57</td>
+        <td>M. A. E.</td>
+        <td>Cooper</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>58</td>
+        <td>J. B.</td>
+        <td>Copeland</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>59</td>
+        <td>Samual</td>
+        <td>Copperwaite</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>60</td>
+        <td>H. A.</td>
+        <td>Court</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>60</td>
+        <td>E. M.</td>
+        <td>Court</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>61</td>
+        <td>A.D.</td>
+        <td>Cox</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>61</td>
+        <td>E. M.</td>
+        <td>Cox</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>62</td>
+        <td>William</td>
+        <td>Crack</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>63</td>
+        <td>F. C.</td>
+        <td>Cracknell</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>64</td>
+        <td>Ernest Elphinstone</td>
+        <td>Dalrymple</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>  
+    <tr>
+        <td>65</td>
+        <td>J.</td>
+        <td>Daly</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>  
+    <tr>
+        <td>65</td>
+        <td>E.</td>
+        <td>Daly</td>
+        <td></td>
+        <td>same as E. Newton: 173.</td>
+        <td>Episcopalian</td>
+    </tr>  
+    <tr>
+        <td>66</td>
+        <td>William</td>
+        <td>Davey</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>  
+    <tr>
+        <td>67</td>
+        <td></td>
+        <td>Davidson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>  
+    <tr>
+        <td>68</td>
+        <td>J. W.</td>
+        <td>Deedes</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>  
+    <tr>
+        <td>69</td>
+        <td>Frank</td>
+        <td>Deighton</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>  
+    <tr>
+        <td>70</td>
+        <td>Charles</td>
+        <td>Denyer</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>  
+    <tr>
+        <td>71</td>
+        <td>Ann</td>
+        <td>De Villers</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>  
+    <tr>
+        <td>72</td>
+        <td>T. S.</td>
+        <td>Dexter</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>  
+    <tr>
+        <td>72</td>
+        <td>S. C.</td>
+        <td>Dexter</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>73</td>
+        <td>V. H. A.</td>
+        <td>Dickins</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>74</td>
+        <td></td>
+        <td>Dora</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>  
+    <tr>
+        <td>75</td>
+        <td>M. J.</td>
+        <td>Dowall</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>76</td>
+        <td>W. H.</td>
+        <td>Downey</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>76</td>
+        <td>Duncan</td>
+        <td>Downey</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>77</td>
+        <td>L. E. S.</td>
+        <td>Drewry</td>
+        <td></td>
+        <td>same as G. Hely: 113.</td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>78</td>
+        <td>Jane</td>
+        <td>Drewry</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>79</td>
+        <td>Emily</td>
+        <td>Dring</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>80</td>
+        <td>Vokes S.</td>
+        <td>Dudgeon</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>81</td>
+        <td>Kate</td>
+        <td>Duesbury</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>82</td>
+        <td></td>
+        <td>Edwards</td>
+        <td></td>
+        <td>child of J. C. Edwards</td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>83</td>
+        <td>H. A.</td>
+        <td>Eliotte</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>84</td>
+        <td>H. E.</td>
+        <td>Ellice</td>
+        <td>Captain</td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>85</td>
+        <td>H. T.</td>
+        <td>Evans</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>86</td>
+        <td>M. L.</td>
+        <td>Fairlie</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>87</td>
+        <td>Richard Charles</td>
+        <td>Faunce</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>88</td>
+        <td>I. T. D.</td>
+        <td>Ferguson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>89</td>
+        <td>J. J.</td>
+        <td>Fitzgerald</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>90</td>
+        <td>C. J. M. J.</td>
+        <td>Foot</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>91</td>
+        <td>C. L.</td>
+        <td>Franklin</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>91</td>
+        <td>E.</td>
+        <td>Franklin</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>92</td>
+        <td>C. M.</td>
+        <td>Fyson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>93</td>
+        <td>A. H.</td>
+        <td>Garbutt</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>93</td>
+        <td>J.</td>
+        <td>Garbutt</td>
+        <td></td>
+        <td>same as T. B. and C. Temple: 234.</td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>94</td>
+        <td>A.</td>
+        <td>Garby</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>94</td>
+        <td>F. M.</td>
+        <td>Garby</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>95</td>
+        <td>H. M.</td>
+        <td>Garner</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>96</td>
+        <td>G. C.</td>
+        <td>N.</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>97</td>
+        <td>William H.</td>
+        <td>Geary</td>
+        <td>Captain</td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>97</td>
+        <td>Susan</td>
+        <td>Geary</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>98</td>
+        <td>Joshua</td>
+        <td>Gillson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>99</td>
+        <td>F.</td>
+        <td>Greenslade</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>100</td>
+        <td>Charlotte</td>
+        <td>Greenwood</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>101</td>
+        <td>Thomas</td>
+        <td>Grenier</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>102</td>
+        <td>Edward</td>
+        <td>Hacking</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>103</td>
+        <td>George</td>
+        <td>Hall</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>104</td>
+        <td>M. A.</td>
+        <td>Hamilton</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>105</td>
+        <td>K. M.</td>
+        <td>Harris</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>       
+    <tr>
+        <td>105</td>
+        <td>S. E.</td>
+        <td>Harris</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>106</td>
+        <td>G. L.</td>
+        <td>Hart</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>107</td>
+        <td>E.</td>
+        <td><b><a href="../../research/eliza-hartnoll/">Hartnoll<a><b></td>
+        <td></td>
+        <td><i>'Eliza' on the headstone</i></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>108</td>
+        <td>Thomas William</td>
+        <td>Hatton</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>109</td>
+        <td>H.</td>
+        <td>Haydon</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>109</td>
+        <td>A. S.</td>
+        <td>Haydon</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>110</td>
+        <td>Thomas</td>
+        <td>Haynes</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>111</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>Headstone (no name)</td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>112</td>
+        <td>John</td>
+        <td>Heap</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>113</td>
+        <td>Abigeil</td>
+        <td>Helmore</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>113</td>
+        <td>Georginia</td>
+        <td>Hely</td>
+        <td></td>
+        <td>same as L. E. S. Drew: 77</td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>114</td>
+        <td>H. A.</td>
+        <td>Herbert</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>115</td>
+        <td>H. A.</td>
+        <td>Higgins</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>116</td>
+        <td>M. B.</td>
+        <td>Hinxman</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>116</td>
+        <td>H. J.</td>
+        <td>Hinxman</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>117</td>
+        <td>M. B. L.</td>
+        <td>Hitchers</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>118</td>
+        <td>S.</td>
+        <td>Hodge</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>118</td>
+        <td>A.</td>
+        <td>Hodge</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>119</td>
+        <td>William</td>
+        <td>Holbrook</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>120</td>
+        <td>Thomas</td>
+        <td>Hole</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>121</td>
+        <td>T. A.</td>
+        <td>Hooper</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>122</td>
+        <td>C. A.</td>
+        <td>Hopkins</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>123</td>
+        <td>R. B.</td>
+        <td>Horrocks</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>123</td>
+        <td>A. L.</td>
+        <td>Horrocks</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>123</td>
+        <td>G. G. M.</td>
+        <td>Horrocks</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>124</td>
+        <td>Charlotte</td>
+        <td>Howell</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>125</td>
+        <td>Elizabeth</td>
+        <td>Huggins</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>126</td>
+        <td>William Henry</td>
+        <td>Hunt</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>127</td>
+        <td>J. E.</td>
+        <td>Hunter</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>127</td>
+        <td>J. A.</td>
+        <td>Hunter</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>127</td>
+        <td>A. M.</td>
+        <td>Hunter</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>128</td>
+        <td>George</td>
+        <td>Hutchinson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>129</td>
+        <td>F. N.</td>
+        <td>Isaac</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>130</td>
+        <td>John Lister</td>
+        <td>Isaac</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>131</td>
+        <td>Mary</td>
+        <td>Jewell</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>132</td>
+        <td>Ida M.</td>
+        <td>Johnson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>133</td>
+        <td>A. R.</td>
+        <td>Jones</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>134</td>
+        <td>Robert</td>
+        <td>Jones</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>135</td>
+        <td></td>
+        <td>Kelly</td>
+        <td></td>
+        <td>obliterated</td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>136</td>
+        <td>A.</td>
+        <td>Kent</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>137</td>
+        <td>William</td>
+        <td>Key</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>138</td>
+        <td>E. C.</td>
+        <td>Kilgour</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>139</td>
+        <td>Julius</td>
+        <td>Kopp</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>140</td>
+        <td>E. C.</td>
+        <td>Lamb</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>140</td>
+        <td>H. E.</td>
+        <td>Lamb</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>141</td>
+        <td>Matthew</td>
+        <td>Langtree</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>142</td>
+        <td>R. C. J.</td>
+        <td>Lansdown</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>142</td>
+        <td>M. L.</td>
+        <td>Lansdown</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>143</td>
+        <td>C. W.</td>
+        <td>Lavender</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>144</td>
+        <td>William</td>
+        <td>Lewis</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>145</td>
+        <td>E.</td>
+        <td>Lewthwaite</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>146</td>
+        <td>J. M.</td>
+        <td>Lewthwaite</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>147</td>
+        <td>Medora A.</td>
+        <td>Little</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>148</td>
+        <td>E. M.</td>
+        <td>Lockyer</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>149</td>
+        <td>Long Sing Gong</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>150</td>
+        <td>C. E. I.</td>
+        <td>Longheath</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>151</td>
+        <td>William J.</td>
+        <td>Louden</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>152</td>
+        <td>R. F.</td>
+        <td>Lovett</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>153</td>
+        <td>Julius</td>
+        <td>Lynde</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>154</td>
+        <td>John</td>
+        <td>Mace</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>155</td>
+        <td>A.</td>
+        <td>Marshall</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>156</td>
+        <td>E.</td>
+        <td>Mallicot</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>157</td>
+        <td>William</td>
+        <td>Marchant</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>158</td>
+        <td>B. M.</td>
+        <td>Mather</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>158</td>
+        <td>M.</td>
+        <td>Mather</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>159</td>
+        <td>George W.</td>
+        <td>Mating</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>160</td>
+        <td>J.</td>
+        <td>Matthews</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>161</td>
+        <td>C.</td>
+        <td>McKand</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>162</td>
+        <td>C.</td>
+        <td>McLaren</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>163</td>
+        <td>Selina</td>
+        <td>McLeod</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>164</td>
+        <td>A. G.</td>
+        <td>Milne</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>165</td>
+        <td>Mary</td>
+        <td>Miller</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>166</td>
+        <td>Thomas P.</td>
+        <td>Mitchinson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>167</td>
+        <td>T. H.</td>
+        <td>Morgan</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>168</td>
+        <td>H. G.</td>
+        <td>Morris</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>169</td>
+        <td>William</td>
+        <td>Morriss</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>170</td>
+        <td>R. S.</td>
+        <td>Morse</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>171</td>
+        <td>Michael J.</td>
+        <td>Murphy</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>172</td>
+        <td>Unity E. E.</td>
+        <td>Naylor</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>173</td>
+        <td>L. G.</td>
+        <td>Newman</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>173</td>
+        <td>E. M.</td>
+        <td>Newman</td>
+        <td></td>
+        <td>same as J. and E. Daly: 65</td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>174</td>
+        <td>H. H.</td>
+        <td>Nicol</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>175</td>
+        <td>Emily</td>
+        <td>Nind</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>176</td>
+        <td>Emily</td>
+        <td>Nott</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>177</td>
+        <td>Thomas</td>
+        <td>Nott</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>178</td>
+        <td>E. H.</td>
+        <td>Nutall</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>179</td>
+        <td>R.</td>
+        <td>Oliver</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>180</td>
+        <td>J. M.</td>
+        <td>Ommannery</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>181</td>
+        <td>Margaret</td>
+        <td>Orr</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>181</td>
+        <td>Mary</td>
+        <td>Orr</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>182</td>
+        <td>A. W. </td>
+        <td>Osbourne</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>182</td>
+        <td>Charles</td>
+        <td>Osbourn</td>
+        <td></td>
+        <td>same as D. C. Campbell: 42.</td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>183</td>
+        <td>William</td>
+        <td>Page</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>184</td>
+        <td>P.</td>
+        <td>Paish</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>185</td>
+        <td>John</td>
+        <td>Parker</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>186</td>
+        <td>G. A.</td>
+        <td>Parlett</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>187</td>
+        <td>Isaac</td>
+        <td>Pashen</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>188</td>
+        <td>M.</td>
+        <td>Passmore</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>189</td>
+        <td>J. J.</td>
+        <td>Patrick</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>190</td>
+        <td>A. M. O.</td>
+        <td>Patrick</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>191</td>
+        <td>A. J.</td>
+        <td>Peake</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>191</td>
+        <td>H. F.</td>
+        <td>Peake</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>191</td>
+        <td>J. P.</td>
+        <td>Peake</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>192</td>
+        <td>M. A.</td>
+        <td>Pears</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>192</td>
+        <td>E. E.</td>
+        <td>Pears</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>192</td>
+        <td>A. E.</td>
+        <td>Pears</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>193</td>
+        <td>Henry</td>
+        <td>Pearce</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>194</td>
+        <td>John</td>
+        <td>Peel</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>195</td>
+        <td>M. L.</td>
+        <td>Perry</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>196</td>
+        <td>Daniel</td>
+        <td>Peterson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>197</td>
+        <td>F. M. C.</td>
+        <td>Pickering</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>197</td>
+        <td>W.</td>
+        <td>Pickering</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>198</td>
+        <td>Jemina</td>
+        <td>Platt</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>199</td>
+        <td>J. W.</td>
+        <td>Polwarth</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>199</td>
+        <td>A.</td>
+        <td>Polwarth</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>200</td>
+        <td>H.</td>
+        <td>Porter</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>200</td>
+        <td>E.</td>
+        <td>Porter</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>201</td>
+        <td>T. W.</td>
+        <td>Poulden</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>202</td>
+        <td>Sarah Ann</td>
+        <td>Pratten</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>203</td>
+        <td>John</td>
+        <td>Proud</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>204</td>
+        <td>John</td>
+        <td>Radley</td>
+        <td></td>
+        <td>same as Sarah Williams: 268</td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>205</td>
+        <td>S.</td>
+        <td>Ralls</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>205</td>
+        <td>G.</td>
+        <td>Ralls</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>206</td>
+        <td>George</td>
+        <td>Rawlings</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>207</td>
+        <td>Henry Charles</td>
+        <td>Rawnsley</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>208</td>
+        <td>E. J.</td>
+        <td>Ritchie</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>208</td>
+        <td>T.</td>
+        <td>Ritchie</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>209</td>
+        <td>H. E.</td>
+        <td>Roberts</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>209</td>
+        <td>E. C.</td>
+        <td>Roberts</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>209</td>
+        <td>L. E.</td>
+        <td>Roberts</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>210</td>
+        <td>Agusta</td>
+        <td>Robinson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>210</td>
+        <td>Jeremiah</td>
+        <td>Robinson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>210</td>
+        <td>J.</td>
+        <td>Robinson</td>
+        <td></td>
+        <td>same as C. Osbourn: 42</td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>211</td>
+        <td>William F.</td>
+        <td>Robinson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>212</td>
+        <td>H.</td>
+        <td>Rosetta</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>212</td>
+        <td>C. G.</td>
+        <td>Rosetta</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>213</td>
+        <td>Frederich</td>
+        <td>Rowe</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>214</td>
+        <td>A. H.</td>
+        <td>Ryland</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>215</td>
+        <td>J. W.</td>
+        <td>Saville</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>216</td>
+        <td>A. W.</td>
+        <td>Scarr</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>216</td>
+        <td>L. H.</td>
+        <td>Scarr</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>217</td>
+        <td>John</td>
+        <td>Sewell</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>217</td>
+        <td>Thomas</td>
+        <td>Seymour</td>
+        <td></td>
+        <td>same as W. A. Brown: 36</td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>218</td>
+        <td>F. R. C.</td>
+        <td>Sharpe</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>219</td>
+        <td>E. K.</td>
+        <td>Shaw</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>220</td>
+        <td>John Edward</td>
+        <td>Shaw</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>221</td>
+        <td>J.</td>
+        <td>Shepherd</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>222</td>
+        <td>M.A </td>
+        <td>Sheppherd</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>222</td>
+        <td>A. H. C.</td>
+        <td>Sheppherd</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>223</td>
+        <td>H. D.</td>
+        <td>Shepperson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>223</td>
+        <td>F.</td>
+        <td>Shepperson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>224</td>
+        <td>C. M.</td>
+        <td>Sissons</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>225</td>
+        <td>Ann</td>
+        <td>Smith</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>226</td>
+        <td>W. B.</td>
+        <td>Smith</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>226</td>
+        <td>M. A.</td>
+        <td>Smith</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>226</td>
+        <td>W. J.</td>
+        <td>Sparkes</td>
+        <td></td>
+        <td>same as Elizabeth Bowers: 32</td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>226</td>
+        <td>Rose Hannan</td>
+        <td>Sparkes</td>
+        <td></td>
+        <td>same as Elizabeth Bowers: 32</td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>227</td>
+        <td>John</td>
+        <td>Stevens</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>228</td>
+        <td>S. A.</td>
+        <td>Storch</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>229</td>
+        <td>James Barrow</td>
+        <td>Storey</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>230</td>
+        <td>M.</td>
+        <td>Strahan</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>230</td>
+        <td>E. M.</td>
+        <td>Strahan</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>231</td>
+        <td>Albert</td>
+        <td>Stubbs</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>232</td>
+        <td>Walter H.</td>
+        <td>Surr</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>233</td>
+        <td>B. H.</td>
+        <td>Tayler</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>234</td>
+        <td>James</td>
+        <td>Teevans</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>234</td>
+        <td>T. B.</td>
+        <td>Temple</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>234</td>
+        <td>C. B.</td>
+        <td>Temple</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>234</td>
+        <td>J.</td>
+        <td>Temple</td>
+        <td></td>
+        <td>same as A. H. Garbutt: 93</td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>235</td>
+        <td>H. J.</td>
+        <td>Thomas</td>
+        <td>Captain</td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>236</td>
+        <td>John</td>
+        <td>Thomas</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>237</td>
+        <td>E. R.</td>
+        <td>Thomas</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>238</td>
+        <td>J. H.</td>
+        <td>Thompson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>238</td>
+        <td>E. M.</td>
+        <td>Thompson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>238</td>
+        <td>J. E.</td>
+        <td>Thompson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>239</td>
+        <td>George</td>
+        <td>Thompson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    
+    
+    
+    <tr>
+        <td>240</td>
+        <td>Joseph</td>
+        <td>Thompson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>241</td>
+        <td>F. E.</td>
+        <td>Thurman</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>242</td>
+        <td>J. H.</td>
+        <td>Timpson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>243</td>
+        <td>Jessie</td>
+        <td>Traill</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>244</td>
+        <td>L.</td>
+        <td>Tully</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>244</td>
+        <td>L. B.</td>
+        <td>Tully</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>245</td>
+        <td>John B.</td>
+        <td>Turner</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>246</td>
+        <td>Joseph B.</td>
+        <td>Twopenny</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>247</td>
+        <td>Edmund B.</td>
+        <td>Uhr</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>248</td>
+        <td>H. B.</td>
+        <td>Unwin</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>249</td>
+        <td>C. S. C.</td>
+        <td>Vallack</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>250</td>
+        <td>E.</td>
+        <td>Verner</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>250</td>
+        <td>E. J.</td>
+        <td>Verner</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>251</td>
+        <td></td>
+        <td>Verner</td>
+        <td></td>
+        <td>child</td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>252</td>
+        <td>Robert</td>
+        <td>Walsh</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>252</td>
+        <td>H. J.</td>
+        <td>Walsh</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>253</td>
+        <td>Annie</td>
+        <td>Ward</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>254</td>
+        <td>C. F.</td>
+        <td>Warren</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>255</td>
+        <td>Henry</td>
+        <td>Watson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>255</td>
+        <td>T. W.</td>
+        <td>Watson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>255</td>
+        <td>G. A.</td>
+        <td>Watson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>256</td>
+        <td>R. H.</td>
+        <td>Watson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>257</td>
+        <td>M. E.</td>
+        <td>Waugh</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>257</td>
+        <td>A. N.</td>
+        <td>Waugh</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>258</td>
+        <td>A.</td>
+        <td>Webb</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>258</td>
+        <td>G. D.</td>
+        <td>Webb</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>259</td>
+        <td>J. W.</td>
+        <td>Webster</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>259</td>
+        <td>J. A.</td>
+        <td>Webster</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>260</td>
+        <td>Daniel</td>
+        <td>Weinholt</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>261</td>
+        <td>Henry</td>
+        <td>Wells</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>262</td>
+        <td>I. F. A.</td>
+        <td>Wettenhall</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>262</td>
+        <td>A. R</td>
+        <td>Wettenhall</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>262</td>
+        <td>S. H.</td>
+        <td>Wettenhall</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>263</td>
+        <td>John</td>
+        <td>Wilcox</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>264</td>
+        <td>Alice Catherine</td>
+        <td>Wilkes</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>265</td>
+        <td>John</td>
+        <td>Williams</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>266</td>
+        <td>David</td>
+        <td>Williams</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>266</td>
+        <td>William</td>
+        <td>Williams</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>267</td>
+        <td>E. V.</td>
+        <td>Williams</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>268</td>
+        <td>Henry</td>
+        <td>Williams</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>268</td>
+        <td>Sarah</td>
+        <td>Williams</td>
+        <td></td>
+        <td>same as J. Radley: 204</td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>269</td>
+        <td>John James</td>
+        <td>Wilson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>270</td>
+        <td>John</td>
+        <td>Wilson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>271</td>
+        <td>Robert George</td>
+        <td>Wonderley</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>272</td>
+        <td>N.</td>
+        <td>Woodgate</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>273</td>
+        <td>John</td>
+        <td>Woodward</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>274</td>
+        <td>M. A.</td>
+        <td>Wool</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>275</td>
+        <td>J. L.</td>
+        <td>Wyborn</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>276</td>
+        <td>Jane</td>
+        <td>Wyville</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>277</td>
+        <td>D. F.</td>
+        <td>Yaldwyn</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>278</td>
+        <td>T. B.</td>
+        <td>Yeowell</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>301</td>
+        <td>Mary Louisa</td>
+        <td>Albert</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>
+    <tr>
+        <td>301</td>
+        <td>Jospeh Lino</td>
+        <td>Albert</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>
+    <tr>
+        <td>302</td>
+        <td>Elizabeth</td>
+        <td>Baines</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>
+    <tr>
+        <td>303</td>
+        <td>Patrick</td>
+        <td>Behan</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>
+    <tr>
+        <td>304</td>
+        <td>Valentine</td>
+        <td>Brennan</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>
+    <tr>
+        <td>305</td>
+        <td>John</td>
+        <td>Brown</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>
+    <tr>
+        <td>306</td>
+        <td>Margaret</td>
+        <td>Brown</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>
+    <tr>
+        <td>307</td>
+        <td>John</td>
+        <td>Burke</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>
+    <tr>
+        <td>308</td>
+        <td>James Henry</td>
+        <td>Burke</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>
+    <tr>
+        <td>308</td>
+        <td>W. J.</td>
+        <td>Burke</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>
+    <tr>
+        <td>309</td>
+        <td>Michael</td>
+        <td>Burney</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>
+    <tr>
+        <td>310</td>
+        <td>Thomas</td>
+        <td>Clune</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>
+    <tr>
+        <td>311</td>
+        <td>Sybella</td>
+        <td>Clune</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>
+    <tr>
+        <td>312</td>
+        <td>Martin</td>
+        <td>Collins</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>
+    <tr>
+        <td>313</td>
+        <td>Hannah</td>
+        <td>Conroy</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>
+    <tr>
+        <td>314</td>
+        <td>William</td>
+        <td>Costelloe</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>
+    <tr>
+        <td>315</td>
+        <td>Elizabeth M.</td>
+        <td>Coyne</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>
+    <tr>
+        <td>316</td>
+        <td>Thomas</td>
+        <td>Dalton</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>
+    <tr>
+        <td>316</td>
+        <td>Thomas</td>
+        <td>Dalton</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>
+    <tr>
+        <td>317</td>
+        <td>M. A.</td>
+        <td>Darragh</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>
+    <tr>
+        <td>317</td>
+        <td>John</td>
+        <td>Darragh</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>
+    <tr>
+        <td>318</td>
+        <td>Joseph</td>
+        <td>Darragh</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>
+    <tr>
+        <td>318</td>
+        <td>Ann</td>
+        <td>Darragh</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>
+    <tr>
+        <td>319</td>
+        <td>Ann</td>
+        <td>Denyer</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>
+    <tr>
+        <td>320</td>
+        <td>Hugh</td>
+        <td>Donnelly</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>
+    <tr>
+        <td>321</td>
+        <td>P. J.</td>
+        <td>Donovan</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>    
+    <tr>
+        <td>322</td>
+        <td>William</td>
+        <td>Donohue</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>    
+    <tr>
+        <td>323</td>
+        <td>Robert</td>
+        <td>Eaton</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>    
+    <tr>
+        <td>323</td>
+        <td>Mary Ann</td>
+        <td>Eaton</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>    
+    <tr>
+        <td>324</td>
+        <td>John</td>
+        <td>Ede</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>    
+    <tr>
+        <td>325</td>
+        <td>Martin</td>
+        <td>Fenney</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>    
+    <tr>
+        <td>326</td>
+        <td>Eliza</td>
+        <td>Finn</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>    
+    <tr>
+        <td>327</td>
+        <td>James</td>
+        <td>Fitxgerald</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>    
+    <tr>
+        <td>328</td>
+        <td>Anna Eva</td>
+        <td>Funker</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>    
+    <tr>
+        <td>329</td>
+        <td>Catherine</td>
+        <td>Graham</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>    
+    <tr>
+        <td>330</td>
+        <td>Mary</td>
+        <td>Hennessy</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>    
+    <tr>
+        <td>331</td>
+        <td>Kate Agnes</td>
+        <td>Hickey</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>    
+    <tr>
+        <td>332</td>
+        <td>Alice</td>
+        <td>Higham</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>    
+    <tr>
+        <td>333</td>
+        <td>M. J.</td>
+        <td>Howden</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>    
+    <tr>
+      <td>333</td>
+      <td>S. J.</td>
+      <td>Howden</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>    
+    <tr>
+      <td>333</td>
+      <td>M. A.</td>
+      <td>Howden</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>334</td>
+      <td>Sarah Jane</td>
+      <td>Hurley</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>334</td>
+      <td>Mary Jane</td>
+      <td>Hurley</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>335</td>
+      <td>James</td>
+      <td>Hyland</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>336</td>
+      <td>C.</td>
+      <td>Jageurs</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>336</td>
+      <td>B.</td>
+      <td>Jageurs</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>337</td>
+      <td>Sarah</td>
+      <td>Jones</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>338</td>
+      <td>Margaret</td>
+      <td>Kennedy</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>339</td>
+      <td>Walsh</td>
+      <td>Kinsela</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>339</td>
+      <td>Thomas</td>
+      <td>Kinsela</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>339</td>
+      <td>Jane</td>
+      <td>Kinsela</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>340</td>
+      <td>F. W.</td>
+      <td>Klewitz</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>341</td>
+      <td>Daniel Michael</td>
+      <td>Leen</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>342</td>
+      <td>Ellen</td>
+      <td>Lonergan</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>343</td>
+      <td>Daniel</td>
+      <td>Lyons</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>Patrick</td>
+      <td>Maher</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>345</td>
+      <td>Patrick</td>
+      <td>Mayne</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>345</td>
+      <td>Mary</td>
+      <td>Mayne</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>345</td>
+      <td>Evelina Selina</td>
+      <td>Mayne</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>346</td>
+      <td>T. M. L.</td>
+      <td>Meyers</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>346</td>
+      <td>E. J. L.</td>
+      <td>Meyers</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>347</td>
+      <td>John</td>
+      <td>Meillon</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>348</td>
+      <td>Michael</td>
+      <td>Moran</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>349</td>
+      <td>John</td>
+      <td>Moran</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>350</td>
+      <td>Jcs.</td>
+      <td>Mooney</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>351</td>
+      <td>Bernhard</td>
+      <td>McCann</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>352</td>
+      <td>John</td>
+      <td>McCabe</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>353</td>
+      <td>Margaret</td>
+      <td>McKee</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>354</td>
+      <td>Janet</td>
+      <td>Murphy</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>355</td>
+      <td>Thomas</td>
+      <td>O'Brien</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>356</td>
+      <td>Fanny</td>
+      <td>O'Brien</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>356</td>
+      <td>Timothy Frederick</td>
+      <td>O'Brien</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>357</td>
+      <td>Eva N.</td>
+      <td>O'Doherty</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>358</td>
+      <td>Mary B.</td>
+      <td>O'Moore</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>359</td>
+      <td>Frank</td>
+      <td>Pfeiffer</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>360</td>
+      <td>Elizabeth</td>
+      <td>Quinn</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>361</td>
+      <td>F. M.</td>
+      <td>Raban</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>362</td>
+      <td></td>
+      <td>Raleigh</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>363</td>
+      <td>John</td>
+      <td>Reilly</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>364</td>
+      <td>Ellen</td>
+      <td>Reilly</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>365</td>
+      <td>Clara</td>
+      <td>Reinhardt</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>366</td>
+      <td>J.T.</td>
+      <td>Robertson</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>367</td>
+      <td>Elizabeth</td>
+      <td>Roy</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>368</td>
+      <td>Louis</td>
+      <td>Schneider</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>369</td>
+      <td>Ellen</td>
+      <td>Sheehan</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>369</td>
+      <td>Jane</td>
+      <td>Sheehan</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>369</td>
+      <td>Jane Ann</td>
+      <td>Sheehan</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>369</td>
+      <td>William</td>
+      <td>Sheehan</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>370</td>
+      <td>Ellen</td>
+      <td>Slevin</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>371</td>
+      <td>Patrick</td>
+      <td>Slevin</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>371</td>
+      <td>Patrick</td>
+      <td>Sloane</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>372</td>
+      <td>Catherine</td>
+      <td>Sneyd</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>373</td>
+      <td>James</td>
+      <td>Smith</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>373</td>
+      <td>Ann</td>
+      <td>Smith</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>374</td>
+      <td>D.</td>
+      <td>Stewart</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>375</td>
+      <td>Thomas</td>
+      <td>Stewart</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>376</td>
+      <td>E. W. J.</td>
+      <td>Taylor</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>377</td>
+      <td>Catherine</td>
+      <td>Tracey</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>377</td>
+      <td>Daniel</td>
+      <td>Tracey</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>377</td>
+      <td>Catherine</td>
+      <td>Tracey</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+      <td>377</td>
+      <td>Ann</td>
+      <td>Tracey</td>
+      <td></td>
+      <td></td>
+      <td>Roman Catholic</td>
+    </tr>
+    <tr>
+        <td>378</td>
+        <td>Christopher</td>
+        <td>Weir</td>
+        <td></td>
+        <td></td>
+        <td>Roman Catholic</td>
+    </tr>
+    <tr>
+        <td>401</td>
+        <td>William</td>
+        <td>Anderson</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>402</td>
+        <td>J. C.</td>
+        <td>Binney</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>403</td>
+        <td>Ralph</td>
+        <td>Black</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>404</td>
+        <td>Ann</td>
+        <td>Boyd</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>405</td>
+        <td>J. E.</td>
+        <td>Brimace</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>406</td>
+        <td>J. D. L.</td>
+        <td>Brodie</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>407</td>
+        <td>John</td>
+        <td>Brown</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>408</td>
+        <td>Margaret E. B.</td>
+        <td>Brown</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>409</td>
+        <td>David</td>
+        <td>Boyd</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>410</td>
+        <td>Jannet M.</td>
+        <td>Burns</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>411</td>
+        <td>M. A.</td>
+        <td>Buxton</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>411</td>
+        <td>A. M.</td>
+        <td>Buxton</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>411</td>
+        <td>M.</td>
+        <td>Buxton</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>412</td>
+        <td>William</td>
+        <td>Campbell</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>413</td>
+        <td>P. A.</td>
+        <td>Campbell</td>
+        <td></td>
+        <td>almost illegible</td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>414</td>
+        <td>Jane</td>
+        <td>Campbell</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>415</td>
+        <td>M. F.</td>
+        <td>Campbell</td>
+        <td></td>
+        <td>same as J. Lamont: 38</td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>416</td>
+        <td>George</td>
+        <td>Christie</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>416</td>
+        <td>S. C.</td>
+        <td>Christie</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>416</td>
+        <td>R.</td>
+        <td>Christie</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>417</td>
+        <td>James Home</td>
+        <td>Connor</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>418</td>
+        <td>Donald</td>
+        <td>Coutts</td>
+        <td></td>
+        <td>same as A. M. Thompson: 73</td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>419</td>
+        <td>C. S.</td>
+        <td>Craies</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>419</td>
+        <td>F. E. A.</td>
+        <td>Craies</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>420</td>
+        <td>J. D.</td>
+        <td>Davies</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>421</td>
+        <td>William</td>
+        <td>Dawson</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>422</td>
+        <td>Catherine</td>
+        <td>Don</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>423</td>
+        <td>Hannah</td>
+        <td>Drake</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>423</td>
+        <td>William B.</td>
+        <td>Drake</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>424</td>
+        <td>James</td>
+        <td>Fenwick</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>425</td>
+        <td>Kate</td>
+        <td>Finney</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>426</td>
+        <td>C. I.</td>
+        <td>Fraser</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>427</td>
+        <td>William</td>
+        <td>Gowans</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>428</td>
+        <td>Jessie B. K.</td>
+        <td>Guthrie</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>428</td>
+        <td>M. I.</td>
+        <td>Guthrie</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>428</td>
+        <td>F. D.</td>
+        <td>Guthrie</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>429</td>
+        <td>Fanny</td>
+        <td>Hamilton</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>430</td>
+        <td>Jeremiah</td>
+        <td>Hannett</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>431</td>
+        <td>R. G.</td>
+        <td>Henry</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>431</td>
+        <td>A. S.</td>
+        <td>Henry</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>432</td>
+        <td>Alice</td>
+        <td>Hervey</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>433</td>
+        <td>E.</td>
+        <td>Hill</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>434</td>
+        <td>Charles</td>
+        <td>Hirche</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>434</td>
+        <td>A. W.</td>
+        <td>Hirche</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>435</td>
+        <td>John</td>
+        <td>Howie</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>436</td>
+        <td>C. T.</td>
+        <td>Hutchinson</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>436</td>
+        <td>A.</td>
+        <td>Hutchinson</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>437</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>Illegible headstone</td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>438</td>
+        <td>M.</td>
+        <td>Laing</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>438</td>
+        <td>H. McK.</td>
+        <td>Laing</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>438</td>
+        <td>A. W.</td>
+        <td>Laing</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>438</td>
+        <td>E.</td>
+        <td>Laing</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>438</td>
+        <td>Jessie</td>
+        <td>Lamont</td>
+        <td></td>
+        <td>same as M. F. Chapman: 15</td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>440</td>
+        <td>William</td>
+        <td>Livingstone</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>441</td>
+        <td>James</td>
+        <td>Low</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>441</td>
+        <td>Isabella</td>
+        <td>Low</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>441</td>
+        <td>John</td>
+        <td>Low</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>441</td>
+        <td>Catherine</td>
+        <td>Low</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>441</td>
+        <td>Anthony Gowan</td>
+        <td>Low</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>441</td>
+        <td>Annie</td>
+        <td>Low</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>442</td>
+        <td>J. C.</td>
+        <td>Mackellar</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>443</td>
+        <td>H. P.</td>
+        <td>Macknight</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>444</td>
+        <td>Robert</td>
+        <td>Manley</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>445</td>
+        <td>Angus</td>
+        <td>Matheson</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>446</td>
+        <td>J. F.</td>
+        <td>Mercer</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>447</td>
+        <td>Alex.</td>
+        <td>Mowat</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>448</td>
+        <td>J.</td>
+        <td>Muir</td>
+        <td></td>
+        <td>and infant</td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>449</td>
+        <td>Simon</td>
+        <td>Munro</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>450</td>
+        <td>George Young</td>
+        <td>Munro</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>451</td>
+        <td>John</td>
+        <td>Murray</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>451</td>
+        <td>William</td>
+        <td>Murray</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>452</td>
+        <td>J.</td>
+        <td>McIntyre</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>453</td>
+        <td>Archibald</td>
+        <td>McMillian</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>454</td>
+        <td>John</td>
+        <td>McIntosh</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>455</td>
+        <td>Ann</td>
+        <td>McIvor</td>
+        <td></td>
+        <td>same as D. B., J., and M. Sang: 55</td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>456</td>
+        <td>L. W.</td>
+        <td>McLean</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>457</td>
+        <td>Mary</td>
+        <td>McQuaker</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>458</td>
+        <td>George</td>
+        <td>Noble</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>459</td>
+        <td>William</td>
+        <td>Phillips</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>460</td>
+        <td>J. S.</td>
+        <td>Porter</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>461</td>
+        <td>James</td>
+        <td>Powers</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>    
+    <tr>
+        <td>462</td>
+        <td>A.</td>
+        <td>Purdie</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>    
+    <tr>
+        <td>463</td>
+        <td>Charles Rowatt</td>
+        <td>Raeside</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>    
+    <tr>
+        <td>464</td>
+        <td>Ramlah</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>    
+    <tr>
+        <td>465</td>
+        <td>Ann</td>
+        <td>Rankin</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>    
+    <tr>
+        <td>466</td>
+        <td>Jane</td>
+        <td>Rankin</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>    
+    <tr>
+        <td>467</td>
+        <td>T. S.</td>
+        <td>Rutherford</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>    
+    <tr>
+        <td>467</td>
+        <td>D. B.</td>
+        <td>Sang</td>
+        <td></td>
+        <td>same as A. McIver: 55</td>
+        <td>Presbyterian</td>
+    </tr>    
+    <tr>
+        <td>467</td>
+        <td>J.</td>
+        <td>Sang</td>
+        <td></td>
+        <td>same as A. McIver: 55</td>
+        <td>Presbyterian</td>
+    </tr>    
+    <tr>
+        <td>467</td>
+        <td>M.</td>
+        <td>Sang</td>
+        <td></td>
+        <td>same as A. McIver: 55</td>
+        <td>Presbyterian</td>
+    </tr>    
+    <tr>
+        <td>468</td>
+        <td>Alex.</td>
+        <td>Scott</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>    
+    <tr>
+        <td>469</td>
+        <td>Elizabeth</td>
+        <td>Scott</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>    
+    <tr>
+        <td>470</td>
+        <td>Mary</td>
+        <td>Scott</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>    
+    <tr>
+        <td>470</td>
+        <td>William</td>
+        <td>Scott</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>    
+    <tr>
+        <td>471</td>
+        <td>A. P. E.</td>
+        <td>Sinclair</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>    
+    <tr>
+        <td>472</td>
+        <td>John</td>
+        <td>Souter</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>    
+    <tr>
+        <td>473</td>
+        <td>Margaret</td>
+        <td>Stewart</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>    
+    <tr>
+        <td>473</td>
+        <td>H.</td>
+        <td>Stewart</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>    
+    <tr>
+        <td>473</td>
+        <td>A. M.</td>
+        <td>Thompson</td>
+        <td></td>
+        <td>same as D. Coutts: 18</td>
+        <td>Presbyterian</td>
+    </tr>    
+    <tr>
+        <td>474</td>
+        <td>M. S. S.</td>
+        <td>Turner</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>    
+    <tr>
+        <td>475</td>
+        <td>Margaret</td>
+        <td>Wallace</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>    
+    <tr>
+        <td>476</td>
+        <td>P. N.</td>
+        <td>Wallace</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>    
+    <tr>
+        <td>477</td>
+        <td>Hellen</td>
+        <td>Walls</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>    
+    <tr>
+        <td>478</td>
+        <td>Mary</td>
+        <td>Warburton</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>    
+    <tr>
+        <td>479</td>
+        <td>Jessie</td>
+        <td>Wilson</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr> 
+    <tr>
+        <td>480</td>
+        <td>Mary B.</td>
+        <td>Wilson</td>
+        <td></td>
+        <td></td>
+        <td>Presbyterian</td>
+    </tr>
+    <tr>
+        <td>501</td>
+        <td>Elizabeth</td>
+        <td>Allen</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>502</td>
+        <td>Mary Grace</td>
+        <td>Brown</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>503</td>
+        <td>C. M.</td>
+        <td>Burdoff</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>    
+    <tr>
+        <td>504</td>
+        <td>Augustus John</td>
+        <td>Bush</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>505</td>
+        <td>James John</td>
+        <td>Cairns</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>506</td>
+        <td>James</td>
+        <td>Champion</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>507</td>
+        <td>Salina</td>
+        <td>Chapman</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>507</td>
+        <td>Thomas W.</td>
+        <td>Chapman</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>508</td>
+        <td>Arthur John</td>
+        <td>Denny</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>508</td>
+        <td>Algernon</td>
+        <td>Denny</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>509</td>
+        <td>John</td>
+        <td>Derbyshire</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>510</td>
+        <td>Robert Doulas</td>
+        <td>Finlay</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>510</td>
+        <td>Frederick</td>
+        <td>Finlay</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>511</td>
+        <td>William Alfred</td>
+        <td>Finney</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>512</td>
+        <td>Jane</td>
+        <td>Franklin</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>513</td>
+        <td>F. W.</td>
+        <td>Gender</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>514</td>
+        <td>Florence Gertrude</td>
+        <td>Harley</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>515</td>
+        <td>Henry</td>
+        <td>Hawkins</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>515</td>
+        <td>Emma</td>
+        <td>Hawkins</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>516</td>
+        <td>George</td>
+        <td>Heal</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>516</td>
+        <td>M. A.</td>
+        <td>Heal</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>516</td>
+        <td>George</td>
+        <td>Heal</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>517</td>
+        <td>S. S.</td>
+        <td>Kingston</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>518</td>
+        <td>Kasper</td>
+        <td>Kasper</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>519</td>
+        <td>M. A.</td>
+        <td>Markwell</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>520</td>
+        <td>Thomas</td>
+        <td>Markwell</td>
+        <td></td>
+        <td>same as Pyne: 527</td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>521</td>
+        <td>H. J. I.</td>
+        <td>Markwell</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>522</td>
+        <td>Alex.</td>
+        <td>Malcolm</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>523</td>
+        <td>Theophillus J.</td>
+        <td>Millard</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>524</td>
+        <td>William</td>
+        <td>Miskin</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>525</td>
+        <td>Sarah</td>
+        <td>Perry</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>526</td>
+        <td>Thomas Alfred</td>
+        <td>Pethebridge</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>526</td>
+        <td>W. G. W.</td>
+        <td>Pethebridge</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>527</td>
+        <td>Annie Thompson</td>
+        <td>Pugh</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>527</td>
+        <td>Albert C.</td>
+        <td>Pyne</td>
+        <td></td>
+        <td>same as T. Markwell: 520</td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>527</td>
+        <td>Anne</td>
+        <td>Pyne</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>527</td>
+        <td>F. W.</td>
+        <td>Pyne</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>528</td>
+        <td>A. L.</td>
+        <td>Pyne</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>528</td>
+        <td>L. A.</td>
+        <td>Pyne</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>529</td>
+        <td>Letitia</td>
+        <td>Raymond</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>529</td>
+        <td>L. F.</td>
+        <td>Raymond</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>530</td>
+        <td>Caroline</td>
+        <td>Rhodes</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>530</td>
+        <td>Margaret</td>
+        <td>Rhodes</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>531</td>
+        <td>William</td>
+        <td>Rose</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>532</td>
+        <td>Fanny</td>
+        <td>Sexton</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>533</td>
+        <td>Richard B.</td>
+        <td>Silcock</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>534</td>
+        <td>James</td>
+        <td>Stevens</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>535</td>
+        <td>George G.</td>
+        <td>Stokes</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>536</td>
+        <td>Eleanor H.</td>
+        <td>Thomas</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>537</td>
+        <td>Robert J.</td>
+        <td>Thompson</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>538</td>
+        <td>James</td>
+        <td>Wakefield</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>538</td>
+        <td>Hannah</td>
+        <td>Wakefield</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>538</td>
+        <td>Ephraim</td>
+        <td>Wakefield</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>539</td>
+        <td>John B.</td>
+        <td>Waldron</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>540</td>
+        <td>Ann</td>
+        <td>Wallace</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>541</td>
+        <td>William H. F.</td>
+        <td>Welsh</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>541</td>
+        <td>Walter S.</td>
+        <td>Welsh</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>542</td>
+        <td>Amy Josephine</td>
+        <td>White</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>542</td>
+        <td>W. T. L.</td>
+        <td>White</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>543</td>
+        <td>Ellen Marie</td>
+        <td>Wilson</td>
+        <td></td>
+        <td></td>
+        <td>Wesleyan-Methodist / Congregational</td>
+    </tr>
+    <tr>
+        <td>601</td>
+        <td>E. B.</td>
+        <td>Aitkins</td>
+        <td></td>
+        <td></td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>602</td>
+        <td>Ben William</td>
+        <td>Baker</td>
+        <td></td>
+        <td>same as A. Helfrich: 612</td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>603</td>
+        <td>John</td>
+        <td>Bale</td>
+        <td></td>
+        <td></td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>604</td>
+        <td>James</td>
+        <td>Birt</td>
+        <td></td>
+        <td>same as E. Slater: 620</td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>605</td>
+        <td>Agnes</td>
+        <td>Brown</td>
+        <td></td>
+        <td></td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>606</td>
+        <td>William</td>
+        <td>Bryant</td>
+        <td></td>
+        <td></td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>607</td>
+        <td>Jane</td>
+        <td>Bulgin</td>
+        <td></td>
+        <td></td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>608</td>
+        <td>J.</td>
+        <td>Chappell</td>
+        <td></td>
+        <td></td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>609</td>
+        <td>M. H.</td>
+        <td>Clissold</td>
+        <td></td>
+        <td></td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>610</td>
+        <td>E.</td>
+        <td>Copeland</td>
+        <td></td>
+        <td></td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>611</td>
+        <td>Emma Paulina</td>
+        <td>Gerler</td>
+        <td></td>
+        <td></td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>612</td>
+        <td>Eli</td>
+        <td>Hallett</td>
+        <td></td>
+        <td></td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>612</td>
+        <td>Agustus</td>
+        <td>Helfich</td>
+        <td></td>
+        <td>same as B. W. Baker: 602</td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>613</td>
+        <td>J.</td>
+        <td>Henderson</td>
+        <td></td>
+        <td></td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>613</td>
+        <td>J.</td>
+        <td>Henderson</td>
+        <td></td>
+        <td></td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>614</td>
+        <td>Sarah</td>
+        <td>Jones</td>
+        <td></td>
+        <td></td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>615</td>
+        <td>E. M.</td>
+        <td>Knight</td>
+        <td></td>
+        <td></td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>616</td>
+        <td>M. E.</td>
+        <td>Lloyd</td>
+        <td></td>
+        <td></td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>617</td>
+        <td>Jane</td>
+        <td>Orr</td>
+        <td></td>
+        <td></td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>617</td>
+        <td>M. L.</td>
+        <td>Orr</td>
+        <td></td>
+        <td></td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>618</td>
+        <td>Charles</td>
+        <td>Roberts</td>
+        <td></td>
+        <td></td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>619</td>
+        <td>Alex.</td>
+        <td>Ross</td>
+        <td></td>
+        <td></td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>620</td>
+        <td>Catherine</td>
+        <td>Sherry</td>
+        <td></td>
+        <td></td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>620</td>
+        <td>Emma</td>
+        <td>Slater</td>
+        <td></td>
+        <td>same as J. Birt: 604</td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>621</td>
+        <td>R.</td>
+        <td>Taylor</td>
+        <td></td>
+        <td></td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>622</td>
+        <td>John</td>
+        <td>Tinckay</td>
+        <td></td>
+        <td></td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>623</td>
+        <td>H. M.</td>
+        <td>Watson</td>
+        <td></td>
+        <td></td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>624</td>
+        <td>David</td>
+        <td>Webster</td>
+        <td></td>
+        <td></td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>625</td>
+        <td>John</td>
+        <td>Williams</td>
+        <td></td>
+        <td></td>
+        <td>Baptist</td>
+    </tr>
+    <tr>
+        <td>626</td>
+        <td>A. E.</td>
+        <td>Young</td>
+        <td></td>
+        <td></td>
+        <td>Baptist</td>
+    </tr>
+  <tbody>
+</table>

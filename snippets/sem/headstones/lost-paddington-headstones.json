@@ -1,0 +1,55 @@
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org/",
+  "@graph":[
+    {
+      "@type": "Organization",
+      "@id": "https://1871fotc.github.io/#/schema/organization/1",
+      "name": "Friends of Toowong Cemetery Association Inc.",
+      "url": "https://1871fotc.github.io/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://1871fotc.github.io/#/schema/website/1",
+      "name": "Friends of Toowong Cemetery",
+      "url": "https://1871fotc.github.io/",
+      "publisher": {
+          "@id": "https://1871fotc.github.io/#/schema/organization/1"
+      }
+    },  
+    {
+      "@type": "WebPage",
+      "@id": "https://1871fotc.github.io/headstones/lost-paddington-headstones/",
+      "url": "https://1871fotc.github.io/headstones/lost-paddington-headstones/",
+      "name": "Lost Paddington Cemetery Headstones",
+      "isPartOf": {
+          "@id": "https://1871fotc.github.io/#/schema/website/1"
+      }
+    },
+    {  
+      "@type": "Dataset",
+      "name": "Lost Paddington Cemetery Headstones",
+      "description": "Headstones from the closed Paddington Cemetery that were placed in a reserved area beside Christ Church Milton in 1914 and disappeared in the 1930s",
+      "url": "https://1871fotc.github.io/headstones/lost-paddington-headstones/", 
+      "alternateName": "North Brisbane Burial Grounds Lost Headstones",
+      "keywords": ["North Brisbane Burial Grounds Headstones", "Paddington Cemetery Headstones"],
+      "license" : "https://creativecommons.org/licenses/by/4.0/",
+      "isAccessibleForFree" : true,
+      "creator":{
+          "@id": "https://1871fotc.github.io/#/schema/organization/1"
+      },
+      "distribution":[{
+            "@type":"DataDownload",
+            "encodingFormat":"CSV",
+            "contentUrl":"https://1871fotc.github.io/assets/data/lost-paddington-cemetery-headstones.csv"
+         }
+      ],
+      "temporalCoverage" : "1831/..",
+      "spatialCoverage": "Paddington Cemetery, Brisbane, Queensland, Australia",
+      "isPartOf": {
+         "@id": "https://1871fotc.github.io/headstones/lost-paddington-headstones/"
+      }  
+    }
+  ]
+}  
+</script>

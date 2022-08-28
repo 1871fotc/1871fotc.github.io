@@ -1,0 +1,3 @@
+## David Frederick Tudor Jones <small>(12‑16‑26)</small>
+
+David Jones was born in South Wales on 13 August 1830 and was educated at a private school in Clapham, near London. He was an expert shorthand writer who reported debates in the Press gallery of the House of Commons. David came to Australia in his twenties, spent several years on the Victorian gold diggings then commenced his career in journalism at the *Melbourne Argus*. In 1863 he joined the staff of the *Courier*, becoming editor. He left in 1867 to enter the Queensland Public Service. He became Principal Hansard Reporter in 1881, a position he held until his death on 6 October 1892.

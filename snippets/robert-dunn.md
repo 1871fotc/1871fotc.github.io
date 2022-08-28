@@ -1,0 +1,3 @@
+## Robert Dunn <small>(8‑67‑5/6)</small>
+
+Robert Dunn was born in Melbourne in 1850, served his time in the printing trade in that city and subsequently went to New Zealand for a number of years. He returned to Australia and resumed newspaper work in Melbourne prior to coming to Queensland. He worked for some time on the *Gympie Times* and, in 1884, became associated with the *Brisbane Courier* where he remained until the time of his death. He started with the *Courier* as a compositor but, for the last 20 years of his life he was chief of the proof-reading staff. Robert died on 2 August 1926 at his residence in Upper Clifton Terrace, Red Hill following a sudden seizure.

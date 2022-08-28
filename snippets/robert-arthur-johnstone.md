@@ -1,0 +1,3 @@
+## Robert Arthur Johnstone <small>(5‑36‑15/16)</small>
+
+Robert Arthur Johnstone was born at Richmond in 1843 in what was then called Van Dieman's Land. He came to Queensland in 1865 and later trained as a police cadet. He was appointed sub-inspector of the mounted native police in the Cardwell district where he patrolled widely with his force of aboriginal troopers. In the course of his patrols Johnstone explored the coastal area of northeast Queensland and discovered the Johnstone River which was later named after him. In 1881 he became the first police magistrate in Winton. He died on 10 January 1905.

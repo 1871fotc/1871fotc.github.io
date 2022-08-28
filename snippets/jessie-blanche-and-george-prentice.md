@@ -1,0 +1,3 @@
+## Jessie Blanche Prentice and George Prentice <small>(9‑41‑1)</small>
+
+Jessie Blanche Prentice, the daughter of George (Junior) and Jessie Lacy Prentice, was lost with her grandfather, George Prentice, in the wreck *S.S. Quetta* in Torres Strait on 28 February 1890. The steamship struck an uncharted rock and sank in three minutes claiming 134 lives, mostly women and children. Many victims were prominent Queensland citizens, bound for London, including Toowong resident, Alexander Archer, manager of the Bank of New South Wales. There were 158 survivors.

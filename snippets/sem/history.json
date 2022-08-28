@@ -1,0 +1,71 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph":[
+    {
+      "@type": "Organization",
+      "@id": "https://1871fotc.github.io/#/schema/organization/1",
+      "name": "Friends of Toowong Cemetery Association Inc.",
+      "url": "https://1871fotc.github.io/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://1871fotc.github.io/#/schema/website/1",
+      "name": "Friends of Toowong Cemetery",
+      "url": "https://1871fotc.github.io/",
+      "publisher": {
+          "@id": "https://1871fotc.github.io/#/schema/organization/1"
+      }
+    },  
+    {
+      "@type": "WebPage",
+      "@id": "https://1871fotc.github.io/history/",
+      "url": "https://1871fotc.github.io/history/",
+      "name": "Toowong Cemetery History",
+      "isPartOf": {
+          "@id": "https://1871fotc.github.io/#/schema/website/1"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://1871fotc.github.io/#/article/history/",
+      "name": "Toowong Cemetery History",
+      "headline": "Discover the history of Toowong Cemetery",
+      "description": "Discover the history of Toowong Cemetery",
+      "mainEntityOfPage": "https://1871fotc.github.io/history/",
+      "keywords": "Toowong Cemetery History",
+      "dateModified": "2022-05-09",
+      "datePublished": "2022-05-09",
+      "author": {
+          "@id": "https://1871fotc.github.io/#/schema/organization/1"
+        },  
+      "publisher": {
+          "@id": "https://1871fotc.github.io/#/schema/organization/1"
+        },
+      "isPartOf": {
+           "@id": "https://1871fotc.github.io/history/"
+        },  
+      "image": ["https://1871fotc.github.io/assets/logo/fotc-1x1.png", "https://1871fotc.github.io/assets/logo/fotc-banner-4x3.png", "https://1871fotc.github.io/assets/images/social/history.png"],
+      "about": {
+          "@type": [
+              "Cemetery",
+              "TouristAttraction"
+            ],
+          "name": "Toowong Cemetery",
+          "url": "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery",
+          "description": "Heritage‑listed Toowong Cemetery was officially opened on 5 July 1875",
+          "touristType": {
+              "@type": "Audience",
+              "audienceType" : "Memorial Tourism"
+            },
+          "hasMap": "https://1871fotc.github.io/assets/toowong-cemetery-map-alt.jpg", 
+          "publicAccess": true,
+          "isAccessibleForFree": true,
+          "openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 06:00-18:00",
+          "tourBookingPage": "https://1871fotc.github.io/guided-tours/"
+        },
+      "image": ["https://1871fotc.github.io/assets/logo/fotc-1x1.png", "https://1871fotc.github.io/assets/logo/fotc-banner-4x3.png", "https://1871fotc.github.io/assets/images/social/history.png"]
+    }
+  ]
+}
+</script>

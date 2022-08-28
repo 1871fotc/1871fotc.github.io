@@ -1,0 +1,115 @@
+This should be an Article about a person
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Samuel Wensley Blackall",
+  "givenName": "Samuel",
+  "familyName": "Blackall",
+  "additionalName": "Wensley",
+  "alternativeName": "",
+  "honorificPrefix": "",
+  "honorificSuffix": "",
+  "nationality": "Irish",
+  "gender": "male",
+  "birthDate": "1809-05-01",
+  "birthPlace": "Dublin, Ireland",
+  "deathDate": "1871-01-02",
+  "deathPlace": "Brisbane, Queensland, Australia",
+  "url": "https://1871fotc.github.io/research/samuel-wensley-blackall/",
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Samuel_Blackall",
+    "https://adb.anu.edu.au/biography/blackall-samuel-wensley-3004"
+  ],
+  "image": "https://1871fotc.github.io/assets/samuel-wensley-blackall.jpg",
+  "description": "",
+}
+</script>
+
+
+
+children
+parent
+sibling
+spouse
+
+
+"memberOf": "Republican Party",
+
+
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Colorado Springs",
+        "addressRegion": "CO",
+        "postalCode": "80840",
+        "streetAddress": "100 Main Street"
+      },
+      "colleague": [
+        "http://www.example.com/JohnColleague.html",
+        "http://www.example.com/JameColleague.html"
+      ],
+      "email": "info@example.com",
+      "image": "janedoe.jpg",
+      "jobTitle": "Research Assistant",
+      "name": "Jane Doe",
+      "alumniOf": "Dartmouth",
+      "birthPlace": "Philadelphia, PA",
+      "birthDate": "1979-10-12",
+      "height": "72 inches",
+      "gender": "female",
+      "memberOf": "Republican Party",
+      "nationality": "Albanian",
+      "telephone": "(123) 456-6789",
+      "url": "http://www.example.com",
+	    "sameAs" : [ "https://www.facebook.com/",
+      "https://www.linkedin.com/",
+      "http://twitter.com/",
+      "http://instagram.com/",
+      "https://plus.google.com/"]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    				{"@context":"https://schema.org/",
+              "@type":"Article",
+              "about":{"@type":"Person",
+                "givenName":"Samuel",
+                "additionalName":"Wensley",
+                "familyName":"Blackall",
+                "name":"Samuel Wensley Blackall",
+                "birthDate":"1809-05-01",
+                "birthPlace":{"@type":"Place",
+                  "address":{"@type":"PostalAddress",
+                    "addressLocality":"Dublin",
+                    "addressRegion":"Dublin",
+                    "addressCountry":"Ireland"
+                    }
+                },
+                "deathDate":"1871-01-02",
+                "deathPlace":{"@type":"Place",
+                  "address":{"@type":"PostalAddress",
+                    "addressRegion":"Queensland",
+                    "addressCountry":"Australia"
+                    }
+                  }
+                },
+              "author":{"@type":"Person",
+                "givenName":"A.",
+                "additionalName":"A.",
+                "familyName":"Morrison",
+                "name":"A. A. Morrison"
+              },
+              "datePublished":"1969-01-01",
+              "description":"Samuel Wensley Blackall (1809-1871), governor, was born on 1 May 1809 in Dublin, son of Major Robert Blackall of the East India Co.",
+              "headline":"Blackall, Samuel Wensley (1809–1871)",
+              "keywords":"Samuel Wensley Blackall, biography",
+              "image":"https://adb.anu.edu.au/uploads/adb/3004/A030164.jpg"
+            }
+    			</script>

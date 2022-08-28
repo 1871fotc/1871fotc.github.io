@@ -1,0 +1,61 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph":[
+    {
+      "@type": "Organization",
+      "@id": "https://1871fotc.github.io/#/schema/organization/1",
+      "name": "Friends of Toowong Cemetery Association Inc.",
+      "url": "https://1871fotc.github.io/"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://1871fotc.github.io/#/schema/place/1",
+      "name": "Toowong Cemetery",
+      "sameAs": ["https://www.wikidata.org/wiki/Q7824339", "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery", "https://en.wikipedia.org/wiki/Toowong_Cemetery"]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://1871fotc.github.io/#/schema/website/1",
+      "name": "Friends of Toowong Cemetery",
+      "url": "https://1871fotc.github.io/",
+      "publisher": {
+          "@id": "https://1871fotc.github.io/#/schema/organization/1"
+      }
+    },  
+    {
+      "@type": "WebPage",
+      "@id": "https://1871fotc.github.io/headstones/archaeological-digs/",
+      "url": "https://1871fotc.github.io/headstones/archaeological-digs/",
+      "name": "Toowong Cemetery Archaeological digs",
+      "isPartOf": {
+          "@id": "https://1871fotc.github.io/#/schema/website/1"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://1871fotc.github.io/#/article/archaeological-digs/",
+      "name": "Toowong Cemetery Archaeological digs",
+      "headline": "Toowong Cemetery Archaeological digs uncover lost headstones",
+      "description": "Friends of Toowong Cemetery, in conjunction with the University of Queensland Archaeology Department, discover lost  headstones from Paddington and Toowong cemeteries",
+      "keywords": ["Archaeological digs", "Toowong Cemetery"],
+      "dateModified": "2022-05-15",
+      "datePublished": "2022-05-15",
+      "inLanguage": "en",
+      "author": {
+          "@id": "https://1871fotc.github.io/#/schema/organization/1"
+        },  
+      "publisher": {
+          "@id": "https://1871fotc.github.io/#/schema/organization/1"
+        },
+      "isPartOf": {
+        "@id": "https://1871fotc.github.io/headstones/archaeological-digs/"
+        },  
+      "image": ["https://1871fotc.github.io/assets/logo/fotc-1x1.png", "https://1871fotc.github.io/assets/logo/fotc-banner-4x3.png", "https://1871fotc.github.io/assets/images/social/headstones/archaeological-digs.png"],
+      "about": {
+          "@id": "https://1871fotc.github.io/#/schema/place/1"
+        }  
+    }
+  ]
+}
+</script>

@@ -1,0 +1,3 @@
+## Letitia Jephson <small>(5‑34‑17)</small>
+
+Letitia was widowed and had lost two young sons while still in her early forties. She became a businesswoman managing boarding houses in the city and at Kangaroo Point. The Longreach Private Boarding House which she leased in 1879 was a highly successfully operation. Letitia bought *Cabury* on Kensington Terrace which she renamed *Mallow* after her birthplace in Ireland. In 1899 she sold *Mallow* to Sir Robert Philp. When Letitia died in 1908, she left a substantial estate including shares in banks and breweries. Church Street was renamed Jephson Street after her.

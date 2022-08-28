@@ -1,0 +1,3 @@
+## James Walker Cutten <small>(5‑94‑12)</small>
+
+The Cutten brothers took up land at the southern end of Bingil Bay in North Queensland in 1886. After clearing the land, they cultivated tropical plants, including tea and coffee and tropical fruits. Their orchards and plantations were battered by cyclone after cyclone. James Cutten (1852-1935) together with his parents and siblings had arrived in Brisbane in 1871 from London and settled firstly at Coopers Plains and then at Felton on the Darling Downs before going north. James was a licensed surveyor and returned to surveying after his marriage in 1907.  

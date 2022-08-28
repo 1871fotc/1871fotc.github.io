@@ -1,0 +1,3 @@
+## Anderson Dawson <small>(11‑56‑1)</small>
+
+[Dawson](https://adb.anu.edu.au/biography/dawson-andrew-5921) was born on 16 July 1863 in Rockhampton, the son of miner, Anderson Dawson and Jean Smith. He was a miner by profession. He married Caroline Quin in 1887 and together they had two sons and two daughters. Dawson was president of the Miners’ Union and a provincial councillor for the Australian Labor Federation. He entered parliament as MLA for Charters Towers in May 1883 and held the seat until September 1901 when he was elected a senator, serving until 1906. Dawson lead the world’s first Labor Government when he was Premier and Chief Secretary for Queensland from 1 - 7 December 1899. He died in Brisbane on 20 Jul 1910.

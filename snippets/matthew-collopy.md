@@ -1,0 +1,3 @@
+## Matthew Collopy <small>(7‑5‑3)</small> 
+
+Sub‑Inspector 1^st^ Class Collopy, joined the Queensland Police Force in 1865 and received promotion for his services rendered at Gympie, Ravenswood, and other parts of the colony. In 1870, Collopy was awarded £10 for the arrest of William Bond for highway robbery. He was in failing health for the last few months, and it was thought his transfer from Rockhampton to Brisbane would have a beneficial effect, but unfortunately it proved otherwise. The numerous friends of Collopy regretted hearing of his death aged just 36. The deceased left a widow and one child.

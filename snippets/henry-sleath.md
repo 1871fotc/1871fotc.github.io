@@ -1,0 +1,3 @@
+## Henry and Hannah Sleath <small>(13‑43‑18)</small>
+
+Henry was a musician and violin maker who established a music business in George Street in the City around 1866. The family lived in a residence above the shop. Nine children were born to Henry and Hannah there. Some time later, the family moved to Glen Road. Henry was elected to the Toowong Shire Council in February 1881. One of their sons, [Alfred, carried on the business](https://trove.nla.gov.au/newspaper/article/172612304) as H. Sleath and Son. [Henry](https://trove.nla.gov.au/newspaper/article/22361912?searchTerm=Henry%20Sleath) was buried on 22 May 1918. Sleath Street, near the Cemetery, off Frederick Street, was named after Henry.

@@ -1,0 +1,9 @@
+## Sir Robert and Jessie Philp <small>(14‑23‑10)</small>
+
+Jessie Philp, née Campbell was buried here in 1890. She was a 34‑year‑old politician’s wife and mother of seven. Her youngest child was just two weeks old when Jessie, weakened from recent childbirth, succumbed to the scarlet fever for which she was nursing two older children. Apart from her children, she was survived by her husband Robert (the Member for Townsville) and her parents and siblings. 
+
+The next two burials here were of infant grandchildren of Robert and Jessie. In 1916, Jessie Ruth Henderson (known as Ruth) died from an unknown illness at the age of two. Twelve months later, an unnamed stillborn Henderson baby was also buried here. 
+
+In 1922, when Robert Philp – by then Sir Robert – died, he was buried beside Jessie, although he had married for a second time in 1898. He had a long and distinguished parliamentary career, including twice being Premier of Queensland. He was also a well‑known businessman and co‑founder of Burns, Philp and Company. He lived at *Mallow* in Kensington Terrace, Toowong – now the site of the Brisbane Boys’ College boarding houses and dining room. 
+
+The last burial in this grave took place in 1962 when Robert and Jessie’s eldest daughter Isabella Mary (known as May) died. She was 83 and had never married, though she had been engaged to Campbell Cowley from another Toowong family. From the age of 11, when her mother died, May looked after her younger brothers and sisters and later their children and grandchildren. She had a great interest in education, and was a benefactor to institutions like the University as well as providing books and cultural experiences for her extended family. Country nieces stayed with “Aunty May” to attend high school in Brisbane. She lived at *Mallow* until her death, and left the home and remaining grounds to BBC.

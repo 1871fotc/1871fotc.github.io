@@ -1,0 +1,251 @@
+# Project information
+site_name: Friends of Toowong Cemetery
+site_url: https://fotc.au
+site_author: Friends of Toowong Cemetery Association Inc.
+site_description: >-
+  Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.
+copyright: © 1992 — 2022 Friends of Toowong Cemetery Association Inc., unless noted otherwise. 
+
+# Configuration
+theme:
+  language: en
+  name: material
+  logo: assets/fotc-logo.png
+  favicon: favicon.ico
+  font:
+    text: Raleway
+    code: Roboto Mono 
+  palette:
+    scheme: default
+    primary: deep-purple
+    accent: purple
+# toggle between alternate schemes
+#    - scheme: default
+#      primary: deep-purple
+#      accent: purple
+#      toggle:
+#        icon: octicons/sun-16
+#        name: Switch to dark mode
+#    - scheme: slate
+#      primary: red
+#      accent: deep orange
+#      toggle:
+#        icon: custom/ghost
+#        name: Switch to light mode
+  icon:
+    admonition:
+      question: fontawesome/solid/hand-holding-heart
+      example: fontawesome/regular/compass
+  custom_dir: overrides
+  features:
+# instant and announce seem to conflict with was this page helpful. Pick one. Works on Material for Mkdocs - look there. 
+#    - announce.dismiss
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - search.highlight
+    - search.suggest
+    - content.code.annotate
+    - content.tooltips
+    - toc.follow
+
+# Customization
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/solid/envelope
+      link: mailto:inquiries@fotc.org.au
+      name: Email us
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/1871fotc/
+      name: Facebook @1871fotc
+#    - icon: fontawesome/brands/github
+#      link: https://github.com/1871fotc
+#      name: Code, data and more on GitHub
+# Add twitter when Social Cards are working https://squidfunk.github.io/mkdocs-material/setup/setting-up-social-cards/?h=soci
+#    - icon: fontawesome/brands/twitter
+#      link: https://twitter.com/1871fotc
+#      name: Twitter @1871fotc
+
+  analytics: 
+    provider: google
+    property: G-XDRM6G59W8
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: This page was helpful
+          data: 1
+          note: >-
+            Thanks for your feedback!
+# Add feedback form for positive feedback
+#          note: >-
+#            Thanks for your feedback!<br><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590={}" target=_blank>What did we get right?</a></b>
+        - icon: material/emoticon-sad-outline
+          name: This page could be improved
+          data: 0
+          note: >-
+            Thanks for your feedback! <br><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590={}" target=_blank>How we can improve?</a></b>
+#
+# See https://support.google.com/a/users/answer/9308781?hl=en; add {} to URL answer; copy link; replace =%7B%7D with ={}; done            
+# https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590=%7B%7D
+#
+#  consent:
+#    title: Cookie consent
+#    description: >-
+#      <p>We use cookies to recognise your repeated visits, determine if you find what you're searching for, and measure if you think this site is helpful.</p>
+#      <p>With your consent, you're helping us make this site better.</p>
+  
+extra_css:
+  - stylesheets/extra.css
+
+# Extensions  
+markdown_extensions:
+  - toc:
+      title: On this page
+      toc_depth: 2
+  - abbr
+  - admonition
+  - pymdownx.details
+  - pymdownx.critic
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde   
+  - attr_list
+  - md_in_html
+  - def_list
+  - footnotes
+  - meta
+
+# Sortable data table
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascripts/tablesort.js
+#  - javascripts/imagezoom.js
+  
+# Plugins
+plugins:
+  - search
+  - redirects:
+      redirect_maps:
+        'home/home.md': 'index.md'
+        'home/index.md': 'index.md'
+# set up redirects for deep links
+        'walks/walks.md': 'stories/index.md'
+        'activities/activities.md': 'about/index.md'
+        'obituaries/obituaries.md': 'research/index.md'
+        'publications/publications.md': 'about/publications.md'
+        'membership/membership.md': 'about/index.md'
+        'links/links.md': 'research/index.md'
+        'contactus/contactus.md': 'contact.md'
+#
+# comment out for local builds as cannot resolve missing dependencies
+#
+#  - social
+#
+
+# Page tree - only 2 levels allowed
+nav:
+  - Home: index.md
+  - Cemetery History: history.md
+  - Stories and Walks:
+    - Stories and Walks: stories/index.md
+#    - Mount Blackall Walk: stories/mount-blackall-walk.md
+#    - Lilian Cooper Walk: stories/lilian-cooper-walk.md
+# Politics
+    - The Federation Walk: stories/federation-walk.md
+    - Queensland Governors: stories/governors.md 
+    - Brisbane Mayors: stories/brisbane-mayors.md
+    - One Adult, One Vote: stories/suffrage.md
+    - Labor Luminaries: stories/labor-luminaries.md
+    - The Great Shearers' Strike: stories/shearers-strike.md
+# Local stories    
+    - Founding Fathers: stories/founding-fathers.md     
+    - Notable Women: stories/notable-women.md    
+    - Toowong Identities: stories/toowong-identities-1.md 
+    - More Toowong Identities: stories/toowong-identities-2.md
+# Stories by Profession    
+    - Artists: stories/artists.md 
+    - Health Professionals: stories/in-their-caring-hands.md
+    - Judiciary: stories/judiciary.md
+    - Mariners: stories/anchors-aweigh.md
+    - Performers: stories/all-the-worlds-a-stage.md 
+    - Police: stories/thin-blue-line.md 
+    - Print Media Identities: stories/printers.md
+    - More Print Media Identities: stories/printers-2.md
+    - Prospectors: stories/prospectors.md    
+    - Sporting Personalities: stories/sporting-personalities.md
+    - Railway People: stories/railway.md
+    - Undertakers: stories/undertakers.md
+# Military stories
+    - Colonial Conflicts: stories/colonial-conflicts.md         
+    - Lest We Forget: stories/lest-we-forget.md
+    - Lest We Forget - Naval: stories/lest-we-forget-navy.md 
+    - Men of the Royal Navy: stories/men-of-the-royal-navy.md
+    - Scots in the AIF: stories/scots-in-the-aif-ww1.md
+    - 1919 Soldiers: stories/1919-soldiers.md
+    - Conflict and Compassion: stories/conflict-and-compassion.md
+# Community stories  
+    - The Irish: stories/irish.md 
+    - The Lutheran: stories/lutheran.md
+    - The Jewish Walk: stories/jewish.md 
+# Other themed stories 
+    - Steam: stories/steam.md
+    - Building Brisbane: stories/brisbane-open-house.md   
+    - Convicts: stories/convict-connections.md      
+    - Erected by Friends and Family: stories/erected-by-friends.md    
+    - Christmas: stories/christmas.md    
+    - Weather: stories/weather.md 
+    - 20/20 Vision: stories/2020-vision.md
+    - Rich man, Poor man: stories/rich-man-poor-man.md
+    - Taken before their time: stories/taken-before-their-time.md  
+    - Children: stories/children.md 
+    - Mothers: stories/mothers.md
+# Stories by Portion
+    - Portion 5 - part 1: stories/portion5-part1.md
+    - Portion 5 - part 2: stories/portion5-part2.md
+    - Portion 6 and 24: stories/portion6-and-24.md
+    - Portion 15 and 16: stories/portion15-and-16.md
+  - Headstones: 
+    - Headstones: headstones/index.md  
+    - Headstone Symbols: headstones/symbols.md
+    - Headstone Signs: headstones/signs.md 
+#    - Shapes: headstones/shapes.md  
+#    - Monuments: headstones/monuments.md  (use a different name Memorable Memorials?)
+    - Queensland's Oldest Headstones: headstones/queenslands-oldest-headstones.md
+    - Archaeological Digs: headstones/archaeological-digs.md
+    - Moved Paddington Cemetery Headstones: headstones/moved-paddington-headstones.md
+    - Lost Paddington Cemetery Headstones: headstones/lost-paddington-headstones.md
+#    - Lost Toowong Cemetery Headstones: headstones/lost-toowong-headstones.md
+#    - At Risk Headstones: headstones/at-risk-headstones.md   
+#    - Conserving Headstones: headstones/conserving-headstones.md
+#    - Restored Headstones: headstones/restored-headstones.md
+#    - Celebrity Headstones: headstones/celebrities.md
+  - Research:
+    - Research Resources: research/index.md
+    - Find a Grave: research/find-a-grave.md  
+    - Find a Story: research/find-a-story.md
+#    - Paddington Cemetery: research/paddington-cemetery.md
+    - Data: research/data.md
+  - Guided Tours: guided-tours.md  
+  - About Us: 
+    - About Us: about/index.md
+    - Publications: about/publications.md
+    - Extraordinary Stories: about/extraordinary-stories.md
+    - 140th Anniversary Commemoration: about/140-commemoration.md
+    - Federation Pavilion: about/federation-pavilion.md
+    - Legal: about/legal.md
+  - Contact Us: contact.md
