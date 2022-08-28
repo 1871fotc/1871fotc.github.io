@@ -5,14 +5,14 @@ The Friend of Toowong Cemetery site `fotc.au` replaces `https://fotc.org.au/`.
 ## About
 
 - This site is built using [Material for MkDocs Insiders](https://squidfunk.github.io/mkdocs-material/). 
-- [Pages](https://github.com/1871fotc/tree/main/docs) are written in Markdown
+- [Pages](https://github.com/1871fotc/1871fotc.github.io/tree/main/docs) are written in Markdown
 - Snippets are used to modularise content
-- Images are stored in [/assets](https://github.com/1871fotc/tree/main/docs/assets)
-- The Site is configured using [mkdoc.yml](https://github.com/1871fotc/blob/main/mkdocs.yml)
+- Images are stored in [/assets](https://github.com/1871fotc/1871fotc.github.io/tree/main/docs/assets)
+- The Site is configured using [mkdoc.yml](https://github.com/1871fotc/1871fotc.github.io/blob/main/mkdocs.yml  )
 - Some customisations are made:
-    - [stylesheet extras](https://github.com/1871fotc/tree/main/docs/stylesheets) 
-    - [overrides](https://github.com/1871fotc/tree/main/overrides) for the banner and 404 page
-    - [javascript](https://github.com/1871fotcs/tree/main/docs/javascripts) to sort tables
+    - [stylesheet extras](https://github.com/1871fotc/1871fotc.github.io/tree/main/docs/stylesheets) 
+    - [overrides](https://github.com/1871fotc/1871fotc.github.io/tree/main/overrides) for the banner and 404 page
+    - [javascript](https://github.com/1871fotc/1871fotc.github.io/tree/main/docs/javascripts) to sort tables
 - Source images are store in /source-images. Some images are made with Sketch
 - The website uses Google Forms to collect Site Feedback, Membership Applications, Story Contributions 
 
@@ -35,7 +35,7 @@ Run locally `$ mkdocs serve` to preview your site before publishing
 
 Build `$ mkdocs build` creates html files locally in \site
 
-Deploy occurs when there is a commit to the main branch which triggers a [workflow](https://github.com/1871fotc/blob/main/.github/workflows/ci.yml)
+Deploy occurs when there is a commit to the main branch which triggers a [workflow](https://github.com/1871fotc/1871fotc.github.io/blob/main/.github/workflows/ci.yml)
 
 Keep things up-to-date:
 
