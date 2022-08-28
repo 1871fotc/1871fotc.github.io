@@ -21,7 +21,7 @@ Friends of Toowong Cemetery have published data, including:
 <!-- List of restored headstones  -->
 
 
-The **[data is available on GitHub](https://github.com/1871fotc/tree/main/docs/assets/data)** :fontawesome-brands-github: and via links on this site.
+The **[data is available on GitHub](https://github.com/1871fotc/1871fotc.github.io/tree/main/docs/assets/data)** :fontawesome-brands-github: and via links on this site.
 
 ## Other Data
 
