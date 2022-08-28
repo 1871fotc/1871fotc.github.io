@@ -104,8 +104,8 @@ You can change your cookie settings at any time.
 [history]: ../history.md
 [site]: ../index.md
 [CC-BY]: https://creativecommons.org/licenses/by/4.0/
-[new-issue]: https://github.com/1871fotc/issues/new/choose
-[forum]: https://github.com/1871fotc/discussions
+[new-issue]: https://github.com/1871fotc/1871fotc.github.io/issues/new/choose
+[forum]: https://github.com/1871fotc/1871fotc.github.io/discussions
 [email]: mailto:inquiries@fotc.org.au
 [phone]: tel:0439998053
 [form]: https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590= 

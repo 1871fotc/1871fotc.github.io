@@ -20,14 +20,14 @@ The Friend of Toowong Cemetery site `fotc.au` replaces `https://fotc.org.au/`.
 
 To contribute you can:
 
-- [Join the conversation](https://github.com/1871fotc/discussions) in the discussion forum
-- [Share content](https://github.com/1871fotc/issues/new/choose) under an open license or contribute it to the public domain
-- [Report an error](https://github.com/1871fotc/issues/new/choose), after checking that it's not [already reported](https://github.com/1871fotc/issues)
-- [Make a suggestion](https://github.com/1871fotc/issues/new/choose)
+- [Join the conversation](https://github.com/1871fotc/1871fotc.github.io/discussions) in the discussion forum
+- [Share content](https://github.com/1871fotc/1871fotc.github.io/issues/new/choose) under an open license or contribute it to the public domain
+- [Report an error](https://github.com/1871fotc/1871fotc.github.io/issues/new/choose), after checking that it's not [already reported](https://github.com/1871fotc/issues)
+- [Make a suggestion](https://github.com/1871fotc/1871fotc.github.io/issues/new/choose)
 
 ## Contributors
 
-Thanks to everyone for their contributions on [Github](https://github.com/1871fotc/graphs/contributors) and in the [discussion forum](https://github.com/1871fotc/discussions).
+Thanks to everyone for their contributions on [Github](https://github.com/1871fotc/1871fotc.github.io/graphs/contributors) and in the [discussion forum](https://github.com/1871fotc/1871fotc.github.io/discussions).
 
 ## Development
 
