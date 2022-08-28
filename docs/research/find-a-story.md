@@ -11,11 +11,11 @@ description: A list of people mentioned in our self-guided walks and links to th
 ??? question "Volunteer - Contribute missing data"
 
     Do you know about any of the missing data in the Story Index? Did you spot an error? 
-    Tell us the details by using the **☹︎** sad face button at the bottom of the page, or email us. 
+    Tell us the details by using the **☹︎** sad face button at the [bottom of the page](find-a-story.md#download-the-data), or [email us](mailto:inquiries@fotc.org.au). 
 
-    If you'd like to search for missing data, check out these **[Research Resources](index.md)**.
+    Use our **[Research Resources](index.md)** to search for missing data.
     
-    If you would like your contribute a story, please complete the **[Contribute a Story](https://forms.gle/U94dcEj6RihM9BPq9)** form.
+    Use the **[Contribute a Story](https://forms.gle/U94dcEj6RihM9BPq9)** form, to share your discoveries with us.
 
 <!-- 
 ??? directions "How to use the Index" 
