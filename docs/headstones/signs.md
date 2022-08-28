@@ -165,7 +165,7 @@ Unlike the [Clasped Hands symbol](symbols.md#clasped-hands) showing a man and wo
 
 Some of these organisations have evolved to become financial services companies, such as: 
 
-- The Independent Order of Odd Fellows became [IOOF](https://www.ioof.com.au/about-us/about-ioof), who in late 2021 decided to [rebrand as Insignia Finance](https://ioof-p-001-delivery.sitecorecontenthub.cloud/api/public/content/Change-of-company-name.pdf). 
+- The Independent Order of Odd Fellows became IOOF, who in late 2021 decided to [rebrand as Insignia Finance](https://www.insigniafinancial.com.au/about-us/our-business/our-history). 
 - The Ancient Order of Foresters evolved into [Foresters Financial](https://forestersfinancial.com.au/about-us/our-history/).
 - In 1993, the Australian Natives Association merged with Manchester Unity Independent Order of Odd Fellows to become [Australian Unity](https://www.australianunity.com.au/about-us/our-story).
 
