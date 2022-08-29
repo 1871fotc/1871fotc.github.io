@@ -11,7 +11,7 @@ description: Get your hands dirty and uncover stories from Brisbane's past
 
 Friends of Toowong Cemetery, in conjunction with the [University of Queensland Archaeology Department](https://social-science.uq.edu.au/undergraduate/archaeology), have been searching for buried headstones in the cemetery grounds since 2006. The annual archaeology dig is [a chance to unearth Brisbane's history](https://www.abc.net.au/news/2018-05-26/archaeology-dig-at-toowong-cemetery-a-chance-to-unearth-history/9800474). 
 
-The next [Toowong Cemetery Archaeological Dig](https://archaeologyweek.org/events-list?category=Qld) was planned for **19-21 May 2022** but has been delayed due to the extreme weather. We hope to reschedule the dig soon.
+The next [Toowong Cemetery Archaeological Dig](https://archaeologyweek.org/events-list?category=Qld) is planned for **May 2022**.
 
 <div class="video-wrapper">
   <iframe src="https://www.youtube.com/embed/hgCx4OW69cY" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
