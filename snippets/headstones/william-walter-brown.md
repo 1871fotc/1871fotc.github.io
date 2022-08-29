@@ -15,5 +15,5 @@
 >Marjorie Olive Brown <br>
 >(nee Mackay) <br>
 >Passed away 04-11-2017 <br>
->Aged 90 yeats) <br>
+>Aged 90 years) <br>
 >In God's Loving Care <br>
