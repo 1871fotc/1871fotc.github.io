@@ -77,7 +77,7 @@ Links to other websites are inserted for convenience and do not constitute endor
 
 ## Cultural warning
 
-Members of Aboriginal and Torres Strait Islander communities are advised that this site may contain names, images, sound recordings and moving images of deceased people.
+Members of Aboriginal and Torres Strait Islander communities are advised that this site contains names, images, sound recordings and moving images of deceased people.
 
 This site may also include historically and culturally sensitive images and moving images, sound recordings, words, terms or descriptions; such material does not reflect our viewpoint but rather the social attitudes and circumstances of the period or place in which it was created.
 
