@@ -61,7 +61,7 @@ Parking is available inside the cemetery.
 
 If you're walking, in addition to the entries above, you can enter via:
 
-- the pedestrian ramp from Mt Coot-tha Road, opposite the **[Mt Coot-tha Botanic Gardens](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/botanic-gardens-in-brisbane/brisbane-botanic-gardens-mt-coot-tha)**. Turn right at the top of the ramp and walk downhill to go to Canon Garland Place
+- the pedestrian ramp from Mt Coot-tha Road, opposite the Mt Coot-tha Botanic Gardens. Turn right at the top of the ramp and walk downhill to go to Canon Garland Place
 - Frederick Street gate (opposite Sleath Street) that leads onto Steel Rudd Avenue (previously 4^th^ Avenue)
 - the many informal entries off Birdwood Terrace
 
