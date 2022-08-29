@@ -4,36 +4,36 @@
   "@graph":[
     {
     "@type": "Organization",
-    "@id": "https://1871fotc.github.io/#/schema/organization/1",
+    "@id": "https://www.fotc.au/#/schema/organization/1",
     "name": "Friends of Toowong Cemetery Association Inc.",
-    "url": "https://1871fotc.github.io/"
+    "url": "https://www.fotc.au/"
     },
     {
       "@type": "WebSite",
-      "@id": "https://1871fotc.github.io/#/schema/website/1",
+      "@id": "https://www.fotc.au/#/schema/website/1",
       "name": "Friends of Toowong Cemetery",
-      "url": "https://1871fotc.github.io/",
+      "url": "https://www.fotc.au/",
       "publisher": {
-          "@id": "https://1871fotc.github.io/#/schema/organization/1"
+          "@id": "https://www.fotc.au/#/schema/organization/1"
         }
     },
     {
       "@type": "ContactPage",
-      "@id": "https://1871fotc.github.io/contact/",
-      "url": "https://1871fotc.github.io/contact/",
+      "@id": "https://www.fotc.au/contact/",
+      "url": "https://www.fotc.au/contact/",
       "inLanguage": "en",
       "name": "Contact Friends of Toowong Cemetery",
       "isPartOf": {
-          "@id": "https://1871fotc.github.io/#/schema/website/1"
+          "@id": "https://www.fotc.au/#/schema/website/1"
       },
       "about": {
-          "@id": "https://1871fotc.github.io/#/schema/organization/1"
+          "@id": "https://www.fotc.au/#/schema/organization/1"
       },
       "dateModified": "2022-05-09",
       "datePublished": "2022-05-09",
       "description": "Contact Friends of Toowong Cemetery",
-      "author": {"@id": "https://1871fotc.github.io/#/schema/organization/1"},
-      "image": ["https://1871fotc.github.io/assets/logo/fotc-1x1.png", "https://1871fotc.github.io/assets/logo/fotc-banner-4x3.png", "https://1871fotc.github.io/assets/images/social/contact.png"]
+      "author": {"@id": "https://www.fotc.au/#/schema/organization/1"},
+      "image": ["https://www.fotc.au/assets/logo/fotc-1x1.png", "https://www.fotc.au/assets/logo/fotc-banner-4x3.png", "https://www.fotc.au/assets/images/social/contact.png"]
     }
   ]
 }

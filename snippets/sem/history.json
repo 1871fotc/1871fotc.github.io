@@ -4,48 +4,48 @@
   "@graph":[
     {
       "@type": "Organization",
-      "@id": "https://1871fotc.github.io/#/schema/organization/1",
+      "@id": "https://www.fotc.au/#/schema/organization/1",
       "name": "Friends of Toowong Cemetery Association Inc.",
-      "url": "https://1871fotc.github.io/"
+      "url": "https://www.fotc.au/"
     },
     {
       "@type": "WebSite",
-      "@id": "https://1871fotc.github.io/#/schema/website/1",
+      "@id": "https://www.fotc.au/#/schema/website/1",
       "name": "Friends of Toowong Cemetery",
-      "url": "https://1871fotc.github.io/",
+      "url": "https://www.fotc.au/",
       "publisher": {
-          "@id": "https://1871fotc.github.io/#/schema/organization/1"
+          "@id": "https://www.fotc.au/#/schema/organization/1"
       }
     },  
     {
       "@type": "WebPage",
-      "@id": "https://1871fotc.github.io/history/",
-      "url": "https://1871fotc.github.io/history/",
+      "@id": "https://www.fotc.au/history/",
+      "url": "https://www.fotc.au/history/",
       "name": "Toowong Cemetery History",
       "isPartOf": {
-          "@id": "https://1871fotc.github.io/#/schema/website/1"
+          "@id": "https://www.fotc.au/#/schema/website/1"
       }
     },
     {
       "@type": "Article",
-      "@id": "https://1871fotc.github.io/#/article/history/",
+      "@id": "https://www.fotc.au/#/article/history/",
       "name": "Toowong Cemetery History",
       "headline": "Discover the history of Toowong Cemetery",
       "description": "Discover the history of Toowong Cemetery",
-      "mainEntityOfPage": "https://1871fotc.github.io/history/",
+      "mainEntityOfPage": "https://www.fotc.au/history/",
       "keywords": "Toowong Cemetery History",
-      "dateModified": "2022-05-09",
-      "datePublished": "2022-05-09",
+      "dateModified": "2022-08-30",
+      "datePublished": "2022-08-29",
       "author": {
-          "@id": "https://1871fotc.github.io/#/schema/organization/1"
+          "@id": "https://www.fotc.au/#/schema/organization/1"
         },  
       "publisher": {
-          "@id": "https://1871fotc.github.io/#/schema/organization/1"
+          "@id": "https://www.fotc.au/#/schema/organization/1"
         },
       "isPartOf": {
-           "@id": "https://1871fotc.github.io/history/"
+           "@id": "https://www.fotc.au/history/"
         },  
-      "image": ["https://1871fotc.github.io/assets/logo/fotc-1x1.png", "https://1871fotc.github.io/assets/logo/fotc-banner-4x3.png", "https://1871fotc.github.io/assets/images/social/history.png"],
+      "image": ["https://www.fotc.au/assets/logo/fotc-1x1.png", "https://www.fotc.au/assets/logo/fotc-banner-4x3.png", "https://www.fotc.au/assets/images/social/history.png"],
       "about": {
           "@type": [
               "Cemetery",
@@ -58,13 +58,12 @@
               "@type": "Audience",
               "audienceType" : "Memorial Tourism"
             },
-          "hasMap": "https://1871fotc.github.io/assets/toowong-cemetery-map-alt.jpg", 
+          "hasMap": "https://www.fotc.au/assets/toowong-cemetery-map-alt.jpg", 
           "publicAccess": true,
           "isAccessibleForFree": true,
           "openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 06:00-18:00",
-          "tourBookingPage": "https://1871fotc.github.io/guided-tours/"
-        },
-      "image": ["https://1871fotc.github.io/assets/logo/fotc-1x1.png", "https://1871fotc.github.io/assets/logo/fotc-banner-4x3.png", "https://1871fotc.github.io/assets/images/social/history.png"]
+          "tourBookingPage": "https://www.fotc.au/guided-tours/"
+        }
     }
   ]
 }

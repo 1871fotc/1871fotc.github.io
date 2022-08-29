@@ -4,23 +4,23 @@
   "@graph":[
     {
     "@type": "Organization",
-    "@id": "https://1871fotc.github.io/#/schema/organization/1",
+    "@id": "https://www.fotc.au/#/schema/organization/1",
     "name": "Friends of Toowong Cemetery",
     "legalName": "Friends of Toowong Cemetery Association Inc.",
     "foundingDate": "1992",
-    "url": "https://1871fotc.github.io/",
+    "url": "https://www.fotc.au/",
     "sameAs": ["https://www.facebook.com/1871fotc/", "https://github.com/1871fotc", "https://abr.business.gov.au/ABN/View?id=12868524011", "https://www.acnc.gov.au/charity/charities/cbe72786-39af-e811-a963-000d3ad24077/profile"
     ],
-    "logo": "https://1871fotc.github.io/assets/fotc.png",
+    "logo": "https://www.fotc.au/assets/fotc.png",
     "image": [
-      "https://1871fotc.github.io/assets/logo/fotc-1x1.png",
-      "https://1871fotc.github.io/assets/logo/fotc-banner-4x3.png",
-      "https://1871fotc.github.io/assets/logo/fotc-banner-16x9.png"
+      "https://www.fotc.au/assets/logo/fotc-1x1.png",
+      "https://www.fotc.au/assets/logo/fotc-banner-4x3.png",
+      "https://www.fotc.au/assets/logo/fotc-banner-16x9.png"
     ],
     "description": "Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.",
     "slogan": "Discover and share the history and stories of Toowong Cemetery",
     "knowsAbout": {
-        "@id": "https://1871fotc.github.io/#/schema/place/1"
+        "@id": "https://www.fotc.au/#/schema/place/1"
       },
     "email": "mailto:inquiries@fotc.org.au",
     "telephone": "0439998053",
@@ -37,12 +37,12 @@
         }  
     },
     "memberOf": {
-      "@id": "https://1871fotc.github.io/#/schema/organization/2"  
+      "@id": "https://www.fotc.au/#/schema/organization/2"  
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://1871fotc.github.io/#/schema/organization/2",
+      "@id": "https://www.fotc.au/#/schema/organization/2",
       "name": "Brisbane Living Heritage",
       "sameAs": ["https://www.facebook.com/BrisbaneLivingHeritage", "https://twitter.com/BrisLivHeritage/", "https://www.instagram.com/brislivheritage/"
       ],
@@ -50,48 +50,48 @@
     },
     {
       "@type": "Place",
-      "@id": "https://1871fotc.github.io/#/schema/place/1",
+      "@id": "https://www.fotc.au/#/schema/place/1",
       "name": "Toowong Cemetery",
       "sameAs": ["https://www.wikidata.org/wiki/Q7824339", "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery", "https://en.wikipedia.org/wiki/Toowong_Cemetery"]
     },
     {
       "@type": "WebSite",
-      "@id": "https://1871fotc.github.io/#/schema/website/1",
+      "@id": "https://www.fotc.au/#/schema/website/1",
       "name": "Friends of Toowong Cemetery",
-      "url": "https://1871fotc.github.io/",
+      "url": "https://www.fotc.au/",
       "about": {
-          "@id": "https://1871fotc.github.io/#/schema/place/1"
+          "@id": "https://www.fotc.au/#/schema/place/1"
         },
       "keywords": ["Toowong Cemetery History", "Toowong Cemetery Walks", "Toowong Cemetery Stories", "Toowong Cemetery Headstones", "Toowong Cemetery Tours", "Friends of Toowong Cemetery"],
       "description": "Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.",
       "temporalCoverage": "1831/..",
       "inLanguage": "en",
       "publisher": {
-          "@id": "https://1871fotc.github.io/#/schema/organization/1"
+          "@id": "https://www.fotc.au/#/schema/organization/1"
         }
     },  
     {
       "@type": "WebPage",
-      "@id": "https://1871fotc.github.io/",
-      "url": "https://1871fotc.github.io/",
+      "@id": "https://www.fotc.au/",
+      "url": "https://www.fotc.au/",
       "inLanguage": "en",
       "name": "Friends of Toowong Cemetery",
       "isPartOf": {
-          "@id": "https://1871fotc.github.io/#/schema/website/1"
+          "@id": "https://www.fotc.au/#/schema/website/1"
       },
       "about": {
-          "@id": "https://1871fotc.github.io/#/schema/place/1"
+          "@id": "https://www.fotc.au/#/schema/place/1"
         },
-      "dateModified": "2022-05-09",
-      "datePublished": "2022-05-09",
+      "dateModified": "2022-08-30",
+      "datePublished": "2022-08-29",
       "author": {
-          "@id": "https://1871fotc.github.io/#/schema/organization/1"
+          "@id": "https://www.fotc.au/#/schema/organization/1"
         },
       "description": "Discover and share the history and stories of Toowong Cemetery",
       "image": [
-        "https://1871fotc.github.io/assets/logo/fotc-1x1.png",
-        "https://1871fotc.github.io/assets/logo/fotc-banner-4x3.png",
-        "https://1871fotc.github.io/assets/logo/fotc-banner-16x9.png"
+        "https://www.fotc.au/assets/logo/fotc-1x1.png",
+        "https://www.fotc.au/assets/logo/fotc-banner-4x3.png",
+        "https://www.fotc.au/assets/logo/fotc-banner-16x9.png"
       ]
     }
   ]  

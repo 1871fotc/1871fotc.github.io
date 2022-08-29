@@ -4,50 +4,50 @@
   "@graph":[
     {
       "@type": "Organization",
-      "@id": "https://1871fotc.github.io/#/schema/organization/1",
+      "@id": "https://www.fotc.au/#/schema/organization/1",
       "name": "Friends of Toowong Cemetery Association Inc.",
-      "url": "https://1871fotc.github.io/"
+      "url": "https://www.fotc.au/"
     },
     {
       "@type": "WebSite",
-      "@id": "https://1871fotc.github.io/#/schema/website/1",
+      "@id": "https://www.fotc.au/#/schema/website/1",
       "name": "Friends of Toowong Cemetery",
-      "url": "https://1871fotc.github.io/",
+      "url": "https://www.fotc.au/",
       "publisher": {
-          "@id": "https://1871fotc.github.io/#/schema/organization/1"
+          "@id": "https://www.fotc.au/#/schema/organization/1"
       }
     },  
     {
       "@type": "WebPage",
-      "@id": "https://1871fotc.github.io/headstones/moved-paddington-headstones/",
-      "url": "https://1871fotc.github.io/headstones/moved-paddington-headstones/",
+      "@id": "https://www.fotc.au/headstones/moved-paddington-headstones/",
+      "url": "https://www.fotc.au/headstones/moved-paddington-headstones/",
       "name": "Lost Paddington Cemetery Headstones",
       "isPartOf": {
-          "@id": "https://1871fotc.github.io/#/schema/website/1"
+          "@id": "https://www.fotc.au/#/schema/website/1"
       }
     },
     {  
       "@type": "Dataset",
       "name": "Moved Paddington Cemetery Headstones",
       "description": "Headstones moved from the closed Paddington Cemetery in the 1910s",
-      "url": "https://1871fotc.github.io/headstones/moved-paddington-headstones/", 
+      "url": "https://www.fotc.au/headstones/moved-paddington-headstones/", 
       "alternateName": "North Brisbane Burial Grounds Moved Headstones",
       "keywords": ["North Brisbane Burial Grounds Headstones", "Paddington Cemetery Headstones"],
       "license" : "https://creativecommons.org/licenses/by/4.0/",
       "isAccessibleForFree" : true,
       "creator":{
-          "@id": "https://1871fotc.github.io/#/schema/organization/1"
+          "@id": "https://www.fotc.au/#/schema/organization/1"
       },
       "distribution":[{
             "@type":"DataDownload",
             "encodingFormat":"CSV",
-            "contentUrl":"https://1871fotc.github.io/assets/data/moved-paddington-cemetery-headstones.csv"
+            "contentUrl":"https://www.fotc.au/assets/data/moved-paddington-cemetery-headstones.csv"
          }
       ],
       "temporalCoverage" : "1831/..",
       "spatialCoverage": "Paddington Cemetery, Brisbane, Queensland, Australia",
       "isPartOf": {
-         "@id": "https://1871fotc.github.io/headstones/moved-paddington-headstones/"
+         "@id": "https://www.fotc.au/headstones/moved-paddington-headstones/"
       }  
     }
   ]

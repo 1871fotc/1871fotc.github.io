@@ -4,71 +4,71 @@
   "@graph":[
     {
     "@type": "Organization",
-    "@id": "https://1871fotc.github.io/#/schema/organization/1",
+    "@id": "https://www.fotc.au/#/schema/organization/1",
     "name": "Friends of Toowong Cemetery Association Inc.",
-    "url": "https://1871fotc.github.io/"
+    "url": "https://www.fotc.au/"
     },
     {
       "@type": "Place",
-      "@id": "https://1871fotc.github.io/#/schema/place/1",
+      "@id": "https://www.fotc.au/#/schema/place/1",
       "name": "Toowong Cemetery",
       "sameAs": ["https://en.wikipedia.org/wiki/Toowong_Cemetery", "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery"]
     },
     {
       "@type": "WebSite",
-      "@id": "https://1871fotc.github.io/#/schema/website/1",
+      "@id": "https://www.fotc.au/#/schema/website/1",
       "name": "Friends of Toowong Cemetery",
-      "url": "https://1871fotc.github.io/",
+      "url": "https://www.fotc.au/",
       "publisher": {
-          "@id": "https://1871fotc.github.io/#/schema/organization/1"
+          "@id": "https://www.fotc.au/#/schema/organization/1"
         }
     },
     {
       "@type": "WebPage",
-      "@id": "https://1871fotc.github.io/",
-      "url": "https://1871fotc.github.io/",
+      "@id": "https://www.fotc.au/",
+      "url": "https://www.fotc.au/",
       "inLanguage": "en",
       "name": "Friends of Toowong Cemetery",
       "isPartOf": {
-          "@id": "https://1871fotc.github.io/#/schema/website/1"
+          "@id": "https://www.fotc.au/#/schema/website/1"
       },
       "about": {
-          "@id": "https://1871fotc.github.io/#/schema/place/1"
+          "@id": "https://www.fotc.au/#/schema/place/1"
         },
-      "dateModified": "2022-05-09",
-      "datePublished": "2022-05-09",
+      "dateModified": "2022-08-30",
+      "datePublished": "2022-08-29",
       "author": {
-          "@id": "https://1871fotc.github.io/#/schema/organization/1"
+          "@id": "https://www.fotc.au/#/schema/organization/1"
         },
       "description": "Discover and share the history and stories of Toowong Cemetery",
       "image": [
-        "https://1871fotc.github.io/assets/logo/fotc-1x1.png",
-        "https://1871fotc.github.io/assets/logo/fotc-banner-4x3.png",
-        "https://1871fotc.github.io/assets/logo/fotc-banner-16x9.png"
+        "https://www.fotc.au/assets/logo/fotc-1x1.png",
+        "https://www.fotc.au/assets/logo/fotc-banner-4x3.png",
+        "https://www.fotc.au/assets/logo/fotc-banner-16x9.png"
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://1871fotc.github.io/#/article/governors/",
+      "@id": "https://www.fotc.au/#/article/governors/",
       "name": "Queensland Governors",
       "headline": "Past Queensland Governors",
       "description": "Stories about past Queensland Governors, Lieutenant-Governors, and Administrators who are remembered in Toowong Cemetery",
       "keywords": ["Toowong Cemetery Stories", "Queensland Governors"],
-      "dateModified": "2022-05-15",
-      "datePublished": "2022-05-15",
+      "dateModified": "2022-08-30",
+      "datePublished": "2022-08-29",
       "inLanguage": "en",
       "author": {
-          "@id": "https://1871fotc.github.io/#/schema/organization/1"
+          "@id": "https://www.fotc.au/#/schema/organization/1"
         },  
       "publisher": {
-          "@id": "https://1871fotc.github.io/#/schema/organization/1"
+          "@id": "https://www.fotc.au/#/schema/organization/1"
         },
-      "image": ["https://1871fotc.github.io/assets/logo/fotc-1x1.png", "https://1871fotc.github.io/assets/logo/fotc-banner-4x3.png", "https://1871fotc.github.io/assets/images/social/stories/governors.png"],
+      "image": ["https://www.fotc.au/assets/logo/fotc-1x1.png", "https://www.fotc.au/assets/logo/fotc-banner-4x3.png", "https://www.fotc.au/assets/images/social/stories/governors.png"],
       "about": {
-          "@id": "https://1871fotc.github.io/#/schema/place/1"
+          "@id": "https://www.fotc.au/#/schema/place/1"
         }, 
       "isPartOf": {
-          "@id": "https://1871fotc.github.io/"
+          "@id": "https://www.fotc.au/"
         }
     }
   ]
