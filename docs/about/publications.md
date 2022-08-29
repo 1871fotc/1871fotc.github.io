@@ -26,11 +26,7 @@ Friends of Toowong Cemetery have published the following resources:
 
 To mark the anniversary of Toowong Cemetery's first year of operation, there was a Heritage Day on Sunday, 24 July 2011 featuring a re-enactment of the burial of Governor Blackall.
 
-The event was filmed and a DVD was produced featuring footage of the re-enactment and segments outlining the history of the cemetery and stories of some people buried there. The DVD is available for purchase for $25 (including GST and postage within Australia).
-
-[Buy the Toowong Cemetery: 140^th^ Anniversary Commemoration DVD](https://forms.gle/8Eont7fDf7BdScxA7){ .md-button .md-button--primary }
-
-
+***[The Toowong Cemetery 140^th^ Anniversary Commemoration DVD](140-commemoration.md)*** is available for purchase.
 
 <!--
 
