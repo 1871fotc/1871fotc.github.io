@@ -4,7 +4,7 @@ search:
   boost: 2
 ---
 
---8<-- "snippets/sem/contact.json" 
+--8<-- "snippets/sem/contact.json"
 
 --8<-- "snippets/hide-nav.html"
 
