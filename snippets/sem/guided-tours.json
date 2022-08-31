@@ -1,0 +1,70 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph":[
+    {
+      "@type": "Organization",
+      "@id": "https://www.fotc.au/#/schema/organization/1",
+      "name": "Friends of Toowong Cemetery Association Inc.",
+      "url": "https://www.fotc.au/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.fotc.au/#/schema/website/1",
+      "name": "Friends of Toowong Cemetery",
+      "url": "https://www.fotc.au/",
+      "publisher": {
+          "@id": "https://www.fotc.au/#/schema/organization/1"
+      }
+    },  
+    {
+      "@type": "WebPage",
+      "@id": "https://www.fotc.au/guided-tours/",
+      "url": "https://www.fotc.au/guided-tours/",
+      "name": "Toowong Cemetery Guided Tours",
+      "isPartOf": {
+          "@id": "https://www.fotc.au/#/schema/website/1"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.fotc.au/#/article/guided-tours/",
+      "name": "Toowong Cemetery Guided Tours",
+      "headline": "Volunteers guide you on a different heritage tour each month",
+      "description": "Volunteers guide you on a different heritage tour each month",
+      "mainEntityOfPage": "https://www.fotc.au/guided-tours/",
+      "keywords": "Toowong Cemetery Guided Tours",
+      "dateModified": "2022-08-31",
+      "datePublished": "2022-08-29",
+      "author": {
+          "@id": "https://www.fotc.au/#/schema/organization/1"
+        },  
+      "publisher": {
+          "@id": "https://www.fotc.au/#/schema/organization/1"
+        },
+      "isPartOf": {
+           "@id": "https://www.fotc.au/guided-tours/"
+        },  
+      "image": ["https://www.fotc.au/assets/logo/fotc-1x1.png", "https://www.fotc.au/assets/logo/fotc-banner-4x3.png", "https://www.fotc.au/assets/images/social/guided-tours.png"],
+      "about": {
+          "@type": [
+              "Cemetery",
+              "TouristAttraction"
+            ],
+          "name": "Toowong Cemetery",
+          "url": "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery",
+          "description": "Heritage‑listed Toowong Cemetery was officially opened on 5 July 1875",
+          "touristType": {
+              "@type": "Audience",
+              "audienceType" : "Memorial Tourism"
+            },
+          "hasMap": "https://www.fotc.au/assets/toowong-cemetery-map-alt.jpg", 
+          "publicAccess": true,
+          "isAccessibleForFree": true,
+          "openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 06:00-18:00",
+          "tourBookingPage": "https://www.fotc.au/guided-tours/"
+        }
+    }
+  ]
+}
+</script>

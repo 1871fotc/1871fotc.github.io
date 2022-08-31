@@ -4,6 +4,8 @@ search:
   boost: 2
 ---
 
+--8<-- "snippets/sem/contact.json" 
+
 --8<-- "snippets/hide-nav.html"
 
 # Guided Tours
@@ -41,13 +43,14 @@ The Museum has an extensive display of photographs and artefacts.
 
 Tours are on the first Sunday of each month (March to December) from 10:30 to 12:00.
 
+Our next tour is on **Sunday 4 September** and is titled, "**Butcher, Baker, Candlestick Maker**" and features people that were involved in small business that are now buried and remembered at Toowong Cemetery.
+
+:fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20220904.ics)**
+
 !!! warning "COVID-19 Restrictions" 
 
-    - Due to COVID-19 our guided tours are **limited to 15 guests** to enable social distancing to be maintained. 
-    - Unfortunately we don't have a booking system, so guests will be invited to join us on a "first come, first served" basis. 
-    - We apologise in advance if you come to the cemetery but are unable to join the tour due to it being over-subscribed. 
-    - There are **[self-guided walks](stories/index.md)** you can take as an alternative.
-    - The Brisbane City Council also offer two self-guided walks that leave from the Shelter Shed and the start of Federation Drive. 
+    Due to COVID-19 our guided tours are **limited to 20 guests** to enable social distancing to be maintained. 
+
 
 ![Women wearing surgical masks during the influenza epidemic, Brisbane, 1919](assets/masks-1919.jpg) 
 
