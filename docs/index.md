@@ -122,7 +122,7 @@ Some cemetery road names have recently been changed to the names of notable peop
 | **[Peter Jackson][Jackson]** Parade        | Boundary Road | running parallel to Frederick Street <br>furthest from the main entrance |
 | Soldiers Parade                            | Boundary Road | running parallel to Frederick Street <br>closest to the main entrance    |
 | Steele Rudd Avenue                 | 4^th^ Avenue  |                                                                      |
-| Walter Ralstone Avenue         | 7^th^ Avenue  |                                                                      |
+| Walter Ralston Avenue         | 7^th^ Avenue  |                                                                      |
 | **[Emma Miller][Miller]** Avenue           | 8^th^ Avenue  | behind Canon Garland Place                                           |
 | **[Charles Heaphy][Heaphy]** Drive         | 8^th^ Avenue  | from the Shelter Shed to Emma Miller Avenue                          |
 | **[Pat Hill][Pat Hill]** Drive             | 8^th^ Avenue  | from the Richer Street end to the Shelter Shed                       |
@@ -193,8 +193,8 @@ Combine your visit to Toowong Cemetery with a visit to other nearby attractions:
 [Jackson]: research/peter-jackson.md "Read Peter's story"
 <!-- [Rudd]: research/arthur-hoey-davis.md "Read Steel Rudd's (Arthur Hoey Davis) story" -->
 [Rudd]: https://adb.anu.edu.au/biography/davis-arthur-hoey-5911 "Read Arthur Hoey Davis' (Steel Rudd) story"
-<!-- [Ralstone]: research/walter-ralstone.md "Read Walter's story" -->
-[Ralstone]: https://adb.anu.edu.au/biography/ralston-walter-vardon-834 "Read Walter's story"
+<!-- [Ralston]: research/walter-ralston.md "Read Walter's story" -->
+[Ralston]: https://adb.anu.edu.au/biography/ralston-walter-vardon-834 "Read Walter's story"
 [Miller]: research/emma-miller.md "Read Emma's story"
 [Heaphy]: research/charles-heaphy.md "Read Charles' story"
 [Pat Hill]: research/pat-hill.md "Read Pat's story"
