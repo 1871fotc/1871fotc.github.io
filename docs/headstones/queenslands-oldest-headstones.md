@@ -1,6 +1,6 @@
 ---
 name: Queensland's oldest headstones
-description: Lost and found headstones, their symbology and secret signs
+description: Queensland's oldest headstones can be found in Toowong Cemetery
 ---
 
 # Queensland's Oldest Headstones

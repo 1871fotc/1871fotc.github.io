@@ -1,6 +1,6 @@
 ---
 title: About Us
-description: What we do, what we've done, what we're working on, and how you can join in 
+description: Learn what Friends of Toowong Cemetery have done, what we're working on, and how you can join in 
 
 search:
   boost: 2  

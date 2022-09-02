@@ -1,5 +1,5 @@
 ---
-description: Volunteers guide you on a different heritage tour each month
+description: Volunteers guide you on a different heritage walk of Toowong Cemetery each month
 search:
   boost: 2
 ---

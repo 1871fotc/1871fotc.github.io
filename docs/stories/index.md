@@ -1,6 +1,6 @@
 ---
 title: Stories and Walks
-description: Walks and stories to discover the people remembered in Toowong Cemetery
+description: Stories and walks to discover the people remembered in Toowong Cemetery
 search:
   boost: 2
 ---

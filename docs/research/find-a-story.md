@@ -1,5 +1,5 @@
 ---
-description: A list of people mentioned in our self-guided walks and links to their stories 
+description: A list of people mentioned in our story collections and links to their individual stories 
 ---
 
 --8<-- "snippets/sem/research/find-a-story.json"
