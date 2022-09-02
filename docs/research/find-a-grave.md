@@ -73,7 +73,7 @@ Markers can be seen on, or embedded into, graves. They represent a person buried
 
 ![Grave markers found on the grass](../assets/markers.jpg){ width="100%" }
 
-*<small>Grave markers found on the grass, separated from their grave.</small>*
+*<small>Grave markers found on the grass, separated from their graves.</small>*
 
 <!-- seek permission to publish image
 

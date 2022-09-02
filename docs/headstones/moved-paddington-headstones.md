@@ -32,7 +32,7 @@ By 1907 there were calls to turn the neglected burial grounds into a park and sp
 
 ## Paddington Cemetery Remains and Headstones moved to Toowong Cemetery { data-search-exclude }
 
-The table below lists the 139 human remains and 106[^1] headstones were moved from Paddington Cemetery to Toowong Cemetery.
+The table below lists the 139 human remains and 106[^1] headstones that were moved from Paddington Cemetery to Toowong Cemetery.
 
 [^1]: Appendix 3 in Volume 2 of the 1914 Parliamentary papers states 105 headstones were moved, Wm. Stokes' headstone wasn't counted as it was 'Removed at the applicants expense'.
 

@@ -161,7 +161,7 @@ Other volunteer groups and commercial operators run tours in the cemetery under 
 [image5]: assets/museum.jpg
 [image6]: assets/federation-pavilion.jpg
 [image7]: assets/peter-jackson.jpg "Peter Jackson's Headstone"
-[image8]: assets/cherub.jpg "Cherub Headstone"
+[image8]: assets/cherub.jpg
 [image9]: assets/harry-potter-16x9.jpg 
 [image10]: assets/clasped-hands.jpg "We Part To Meet Again"
 [image11]: assets/pat-hill-headstone.jpg 
