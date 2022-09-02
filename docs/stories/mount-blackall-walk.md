@@ -80,7 +80,7 @@ Cowlishaw’s wife, Charlotte (née Owen) was the second burial in the grave fol
 
     Proceed to the end of the avenue and to the left find the Federation Pavilion. In the area to the left of the pavilion are Sir Charles Lilley and Sir Samuel Walker Griffith.
     
-    ![x](../assets/404.png){ width="15%"} ![](../assets/samuel-walker-griffith-headstone-1.jpg){ width="15%" } 
+    ![x](../assets/404.png){ width="15%"} ![Sir Samuel Walker Griffith's headstone](../assets/samuel-walker-griffith-headstone-1.jpg){ width="15%" } 
 
 ## Sir Charles Lilley <small>(12‑15‑15)</small>
 
