@@ -7,7 +7,7 @@ description: Get your hands dirty and uncover stories from Brisbane's past
 
 --8<-- "snippets/sem/headstones/archaeological-digs.json"
 
-# Toowong Cemetery Archaeological digs
+# Toowong Cemetery Archaeological Digs
 
 Friends of Toowong Cemetery, in conjunction with the [University of Queensland Archaeology Department](https://social-science.uq.edu.au/undergraduate/archaeology), have been searching for buried headstones in the cemetery grounds since 2006. The annual archaeology dig is [a chance to unearth Brisbane's history](https://www.abc.net.au/news/2018-05-26/archaeology-dig-at-toowong-cemetery-a-chance-to-unearth-history/9800474). 
 
