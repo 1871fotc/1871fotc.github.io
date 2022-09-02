@@ -1,4 +1,7 @@
 ---
+robots: 
+  noindex: true
+  nofollow: true
 search:
   exclude: true
 hide:
