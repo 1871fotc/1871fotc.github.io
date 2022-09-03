@@ -151,6 +151,8 @@ plugins:
         'membership/membership.md': 'about/index.md'
         'links/links.md': 'research/index.md'
         'contactus/contactus.md': 'contact.md'
+# redirect to bitly to count QR code scans
+        'hello.md': 'https://bit.ly/3wQYQxe'        
 #
 # comment out for local builds as cannot resolve missing dependencies
 #
