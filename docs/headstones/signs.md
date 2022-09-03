@@ -167,7 +167,7 @@ Some of these organisations have evolved to become financial services companies,
 
 - The Independent Order of Odd Fellows became IOOF, who in late 2021 decided to [rebrand as Insignia Finance](https://www.insigniafinancial.com.au/about-us/our-business/our-history). 
 - The Ancient Order of Foresters evolved into [Foresters Financial](https://forestersfinancial.com.au/about-us/our-history/).
-- In 1993, the Australian Natives Association merged with Manchester Unity Independent Order of Odd Fellows to become [Australian Unity](https://www.australianunity.com.au/about-us/our-story).
+- In 1993, the Australian Natives Association merged with Manchester Unity Independent Order of Odd Fellows to become [Australian Unity](https://www.australianunity.com.au/about-us/our-history).
 
 You can find signs of Friendly Societies in the local area such as: 
 
