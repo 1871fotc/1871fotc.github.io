@@ -6,4 +6,4 @@ search:
   exclude: true
 ---
 
-# QR Code Scanned
+# QR code scanned
