@@ -139,6 +139,14 @@ extra_javascript:
 # Plugins
 plugins:
   - search
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: fade
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: false  
   - redirects:
       redirect_maps:
         'home/home.md': 'index.md'
@@ -156,7 +164,7 @@ plugins:
 #
 # comment out for local builds as cannot resolve missing dependencies
 #
-  - social
+#  - social
 #
 
 # Page tree - only 2 levels allowed
