@@ -45,10 +45,7 @@
          }
       ],
       "temporalCoverage" : "1831/..",
-      "spatialCoverage": "Paddington Cemetery, Brisbane, Queensland, Australia",
-      "isPartOf": {
-         "@id": "https://www.fotc.au/headstones/lost-paddington-headstones/"
-      }  
+      "spatialCoverage": "Paddington Cemetery, Brisbane, Queensland, Australia"
     }
   ]
 }  
