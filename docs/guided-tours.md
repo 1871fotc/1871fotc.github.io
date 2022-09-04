@@ -1,5 +1,5 @@
 ---
-description: Volunteers guide you on a different heritage walk of Toowong Cemetery each month
+description: Friends of Toowong Cemetery volunteers guide you on 10 different heritage walks each year
 search:
   boost: 2
 ---
@@ -12,22 +12,21 @@ search:
 
 ## Guided Tours
 
-Friends of Toowong Cemetery volunteers guide you on 10 different heritage walks each year. 
+Friends of Toowong Cemetery volunteers guide you on 10 different heritage walks each year.
 
 ![Pat Hill's headstone][image11]{ width="32%" } ![Harry Potter's headstone][image9]{ width="32%" } ![Cherub headstone][image8]{ width="32%" }
 
-**Guided tours are free** but donations are appreciated to help us continue **[our work](about/index.md)**. 
+**Guided tours are free** but donations are appreciated to help us continue **[our work](about/index.md)**.
 
 There's no need to book, just meet under the flagpole, in Canon Garland Place at the Toowong Cemetery. There is plenty of parking available inside the cemetery. Wear a hat, enclosed shoes, and bring a water bottle.
 
-![Canon Garland Place](assets/flag-pole.jpg){ width="98%" } 
+![Canon Garland Place](assets/flag-pole.jpg){ width="98%" }
 
 *<small>The Flagpole in Canon Garland Place</small>*
 
-
 ## Toowong Cemetery Museum
 
-The Museum is open before and after our guided heritage tours. 
+The Museum is open before and after our guided heritage tours.
 
 ![Toowong Cemetery Museum](assets/museum.jpg){ width="98%" }
 
@@ -36,23 +35,21 @@ The Museum is open before and after our guided heritage tours.
 The Museum has an extensive display of photographs and artefacts.
 
 ![Museum photo display 1](assets/museum-photos-1.jpg){ width="48.5%" } ![Museum photo display 2](assets/museum-photos-2.jpg){ width="48.5%" }
-![Museum photo display 2](assets/museum-photos-3.jpg){ width="48.5%" } ![Museum photo display 4](assets/museum-photos-4.jpg){ width="48.5%" } 
-
+![Museum photo display 2](assets/museum-photos-3.jpg){ width="48.5%" } ![Museum photo display 4](assets/museum-photos-4.jpg){ width="48.5%" }
 
 ## Upcoming tours
 
 Tours are on the first Sunday of each month (March to December) from 10:30 to 12:00.
 
-Our next tour is on **Sunday 4 September** and is titled, "**Butcher, Baker, Candlestick Maker**" and features people that were involved in small business that are now buried and remembered at Toowong Cemetery.
+Our next tour is on **Sunday 2 October**. Add it to your calendar.
 
-:fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20220904.ics)**
+:fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20221002.ics)**
 
-!!! warning "COVID-19 Restrictions" 
+!!! warning "COVID-19 Restrictions"
 
     Due to COVID-19 our guided tours are **limited to 20 guests** to enable social distancing to be maintained. 
 
-
-![Women wearing surgical masks during the influenza epidemic, Brisbane, 1919](assets/masks-1919.jpg) 
+![Women wearing surgical masks during the influenza epidemic, Brisbane, 1919](assets/masks-1919.jpg)
 
 *<small>[Women wearing surgical masks during the influenza epidemic, Brisbane, 1919](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218113110002061), — State Library of Queensland. Cropped.</small>*
 
