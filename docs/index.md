@@ -96,11 +96,9 @@ If you enter via the Richer Street back gate, to get to Canon Garland Place:
 - veer left at the Shelter Shed down the one‑way William Brown Avenue (previously 14^th^ Avenue) 
 - at the end, turn right into Emma Miller Avenue (previously 8^th^ Avenue) to arrive behind Canon Garland Place, where you can park on the right side of the road
 
-## Maps
+## Toowong Cemetery Map
 
-### Toowong Cemetery Road Map 
-
-!!! warning "Cemetery Road Warnings" 
+!!! warning "Cemetery Road Warnings"
 
     - **Walter Hill Drive is one way** uphill from Emma Miller Avenue to Dr. Lilian Cooper Drive 
     - **William Brown Avenue is one way** downhill from Dr. Lilian Cooper Drive to Emma Miller Avenue
@@ -138,24 +136,9 @@ Some cemetery road names have recently been changed to the names of notable peop
 
     Unfortunately signs are often vandalised in the cemetery. Please **[report damaged signs to the Brisbane City Council](https://ofpm.brisbane.qld.gov.au/site/wss/form/report-it-traffic-signs).**
 
-### Toowong Cemetery Portion and Section Map 
+## Find a grave
 
-This map will help you to **[find a grave in Toowong Cemetery](research/find-a-grave.md)**. The map shows the old road names. 
-
-<a href="assets/toowong-cemetery-map.jpg" title="Click to expand. Back to return to this page">
-<img class="full-width" src="assets/toowong-cemetery-map@0.5x.jpg" alt="Toowong Cemetery Map" width="70%"></a>
-
-*<small>[Toowong Cemetery](https://graves.brisbane.qld.gov.au) © Brisbane City Council 2016, used under [CC BY 4.0][map-cc-by].</small>* 
-
-<!-- <br> :fontawesome-solid-magnifying-glass-plus: Click to expand. :fontawesome-solid-angle-left:Back to return to this page. -->
-
-<!-- TODO add lightbox -->
-
-<!-- Map links -->
-
-[map-cc-by]: https://creativecommons.org/licenses/by/4.0/  "Creative Commons Attribution 4.0 Licence"
-
-<!-- Add a mobility map eg https://www.brisbane.qld.gov.au/sites/default/files/brisbane_botanic_gardens_mobility_map.pdf -->
+**[Search a person's name to find their resting place](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search)**. Use maps and other resources to **[find a grave in Toowong Cemetery](research/find-a-grave.md)**.
 
 ## Attractions nearby
 

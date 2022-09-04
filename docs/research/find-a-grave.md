@@ -7,7 +7,15 @@ search:
 
 # Find a Grave at Toowong Cemetery
 
-## Portions, Sections and Graves
+## Search for a grave
+
+Use the Brisbane City Council **[Grave location search](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search)** to look up a person's name and find the grave location and other details. 
+
+You can request an update to the official burial records from the same web page.
+
+## Find a grave
+
+### Portions, Sections, and Graves
 
 Graves are located using 3 numbers, *Portion*-*Section*-*Grave*. For example, Peter Jackson's grave is located at Portion 5, Section 28, Grave 1 or (5-28-1). 
 
@@ -16,10 +24,10 @@ See if you can locate Peter Jackson's grave using the Portion and Section number
 <!-- Map -->
 [![Toowong Cemetery Map showing Portions](../assets/toowong-cemetery-map-alt.jpg){ width="100%" }][map]
 
-*<small>Toowong Cemetery Map showing Portions (the large numbers) and Sections (the numbers inside the white rectangles). <br> :fontawesome-solid-magnifying-glass-plus: Click to expand. :fontawesome-solid-angle-left: Back to return to this page.</small>*
+*<small>Toowong Cemetery Map showing Portions (the large numbers) and Sections (the numbers inside the white rectangles).</small>*
 
 <!-- Map links -->
-[map]: ../assets/toowong-cemetery-map-alt.jpg "Click the map to expand. Use Back to return to this page."
+[map]: ../assets/toowong-cemetery-map-alt.jpg 
 
 There are 34 Portions in the cemetery, numbered 1 to 30 and also 2A, 7A, 15A, 29A. Each Section can contain up to 80 graves and the graves are usually in two rows within the section. 
 
@@ -33,37 +41,7 @@ Portion numbers are shown on signs throughout the cemetery.
 
     Unfortunately Portion signs are often vandalised in the cemetery. **[Report damaged signs to the Brisbane City Council](https://ofpm.brisbane.qld.gov.au/site/wss/form/report-it-traffic-signs)** by sharing a photo of the damage.
 
-## Search for a grave
-
-Use the Brisbane City Council **[Grave location search](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search)** to look up a person's name and find the grave location and other details. 
-
-You can request an update to the official burial records from the same web page.
-
-<!--
-## Update burial records
-
-To request an update to the official burial records, [email Cemeteries Administration](mailto://CB-Cemeteries@brisbane.qld.gov.au) and include, either:
-
-- a death certificate 
-- a photograph of the headstone where the information on the headstone can be clearly read
-
-Information on the official burial records that can be updated, includes:
-
-- name
-- date of birth
-- date of death
-- age
-- cause of death
-- photograph of headstone or grave
-
-
-!!! question "Volunteer - contribute a photo to the Graves database"
-
-    Consider contributing a photograph of a headstone to improve the Council database to help others discover the history and stories of Toowong Cemetery.
-    
--->
-
-## Markers
+### Markers
 
 Markers can be seen on, or embedded into, graves. They represent a person buried in the grave. There is no simple way to link a marker, the person it represents, and the grave location. A historic Portion Book maps some markers to people and their grave.
 
