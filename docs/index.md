@@ -11,7 +11,7 @@ hide:
 
 **Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.**
 
-![Toowong Cemetery main entrance][image1]{ width="32.33%" } ![Canon Garland Place][image2]{ width="32.33%" } ![Headstone Symbolism Display][image3]{ width="32.33%" }
+![Toowong Cemetery main entrance][image1]{ width="32.33%" .off-glb } ![Canon Garland Place][image2]{ width="32.33%" .off-glb } ![Headstone Symbolism Display][image3]{ width="32.33%" .off-glb }
 
 [image1]: assets/main-entrance.jpg "The main entrance to Toowong Cemetery"
 [image2]: assets/flag-pole.jpg "Canon Garland Place"
