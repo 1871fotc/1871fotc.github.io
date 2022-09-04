@@ -53,10 +53,7 @@
          }
       ],
       "temporalCoverage" : "1831/..",
-      "spatialCoverage": "Toowong Cemetery, Brisbane, Queensland, Australia",
-      "isPartOf": {
-         "@id": "https://www.fotc.au/research/find-a-story/"
-      }  
+      "spatialCoverage": "Toowong Cemetery, Brisbane, Queensland, Australia"
     }
   ]
 }  
