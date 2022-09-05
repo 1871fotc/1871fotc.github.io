@@ -1,6 +1,6 @@
 ---
 title: Steam
-description: Stories about steam and its connections to Toowong Cemetery
+description: Stories about steam and its connection to Toowong Cemetery
 author: Lyn Maddock
 date: 3/10/2021
 hide:
@@ -9,7 +9,7 @@ hide:
 
 # Steam 
 
-**Stories about people remembered in Toowong Cemetery and their connection with steam**.
+**Stories about steam and its connection to Toowong Cemetery**.
 
 <!-- 
 
