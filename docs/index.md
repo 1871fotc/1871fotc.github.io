@@ -138,7 +138,7 @@ Some cemetery road names have recently been changed to the names of notable peop
 
 ## Find a grave
 
-**[Search a person's name to find their resting place](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search)**. Use maps and other resources to **[find a grave in Toowong Cemetery](research/find-a-grave.md)**.
+Search for a person's name and use maps and other resources to **[find a grave in Toowong Cemetery](research/find-a-grave.md)**.
 
 ## Attractions nearby
 
