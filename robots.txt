@@ -1,3 +1,4 @@
 User-agent: *
 Disallow: /snippets/*
 Disallow: /overrides/*
+Disallow: /fotc/*
