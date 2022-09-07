@@ -54,7 +54,7 @@ Stories marked with :fontawesome-solid-person-walking: are **self-guided walks**
 - **[Judiciary][judiciary]** - Early Judiciary buried in Toowong Cemetery 
 - **[Mariners][mariners]** - Anchors Aweigh!
 - **[Performers][actors]** - Actors and Performers buried in Toowong Cemetery
-- **[Police][thin-blue-line]** - remembering Queensland Colonial Police
+- **[Police][police]** - remembering Queensland Colonial Police
 - **[Print Media Identities of Early Brisbane][printers]** 
 - **[More Print Media Identities of Early Brisbane][printers2]** 
 - **[Propectors](prospectors.md)** 
@@ -130,7 +130,7 @@ Missing Walks
 [judiciary]: judiciary.md
 [printers]: printers.md
 [printers2]: printers-2.md
-[thin-blue-line]: thin-blue-line.md
+[police]: police.md
 [sporting-personalities]: sporting-personalities.md
 [undertakers]: undertakers.md 
 [railway]: railway.md 

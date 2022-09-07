@@ -4,11 +4,9 @@ hide:
   - navigation
 ---
 
-# The Thin Blue Line  
+# Queensland Colonial Police  
 
 **Stories about Queensland Colonial Policing and connections to people remembered in Toowong Cemetery**.
-
-**Queensland Colonial Policing**
 
 --8<-- "snippets/christopher-francis.md"
 ^1^
