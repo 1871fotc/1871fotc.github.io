@@ -5,7 +5,7 @@ search:
   boost: 2
 ---
 
-# Find a Grave at Toowong Cemetery
+# Find a Grave in Toowong Cemetery
 
 ## Search for a grave
 
@@ -71,7 +71,7 @@ Only the surname is recorded in the Portion Book so you can't link a marker to a
 
 You can **[ask the Toowong Cemetery Office to help find a grave](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#locating-graves-and-ashes-memorial-sites)**.
 
-Friends of Toowong Cemetery can also help you find a grave. We can:
+Friends of Toowong Cemetery can help you find a grave. We can:
 
   - mark the side of the road with the section number to help you to find it easily when you visit.
   - outline an unmarked grave using a surface spray. The spray does no harm and two mowings later it will disappear. 
