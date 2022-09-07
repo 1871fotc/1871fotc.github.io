@@ -1,5 +1,5 @@
 ---
-title: Find a Grave at Toowong Cemetery
+title: Find a Grave in Toowong Cemetery
 description: How to find a grave in Toowong Cemetery
 search:
   boost: 2
