@@ -43,7 +43,7 @@ Portion numbers are shown on signs throughout the cemetery.
 
 ### Markers
 
-Markers can be seen on, or embedded into, graves. They represent a person buried in the grave. There is no simple way to link a marker, the person it represents, and the grave location. A historic Portion Book maps some markers to people and their grave.
+Markers can be seen on, or embedded into, graves. They represent a person buried in the grave. A historic Portion Book links some people to markers and their grave. Unfortunately many markers are missing or have been moved.
 
 ![Markers embedded into a grave](../assets/many-markers.jpg){ width="100%" }
 
