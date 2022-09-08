@@ -98,6 +98,8 @@ If you enter via the Richer Street back gate, to get to Canon Garland Place:
 
 ## Toowong Cemetery Map
 
+### Toowong Cemetery Road Map 
+
 !!! warning "Cemetery Road Warnings"
 
     - **Walter Hill Drive is one way** uphill from Emma Miller Avenue to Dr. Lilian Cooper Drive 
@@ -130,11 +132,18 @@ Some cemetery road names have recently been changed to the names of notable peop
 | **[William Brown][Brown]** Avenue          | 14^th^ Avenue |                                                                      |
 | Federation Avenue                          | 15^th^ Avenue |                                                                      |
 
-<!-- Read about [local streets named after people buried in Toowong Cemetery](stories/toowong-street-name-origins.md). --> 
+<!-- Read about [local streets named after people buried in Toowong Cemetery](stories/toowong-street-name-origins.md).
 
 !!! question "Volunteer - report a damaged sign"
 
     Unfortunately signs are often vandalised in the cemetery. Please **[report damaged signs to the Brisbane City Council](https://ofpm.brisbane.qld.gov.au/site/wss/form/report-it-traffic-signs).**
+-->
+
+### Toowong Cemetery Portion Map
+
+![Toowong Cemetery Map showing Portions, Sections and key features](assets/toowong-cemetery-map.jpg){ width="100%" }
+
+*<small>[Toowong Cemetery Area Map](https://www.brisbane.qld.gov.au/sites/default/files/documents/2022-09/20220906-Toowong-Cemetery-Map-2022.pdf) by [Brisbane City Council](https://www.brisbane.qld.gov.au) used under [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/). </small>*
 
 ## Find a grave
 
