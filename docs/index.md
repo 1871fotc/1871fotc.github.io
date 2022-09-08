@@ -100,14 +100,13 @@ If you enter via the Richer Street back gate, to get to Canon Garland Place:
 
 ### Toowong Cemetery Road Map 
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d3943.6078757500636!2d152.9825477508893!3d-27.474338574253586!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sau!4v1642488281276!5m2!1sen!2sau" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
 !!! warning "Cemetery Road Warnings"
 
     - **Walter Hill Drive is one way** uphill from Emma Miller Avenue to Dr. Lilian Cooper Drive 
     - **William Brown Avenue is one way** downhill from Dr. Lilian Cooper Drive to Emma Miller Avenue
     - **5^th^ Avenue is very steep** from Steele Rudd Avenue up to Francis Forde Avenue near the corner of Frederick St and Birdwood Tce. 5^th^ Avenue is not shown on Google Maps.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d3943.6078757500636!2d152.9825477508893!3d-27.474338574253586!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sau!4v1642488281276!5m2!1sen!2sau" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
 
 ### Road Name Changes
 
