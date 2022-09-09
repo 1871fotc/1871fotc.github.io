@@ -7,6 +7,9 @@ search:
 
 # Find a Grave in Toowong Cemetery
 
+Heritage‑listed Toowong Cemetery is the largest cemetery in Queensland. It can be difficult to find a grave as some graves are unmarked, headstones have been destroyed, and sections are not signed.
+
+Follow these steps to find a grave in Toowong Cemetery.
 
 ## Search for a grave
 
@@ -36,24 +39,27 @@ Portion numbers are shown on signs throughout the cemetery.
 
     Unfortunately Portion signs are often vandalised in the cemetery. **[Report damaged signs to the Brisbane City Council](https://ofpm.brisbane.qld.gov.au/site/wss/form/report-it-traffic-signs)** by sharing a photo of the damage.
 
-## Visit a grave
+
+## Plan your visit
 
 Plan you visit to Toowong Cemetery.
 
-  - [Check Office opening hours](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#officehours). 
-  - [Get directions to Toowong Cemetery](https://www.google.com.au/maps/dir//Toowong+Cemetery,+Frederick+St,+Toowong+QLD+4066/@-27.4772749,152.9818283,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x6b9150c2f0f2e23f:0xf02a35bd720a310!2m2!1d152.9839608!2d-27.4772714!3e0)
+  - **[Check Office opening hours](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#officehours)**. 
+  - **[Get directions to Toowong Cemetery](https://www.google.com.au/maps/dir//Toowong+Cemetery,+Frederick+St,+Toowong+QLD+4066/@-27.4772749,152.9818283,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x6b9150c2f0f2e23f:0xf02a35bd720a310!2m2!1d152.9839608!2d-27.4772714!3e0)**.
 
-Travel to Toowong Cemetery. When you arrive **[ask the Toowong Cemetery Office to help find a grave](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#locating-graves-and-ashes-memorial-sites)**.
+## Ask for help 
 
-## Ask Friends of Toowong Cemetery to help to find a grave
+**[Ask Friends of Toowong Cemetery for help](../contact.md)**:
 
-The Friends of Toowong Cemetery can help you find a grave. We can:
+  - If you're visiting outside of office hours, we can mark the side of the road with the section number to help you locate the grave.
+  - If the grave is unmarked, we can outline the grave using a surface spray. The spray does no harm and two mowings later it will disappear.
+  - If you're unable to visit, we can to take a digital photograph of a grave and email it to you.
 
-  - mark the side of the road with the section number to help you locate the grave when you visit.
-  - outline an unmarked grave using a surface spray. The spray does no harm and two mowings later it will disappear.
-  - take a digital photograph of a grave and email it to you.
-  
-**[Ask us to help find a grave](../contact.md)**.
+## Visit a grave
+
+  - **[Travel to Toowong Cemetery](../#visit-toowong-cemetery)**.
+  - When you arrive, **[ask the Toowong Cemetery Office to help find a grave](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#locating-graves-and-ashes-memorial-sites)**.
+
 
 ## Grave Markers
 
