@@ -5,6 +5,9 @@ search:
   boost: 2
 ---
 
+--8<-- "snippets/sem/research/find-a-grave.json"
+
+
 # Find a Grave in Toowong Cemetery
 
 Heritage‑listed Toowong Cemetery is the largest cemetery in Queensland. It can be difficult to find a grave as some graves are unmarked, headstones have been destroyed, and sections are not signed.
