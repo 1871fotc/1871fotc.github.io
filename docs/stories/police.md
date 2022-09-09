@@ -1,4 +1,5 @@
 ---
+description: Stories about Queensland Colonial Policing and connections to people remembered in Toowong Cemetery
 date: 7 October 2012
 hide:
   - navigation
@@ -7,6 +8,8 @@ hide:
 # Queensland Colonial Police  
 
 **Stories about Queensland Colonial Policing and connections to people remembered in Toowong Cemetery**.
+
+These are the stories of some of the police buried in Toowong Cemetery. There are many more and we thank them all for their service.
 
 --8<-- "snippets/christopher-francis.md"
 ^1^
