@@ -1,6 +1,6 @@
 ### Headstone  
 
-[![Charles Heaphy headstone](../assets/charles-heaphy-headstone.jpg){ width="30%" }](../assets/charles-heaphy-headstone.jpg)
+![Charles Heaphy headstone](../assets/charles-heaphy-headstone.jpg){ width="30%" }
 
 *<small>Charles Heaphy's headstone</small>*
 

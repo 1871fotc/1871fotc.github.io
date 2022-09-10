@@ -1,7 +1,6 @@
 ### Headstone  
 
-[![Walter Hill headstone](../assets/ann-hill-headstone.jpg){ width="30%" }](../assets/ann-hill-headstone.jpg)
-
+![Walter Hill headstone](../assets/ann-hill-headstone.jpg){ width="30%" }
 
 
 *<small>Walter Hill's headstone</small>*

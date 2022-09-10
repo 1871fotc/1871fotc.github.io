@@ -1,7 +1,7 @@
 
 ### Headstone  
 
-[![Richard Belford headstone](../assets/richard-belford-headstone.jpg){ width="40%" }](../assets/richard-belford-headstone.jpg)
+![Richard Belford headstone](../assets/richard-belford-headstone.jpg){ width="40%" }
 
 - Erected North Brisbane Burial Grounds, Roman Catholic section, ca. 28 April 1865
 - Moved to: Toowong Cemetery, 16 May 1913

@@ -1,6 +1,6 @@
 ### Headstone  
 
-[![Lilian Cooper headstone](../assets/lilian-cooper-headstone.jpg){ width="30%" }](../assets/lilian-cooper-headstone.jpg)
+![Lilian Cooper headstone](../assets/lilian-cooper-headstone.jpg){ width="30%" }
 
 *<small>Lilian Cooper's headstone</small>*
 

@@ -18,7 +18,7 @@ These stories were conceived as part of commemorative activities. It features on
 -->
 
 <!--
-[![Map](../assets/toowong-identities-1-map.png){ width="40%" }](../assets/toowong-identities-1-map-sml.jpg)
+![Map](../assets/toowong-identities-1-map.png){ width="40%" }
 
 ???+ directions "Directions" 
 

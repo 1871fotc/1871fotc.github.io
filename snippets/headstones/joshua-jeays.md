@@ -1,6 +1,6 @@
 ### Headstone  
 
-[![Joshua and Sarah Jeays headstone](../assets/joshua-jeays-headstone.jpg){ width="30%" }](../assets/joshua-jeays-headstone.jpg)
+![Joshua and Sarah Jeays headstone](../assets/joshua-jeays-headstone.jpg){ width="30%" }
 
 
 ### Inscription

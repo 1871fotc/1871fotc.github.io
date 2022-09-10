@@ -1,6 +1,6 @@
 ### Headstone  
 
-[![NAME headstone](../assets/NAME.jpg){ width="30%" }](../assets/NAME.jpg)
+![NAME headstone](../assets/NAME.jpg){ width="30%" }
 
 *<small>NAME's headstone discovered in a Toowong Cemetery Archaeological Dig.</small>*
 

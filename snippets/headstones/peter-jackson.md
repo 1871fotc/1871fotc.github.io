@@ -1,7 +1,6 @@
 <!-- ### Headstone  
 
-[![Peter Jackson headstone](../assets/peter-jackson-headstone.jpg){ width="30%" }](../assets/peter-jackson-headstone.jpg)
-
+![Peter Jackson headstone](../assets/peter-jackson-headstone.jpg){ width="30%" }
 *<small>Peter Jackson's headstone</small>*
 -->
 

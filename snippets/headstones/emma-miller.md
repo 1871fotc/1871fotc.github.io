@@ -1,6 +1,6 @@
 ### Headstone  
 
-[![Emma Miller headstone](../assets/emma-miller-headstone.jpg){ width="30%" }](../assets/emma-miller-headstone.jpg)
+![Emma Miller headstone](../assets/emma-miller-headstone.jpg){ width="30%" }
 
 *<small>Emma Miller's headstone</small>*
 

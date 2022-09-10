@@ -1,6 +1,6 @@
 ### Headstone  
 
-[![David John Garland headstone](../assets/david-john-garland-headstone.jpg){ width="30%" }](../assets/david-john-garland-headstone.jpg)
+![David John Garland headstone](../assets/david-john-garland-headstone.jpg){ width="30%" }
 
 *<small>David John Garland's headstone</small>*
 

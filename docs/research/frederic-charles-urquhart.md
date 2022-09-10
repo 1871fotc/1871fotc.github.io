@@ -29,7 +29,7 @@ Urquhart retired from the Police Force in 1921 and was appointed as an Administr
 
 ### Headstone
 
-[![Frederic Charles Urquhart headstone](../assets/frederic-charles-urquhart-headstone.jpg){ width="30%" }](../assets/frederic-charles-urquhart-headstone.jpg)
+![Frederic Charles Urquhart headstone](../assets/frederic-charles-urquhart-headstone.jpg){ width="30%" }
 
 
 ### Inscription
