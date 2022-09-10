@@ -142,7 +142,7 @@ Some cemetery road names have recently been changed to the names of notable peop
 
 There are 34 Portions in the cemetery, numbered 1 to 30 and also 2A, 7A, 15A, 29A. Portions contain many sectons. Each section can contain up to 80 graves. The graves in a section are usually in two rows.
 
-![Toowong Cemetery Map showing Portions, Sections and key features](assets/toowong-cemetery-map.jpg){ width="100%" }
+![Toowong Cemetery Map showing Portions, Sections and key features](assets/toowong-cemetery-map.jpg){ width="100%" loading=lazy }
 
 *<small>[Toowong Cemetery Area Map](https://www.brisbane.qld.gov.au/sites/default/files/documents/2022-09/20220906-Toowong-Cemetery-Map-2022.pdf) by [Brisbane City Council](https://www.brisbane.qld.gov.au) used under [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/). </small>*
 
