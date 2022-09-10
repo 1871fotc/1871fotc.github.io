@@ -5,5 +5,12 @@ Disallow: /fotc/*
 Disallow: /qr/*
 Disallow: /javascipts/*
 Disallow: /search/*
-Disallow: /stylesheets/
-*Disallow: /assets/*
+Disallow: /stylesheets/*
+Disallow: /assets/images/social/*
+Disallow: /assets/calendar/*
+Disallow: /assets/guides/*
+Disallow: /assets/javascipts/*
+Disallow: /assets/stylesheets/*
+Disallow: /assets/404-16x9.png
+Disallow: /assets/404.png
+Disallow: /assets/ACNC-Registered-Charity-Logo_RGB.png
