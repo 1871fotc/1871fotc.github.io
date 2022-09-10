@@ -179,20 +179,20 @@ Combine your visit to Toowong Cemetery with a visit to other nearby attractions:
 <!-- Links -->
 
 [main-entrance]: assets/main-entrance.jpg "Toowong Cemetery Main Entrance"
-[Walter Hill]: research/walter-hill.md "Read Walter's story"
-[Cooper]: research/lilian-cooper.md "Read Lilian's story"
+[Walter Hill]: research/walter-hill.md 
+[Cooper]: research/lilian-cooper.md 
 <!-- [Forde]: research/francis-forde.md "Read Francis' story" -->
-[Forde]: https://adb.anu.edu.au/biography/forde-francis-michael-frank-12504 "Read Francis' story"
-[Jackson]: research/peter-jackson.md "Read Peter's story"
+[Forde]: https://adb.anu.edu.au/biography/forde-francis-michael-frank-12504 
+[Jackson]: research/peter-jackson.md 
 <!-- [Rudd]: research/arthur-hoey-davis.md "Read Steel Rudd's (Arthur Hoey Davis) story" -->
-[Rudd]: https://adb.anu.edu.au/biography/davis-arthur-hoey-5911 "Read Arthur Hoey Davis' (Steel Rudd) story"
+[Rudd]: https://adb.anu.edu.au/biography/davis-arthur-hoey-5911 
 <!-- [Ralston]: research/walter-ralston.md "Read Walter's story" -->
-[Ralston]: https://adb.anu.edu.au/biography/ralston-walter-vardon-834 "Read Walter's story"
-[Miller]: research/emma-miller.md "Read Emma's story"
-[Heaphy]: research/charles-heaphy.md "Read Charles' story"
-[Pat Hill]: research/pat-hill.md "Read Pat's story"
-[Dale]: research/elizabeth-dale.md "Read Elizabeth's story"
-[Garland]: research/david-john-garland.md "Read David Garland's story"
+[Ralston]: https://adb.anu.edu.au/biography/ralston-walter-vardon-834
+[Miller]: research/emma-miller.md 
+[Heaphy]: research/charles-heaphy.md 
+[Pat Hill]: research/pat-hill.md 
+[Dale]: research/elizabeth-dale.md 
+[Garland]: research/david-john-garland.md 
 [O'Doherty]: research/kevin-izod-odoherty.md
 [Brown]: research/william-walter-brown.md
 
