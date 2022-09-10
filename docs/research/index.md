@@ -47,6 +47,8 @@ In 1988, as a Bicentennial project, the [Queensland Family History Society](http
 - [Family History](https://www.slq.qld.gov.au/research-collections/family-history) resources from the State Library of Queensland 
 - [Online History and Genealogy](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/?rm=ONLINE+RESOURC0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&dt=list#History) resources available at Brisbane City Council Libraries
 - [Books about Toowong Cemetery](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/results?qu=Toowong+Cemetery&qf=-ITYPE%09Item+Type%091%3AARCHIVES%09City+Archives+Collection&ac=ITYPE%09Item+Type%091%3ALOC-ST-REF%09Local+Studies+Reference+%7C%7C+1%3AREFERENCE%09Reference+Collection+%7C%7C+1%3ALOCSTUDIES%09Local+Studies+%7C%7C+1%3AARCHIVES%09City+Archives+Collection+%7C%7C+1%3ANONFICTION%09Non-Fiction&ac=ITYPE%09Item+Type%091%3ALOC-ST-REF%09Local+Studies+Reference+%7C%7C+1%3AREFERENCE%09Reference+Collection+%7C%7C+1%3ALOCSTUDIES%09Local+Studies+%7C%7C+1%3AARCHIVES%09City+Archives+Collection+%7C%7C+1%3ANONFICTION%09Non-Fiction) in Brisbane City Council Libraries
+- [Toowong History Group](https://toowong.org.au) preserve the history of Toowong through historical photographs, village maps, street names and stories of pioneers of the district. [:fontawesome-brands-facebook:](https://www.facebook.com/toowonghistorygroup/)
+- [Toowong and District Historical Society Inc.](https://toowonghistory.org.au) researches, collects and records the history of the suburbs of Toowong, Milton and Auchenflower, and also part of Mt Coot-tha.
 - [Brisbane City Archives](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/libraries/facilities-services/brisbane-city-archives)
 - [Useful websites for family historians](https://www.slq.qld.gov.au/research-collections/family-history/useful-websites-family-historians) - State Library of Queensland
 - [Queensland Police Museum](https://www.police.qld.gov.au/museum)
@@ -54,4 +56,7 @@ In 1988, as a Bicentennial project, the [Queensland Family History Society](http
 - [Research Guide to cemetery records at Queensland State Archives](https://www.publications.qld.gov.au/ckan-publications-attachments-prod/resources/3b2f93a8-3229-4739-bae5-a130fb199cf9/research-guide-to-cemetery-records.pdf)
 - [Baptist Church Archives Queensland](https://www.bhsq.org/barq/)
 - [Virtual War Memorial Australia](https://vwma.org.au/explore/cemeteries/1788)
+
+<!--
 - The [Under the Lino](http://www.underthelino.com.au) community have a [catalogue of research resources](http://www.underthelino.com.au/resources/)
+-->
