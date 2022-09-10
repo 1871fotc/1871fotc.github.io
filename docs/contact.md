@@ -6,7 +6,7 @@ search:
   boost: 2  
 ---
 
-<!-- -8- "snippets/sem/contact.json" TODO -->
+<!-- -8- "snippets/sem/contact.json" TODO or NOT NEEDED -->
 
 --8<-- "snippets/hide-nav.html"
 
