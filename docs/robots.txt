@@ -5,4 +5,5 @@ Disallow: /fotc/*
 Disallow: /qr/*
 Disallow: /javascipts/*
 Disallow: /search/*
-Disallow: /stylesheets/*
+Disallow: /stylesheets/
+*Disallow: /assets/*
