@@ -1,4 +1,5 @@
 ---
+description: Discover some of the highlights and history on and around Mount Blackall in Toowong Cemetery
 robots: 
   noindex: true
   nofollow: true
@@ -11,7 +12,7 @@ icon: fontawesome/solid/person-walking
 
 # Mount Blackall walk 
 
-A walk along Federation Avenue and then down the slopes of Mount Blackall before exploring significant monuments in and around Canon Garland Place.
+**Discover some of the highlights and history on and around Mount Blackall in Toowong Cemetery**.
 
 --8<-- "snippets/conditions-of-entry.md"
 
@@ -19,14 +20,24 @@ A walk along Federation Avenue and then down the slopes of Mount Blackall before
 
 ![Mount Blackall walk map](../assets/mount-blackall-walk.jpg)
 
+???+ directions "Directions" 
+
+    - :fontawesome-solid-car:{ .deep-purple } If driving, park your car at the end of Federation Avenue.
+    - :fontawesome-solid-person-walking:{ .deep-purple } Begin the heritage walk at the Federation Pavilion. 
+    - 
 ## The Federation Pavilion
+
+[The Federation Pavilion](federation-pavilion.md) commemorates the contribution of the delegates who attended the 1891 Australian Federation Convention that are buried at the Toowong Cemetery. It was officially opened on 3 March 2001.
+
+![Federation Pavilion](../assets/federation-pavilion.jpg){ width="96%" } 
+
 
 ???+ directions "Directions" 
 
-    Begin the heritage walk at the Federation Pavilion and head south-east along Federation Avenue to the impressive fenced monument of Lieutenant-Colonel James Forsyth Thallon.
-    
+    Head south-east, almost to the end of Federation Avenue and on your left is the impressive monument of Lieutenant-Colonel James Forsyth Thallon.
 
-![Federation Pavilion](../assets/federation-pavilion.jpg){ width="96%" } 
+    ![James Thallon's Headstone](../assets/james-forsyth-thallon-headstone.jpg){ width="15%" } 
+
 
 ## Lieutenant-Colonel James Forsyth Thallon <small>(11‑71‑14)</small>
 
@@ -44,7 +55,8 @@ Thallon died at the Mater Hospital in Brisbane on 24 March 1911 from a cerebral 
 
 ???+ directions "Directions" 
 
-    Continue along Federation Avenue to graves of George Phillips and James Cowlishaw on either side of the road.
+   - :fontawesome-solid-person-walking-arrow-loop-left:{ .deep-purple } Retrace your steps along Federation Avenue.
+   - Continue along Federation Avenue to graves of George Phillips and James Cowlishaw on either side of the road.
 
 ## George Phillips <small>(11‑51‑2)</small>
 
