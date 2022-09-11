@@ -26,5 +26,5 @@ Allow: /assets/images/social/stories/index.png
 Allow: /assets/images/social/about/federation-pavilion.png
 Allow: /assets/images/social/about/extraordinary-stories.png
 Allow: /assets/images/social/stories/federation-walk.png
-Allow: /assets/images/social/stories/jewish.png
+Allow: /assets/images/social/stories/jewish-walk.png
 

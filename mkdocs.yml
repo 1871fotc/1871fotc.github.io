@@ -176,7 +176,7 @@ plugins:
 #
 # comment out for local builds as cannot resolve missing dependencies
 #
-  - social
+#  - social
 #
 
 # Page tree - only 2 levels allowed
@@ -201,7 +201,7 @@ nav:
     - More Toowong Identities: stories/toowong-identities-2.md
 # Stories by Profession    
     - Artists: stories/artists.md 
-    - Health Professionals: stories/in-their-caring-hands.md
+    - Health Professionals: stories/nurses-and-doctors.md
     - Judiciary: stories/judiciary.md
     - Mariners: stories/anchors-aweigh.md
     - Performers: stories/all-the-worlds-a-stage.md 
@@ -223,7 +223,7 @@ nav:
 # Community stories  
     - The Irish: stories/irish.md 
     - The Lutheran: stories/lutheran.md
-    - The Jewish Walk: stories/jewish.md 
+    - The Jewish Walk: stories/jewish-walk.md 
 # Other themed stories 
     - Steam: stories/steam.md
     - Building Brisbane: stories/brisbane-open-house.md   

@@ -134,7 +134,7 @@ Missing Walks
 [sporting-personalities]: sporting-personalities.md
 [undertakers]: undertakers.md 
 [railway]: railway.md 
-[nurses]: in-their-caring-hands.md
+[nurses]: nurses-and-doctors.md
 
 [founding-fathers]: founding-fathers.md
 [notable-women]: notable-women.md
@@ -143,7 +143,7 @@ Missing Walks
 
 [convicts]: convict-connections.md
 [irish]: irish.md
-[jewish]: jewish.md
+[jewish]: jewish-walk.md
 [lutheran]: lutheran.md
 [children]: children.md
 [brisbane-open-house]: brisbane-open-house.md
