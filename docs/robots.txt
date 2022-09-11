@@ -7,6 +7,14 @@ Disallow: /javascipts/*
 Disallow: /search/*
 Disallow: /stylesheets/*
 Disallow: /assets/images/social/*
+Allow: /assets/images/social/headstones/*
+Allow: /assets/images/social/history.png
+Allow: /assets/images/social/guided-tours.png
+Allow: /assets/images/social/stories/index.png
+Allow: /assets/images/social/about/federation-pavilion.png
+Allow: /assets/images/social/about/extraordinary-stories.png
+Allow: /assets/images/social/stories/federation-walk.png
+Allow: /assets/images/social/stories/jewish.png
 Disallow: /assets/calendar/*
 Disallow: /assets/guides/*
 Disallow: /assets/javascipts/*
