@@ -24,13 +24,12 @@ icon: fontawesome/solid/person-walking
 
     - :fontawesome-solid-car:{ .deep-purple } If driving, park your car at the end of Federation Avenue.
     - :fontawesome-solid-person-walking:{ .deep-purple } Begin the heritage walk at the Federation Pavilion. 
-    - 
+
 ## The Federation Pavilion
 
-[The Federation Pavilion](federation-pavilion.md) commemorates the contribution of the delegates who attended the 1891 Australian Federation Convention that are buried at the Toowong Cemetery. It was officially opened on 3 March 2001.
+[The Federation Pavilion](../about/federation-pavilion.md) commemorates the contribution of the delegates who attended the 1891 Australian Federation Convention that are buried at the Toowong Cemetery. It was officially opened on 3 March 2001.
 
 ![Federation Pavilion](../assets/federation-pavilion.jpg){ width="96%" } 
-
 
 ???+ directions "Directions" 
 
@@ -55,8 +54,8 @@ Thallon died at the Mater Hospital in Brisbane on 24 March 1911 from a cerebral 
 
 ???+ directions "Directions" 
 
-   - :fontawesome-solid-person-walking-arrow-loop-left:{ .deep-purple } Retrace your steps along Federation Avenue.
-   - Continue along Federation Avenue to graves of George Phillips and James Cowlishaw on either side of the road.
+    - :fontawesome-solid-person-walking-arrow-loop-left:{ .deep-purple } Retrace your steps along Federation Avenue.
+    - Continue along Federation Avenue to graves of George Phillips and James Cowlishaw on either side of the road.
 
 ## George Phillips <small>(11‑51‑2)</small>
 
