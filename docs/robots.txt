@@ -6,7 +6,22 @@ Disallow: /qr/*
 Disallow: /javascipts/*
 Disallow: /search/*
 Disallow: /stylesheets/*
+Disallow: /assets/calendar/*
+Disallow: /assets/guides/*
+Disallow: /assets/javascipts/*
+Disallow: /assets/stylesheets/*
+#
+# Images - Don't flood images with our social images
+#
+User-agent: Googlebot-Image
+User-agent: msnbot-media
 Disallow: /assets/images/social/*
+Disallow: /assets/404-16x9.png
+Disallow: /assets/404.png
+Disallow: /assets/ACNC-Registered-Charity-Logo_RGB.png
+#
+# Allow specific social images
+#
 Allow: /assets/images/social/headstones/*
 Allow: /assets/images/social/history.png
 Allow: /assets/images/social/guided-tours.png
@@ -15,10 +30,4 @@ Allow: /assets/images/social/about/federation-pavilion.png
 Allow: /assets/images/social/about/extraordinary-stories.png
 Allow: /assets/images/social/stories/federation-walk.png
 Allow: /assets/images/social/stories/jewish.png
-Disallow: /assets/calendar/*
-Disallow: /assets/guides/*
-Disallow: /assets/javascipts/*
-Disallow: /assets/stylesheets/*
-Disallow: /assets/404-16x9.png
-Disallow: /assets/404.png
-Disallow: /assets/ACNC-Registered-Charity-Logo_RGB.png
+
