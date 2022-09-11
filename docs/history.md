@@ -20,14 +20,19 @@ Prior to 1875, the flat area where the entrance of Toowong Cemetery now stands w
 
 ## 1866 Toowong Cemetery land reserved
 
-The land for the cemetery was first reserved in 1866. The reserve of 250 acres 1 rood, and an extension of 53 acres were [gazetted][gazette-93], and [Cemetery Trustees appointed][gazette-94] on 7 October 1870.
+The land for the cemetery was first reserved in 1866. [The reserve of 250 acres 1 rood][reserve], and an extension of 53 acres were [gazetted][gazette-93], and [Cemetery Trustees appointed][gazette-94] on 7 October 1870.
 
 [gazette-93]: assets/documents/Queensland_Gov_Gazette_8_October_1870_v11_93.pdf "Read the Queensland Government Gazetter No. 93"
 [gazette-94]: assets/documents/Queensland_Gov_Gazette_10_October_1870_v11_94.pdf "Read the Queensland Government Gazetter No. 94"
 
+<!--
+
 ![Map showing Toowong Cemetery Reservation, ca. 1861](assets/toowong-cemetery-reservation-map-1861-alt.webp)
 
 *<small>[City of Brisbane, County of Stanley, showing Toowong Cemetery Reservation; being sheet 1b of a 20 chain grid series. 20 chains to the inch. Survey Office, Brisbane.](https://www.archivessearch.qld.gov.au/items/ITM634480), ca. 1861 — Queensland State Archives. Cropped.*</small>
+--> 
+
+[reserve]: assets/toowong-cemetery-reservation-map-1861-alt.webp "View a map of the reserved land"
 
 ## 1871 Governor Blackall buried
 
