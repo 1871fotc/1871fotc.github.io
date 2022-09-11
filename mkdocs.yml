@@ -151,6 +151,10 @@ plugins:
       redirect_maps:
         'home/home.md': 'index.md'
         'home/index.md': 'index.md'
+        'walks/news.md': 'index.md'        
+# set up redirects for renamed pages
+        'stories/in-their-caring-hands.md': 'stories/nurses-and-doctors.md'
+        'stories/jewish.md': 'stories/jewish-walk.md'
 # set up redirects for deep links
         'walks/walks.md': 'stories/index.md'
         'activities/activities.md': 'about/index.md'
@@ -159,6 +163,14 @@ plugins:
         'membership/membership.md': 'about/index.md'
         'links/links.md': 'research/index.md'
         'contactus/contactus.md': 'contact.md'
+# set up redirects for deep pdf links
+        'subset/Lutherans.pdf': 'stories/lutheran.md/'
+        'subset/brisbane_mayors.pdf': 'stories/brisbane-mayors.md/'
+        'subset/Irish_Trail.pdf': 'stories/irish.md/'
+        'subset/Jewish_Trail.pdf': 'stories/jewish-walk.md/'
+        'subset/artists.pdf': 'stories/artists.md/'
+        'subset/nurses.pdf': 'stories/nurses.md/'
+#        
 # redirect to bitly to count QR code scans
         'hello.md': 'https://bit.ly/3wQYQxe'        
 #
