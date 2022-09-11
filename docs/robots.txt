@@ -3,13 +3,10 @@ Disallow: /snippets/*
 Disallow: /overrides/*
 Disallow: /fotc/*
 Disallow: /qr/*
-Disallow: /javascipts/*
 Disallow: /search/*
-Disallow: /stylesheets/*
 Disallow: /assets/calendar/*
 Disallow: /assets/guides/*
-Disallow: /assets/javascipts/*
-Disallow: /assets/stylesheets/*
+
 #
 # Images - Don't flood images with our social images
 #
