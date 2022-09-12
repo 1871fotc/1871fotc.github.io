@@ -169,7 +169,7 @@ plugins:
         'subset/Irish_Trail.pdf': 'stories/irish.md/'
         'subset/Jewish_Trail.pdf': 'stories/jewish-walk.md/'
         'subset/artists.pdf': 'stories/artists.md/'
-        'subset/nurses.pdf': 'stories/nurses.md/'
+        'subset/nurses.pdf': 'stories/nurses-and-doctors.md/'
 #        
 # redirect to bitly to count QR code scans
         'hello.md': 'https://bit.ly/3wQYQxe'        
