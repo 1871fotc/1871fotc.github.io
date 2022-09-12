@@ -328,7 +328,7 @@ Should you have any questions arising from this visit, please jot them on a piec
 
 ## Acknowledgements
 
-Text by Morris. S. Ochert OAM - Queensland Researcher, Australian Jewish Historical Society
+Text by Morris. S. Ochert OAM - Queensland Researcher, [Australian Jewish Historical Society](https://www.ajhs.com.au/)
 
 <!-- 
 Photography by: Joyce Simpson Sexton's Office Toowong Cemetery
