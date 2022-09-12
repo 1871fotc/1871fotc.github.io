@@ -11,7 +11,7 @@ Read about the:
 - **[death and burial of Governor Blackall](https://trove.nla.gov.au/newspaper/article/1295293)** from the pages of the Brisbane Courier, 3 January 1871.
 - **[re-enactment of Governor Blackall's burial](https://www.slq.qld.gov.au/blog/toowong-cemetery-marks-140-years)** in the State Library of Queensland Blog.
 
-A book, **[Colonel Samuel Wensley Blackall : 1809-1871](../assets/guides/samuel-blackall.pdf)** was published to celebrate the 140^th^ anniversary of the first year of operation of the Brisbane General Cemetery, now known as the Toowong Cemetery, and the internment of the first person buried there, Governor Samuel Wensley Blackall.
+A book, **[Colonel Samuel Wensley Blackall : 1809-1871](../assets/documents/samuel-blackall.pdf)** was published to celebrate the 140^th^ anniversary of the first year of operation of the Brisbane General Cemetery, now known as the Toowong Cemetery, and the internment of the first person buried there, Governor Samuel Wensley Blackall.
 
 The Friends of Toowong Cemetery received a Silver Award in the 2012 [National Trust of Queensland Heritage Awards for Volunteer Projects](https://www.nationaltrustqld.org.au/what-we-do/heritage-awards) for the 140^th^ Anniversary Commemoration of the cemetery.
 
