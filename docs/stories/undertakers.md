@@ -6,9 +6,10 @@ hide:
 
 # Undertakers  
 
-![John Hislop Undertakers, Brisbane, ca. 1902](../assets/John-Hislop-Undertakers-Brisbane-ca1902.jpg){ width="70%" }
-
-*<small>[John Hislop Undertakers, Brisbane, ca. 1902](http://onesearch.slq.qld.gov.au/permalink/f/1c7c5vg/slq_alma21220144750002061), held by John Oxley Library, State Library of Queensland</small>*
+<figure markdown>
+  ![John Hislop Undertakers, Brisbane, ca. 1902](../assets/John-Hislop-Undertakers-Brisbane-ca1902.jpg){ width="70%" }
+  <figcaption markdown>[John Hislop Undertakers, Brisbane, ca. 1902](http://onesearch.slq.qld.gov.au/permalink/f/1c7c5vg/slq_alma21220144750002061), held by John Oxley Library, State Library of Queensland</figcaption>
+</figure>
 
 --8<-- "snippets/george-barney-petrie.md"
 
