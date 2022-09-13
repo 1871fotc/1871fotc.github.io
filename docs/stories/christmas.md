@@ -6,9 +6,10 @@ hide:
 
 # Christmas
 
-![Christmas morning under the Christmas tree, ca. 1935](../assets/christmas-1935.jpg){ width="40%" }  
-
-*<small>[Christmas morning under the Christmas tree, ca. 1935](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220399300002061) — State Library of Queensland.</small>*
+<figure markdown>
+  ![Christmas morning under the Christmas tree, ca. 1935](../assets/christmas-1935.jpg){ width="40%" } 
+  <figcaption markdown>[Christmas morning under the Christmas tree, ca. 1935](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220399300002061) — State Library of Queensland.</figcaption>
+</figure>
 
 <!--
 
