@@ -15,9 +15,10 @@ The Friends of Toowong Cemetery have published **[over 500 individual stories](.
 
 Individual stories have been grouped into **over 40 themed collections** below.
 
-![State Library of Queensland's reading room, Brisbane, 1902](../assets/slq-reading-room-1902-16x9.jpg)
-
-*<small>[State Library of Queensland's reading room, Brisbane, 1902](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21298102690002061) - State Library of Queensland. Cropped.</small>*
+<figure markdown>
+  ![State Library of Queensland's reading room, Brisbane, 1902](../assets/slq-reading-room-1902-16x9.jpg)
+  <figcaption markdown>[State Library of Queensland's reading room, Brisbane, 1902](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21298102690002061) - State Library of Queensland. Cropped.</figcaption>
+</figure>
 
 ## Self-guided walks 
 
