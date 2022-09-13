@@ -100,6 +100,10 @@ th {
     padding: 6px 10px;
 }
 
+.md-typeset figure {
+  text-align: left; 
+  float: left;
+}
 
 .md-typeset figcaption {
   text-align: left; 
