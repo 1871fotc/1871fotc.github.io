@@ -100,6 +100,15 @@ th {
     padding: 6px 10px;
 }
 
+
+.md-typeset figcaption {
+  text-align: left; 
+  font-size: 0.875em;
+  max-width: 100%;
+  float: left;
+  margin-top: 0px;
+}
+
 /* YouTube embed */
 .video-wrapper {
   position: relative;
@@ -165,6 +174,7 @@ th {
   -webkit-mask-image: var(--md-admonition-icon--directions);
           mask-image: var(--md-admonition-icon--directions); 
 }
+
 
 /* css for imageZoom. need to blackout rest of screen for imageZoom. see https://github.com/squidfunk/mkdocs-material/issues/1635 
 

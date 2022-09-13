@@ -7,10 +7,11 @@ icon: fontawesome/solid/person-walking
 
 # The Jewish walk
 
-![The Brisbane Synagogue, ca. 1906](../assets/brisbane-synagogue-1906.jpg)
+<figure markdown>
+  ![The Brisbane Synagogue, ca. 1906](../assets/brisbane-synagogue-1906.jpg)
+  <figcaption markdown>[The Brisbane Synagogue, ca. 1906](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218659720002061). Erected in Margaret Street in 1885 and consecrated on 18 July 1886 - State Library of Queensland. Cropped.</figcaption>
+</figure>
 
-*<small>[The Brisbane Synagogue, ca. 1906](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218659720002061). Erected in Margaret Street in 1885 and consecrated on 18 July 1886 - State Library of Queensland. Cropped. </small>* 
- 
 This is a Jewish Cemetery. Our population in Queensland is quite small, so its cemeteries number only ten and some have rarely been used. In Brisbane there is one at Toowong dating back from the 1870's and the other is at Mt Gravatt, which opened in 1966. Originally there was a small area in the old Lang Park (Paddington) Cemetery, but that was closed and the 3 known Jewish burials, and their monuments, were brought to Toowong in 1913. 
 
 Jewish deceased are buried with their heads toward the East. This has a religious significance. Only one person is buried in each grave. Before the coffin is covered with earth, a small amount of soil of the Holy City of Jerusalem is sprinkled over it. Burial is conducted by a world‑wide, ancient organisation called the "Chevra Kadisha" (The Sacred Society). It has a variety of duties, all of a compassionate nature, e.g. care of orphans and widows, comfort of the dying, charity, etc.
