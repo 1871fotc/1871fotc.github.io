@@ -9,11 +9,10 @@ hide:
 
 # At the mercy of the weather
 
-
-![The 'Young Australia' wrecked at Moreton Island](../assets/young-australia-ship-wrecked.jpeg){ width="70%" }  
-
-*<small>[The 'Young Australia' wrecked at Moreton Island, Queensland](https://collections.slsa.sa.gov.au/resource/PRG+1373/5/9) — State Library of South Australia  - PRG 1373/5/9</small>*
-
+<figure markdown>
+  ![The 'Young Australia' wrecked at Moreton Island](../assets/young-australia-ship-wrecked.jpeg){ width="70%" }
+  <figcaption markdown>[The 'Young Australia' wrecked at Moreton Island, Queensland](https://collections.slsa.sa.gov.au/resource/PRG+1373/5/9) — State Library of South Australia  - PRG 1373/5/9</figcaption>
+</figure>
 
 <!--
 ![Map](../assets/toowong-identities-1-map.png){ width="40%" }
