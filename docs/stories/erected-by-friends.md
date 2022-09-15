@@ -1,6 +1,6 @@
 ---
 title: Erected by Family, Friends and Colleagues
-description: A walk around the historic headstones of people that were highly respected by friends and family
+description: Stories about people whose headstones were erected Family, Friends and Colleagues
 author: Lyn Maddock
 date: 1/6/2014
 hide:
