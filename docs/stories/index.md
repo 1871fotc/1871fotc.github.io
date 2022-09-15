@@ -85,7 +85,7 @@ Stories marked with :fontawesome-solid-person-walking: are **self-guided walks**
 - **[Steam](steam.md)** - stories about our steam-driven past
 - **[Building Brisbane][brisbane-open-house]** - recalling the builders of early Brisbane
 - **[Convicts][convicts]** - connections to our convict past
-- **[Erected by Friends and Family](erected-by-friends.md)** 
+- **[Erected by Family, Friends and Colleagues](erected-by-friends.md)** 
 - **[Christmas](christmas.md)** 
 - **[At the mercy of the weather](weather.md)** 
 - **[20/20 Vision](2020-vision.md)**  
