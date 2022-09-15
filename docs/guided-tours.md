@@ -41,7 +41,7 @@ The Museum has an extensive display of photographs and artefacts.
 
 Tours are on the first Sunday of each month (March to December) from 10:30 to 12:00.
 
-Our next tour is on **Sunday 2 October**. Add it to your calendar.
+Our next tour is called "**Tragically Taken**" and is on **Sunday 2 October**. Add it to your calendar.
 
 :fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20221002.ics)**
 
