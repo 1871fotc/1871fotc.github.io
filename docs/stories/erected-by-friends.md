@@ -1,6 +1,6 @@
 ---
 title: Erected by Family, Friends and Colleagues
-description: Stories about people whose headstones were erected Friends and Colleagues
+description: Stories about people whose headstones were erected by Friends and Colleagues
 author: Lyn Maddock
 date: 1/6/2014
 hide:
@@ -8,6 +8,8 @@ hide:
 ---
 
 # Erected by Family, Friends and Colleagues
+
+**Stories about people whose headstones were erected by Family, Friends and Colleagues.**
 
 <!--
 ???+ directions "Directions" 
