@@ -77,7 +77,7 @@ If you're using public transport to get here, use the **[TransLink Journey Plann
 - cross the Western Freeway using the **[Canon Garland Overpass](https://garlandmemorial.com/2022/06/03/canon-garland-overpass/)**, a bike and walking bridge accessed from Anzac Park
 - choose a bus that avoids the need to cross major roads (e.g. Routes **[471](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/471/outbound/)**, **[598](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/598)**, **[599](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/599)**)
 
-## When you arrive
+### When you arrive
 
 If you enter the main entrance, you'll find: 
 
