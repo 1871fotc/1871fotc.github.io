@@ -18,7 +18,7 @@ Follow these steps to find a grave in Toowong Cemetery.
 
 Use the Brisbane City Council **[Grave location search](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search)** to look up a person's name and find their location in Toowong Cemetery.
 
-Note the location which will 3 numbers in the format, *Portion*-*Section*-*Grave*. For example, Peter Jackson's grave is located at Portion 5, Section 28, Grave 1 or 5-28-1.
+Note the location which will be 3 numbers in the format, *Portion*-*Section*-*Grave*. For example, Peter Jackson's grave is located at Portion 5, Section 28, Grave 1 or 5-28-1.
 
 ## Find a grave
 
