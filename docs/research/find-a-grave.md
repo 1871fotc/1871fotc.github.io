@@ -18,6 +18,13 @@ Use the Brisbane City Council **[Grave location search](https://www.brisbane.qld
 
 Note the location which will be 3 numbers in the format, *Portion*-*Section*-*Grave*. For example, Peter Jackson's grave is located at Portion 5, Section 28, Grave 1, or 5-28-1.
 
+<figure markdown>
+  ![BCC Grave Location Search result for Peter Jackson](../assets/BCC-grave-location-search-results.png
+){ width="100%" }
+  <figcaption markdown>BCC Grave Location Search result for Peter Jackson</figcaption>
+</figure>
+
+
 ## Locate the grave on the map
 
 Use the Toowong Cemetery Map to locate the Portion and Section the person is buried in.
@@ -62,7 +69,7 @@ Plan your visit to Toowong Cemetery.
 
 ## Grave Markers
 
-Markers can be seen on, or embedded into, graves. They represent a person buried in the grave. A historic Portion Book links some people to markers and their grave. Unfortunately many markers are missing or have been moved.
+Markers can be seen on, or embedded into, graves. They represent a person buried in the grave. Historic Burial and Portion Registers link some people to markers and their grave. Unfortunately many markers are missing or have been moved.
 
 <figure markdown>
   ![Markers embedded into a grave](../assets/many-markers.jpg){ width="100%" }
