@@ -6,6 +6,7 @@ Disallow: /qr/*
 Disallow: /search/*
 Disallow: /assets/calendar/*
 Disallow: /assets/guides/*
+Disallow: /assets/documents/*
 
 #
 # Images - Don't flood images with our social images
