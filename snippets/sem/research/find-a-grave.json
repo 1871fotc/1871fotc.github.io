@@ -37,9 +37,7 @@
       "@type": "HowTo", 
       "name": "Find a grave in Toowong Cemetery",
       "totalTime": "PT15M",
-      "description": "Heritage‑listed Toowong Cemetery is the largest cemetery in Queensland. It can be difficult to find a grave as some graves are unmarked, headstones have been destroyed, and sections are not signed.
-    
-    Follow these steps to find a grave in Toowong Cemetery.",
+      "description": "Heritage‑listed Toowong Cemetery is the largest cemetery in Queensland. It can be difficult to find a grave as some graves are unmarked, headstones have been destroyed, and sections are not signed. Follow these steps to find a grave in Toowong Cemetery.",
       "image": "https://www.fotc.au/assets/images/social/research/find-a-grave.png",
       "estimatedCost": {
         "@type": "MonetaryAmount",
@@ -66,8 +64,8 @@
         "@type": "HowToStep",
         "text": "Use the Toowong Cemetery Map to find the Portion and Section the person is buried in.",
         "image": "https://www.fotc.au/assets/toowong-cemetery-map.jpg",
-        "name": "Find a grave",
-        "url": "https://www.fotc.au/research/find-a-grave/#find-a-grave"
+        "name": "Locate the grave on the map",
+        "url": "https://www.fotc.au/research/find-a-grave/#locate-the-grave-on-the-map" 
       },{
         "@type": "HowToStep",
         "text": "Check Office opening hours.
