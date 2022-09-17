@@ -41,7 +41,7 @@ Portion numbers are shown on signs throughout the cemetery.
 
 ## Plan your visit
 
-Plan you visit to Toowong Cemetery.
+Plan your visit to Toowong Cemetery.
 
   - **[Check Office opening hours](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#officehours)**. 
   - **[Get directions to Toowong Cemetery](https://www.google.com.au/maps/dir//Toowong+Cemetery,+Frederick+St,+Toowong+QLD+4066/@-27.4772749,152.9818283,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x6b9150c2f0f2e23f:0xf02a35bd720a310!2m2!1d152.9839608!2d-27.4772714!3e0)**.
