@@ -1,6 +1,6 @@
 ---
 title: Find a Grave in Toowong Cemetery
-description: How to find a grave in Toowong Cemetery
+description: Find a grave in Toowong Cemetery in 5 steps
 search:
   boost: 2
 ---
@@ -8,21 +8,19 @@ search:
 --8<-- "snippets/sem/research/find-a-grave.json"
 
 
-# Find a Grave in Toowong Cemetery
+# How to find a grave in Toowong Cemetery
 
 Heritage‑listed Toowong Cemetery is the largest cemetery in Queensland. It can be difficult to find a grave as some graves are unmarked, headstones have been destroyed, and sections are not signed.
-
-Follow these steps to find a grave in Toowong Cemetery.
 
 ## Search for a grave
 
 Use the Brisbane City Council **[Grave location search](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search)** to look up a person's name and find their location in Toowong Cemetery.
 
-Note the location which will be 3 numbers in the format, *Portion*-*Section*-*Grave*. For example, Peter Jackson's grave is located at Portion 5, Section 28, Grave 1 or 5-28-1.
+Note the location which will be 3 numbers in the format, *Portion*-*Section*-*Grave*. For example, Peter Jackson's grave is located at Portion 5, Section 28, Grave 1, or 5-28-1.
 
-## Find a grave
+## Locate the grave on the map
 
-Use the Toowong Cemetery Map to find the Portion and Section the person is buried in.
+Use the Toowong Cemetery Map to locate the Portion and Section the person is buried in.
 
 Can you locate Peter Jackson's grave (5-28-1) using the Portion and Section numbers in the map below?
 
@@ -35,13 +33,10 @@ There are 34 Portions in the cemetery, numbered 1 to 30 and also 2A, 7A, 15A, 29
 
 Portion numbers are shown on signs throughout the cemetery.
 
-![Portion Sign](../assets/portion-sign.jpg){ width="100%" }
-
-*<small>Portion 10 sign post.</small>*
-
-!!! question "Volunteer - report a damaged sign"
-
-    Unfortunately Portion signs are often vandalised in the cemetery. **[Report damaged signs to the Brisbane City Council](https://ofpm.brisbane.qld.gov.au/site/wss/form/report-it-traffic-signs)** by sharing a photo of the damage.
+<figure markdown>
+  ![Portion Sign](../assets/portion-sign.jpg){ width="100%" }
+  <figcaption markdown>Portion 10 sign post.</figcaption>
+</figure>
 
 
 ## Plan your visit
@@ -69,19 +64,21 @@ Plan you visit to Toowong Cemetery.
 
 Markers can be seen on, or embedded into, graves. They represent a person buried in the grave. A historic Portion Book links some people to markers and their grave. Unfortunately many markers are missing or have been moved.
 
-![Markers embedded into a grave](../assets/many-markers.jpg){ width="100%" }
+<figure markdown>
+  ![Markers embedded into a grave](../assets/many-markers.jpg){ width="100%" }
+  <figcaption>Grave markers embedded into a grave surround.</figcaption>
+</figure>
 
-*<small>Grave markers embedded into a grave surround.</small>*
-
-![Grave markers found on the grass](../assets/markers.jpg){ width="100%" }
-
-*<small>Grave markers found on the grass, separated from their graves.</small>*
+<figure markdown>
+  ![Grave markers found on the grass](../assets/markers.jpg){ width="100%" }
+  <figcaption>Grave markers found on the grass, separated from their graves.</figcaption>
+</figure>
 
 <!-- seek permission to publish image
 
 To map a marker to a grave, you need to look up old portion books. For example, Portion 1, Section 1, Grave 38 in the Portion Book page below, maps to Marker ZI 735, which is annotated with the name *"Gale"*. 
 
-Searching for *"Gale"* in the Brisbane City Council **[Grave location search](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search)** you find, by looking at each entry for *"Gale"*, Ruby Mary Gale, who was buried in 1-1-38 on 24 November 1924. You'll also find 	Ada Florence Morgan buried in 1-1-38 on 11 November 1878 - perhaps this is the B 663 crossed out in the Portion Book. 
+Searching for *"Gale"* in the Brisbane City Council **[Grave location search](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search)** you find, by looking at each entry for *"Gale"*, Ruby Mary Gale, who was buried in 1-1-38 on 24 November 1924. You'll also find Ada Florence Morgan buried in 1-1-38 on 11 November 1878 - perhaps this is the B 663 crossed out in the Portion Book. 
 
 Only the surname is recorded in the Portion Book so you can't link a marker to a specific person, although you may be able to imply a link by the order the markers are recorded and the date of each person's death. 
 
@@ -95,6 +92,7 @@ Only the surname is recorded in the Portion Book so you can't link a marker to a
 
 There are many unmarked graves in Toowong Cementery. Take care when you walk across the grass as unmarked graves can leave hidden hollows that are a trip hazard.
 
-![Unmarked graves](../assets/unmarked-graves.jpg){ width="100%" }
-
-*<small>Unmarked graves can be clearly seen after rain.</small>*
+<figure markdown>
+  ![Unmarked graves](../assets/unmarked-graves.jpg){ width="100%" }
+  <figcaption markdown>Unmarked graves can be clearly seen after rain.</figcaption>
+</figure>
