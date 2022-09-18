@@ -63,7 +63,12 @@
           "isAccessibleForFree": true,
           "openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 06:00-18:00",
           "tourBookingPage": "https://www.fotc.au/guided-tours/"
-        }
+        },
+        "mentions": [
+          {"@type": "Place","name": "Toowong Cemetery","sameAs": "https://en.wikipedia.org/wiki/Toowong_Cemetery"}, 
+          {"@type": "Thing","name": "Guided Tours","sameAs": "https://en.wikipedia.org/wiki/Walking_tour"}, 
+          {"@type": "Thing","name": "Toowong Cemetery Museum","sameAs": "https://en.wikipedia.org/wiki/Museum"}
+          ]
     },
     {
       "@type": "Event",
