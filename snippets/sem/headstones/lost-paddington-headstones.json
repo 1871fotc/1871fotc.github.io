@@ -22,6 +22,12 @@
       "@id": "https://www.fotc.au/headstones/lost-paddington-headstones/",
       "url": "https://www.fotc.au/headstones/lost-paddington-headstones/",
       "name": "Lost Paddington Cemetery Headstones",
+      "mentions": [
+        {"@type": "Place","name": "Toowong Cemetery","sameAs": "https://en.wikipedia.org/wiki/Toowong_Cemetery"}, 
+        {"@type": "Place","name": "Christ Church Milton","sameAs": "https://en.wikipedia.org/wiki/Christ_Church%2C_Milton"}, 
+        {"@type": "Thing","name": "Headstone","sameAs": "https://en.wikipedia.org/wiki/Headstone"}, 
+        {"@type": "Place","name": "Paddington Cemetery","sameAs": "https://en.wikipedia.org/wiki/North_Brisbane_Burial_Ground"}
+      ],
       "isPartOf": {
           "@id": "https://www.fotc.au/#/schema/website/1"
       }
