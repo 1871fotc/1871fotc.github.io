@@ -66,9 +66,9 @@
         },
       "mentions": [
         {"@type": "Place","name": "Toowong Cemetery","sameAs": "https://en.wikipedia.org/wiki/Toowong_Cemetery"}, 
-        {"@type": "Place","name": "North Brisbane Burial Grounds","sameAs": "https://en.wikipedia.org/wiki/North_Brisbane_Burial_Ground"}
-        {"@type": "Place","name": "Lang Park","sameAs": "https://en.wikipedia.org/wiki/Lang_Park"}
-        {"@type": "Place","name": "God's Acre Pioneer cemetery","sameAs": "https://en.wikipedia.org/wiki/God%27s_Acre_Cemetery"}
+        {"@type": "Place","name": "North Brisbane Burial Grounds","sameAs": "https://en.wikipedia.org/wiki/North_Brisbane_Burial_Ground"},
+        {"@type": "Place","name": "Lang Park","sameAs": "https://en.wikipedia.org/wiki/Lang_Park"},
+        {"@type": "Place","name": "God's Acre Pioneer cemetery","sameAs": "https://en.wikipedia.org/wiki/God%27s_Acre_Cemetery"},
         {"@type": "Person","name": "Samuel Wensley Blackall","sameAs": "https://en.wikipedia.org/wiki/Samuel_Blackall"}, 
         {"@type": "Person","name": "David Garland","sameAs": "https://en.wikipedia.org/wiki/David_John_Garland"}, 
         {"@type": "Thing","name": "Mission: Impossible","sameAs": "https://en.wikipedia.org/wiki/Mission:_Impossible_(1988_TV_series)"}, 
