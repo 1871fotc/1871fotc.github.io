@@ -1,5 +1,5 @@
 ---
-title: Stories and Walks
+title:  Walks and Stories
 description: Stories and walks to discover the people remembered in Toowong Cemetery
 search:
   boost: 2
@@ -9,7 +9,7 @@ search:
 
 --8<-- "snippets/hide-nav.html"
 
-# Toowong Cemetery Stories and Walks 
+# Toowong Cemetery Walks and Stories 
 
 The Friends of Toowong Cemetery have published **[over 500 individual stories](../research/find-a-story.md)** about people remembered at the cemetery. 
 
@@ -20,7 +20,7 @@ Individual stories have been grouped into **over 40 themed collections** below.
   <figcaption markdown>[State Library of Queensland's reading room, Brisbane, 1902](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21298102690002061) - State Library of Queensland. Cropped.</figcaption>
 </figure>
 
-## Self-guided walks 
+## Toowong Cemetery self-guided walks 
 
 Stories marked with :fontawesome-solid-person-walking: are **self-guided walks** with maps and directions. 
 

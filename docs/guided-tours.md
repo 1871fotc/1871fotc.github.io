@@ -8,7 +8,7 @@ search:
 
 --8<-- "snippets/hide-nav.html"
 
-# Guided Tours
+# Toowong Cemetery Guided Tours
 
 ## Guided Tours
 

@@ -28,7 +28,7 @@
       "@id": "https://www.fotc.au/stories/",
       "url": "https://www.fotc.au/stories/",
       "inLanguage": "en",
-      "name": "Toowong Cemetery Stories and Walks",
+      "name": "Toowong Cemetery Walks and Stories",
       "isPartOf": {
           "@id": "https://www.fotc.au/#/schema/website/1"
         },
