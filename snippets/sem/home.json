@@ -82,7 +82,16 @@
       "about": {
           "@id": "https://www.fotc.au/#/schema/place/1"
         },
-      "dateModified": "2022-09-04",
+      "mentions": [
+        {"@type": "Place","name": "Toowong Cemetery","sameAs": "https://en.wikipedia.org/wiki/Toowong_Cemetery"}, 
+        {"@type": "Person","name": "Samuel Blackall","sameAs": "https://en.wikipedia.org/wiki/Samuel_Blackall"}, 
+        {"@type": "Place","name": "Queensland","sameAs": "https://en.wikipedia.org/wiki/Queensland"}, 
+        {"@type": "Place","name": "Brisbane","sameAs": "https://en.wikipedia.org/wiki/Brisbane"}, 
+        {"@type": "Place","name": "Australia","sameAs": "https://en.wikipedia.org/wiki/Australia"}, 
+        {"@type": "Thing","name": "Symbolism","sameAs": "https://en.wikipedia.org/wiki/Symbol"}, 
+        {"@type": "Organization","name": "Brisbane City Council","sameAs": "https://en.wikipedia.org/wiki/City_of_Brisbane"}
+      ],
+      "dateModified": "2022-09-18",
       "datePublished": "2022-08-29",
       "author": {
           "@id": "https://www.fotc.au/#/schema/organization/1"
