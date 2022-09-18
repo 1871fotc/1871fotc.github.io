@@ -52,6 +52,7 @@ In 1988, as a Bicentennial project, the [Queensland Family History Society](http
 - [Brisbane History West](https://brisbanehistorywest.wordpress.com/) is a collaborative resource set up to provide an internet presence for the history groups in the inner south western suburbs that don’t have their own dedicated website.
 - [Brisbane City Archives](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/libraries/facilities-services/brisbane-city-archives)
 - [Useful websites for family historians](https://www.slq.qld.gov.au/research-collections/family-history/useful-websites-family-historians) - State Library of Queensland
+- [Cemetrees](https://cemetrees.wordpress.com), a blog by professional genealogist and local historian Dr Hilda Maclean to promote the innovative use of death and cemetery records in family and local history. 
 - [Queensland Police Museum](https://www.police.qld.gov.au/museum)
 - [Friends of Queensland Police Museum](https://www.friendsqpmuseum.com.au) who have restored many police graves in Toowong Cemetery and across the State
 - [Research Guide to cemetery records at Queensland State Archives](https://www.publications.qld.gov.au/ckan-publications-attachments-prod/resources/3b2f93a8-3229-4739-bae5-a130fb199cf9/research-guide-to-cemetery-records.pdf)
