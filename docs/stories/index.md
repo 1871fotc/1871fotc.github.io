@@ -77,7 +77,7 @@ Stories marked with :fontawesome-solid-person-walking: are **self-guided walks**
 ## Community stories 
 
 - **[The Irish][irish]** 
-- **[The Lutheran][lutheran]** 
+- **[The Lutherans][lutheran]** 
 - **[The Jewish walk][jewish]** :fontawesome-solid-person-walking: - A self-guided walk around Portion 3
 
 ## Other themed stories
