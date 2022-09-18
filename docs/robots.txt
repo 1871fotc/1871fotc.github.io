@@ -14,6 +14,7 @@ Disallow: /assets/documents/*
 User-agent: Googlebot-Image
 User-agent: msnbot-media
 Disallow: /assets/images/social/*
+Disallow: /assets/fotc-qr-code.png
 Disallow: /assets/404-16x9.png
 Disallow: /assets/404.png
 Disallow: /assets/ACNC-Registered-Charity-Logo_RGB.png
