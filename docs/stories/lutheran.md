@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# The Lutheran  
+# The Lutherans
 
 **With all the company of heaven**
 
