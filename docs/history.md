@@ -174,9 +174,9 @@ In 1978 construction started on the Toowong Cemetery Roundabout which, when comp
 
 --8<-- "snippets/toowong-roundabout-construction-1978.md"
 
-## 1988 Mission Impossible
+## 1988 Mission: Impossible
 
-In 1988 the first season of [Mission Impossible](https://en.wikipedia.org/wiki/Mission:_Impossible_(1988_TV_series)) was filmed in Queensland. Some scenes where filmed in Toowong Cemetery.
+In 1988 the first season of [Mission: Impossible](https://en.wikipedia.org/wiki/Mission:_Impossible_(1988_TV_series)) was filmed in Queensland. Some scenes where filmed in Toowong Cemetery.
 
 --8<-- "snippets/mission-impossible.md"
 
