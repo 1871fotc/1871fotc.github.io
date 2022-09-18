@@ -169,7 +169,7 @@ plugins:
 #
 # comment out for local builds as cannot resolve missing dependencies
 #
-# - social
+  - social
 #
 
 # Page tree - only 2 levels allowed
