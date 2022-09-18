@@ -163,13 +163,6 @@ plugins:
         'membership/membership.md': 'about/index.md'
         'links/links.md': 'research/index.md'
         'contactus/contactus.md': 'contact.md'
-# set up redirects for deep pdf links
-        'subset/Lutherans.pdf': 'stories/lutheran.md/'
-        'subset/brisbane_mayors.pdf': 'stories/brisbane-mayors.md/'
-        'subset/Irish_Trail.pdf': 'stories/irish.md/'
-        'subset/Jewish_Trail.pdf': 'stories/jewish-walk.md/'
-        'subset/artists.pdf': 'stories/artists.md/'
-        'subset/nurses.pdf': 'stories/nurses-and-doctors.md/'
 #        
 # redirect to bitly to count QR code scans
         'hello.md': 'https://bit.ly/3wQYQxe'        
@@ -183,8 +176,8 @@ plugins:
 nav:
   - Home: index.md
   - Cemetery History: history.md
-  - Stories and Walks:
-    - Stories and Walks: stories/index.md
+  - Walks and Stories:
+    - Walks and Stories: stories/index.md
 #    - Mount Blackall Walk: stories/mount-blackall-walk.md
 #    - Lilian Cooper Walk: stories/lilian-cooper-walk.md
 # Politics
