@@ -34,7 +34,7 @@
       "description": "The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the largest cemetery in Queensland at 44 Hectares and is an important record of the history of Brisbane and Queensland. It was officially opened on 5 July 1875 and over 119,000 people are buried in approximately 46,000 graves.",
       "mainEntityOfPage": "https://www.fotc.au/history/",
       "keywords": "Toowong Cemetery History",
-      "dateModified": "2022-08-31",
+      "dateModified": "2022-09-19",
       "datePublished": "2022-08-29",
       "author": {
           "@id": "https://www.fotc.au/#/schema/organization/1"
@@ -63,7 +63,21 @@
           "isAccessibleForFree": true,
           "openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 06:00-18:00",
           "tourBookingPage": "https://www.fotc.au/guided-tours/"
-        }
+        },
+      "mentions": [
+        {"@type": "Place","name": "Toowong Cemetery","sameAs": "https://en.wikipedia.org/wiki/Toowong_Cemetery"}, 
+        {"@type": "Place","name": "North Brisbane Burial Grounds","sameAs": "https://en.wikipedia.org/wiki/North_Brisbane_Burial_Ground"}
+        {"@type": "Place","name": "Lang Park","sameAs": "https://en.wikipedia.org/wiki/Lang_Park"}
+        {"@type": "Place","name": "God's Acre Pioneer cemetery","sameAs": "https://en.wikipedia.org/wiki/God%27s_Acre_Cemetery"}
+        {"@type": "Person","name": "Samuel Wensley Blackall","sameAs": "https://en.wikipedia.org/wiki/Samuel_Blackall"}, 
+        {"@type": "Person","name": "David Garland","sameAs": "https://en.wikipedia.org/wiki/David_John_Garland"}, 
+        {"@type": "Thing","name": "Mission: Impossible","sameAs": "https://en.wikipedia.org/wiki/Mission:_Impossible_(1988_TV_series)"}, 
+        {"@type": "Organization","name": "Brisbane City Council","sameAs": "https://en.wikipedia.org/wiki/City_of_Brisbane"},
+        {"@type": "Organization","name": "Queensland Government","sameAs": "https://en.wikipedia.org/wiki/Queensland_Government"}, 
+        {"@type": "Organization","name": "Queensland State Archives","sameAs": "https://en.wikipedia.org/wiki/Queensland_State_Archives"}, 
+        {"@type": "Organization","name": "University of Queensland","sameAs": "https://en.wikipedia.org/wiki/University_of_Queensland"}, 
+        {"@type": "Thing","name": "Archaeological","sameAs": "https://en.wikipedia.org/wiki/Archaeology"}
+      ]
     }
   ]
 }
