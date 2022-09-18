@@ -39,7 +39,7 @@
       "headline": "Toowong Cemetery Archaeological digs uncover lost headstones",
       "description": "Friends of Toowong Cemetery, in conjunction with the University of Queensland Archaeology Department, discover lost  headstones from Paddington and Toowong cemeteries",
       "keywords": ["Archaeological digs", "Toowong Cemetery"],
-      "dateModified": "2022-08-30",
+      "dateModified": "2022-09-18",
       "datePublished": "2022-08-29",
       "inLanguage": "en",
       "author": {
@@ -54,7 +54,15 @@
       "image": ["https://www.fotc.au/assets/logo/fotc-1x1.png", "https://www.fotc.au/assets/logo/fotc-banner-4x3.png", "https://www.fotc.au/assets/images/social/headstones/archaeological-digs.png"],
       "about": {
           "@id": "https://www.fotc.au/#/schema/place/1"
-        }  
+      },
+      "mentions": [
+        {"@type": "Place","name": "Brisbane","sameAs": "https://en.wikipedia.org/wiki/Brisbane"}, 
+        {"@type": "Place","name": "Paddington Cemetery","sameAs": "https://en.wikipedia.org/wiki/North_Brisbane_Burial_Ground"},
+        {"@type": "Place","name": "Toowong Cemetery","sameAs": "https://en.wikipedia.org/wiki/Toowong_Cemetery"}, 
+        {"@type": "Organization","name": "Brisbane City Council","sameAs": "https://en.wikipedia.org/wiki/City_of_Brisbane"}, 
+        {"@type": "Organization","name": "University of Queensland","sameAs": "https://en.wikipedia.org/wiki/University_of_Queensland"}, 
+        {"@type": "Thing","name": "Archaeological","sameAs": "https://en.wikipedia.org/wiki/Archaeology"}
+      ]  
     }
   ]
 }
