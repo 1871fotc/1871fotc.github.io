@@ -139,6 +139,7 @@ extra_javascript:
 # Plugins
 plugins:
   - search
+  - social
   - glightbox:
       touchNavigation: true
       loop: false
@@ -146,7 +147,7 @@ plugins:
       width: 100%
       height: auto
       zoomable: true
-      draggable: false  
+      draggable: false
   - redirects:
       redirect_maps:
         'home/home.md': 'index.md'
@@ -163,14 +164,8 @@ plugins:
         'membership/membership.md': 'about/index.md'
         'links/links.md': 'research/index.md'
         'contactus/contactus.md': 'contact.md'
-#        
 # redirect to bitly to count QR code scans
-        'hello.md': 'https://bit.ly/3wQYQxe'        
-#
-# comment out for local builds as cannot resolve missing dependencies
-#
-  - social
-#
+        'hello.md': 'https://bit.ly/3wQYQxe' 
 
 # Page tree - only 2 levels allowed
 nav:
