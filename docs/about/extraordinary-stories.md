@@ -1,6 +1,6 @@
 ---
 title: Extraordinary Stories of Ordinary People
-description: 40 stories about people buried at Toowong Cemetery 
+description: 40 stories about extraordinary people buried at Toowong Cemetery 
 ---
 
 # Extraordinary Stories of Ordinary People
