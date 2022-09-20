@@ -1,5 +1,5 @@
 ---
-date: 2 October 2011
+description: Stories about early Brisbane Mayors buried in Toowong Cemetery.
 hide:
   - navigation
 ---
