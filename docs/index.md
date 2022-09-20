@@ -151,9 +151,9 @@ Some cemetery road names have recently been changed to the names of notable peop
 
 **[Find a grave in Toowong Cemetery](research/find-a-grave.md)** in 5 steps:
 
-1. Search for a grave using the Brisbane City Council [Grave location search](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search).
+1. Search for a grave using the Brisbane City Council Grave location search.
 2. Locate the grave on the Toowong Cemetery Map.
-3. Plan your visit to Toowong Cemetery. 
+3. Plan your visit to Toowong Cemetery.
 4. Ask Friends of Toowong Cemetery to help you locate the grave on-site or take a digital photo.
 5. Ask the staff at the Toowong Cemetery to help you locate the grave on-site.
 
