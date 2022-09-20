@@ -1,5 +1,5 @@
 ---
-title: Data
+title: Toowong Cemetery Data
 description: Download data about Toowong Cemetery, its graves, headstones, and the people remembered here
 ---
 
