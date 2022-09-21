@@ -37,14 +37,20 @@ The Museum has an extensive display of photographs and artefacts.
 ![Museum photo display 1](assets/museum-photos-1.jpg){ width="48.5%" } ![Museum photo display 2](assets/museum-photos-2.jpg){ width="48.5%" }
 ![Museum photo display 2](assets/museum-photos-3.jpg){ width="48.5%" } ![Museum photo display 4](assets/museum-photos-4.jpg){ width="48.5%" }
 
-## Upcoming tours
+## Upcoming guided tours
 
 Tours are on the first Sunday of each month (March to December) from 10:30 to 12:00.
 
-Our next tour is called "**Tragically Taken**" and is on **Sunday 2 October**. Add it to your calendar.
+Our next tour is called "**Tragically Taken**" and is on **Sunday 2 October**. The tour is limited to 20 people. Add it to your calendar.
 
 :fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20221002.ics)**
 
+
+## Guided tour alternatives
+
+If you can't join our guided tour, consider a **[self-guided heritage walk](stories/index.md)** or the visiting the **[headstone symbolism display](headstones/symbols.md)**.
+
+<!--
 !!! warning "COVID-19 Restrictions"
 
     Due to COVID-19 our guided tours are **limited to 20 guests** to enable social distancing to be maintained. 
@@ -52,6 +58,8 @@ Our next tour is called "**Tragically Taken**" and is on **Sunday 2 October**. A
 ![Women wearing surgical masks during the influenza epidemic, Brisbane, 1919](assets/masks-1919.jpg)
 
 *<small>[Women wearing surgical masks during the influenza epidemic, Brisbane, 1919](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218113110002061), — State Library of Queensland. Cropped.</small>*
+
+-->
 
 <!--
 ## 6 March 2022
