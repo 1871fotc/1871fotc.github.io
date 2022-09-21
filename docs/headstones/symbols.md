@@ -2,19 +2,17 @@
 description: Discover the hidden meaning behind headstone symbols in Toowong Cemetery
 ---
 
-# Headstone Symbols 
+# Headstone Symbols
 
-## Toowong Cemetery Symbolism
+## Toowong Cemetery Symbolism Display
 
 The Toowong Cemetery is a Brisbane icon and was once the city's main cemetery. Toowong Cemetery officially opened in July 1875, however burials took place from 1871 (most notably Queensland's second governor, Colonel Samual Blackall in 1871).
 
 Toowong Cemetery opened during Queen Victoria's life (1819 - 1901) and you'll see the traditions and symbols from her reign throughout the cemetery.
 
-In [Portion 2](../research/find-a-grave.md) of the cemetery, at the intersection of Soldiers Parade and Garland Avenue, you'll find a display of symbols on headstones from the old [Paddington cemetery](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery) which closed in 1914.
+In Portion 2 of the cemetery, at the intersection of Soldiers Parade and Garland Avenue, you'll find a display of symbols on headstones. Some headstones are from the old [Paddington cemetery](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery) which closed in 1914.
 
 ![Toowong Cemetery headstone symbolism display](../assets/symbolism-display.jpg)
-
-<!-- link to map --> 
 
 Headstones within the Cemetery come in many shapes <!-- [many shapes](shapes.md) --> and contain [mysterious signs](signs.md). Throughout the first half of the 19^th^ Century headstones featuring bust of heads and shoulders were very popular. However by the 1880's angels, messengers of God and pillars had become fashionable. Most of these were placed on a three-tiered base, to represent faith, hope and charity. 
 
