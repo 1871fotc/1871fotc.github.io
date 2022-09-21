@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Australia/Brisbane
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/Australia/Brisbane
+X-LIC-LOCATION:Australia/Brisbane
+BEGIN:STANDARD
+TZNAME:AEST
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1000
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20211125T205944Z
+DTSTART;TZID=Australia/Brisbane:20220703T103000
+DTEND;TZID=Australia/Brisbane:20220703T120000
+SUMMARY:Friends of Toowong Cemetery - Guided Heritage Tour
+URL:https://fotc.org.au/
+DESCRIPTION:Meet under the flagpole\, in Canon Garland Place at the Toowong Cemetery. There is plenty of parking available inside the cemetery.\n\nWear a hat\, enclosed shoes\, and bring a water bottle.\n\nGuided tours are free but a small donation is appreciated to help us continue our work.
+LOCATION:Canon Garland Place within Toowong Cemetery
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Friends of Toowong Cemetery - Guided Heritage Tour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

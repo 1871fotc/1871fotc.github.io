@@ -5,8 +5,8 @@
 # macOS internals
 # .DS_Store
 
-# Build files
-/site
+# Build files. Commented out to build locally as workflow not triggering. Social does build locally so cards are lost. 
+# /site
 
 # Source data files used to load GraphDB
 /source-data

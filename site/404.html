@@ -1,0 +1,2250 @@
+<!--
+  Copyright (c) 2016-2021 Martin Donath <martin.donath@squidfunk.com>
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.">
+      
+      
+        <meta name="author" content="Friends of Toowong Cemetery Association Inc.">
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="/favicon.ico">
+      <meta name="generator" content="mkdocs-1.3.0, mkdocs-material-8.5.3+insiders-4.23.5">
+    
+    
+      
+        <title>Friends of Toowong Cemetery</title>
+      
+    
+    
+      <link rel="stylesheet" href="/assets/stylesheets/main.fb3608a7.min.css">
+      
+        
+        <link rel="stylesheet" href="/assets/stylesheets/palette.cbb835fc.min.css">
+        
+          
+          
+          <meta name="theme-color" content="#7e56c2">
+        
+      
+      
+  
+  
+    
+    
+  
+    
+    
+  
+  
+  <style>:root{--md-admonition-icon--question:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M148 76.6C148 34.3 182.3 0 224.6 0c20.3 0 39.8 8.1 54.1 22.4l9.3 9.3 9.3-9.3C311.6 8.1 331.1 0 351.4 0 393.7 0 428 34.3 428 76.6c0 20.3-8.1 39.8-22.4 54.1L302.1 234.1c-7.8 7.8-20.5 7.8-28.3 0L170.4 130.7C156.1 116.4 148 96.9 148 76.6zm420.2 259.7c13.1 17.8 9.3 42.8-8.5 55.9l-126.6 93.3c-23.4 17.2-51.6 26.5-80.7 26.5H32c-17.7 0-32-14.3-32-32v-64c0-17.7 14.3-32 32-32h36.8l44.9-36c22.7-18.2 50.9-28 80-28H352c17.7 0 32 14.3 32 32s-14.3 32-32 32h-80c-8.8 0-16 7.2-16 16s7.2 16 16 16h120.6l119.7-88.2c17.8-13.1 42.8-9.3 55.9 8.5zM193.6 384h-.9.9z"/></svg>');--md-admonition-icon--example:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="m306.7 325.1-144.3 55.5c-20.3 7.5-38.5-11.6-31-31l55.5-144.3c3.2-8.5 9.9-15.2 18.4-18.4l144.3-55.5c19.4-7.5 38.5 10.7 31 31l-55.5 144.3c-3.2 8.5-9.9 15.2-18.4 18.4zM255.1 224c-16.8 0-32 14.3-32 32s15.2 32 32 32c18.6 0 32.9-14.3 32.9-32s-14.3-32-32.9-32zM512 256c0 141.4-114.6 256-256 256S0 397.4 0 256 114.6 0 256 0s256 114.6 256 256zM256 48C141.1 48 48 141.1 48 256s93.1 208 208 208 208-93.1 208-208S370.9 48 256 48z"/></svg>');}</style>
+
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Raleway";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="/stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("/",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+
+  <script id="__analytics">function __md_analytics(){function n(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],n("js",new Date),n("config","G-XDRM6G59W8"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){this.value&&n("event","search",{search_term:this.value})}),document$.subscribe(function(){var a=document.forms.feedback;if(void 0!==a)for(var e of a.querySelectorAll("[type=submit]"))e.addEventListener("click",function(e){e.preventDefault();var t=document.location.pathname,e=this.getAttribute("data-md-value");n("event","feedback",{page:t,data:e}),a.firstElementChild.disabled=!0;e=a.querySelector(".md-feedback__note [data-md-value='"+e+"']");e&&(e.hidden=!1)}),a.hidden=!1}),location$.subscribe(function(e){n("config","G-XDRM6G59W8",{page_path:e.pathname})})});var e=document.createElement("script");e.async=!0,e.src="https://www.googletagmanager.com/gtag/js?id=G-XDRM6G59W8",document.getElementById("__analytics").insertAdjacentElement("afterEnd",e)}</script>
+
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+<!-- link rel="mask-icon" href="assets/fotc_icon.svg" -->
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#7e56c2">
+<meta name="apple-mobile-web-app-title" content="Friends of Toowong Cemetery">
+<meta name="application-name" content="Friends of Toowong Cemetery">
+<meta name="msapplication-TileColor" content="#603cba">
+<meta name="theme-color" content="#7e56c2">
+<meta property="robots" content="noindex, nofollow" /> 
+
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="deep-purple" data-md-color-accent="purple">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="/." title="Friends of Toowong Cemetery" class="md-header__button md-logo" aria-label="Friends of Toowong Cemetery" data-md-component="logo">
+      
+  <img src="/assets/fotc-logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Friends of Toowong Cemetery
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+    
+      <nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+
+
+
+
+  
+    <li class="md-tabs__item">
+      <a href="/." class="md-tabs__link">
+        
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+
+
+
+
+  
+    <li class="md-tabs__item">
+      <a href="/history/" class="md-tabs__link">
+        
+  
+  Cemetery History
+
+      </a>
+    </li>
+  
+
+      
+        
+
+
+
+
+  
+    
+    
+    
+      <li class="md-tabs__item">
+        <a href="/stories/" class="md-tabs__link">
+          
+  
+    
+  
+  Walks and Stories
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+
+
+
+
+  
+    
+    
+    
+      <li class="md-tabs__item">
+        <a href="/headstones/" class="md-tabs__link">
+          
+  
+    
+  
+  Headstones
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+
+
+
+
+  
+    
+    
+    
+      <li class="md-tabs__item">
+        <a href="/research/" class="md-tabs__link">
+          
+  
+    
+  
+  Research
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+
+
+
+
+  
+    <li class="md-tabs__item">
+      <a href="/guided-tours/" class="md-tabs__link">
+        
+  
+  Guided Tours
+
+      </a>
+    </li>
+  
+
+      
+        
+
+
+
+
+  
+    
+    
+    
+      <li class="md-tabs__item">
+        <a href="/about/" class="md-tabs__link">
+          
+  
+    
+  
+  About Us
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+
+
+
+
+  
+    <li class="md-tabs__item">
+      <a href="/contact/" class="md-tabs__link">
+        
+  
+  Contact Us
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="/." title="Friends of Toowong Cemetery" class="md-nav__button md-logo" aria-label="Friends of Toowong Cemetery" data-md-component="logo">
+      
+  <img src="/assets/fotc-logo.png" alt="logo">
+
+    </a>
+    Friends of Toowong Cemetery
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/history/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cemetery History
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+        
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="/stories/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Walks and Stories
+    
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_3">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" aria-label="Walks and Stories" data-md-level="1">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Walks and Stories
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/federation-walk/" class="md-nav__link">
+        
+  
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M256 48c0 26.5-21.5 48-48 48s-48-21.5-48-48 21.5-48 48-48 48 21.5 48 48zM126.5 199.3c-1 .4-1.9.8-2.9 1.2l-8 3.5c-16.4 7.3-29 21.2-34.7 38.2l-2.6 7.8c-5.6 16.8-23.7 25.8-40.5 20.2S12 246.5 17.6 229.7l2.6-7.8c11.4-34.1 36.6-61.9 69.4-76.5l8-3.5c20.8-9.2 43.3-14 66.1-14 44.6 0 84.8 26.8 101.9 67.9l15.4 36.9 21.4 10.7c15.8 7.9 22.2 27.1 14.3 42.9s-27.1 22.2-42.9 14.3L247 287.3c-10.3-5.2-18.4-13.8-22.8-24.5l-9.6-23-19.3 65.5 49.5 54c5.4 5.9 9.2 13 11.2 20.8l23 92.1c4.3 17.1-6.1 34.5-23.3 38.8s-34.5-6.1-38.8-23.3l-22-88.1-70.7-77.1c-14.8-16.1-20.3-38.6-14.7-59.7l16.9-63.5zM68.7 398l25-62.4c2.1 3 4.5 5.8 7 8.6l40.7 44.4-14.5 36.2c-2.4 6-6 11.5-10.6 16.1l-61.7 61.7c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L68.7 398z"/></svg>
+  
+  <span class="md-ellipsis">
+    The Federation Walk
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/governors/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Queensland Governors
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/brisbane-mayors/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Brisbane Mayors
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/suffrage/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    One Adult, One Vote
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/labor-luminaries/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Labor Luminaries
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/shearers-strike/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Great Shearers' Strike
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/founding-fathers/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Founding Fathers
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/notable-women/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Notable Women
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/toowong-identities-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Toowong Identities
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/toowong-identities-2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    More Toowong Identities
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/artists/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artists
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/nurses-and-doctors/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Health Professionals
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/judiciary/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Judiciary
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/anchors-aweigh/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mariners
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/all-the-worlds-a-stage/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Performers
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/police/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Police
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/printers/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Print Media Identities
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/printers-2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    More Print Media Identities
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/prospectors/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Prospectors
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/sporting-personalities/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sporting Personalities
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/railway/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Railway People
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/undertakers/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Undertakers
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/colonial-conflicts/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Colonial Conflicts
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/lest-we-forget/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lest We Forget
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/lest-we-forget-navy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lest We Forget - Naval
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/men-of-the-royal-navy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Men of the Royal Navy
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/scots-in-the-aif-ww1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Scots in the AIF
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/1919-soldiers/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    1919 Soldiers
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/conflict-and-compassion/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Conflict and Compassion
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/irish/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Irish
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/lutheran/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Lutheran
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/jewish-walk/" class="md-nav__link">
+        
+  
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M256 48c0 26.5-21.5 48-48 48s-48-21.5-48-48 21.5-48 48-48 48 21.5 48 48zM126.5 199.3c-1 .4-1.9.8-2.9 1.2l-8 3.5c-16.4 7.3-29 21.2-34.7 38.2l-2.6 7.8c-5.6 16.8-23.7 25.8-40.5 20.2S12 246.5 17.6 229.7l2.6-7.8c11.4-34.1 36.6-61.9 69.4-76.5l8-3.5c20.8-9.2 43.3-14 66.1-14 44.6 0 84.8 26.8 101.9 67.9l15.4 36.9 21.4 10.7c15.8 7.9 22.2 27.1 14.3 42.9s-27.1 22.2-42.9 14.3L247 287.3c-10.3-5.2-18.4-13.8-22.8-24.5l-9.6-23-19.3 65.5 49.5 54c5.4 5.9 9.2 13 11.2 20.8l23 92.1c4.3 17.1-6.1 34.5-23.3 38.8s-34.5-6.1-38.8-23.3l-22-88.1-70.7-77.1c-14.8-16.1-20.3-38.6-14.7-59.7l16.9-63.5zM68.7 398l25-62.4c2.1 3 4.5 5.8 7 8.6l40.7 44.4-14.5 36.2c-2.4 6-6 11.5-10.6 16.1l-61.7 61.7c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L68.7 398z"/></svg>
+  
+  <span class="md-ellipsis">
+    The Jewish Walk
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/steam/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Steam
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/brisbane-open-house/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Building Brisbane
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/convict-connections/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Convicts
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/erected-by-friends/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Erected by Family, Friends and Colleagues
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/christmas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Christmas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/weather/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Weather
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/2020-vision/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    20/20 Vision
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/rich-man-poor-man/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rich man, Poor man
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/taken-before-their-time/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Taken before their time
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/children/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Children
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/mothers/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mothers
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/portion5-part1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Portion 5 - part 1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/portion5-part2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Portion 5 - part 2
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/portion6-and-24/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Portion 6 and 24
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/stories/portion15-and-16/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Portion 15 and 16
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+        
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="/headstones/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Headstones
+    
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_4">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" aria-label="Headstones" data-md-level="1">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Headstones
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/headstones/symbols/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Headstone Symbols
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/headstones/signs/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Headstone Signs
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/headstones/queenslands-oldest-headstones/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Queensland's Oldest Headstones
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/headstones/archaeological-digs/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Archaeological Digs
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/headstones/moved-paddington-headstones/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Moved Paddington Cemetery Headstones
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/headstones/lost-paddington-headstones/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lost Paddington Cemetery Headstones
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+        
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="/research/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Research
+    
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_5">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" aria-label="Research" data-md-level="1">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Research
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/research/find-a-grave/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Find a Grave
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/research/find-a-story/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Find a Story
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/research/data/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Data
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/guided-tours/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Guided Tours
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7" type="checkbox" id="__nav_7" >
+        
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="/about/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    About Us
+    
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_7">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" aria-label="About Us" data-md-level="1">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            About Us
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/about/publications/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Publications
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/about/extraordinary-stories/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Extraordinary Stories
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/about/140-commemoration/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    140th Anniversary Commemoration
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/about/federation-pavilion/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Federation Pavilion
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/about/legal/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Legal
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/contact/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Contact Us
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="On this page">
+  
+  
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+
+  <h1><b>Oops!</b> You found a dead link 😵 </h1>
+  <p style="padding-left:20%"><img src="/assets/404.png"></p>
+  <h2>Go back to the safety of the <b><a href="/">home page</a></b></h2>
+
+
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <a href="#" class="md-top md-icon" data-md-component="top" hidden>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+            Back to top
+          </a>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <!--
+  Copyright (c) 2016-2021 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Copyright and theme information -->
+<div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      © 1992 — 2022 Friends of Toowong Cemetery Association Inc., unless noted otherwise. &nbsp; | &nbsp; <a href="https://www.fotc.au/about/legal/">Legal</a> 
+    </div>
+  
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    <a href="mailto:inquiries@fotc.org.au" target="_blank" rel="noopener" title="Email us" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4l217.6 163.2c11.4 8.5 27 8.5 38.4 0l217.6-163.2c12.1-9.1 19.2-23.3 19.2-38.4 0-26.5-21.5-48-48-48H48zM0 176v208c0 35.3 28.7 64 64 64h384c35.3 0 64-28.7 64-64V176L294.4 339.2a63.9 63.9 0 0 1-76.8 0L0 176z"/></svg>
+    </a>
+  
+    
+    
+    <a href="https://www.facebook.com/1871fotc/" target="_blank" rel="noopener" title="Facebook @1871fotc" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "/", "features": ["navigation.instant", "navigation.tracking", "navigation.top", "navigation.tabs", "navigation.tabs.sticky", "navigation.indexes", "search.suggest", "content.code.annotate", "content.tooltips", "toc.follow"], "search": "/assets/javascripts/workers/search.720157f5.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}}</script>
+    
+    
+      <script src="/assets/javascripts/bundle.0d3e07ec.min.js"></script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js"></script>
+      
+        <script src="/javascripts/tablesort.js"></script>
+      
+    
+  </body>
+</html>
