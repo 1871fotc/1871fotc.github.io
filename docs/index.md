@@ -102,7 +102,7 @@ If you enter via the Richer Street back gate, to get to Canon Garland Place:
 There are 34 Portions in the cemetery, numbered 1 to 30 and also 2A, 7A, 15A, 29A. Portions contain many sectons. Each section can contain up to 80 graves. The graves in a section are usually in two rows.
 
 <figure markdown>
-![Toowong Cemetery Map showing Portions, Sections and key features](assets/toowong-cemetery-map.jpg){ width="100%" }
+![Toowong Cemetery Map showing Portions, Sections and key features](assets/toowong-cemetery-map-2022.jpg){ width="100%" }
   <figcaption markdown>Toowong Cemetery Map showing Portions, Sections and key features). [Toowong Cemetery Area Map](https://www.brisbane.qld.gov.au/sites/default/files/documents/2022-09/20220906-Toowong-Cemetery-Map-2022.pdf)  © [Brisbane City Council](https://www.brisbane.qld.gov.au) 2022, used under [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).</figcaption>
 </figure>
 
