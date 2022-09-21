@@ -1,5 +1,4 @@
 ---
-date: 25 August 2004
 hide:
   - navigation
 ---

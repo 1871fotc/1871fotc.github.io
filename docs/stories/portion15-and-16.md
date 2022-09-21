@@ -1,7 +1,5 @@
 ---
 description: Stories from Portions 15 and 16 
-author: Darcy and Lyn Maddock
-date: 5/6/2016
 hide:
   - navigation
 ---

@@ -1,7 +1,5 @@
 ---
 title: Stories from  Portion 5 (part 2)  
-author: Darcy and Lyn Maddock
-date: 2/4/2017
 hide:
   - navigation
 ---

@@ -1,7 +1,5 @@
 ---
 title: Stories from Portion 5 (part 1)
-author: Lyn Maddock
-date: 4/10/2015
 hide:
   - navigation
 ---

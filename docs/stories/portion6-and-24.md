@@ -1,7 +1,5 @@
 ---
 title: Stories from Portions 6 and 24
-author: Lyn Maddock
-date: 6/12/2015
 hide:
   - navigation
 ---

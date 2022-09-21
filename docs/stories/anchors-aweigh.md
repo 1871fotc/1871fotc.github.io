@@ -1,7 +1,6 @@
 ---
 title: Anchors Aweigh!
 description: Maritime stories from Toowong Cemetery
-date: 7 Sep 2008
 hide:
   - navigation
 ---

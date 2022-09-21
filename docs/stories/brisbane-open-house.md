@@ -1,7 +1,6 @@
 ---
 title: Building Brisbane
 description: A historic walk discovering the people that helped build Brisbane
-date: 1/10/2019
 hide:
   - navigation
 ---

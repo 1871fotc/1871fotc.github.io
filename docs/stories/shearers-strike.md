@@ -1,8 +1,6 @@
 ---
 title: The Great Shearers' Strike of 1891
 description: Stories about the personalities of the Great Shearers' Strike of 1891 buried at Toowong Cemetery
-author: Lyn Maddock
-date: 4 February 2018
 hide:
   - navigation
 ---

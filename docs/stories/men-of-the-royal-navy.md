@@ -1,5 +1,4 @@
 ---
-date: 16 June 2021
 hide:
   - navigation
 ---

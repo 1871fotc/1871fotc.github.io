@@ -1,5 +1,4 @@
 ---
-date: 1/12/2018
 hide:
   - navigation
 ---

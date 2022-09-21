@@ -1,5 +1,4 @@
 ---
-date: August 1998
 hide:
   - navigation
 icon: fontawesome/solid/person-walking

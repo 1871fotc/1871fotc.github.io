@@ -6,7 +6,6 @@ search:
   exclude: true
 hide:
   - feedback
-  
 ---
 
 # Scan the QR code

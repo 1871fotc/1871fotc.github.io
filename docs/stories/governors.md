@@ -1,5 +1,4 @@
 ---
-date: 17 September 2010
 description: Stories about past Queensland Governors, Lieutenant-Governors, and Administrators
 hide:
   - navigation

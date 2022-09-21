@@ -1,7 +1,6 @@
 ---
 title: Contact Us
 description: Contact Friends of Toowong Cemetery
-
 search:
   boost: 2  
 ---

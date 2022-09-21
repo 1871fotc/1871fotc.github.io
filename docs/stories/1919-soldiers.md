@@ -1,8 +1,6 @@
 ---
 title: 1919 Soldiers
 description: A historic walk visiting 1919 soldiers in Toowong Cemetery
-author: Darcy Maddock
-date: 3 November 2019
 hide:
   - navigation
 ---

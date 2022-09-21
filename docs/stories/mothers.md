@@ -1,5 +1,4 @@
 ---
-date: May 2019
 hide:
   - navigation
 ---

@@ -1,5 +1,4 @@
 ---
-date:  7 June 2009
 hide:
   - navigation
 ---

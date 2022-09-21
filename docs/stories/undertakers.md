@@ -1,5 +1,4 @@
 ---
-date: 2 December 2012
 hide:
   - navigation
 ---

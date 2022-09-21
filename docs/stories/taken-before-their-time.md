@@ -1,5 +1,4 @@
 ---
-date: 1/8/2021
 hide:
   - navigation
 ---

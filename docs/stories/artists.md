@@ -1,7 +1,6 @@
 ---
 title: Local Artists
 description: Remembering local artists buried in Toowong Cemetery
-date: 6 Dec 2008
 hide:
   - navigation
 ---

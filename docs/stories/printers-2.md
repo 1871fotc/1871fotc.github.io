@@ -1,7 +1,6 @@
 ---
 title: More Print Media Identities of Early Brisbane
 description: More stories about Print Media Identities in early Brisbane
-author: Lyn Maddock
 hide:
   - navigation
 ---

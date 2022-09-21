@@ -1,5 +1,4 @@
 ---
-date: dd/mm/2020
 hide:
   - navigation
 ---

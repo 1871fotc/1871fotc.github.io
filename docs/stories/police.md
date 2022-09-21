@@ -1,6 +1,5 @@
 ---
 description: Stories about Queensland Colonial Policing and connections to people remembered in Toowong Cemetery
-date: 7 October 2012
 hide:
   - navigation
 ---

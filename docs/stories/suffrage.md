@@ -1,5 +1,4 @@
 ---
-date: 3/4/2016
 hide:
   - navigation
 ---

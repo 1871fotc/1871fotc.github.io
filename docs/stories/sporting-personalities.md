@@ -1,7 +1,6 @@
 ---
 title: Famous Sporting Personalities 
 description: Famous sporting personalities remembered in Toowong Cemetery
-date: 14 April 2012
 hide:
   - navigation
 ---

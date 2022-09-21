@@ -1,7 +1,6 @@
 ---
 name: Railway People
 description: Stories remembering railway people buried in Toowong Cemetery
-date: 7 August 2016
 hide:
   - navigation
 ---
