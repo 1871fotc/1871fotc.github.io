@@ -26,7 +26,7 @@ There's no need to book, just meet under the flagpole, in Canon Garland Place at
 
 ## Toowong Cemetery Museum
 
-The Museum is open before and after our guided heritage tours.
+The Museum is open before and after our guided tours.
 
 ![Toowong Cemetery Museum](assets/museum.jpg){ width="98%" }
 
@@ -39,7 +39,7 @@ The Museum has an extensive display of photographs and artefacts.
 
 ## Upcoming guided tours
 
-Tours are on the first Sunday of each month (March to December) from 10:30 to 12:00.
+Tours are on the first Sunday of each month (March to December) from 10:30 to 12:00. 
 
 Our next tour is called "**Tragically Taken**" and is on **Sunday 2 October**. The tour is limited to 20 people. Add it to your calendar.
 
