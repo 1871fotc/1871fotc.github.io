@@ -7,7 +7,9 @@ search:
 
 --8<-- "snippets/sem/stories/index.json"
 
---8<-- "snippets/hide-nav.html"
+<!-- 
+--8 < -- "snippets/hide-nav.html"
+-->
 
 # Toowong Cemetery Walks and Stories 
 
@@ -25,10 +27,8 @@ Individual stories have been grouped into **over 40 themed collections** below.
 Stories marked with :fontawesome-solid-person-walking: are **self-guided walks** with maps and directions. 
 
 <!--
-
 - **[Mount Blackall walk](mount-blackall-walk.md)** :fontawesome-solid-person-walking: - discover some of the highlights on Mount Blackall
-- **[Lilian Cooper walk](lilian-cooper-walk.md)** :fontawesome-solid-person-walking: - uncover history along Lilian Cooper Drive
-
+- **[Dr. Lilian Cooper walk](lilian-cooper-walk.md)** :fontawesome-solid-person-walking: - uncover the history along Lilian Cooper Drive
 -->
 
 ## Political stories

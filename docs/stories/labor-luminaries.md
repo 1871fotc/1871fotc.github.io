@@ -85,7 +85,7 @@ hide:
     - Continue past the Shelter Shed, walking North West along Dr. Lilian Cooper Drive (Boundary Road), on your left, stop at the Forgan-Smith grave, 8‑25‑20/21.
     - On the opposite side of the road you'll find the Gillies grave, 18‑106‑20.
     
-    ![William Forgan Smith](../assets/william-forgan-smith-headstone.jpg){ width="20%" }  ![William Neal Gillies](../assets/william-gillies.jpg){ width="15%" } 
+    ![William Forgan Smith](../assets/william-forgan-smith-headstone.jpg){ width="20%" }  ![William Neal Gillies](../assets/william-neal-gillies-headstone.jpg){ width="15%" } 
 -->
 
 --8<-- "snippets/william-forgan-smith.md"

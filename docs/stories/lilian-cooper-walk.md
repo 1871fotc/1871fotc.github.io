@@ -1,4 +1,6 @@
 ---
+title: Dr. Lilian Cooper walk
+description: Discover some of the history and stories found along Dr. Lilian Cooper Drive.
 robots: 
   noindex: true
   nofollow: true
@@ -9,9 +11,12 @@ hide:
 icon: fontawesome/solid/person-walking
 ---
 
-# Lilian Cooper walk
+# Dr. Lilian Cooper walk
 
-This gently sloping walk shares some of the history and stories to be found along Dr. Lilian Cooper Drive.
+Discover some of the history and stories found along Dr. Lilian Cooper Drive.
+
+- Duration: 1 hour
+- Difficulty: Mostly flat along Dr. Lilian Cooper Drive with short side trips over a gutter and across grass to visit graves. The walk to the last two graves is uphill with a moderate slope.
 
 --8<-- "snippets/conditions-of-entry.md"
 
@@ -20,7 +25,6 @@ This gently sloping walk shares some of the history and stories to be found alon
 
 ![Lilian Cooper walk map](../assets/lilian-cooper-walk.jpg)
 
-<!-- insert photo of Shelter Shed -->
 
 
 ???+ directions "Directions" 
@@ -28,6 +32,9 @@ This gently sloping walk shares some of the history and stories to be found alon
     - :fontawesome-solid-car:{ .deep-purple } If driving, park your car at the end of Federation Avenue. 
     - :fontawesome-solid-person-walking:{ .deep-purple } Begin the walk at Shelter Shed at the start of Federation Avenue. 
     - Opposite the Shelter Shed is the grave of Lachlan Chisholm Wilson.
+    
+    ![Lachlan Chisholm Wilson's headstone](../assets/lachlan-chisholm-wilson-headstone.jpg){ width="15%" } 
+
 
 --8<-- "snippets/lachlan-chisholm-wilson.md"
 
@@ -37,6 +44,8 @@ This gently sloping walk shares some of the history and stories to be found alon
     - Return to the road and move along two rows.
     - Close to the edge of the road is the grave of George Henderson.
 
+    ![George Henderson's headstone](../assets/george-henderson-headstone.jpg){ width="15%" } 
+
 
 --8<-- "snippets/george-henderson.md"
 
@@ -44,6 +53,9 @@ This gently sloping walk shares some of the history and stories to be found alon
 ???+ directions "Directions" 
 
     Moving further along the road and off to the right is the black granite monument of the McWhirter family.
+
+    ![McWhirter family headstone](../assets/james-mcwhirter-headstone.jpg){ width="15%" } 
+
 
 
 --8<-- "snippets/james-mcwhirter.md"
@@ -53,12 +65,18 @@ This gently sloping walk shares some of the history and stories to be found alon
 
     Immediately to the other side of the road is the monument of Charles Foggitt.
 
+    ![Charles Foggitt's headstone](../assets/charles-foggitt-headstone.jpg){ width="15%" } 
+
+
 --8<-- "snippets/charles-foggitt.md"
 
 
 ???+ directions "Directions" 
 
     Almost immediately in line with this grave, but three rows further along, is the grave of George Harrap.
+
+    ![George Harrap's headstone](../assets/george-harrap-headstone.jpg){ width="15%" } 
+
 
 
 --8<-- "snippets/george-harrap.md"
@@ -68,9 +86,9 @@ This gently sloping walk shares some of the history and stories to be found alon
 
     Moving back across the road and approximately four graves in, is the headstone of William Neil Gillies.
     
-    ![William Neal Gillies](../assets/william-gillies.jpg){ width="15%" } 
+    ![William Neal Gillies headstone](../assets/william-neal-gillies-headstone.jpg){ width="15%" } 
 
-## William Neil Gillies <small>(18‑106‑20)</small> 
+## William Neil Gillies <small>(18‑106‑20)</small>  
 
 1868‑1928
 
@@ -115,6 +133,9 @@ After his time as Premier he took over the chairmanship of the Central Sugar Can
 
     Returning to the road, move immediately across to the right and locate the row beginning with the grave of Economidis. Moving along this row see an older grave commemorating Sir Manuel Hornibrook and his son. Look carefully, from the side this monument reads MACDIARMID.
 
+    ![Manuel Richard Hornibrook's headstone](../assets/manuel-richard-hornibrook-headstone.jpg){ width="15%" } 
+
+
 
 ## Sir Manuel Richard Hornibrook <small>(18‑116‑18)</small> 
 
@@ -142,6 +163,8 @@ https://vimeo.com/176117452
 
     Returning to the road and moving ahead approximately 20 meters, immediately to the left of the road are the graves of Alois Wilhelm Leitner and Robert William Black.
 
+    ![Alois Wilhelm Leitner headstone](../assets/alois-wilhelm-leitner-headstone.jpg){ width="15%" }   ![William Robert Black headstone](../assets/william-robert-black-headstone.jpg){ width="15%" } 
+
 
 --8<-- "snippets/alois-wilhelm-leitner.md"
 
@@ -152,6 +175,8 @@ https://vimeo.com/176117452
 
     Enter the Orthodox section of the cemetery, signified by the many Orthodox crosses. Almost at the end of this section, turn left down the row and walk down the hill under the trees to find the white headstone of Ataman Tolstoff.
 
+    ![Vladimir Tolstoff's headstone](../assets/vladimir-tolstoff-headstone.jpg){ width="15%" } 
+
 
 --8<-- "snippets/vladimir-tolstoff.md"
 
@@ -159,6 +184,8 @@ https://vimeo.com/176117452
 ???+ directions "Directions" 
 
     Coming back to the road and across to the opposite side, at the edge of the road is white walled monument of Christy Freeleagus.
+
+    ![Christy Freeleagus's headstone](../assets/christy-freeleagus-headstone.jpg){ width="15%" } 
 
 
 --8<-- "snippets/christy-freeleagus.md"
@@ -168,7 +195,7 @@ https://vimeo.com/176117452
 
     Immediately back across the road stands a monument consisting of a large cross draped in a number of strands of beads. These are regularly placed there by those who come to remember Dr Lilian Cooper.
     
-    ![image of headstone](../assets/lilian-cooper.jpg){ width="15%" } 
+    ![Dr Lilian Cooper's headstone](../assets/lilian-cooper.jpg){ width="15%" } 
 
 --8<-- "snippets/lilian-cooper.md"
 
@@ -181,6 +208,8 @@ https://vimeo.com/176117452
 
     Continuing further along the road, almost to the Richer Street entrance, immediately off the right is the white vaulted monument of Anthony Fatseas.
 
+    ![Anthony Fatseas headstone](../assets/anthony-fatseas.jpg){ width="15%" } 
+
 
 --8<-- "snippets/anthony-fatseas.md"
 
@@ -189,7 +218,7 @@ https://vimeo.com/176117452
 
     From here continue along Dr Lilian Cooper Drive past the Richer Street entrance to where the trees are standing along the right side of the road. At the third tree locate the grave of Kramer.  Heading along this row and slightly down the hill, three graves in, to the left is the grave of Frederic Charles Urqhart.
     
-    ![Frederic Charles Urquhart headstone](../assets/frederic-charles-urquhart-headstone.jpg){ width="15%" }
+    ![Frederic Charles Urquhart's headstone](../assets/frederic-charles-urquhart-headstone.jpg){ width="15%" }
 
 ## Frederic Charles Urquhart <small>(25‑31‑8)</small>
 
@@ -210,14 +239,13 @@ After this time, Urquhart moved and was appointed administrator of the Northern 
 
     Coming back to the road and heading all the way to the top of the hill, on the very corner of the intersection with Pat Hill Drive is the grave displaying a boxing ring, the grave of Patrick Francis Hill.
 
-
 --8<-- "snippets/pat-hill.md"
 
 ![image of headstone](../assets/pat-hill-headstone.jpg){ width="90%" }
 
 ???+ directions "Directions" 
 
-    :fontawesome-solid-person-walking-arrow-loop-left:{ .deep-purple } retrace your steps and return to the Federation Pavilion.
+    :fontawesome-solid-person-walking-arrow-loop-left:{ .deep-purple } retrace your steps and return to the start.
 
 
 ## Copyright and Attribution 

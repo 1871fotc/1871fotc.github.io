@@ -1,5 +1,5 @@
 ---
-description: Discover some of the highlights and history on and around Mount Blackall in Toowong Cemetery
+description: Discover the historic highlights on and around Mount Blackall in Toowong Cemetery
 robots: 
   noindex: true
   nofollow: true
@@ -12,7 +12,10 @@ icon: fontawesome/solid/person-walking
 
 # Mount Blackall walk 
 
-**Discover some of the highlights and history on and around Mount Blackall in Toowong Cemetery**.
+**Discover the historic highlights on and around Mount Blackall in Toowong Cemetery**.
+
+- Duration: 1.5 hours
+- Difficulty: Flat along Dr. Lilian Cooper Drive with short side trips over a gutter and across grass to visit graves. The walk down Mount Blackall is steep in parts and across grass. Access to the graves at the base of Mount Blackall, from the Pioneer Children on, is relatively flat.
 
 --8<-- "snippets/conditions-of-entry.md"
 
@@ -57,6 +60,9 @@ Thallon died at the Mater Hospital in Brisbane on 24 March 1911 from a cerebral 
     - :fontawesome-solid-person-walking-arrow-loop-left:{ .deep-purple } Retrace your steps along Federation Avenue.
     - Continue along Federation Avenue to graves of George Phillips and James Cowlishaw on either side of the road.
 
+    ![George Phillips Headstone](../assets/george-phillips-headstone.jpg){ width="15%" }  ![James Cowlishaw's Headstone](../assets/james cowlishaw-headstone.jpg){ width="15%" }
+
+
 ## George Phillips <small>(11‑51‑2)</small>
 
 1843‑1921
@@ -91,7 +97,7 @@ Cowlishaw’s wife, Charlotte (née Owen) was the second burial in the grave fol
 
     Proceed to the end of the avenue and to the left find the Federation Pavilion. In the area to the left of the pavilion are Sir Charles Lilley and Sir Samuel Walker Griffith.
     
-    ![x](../assets/404.png){ width="15%"} ![Sir Samuel Walker Griffith's headstone](../assets/samuel-walker-griffith-headstone-1.jpg){ width="15%" } 
+    ![Charles Lilley's headstone](../assets/charles-lilley.jpg){ width="15%"} ![Sir Samuel Walker Griffith's headstone](../assets/samuel-walker-griffith-headstone-1.jpg){ width="15%" } 
 
 ## Sir Charles Lilley <small>(12‑15‑15)</small>
 
@@ -107,7 +113,9 @@ Following separation, Lilley narrowly won the Fortitude Valley seat and continue
 
 This modest grave contradicts the vital contribution this man made to Queensland and Australian politics and law. Griffith’s political career began in 1872 when he won the seat of East Moreton. He served as Attorney‑General from 1874‑1878 and in May 1879 replaced John Douglas as Liberal Party leader. During this rise to leadership he held three portfolios: Attorney‑General, Secretary for Public Instruction (1876‑1879) and Secretary for Public Works (1878‑1879). Griffith was a ‘founding father’ of Australia’s Constitution and Federation. In 1891 he chiefly drew up a draft constitution. From 1899‑1903 he was Lieutenant Governor of Queensland. Griffith died in his New Farm home ‘Merthyr’ and is buried here with his wife and eldest son Llewelyn, an engineer who died aged 29. 
 
-<!-- insert photo -->
+![Sir Samuel Walker Griffith, 1886](../assets/samuel-walker-griffith-1886.jpg){ width="40%" }
+
+*<small>[Sir Samuel Walker Griffith, 1886](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220124990002061) - State Library of Queensland </small>* 
 
 ???+ directions "Directions" 
 
@@ -119,11 +127,16 @@ This modest grave contradicts the vital contribution this man made to Queensland
 
 Samuel Wensley Blackall was the second Governor of Queensland, serving between 1868 and 1871. Born in Dublin, Blackall’s colonial service began in 1851 when he was appointed Lieutenant Governor of Dominica for six years. From 1862‑1865 he was Governor of Sierra Leone and in 1865 became Governor‑in‑Chief of the West African Settlements. During his three years as a Governor of Queensland he became extremely popular, willing to help public causes. While on a picnic in this area, Blackall’s ill health prompted him to choose this hilltop for his grave. In January 1871, Blackall was the first to be buried in Toowong Cemetery and his impressive memorial continues to dominate the hill now named Mount Blackall. 
 
-<!-- insert photo -->
+![Colonel Blackall, Governor of Queensland, with his family](../assets/colonel-blackall-and-family.jpg){ width="61.55%" }  ![Blackall monument](../assets/samuel-blackall-monument.jpg){ width="34%" }
+
+*<small>[Colonel Blackall, Governor of Queensland, with his family](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218698200002061) - State Library of Queensland </small>*
 
 ???+ directions "Directions" 
 
     Leaving the crest of Mount Blackall, take time to appreciate one of the best views of Brisbane. Walk down the hill to see Sir Arthur Palmer.
+
+    ![Arthur Palmer's Headstone](../assets/arthur-hunter-palmer-headstone.jpg){ width="15%" } 
+
 
 ## Sir Arthur Palmer <small>(13‑88‑7)</small>
 
@@ -131,11 +144,18 @@ Samuel Wensley Blackall was the second Governor of Queensland, serving between 1
 
 Arthur Hunter Palmer was the seventh Premier of Queensland, serving from 1870‑1874. Irish born, Palmer immigrated to New South Wales in 1838 where he worked on H. Dangar’s stations for 23 years, rising to the position of general manager. In 1861 he moved to Queensland and became a pastoralist. In 1866 he entered the Legislative Assembly and pursued a political career which included ministerial positions such as Minister of Lands and Works, and Public Instruction, the Colonial Secretary in various governments and a term as Premier. From 1881‑1898 Palmer was President of the Legislative Council. 
 
-<!-- insert photo -->
+
+![Sir Arthur Hunter Palmer as the Colonial Secretary](../assets/arthur-hunter-palmer.jpg){ width="40%" }
+
+*<small>[Sir Arthur Hunter Palmer as the Colonial Secretary](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218625050002061) - State Library of Queensland </small>*
 
 ???+ directions "Directions" 
 
     See information about Sir Maurice O’Connell and the Bell family.
+
+    ![Maurice O’Connell's Headstone](../assets/maurice-charles-oconnell-headstone.jpg){ width="15%" }   ![Joshua Peter Bell's Headstone](../assets/joshua-peter-bell-headstone.jpg){ width="15%" } 
+
+
 
 ## Sir Maurice O’Connell <small>(13‑83‑4)</small>
 
@@ -143,7 +163,10 @@ Arthur Hunter Palmer was the seventh Premier of Queensland, serving from 1870‑
 
 Maurice Charles O’Connell was the grandson of Governor William Bligh, commander of the infamous HMS Bounty and Governor of New South Wales from 1805. Born in Sydney and educated in Europe, he raised and led a regiment of Irish volunteers in the Spanish Carlist wars, rising to the rank of General in the British Auxiliary Legion. Before leaving for Spain, he married Eliza Emily Ie Geyt at Jersey. When the legion was disbanded, O’Connell sailed back to New South Wales with several Spanish decorations and in 1845 was elected to the New South Wales Legislative Council. He was a founding member of Queensland’s Legislative Council, following the colony’s separation from New South Wales in 1859. He was granted a knighthood in 1868 when, as administrator of the government, he was host to the Duke of Edinburgh. He died in Parliament House on 23 March 1879, leaving no children. 
 
-<!-- insert photo -->
+
+![Sir Maurice Charles O'Connell](../assets/maurice-charles-oconnell.jpg){ width="40%" }
+
+*<small>[Sir Maurice Charles O'Connell](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21251755050002061) - State Library of Queensland </small>*
 
 ## The Bell family <small>(13‑84‑8)</small>
 
@@ -151,11 +174,17 @@ Sir Joshua Peter Bell (1827‑1881), was a squatter and politician. Bell’s Jim
 
 Joshua Thomas Bell (1863‑1911), a barrister and politician, was the eldest son of Joshua Peter Bell. He was a skilful electioneer and public speaker, but his elegant appearance and pompous attitude alienated many of his peers. He was a keen rower, rifle shooter and patron of the arts, securing the first cultural grant in Queensland. 
 
-<!-- insert photo -->
+![Sir Joshua Peter Bell](../assets/joshua-peter-bell.jpg){ width="40%" }
+
+*<small>[Sir Joshua Peter Bell](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21219246370002061) - State Library of Queensland </small>*
+
 
 ???+ directions "Directions" 
 
     Take a sharp left across the top of the hill and head down the path to the left to see Sir Anthony Musgrave.
+
+    ![Anthony Musgrave's Headstone](../assets/anthony-musgrave-headstone.jpg){ width="15%" } 
+
 
 ## Sir Anthony Musgrave <small>(14‑23‑7)</small>
 
@@ -163,11 +192,17 @@ Joshua Thomas Bell (1863‑1911), a barrister and politician, was the eldest son
 
 Governor Musgrave was born and educated in the West Indies where he established his diplomatic career. He became Governor of South Australia in March 1873, was knighted in 1875 and in 1883, after six years as Governor of Jamaica, became Governor of Queensland. With Samuel Griffith he shared a deep enthusiasm for Australian Federation. 
 
-<!-- insert photo -->
+
+![Funeral of Sir Anthony Musgrave, Brisbane, 1888](../assets/anthony-musgrave-funeral-1888.jpg)
+
+*<small>[Funeral of Sir Anthony Musgrave, Brisbane, 1888](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218493890002061) - State Library of Queensland. Cropped. </small>*
 
 ???+ directions "Directions" 
 
     Across the path lies a series of tombs beginning with a large family grave. Notice on the far left a plaque commemorating Dorothy Hawthorn, MBE.
+
+    ![Dorothy Hawthorn's Headstone](../assets/dorothy-hawthorn-headstone.jpg){ width="15%" } 
+
 
 ## Dorothy Hawthorn, MBE <small>(13‑83‑1/2)</small>
 
@@ -175,11 +210,14 @@ Governor Musgrave was born and educated in the West Indies where he established 
 
 Dorothy Hawthorn’s many achievements and contributions to the community are well documented on her grave. Also buried here are her father, a federal cabinet minister, and her grandparents, Alexander and Ann Stewart, foundation members of St Andrews Church, Brisbane. Hawthorn made an outstanding contribution to the Girl Guides Association. As Deputy State Commissioner and Commissioner in charge of training, she toured extensively throughout Queensland establishing Guide companies. 
 
-<!-- insert photo -->
+<!-- insert photo http://onesearch.slq.qld.gov.au/primo-explore/fulldisplay?docid=slq_digitool1009179&context=L&vid=SLQ&lang=en_US&search_scope=SLQ_PCI_EBSCO&adaptor=Local%20Search%20Engine&tab=all&query=any,contains,Dorothy%20Hawthorn -->
 
 ???+ directions "Directions" 
 
     Moving down the hill along the path to the left and the next row are Finney and Isles.
+
+    ![Thomas Finney and James Isles Headstones](../assets/finney-and-isles-headstones.jpg){ width="15%" } 
+
 
 ## Finney and Isles <small>(13‑81‑6)</small>
 
@@ -191,8 +229,10 @@ The graves of Thomas Finney and James Isles who together established Finney Isle
 
     Continue along the road and to the right to find a low‑set grave to the left, of Kenneth Hutchinson.
 
-## Kenneth Hutchinson <!-- () -->
+    ![Kenneth Hutchinson's Headstone](../assets/kenneth-hutchinson-headstone.jpg){ width="15%" } 
 
+
+## Kenneth Hutchinson <small>(pp‑ss‑gg)</small>
 1850‑1902
 
 Hutchinson joined Queensland’s volunteer defence force in 1870. In 1890 he was appointed to the Permanent Force as a Major, and in 1899 promoted to Lieutenant Colonel. He commanded the second Queensland Contingent to the South African War and saw active service from 1899‑1901. At the time of his death, he was involved with the reorganisation and structuring of the new Commonwealth Military Forces. Lieutenant Colonel Hutchinson was tragically hit and killed by a train at Roma.
@@ -203,21 +243,26 @@ Hutchinson joined Queensland’s volunteer defence force in 1870. In 1890 he was
 
     Walk two rows down the hill past the pine tree. On the left stand the Raff family monuments capped with shrouded urns which refer to the urns used in ancient Greece to hold cremated ashes.
 
+    ![Raff family Headstone](../assets/raff-family-headstone.jpg){ width="15%" } 
+
 ## Raff family <small>(13‑79‑1)</small>
 
 George Raff (1815‑1889), born in Forres, Morayshire, Scotland, was a successful merchant, sugar‑grower and a founding Queensland politician. Raff arrived in Sydney in January 1839 on the Earl Durham. His efforts were largely responsible for the direct wool trade between Brisbane and London. Raff strongly believed in Queensland separation from New South Wales and, after this was achieved in 1859, represented Brisbane in the first parliament. 
 
 Alexander Raff (1820‑1914) was a pastoralist on the Darling Downs and a company director. He was a director of the Scottish Australian Land and Mortgage Company and National Mutual Life Association. From 1884 until 1910 he was a member of the Legislative Council.
 
-<!-- insert photo -->
+
+![Alex Raff](../assets/alexander-raff.jpg){ width="40%" }  
+
+*<small>[Alex Raff](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21298083250002061) — State Library of Queensland.</small>* 
+
 
 ???+ directions "Directions" 
 
-    At this point in the walk, continue the tour down the hill and complete Tour A, or take a small detour to complete Tour B.  
- 
-    Tour A - Continue down the hill and at the end of this row is the tall obelisk of [John Turner](#john-turner-1826-1900).
+    Walking to the right at the Raff memorial, proceed all the way along the row before moving down the hill to the next row to visit the grave of Carl Feilberg.
 
-    Tour B - Walking to the right at the Raff memorial, proceed all the way along the row before moving down the hill to the next row to visit the grave of Carl Feilberg.
+    ![Carl Feilberg's Headstone](../assets/carl-adolf-feilberg-headstone.jpg){ width="15%" } 
+
 
 ## Carl Feilberg <small>(13‑71‑15)</small>
 
@@ -235,19 +280,25 @@ After the closure of the Daily News at the beginning of 1879, he found employmen
 
     Turning right at Feilberg’s grave, walk down the hill to the left between the graves of Skyring and Pettigrew, two original trustees of this cemetery and walk along the row to the low‑lying grave of Trooper John Cobb.
 
-## Trooper John Cobb <!-- () -->
+    ![John Cobb's Headstone](../assets/john-cobb-headstone.jpg){ width="15%" } 
+
+
+## Trooper John Cobb <small>(pp‑ss‑gg)</small>
 
 1857‑1901
 
 A volunteer in the third Queensland Mounted Infantry Contingent to the South African War, John Cobb sailed from Brisbane in March 1900 and saw action at the relief of Mafeking. In operations west of Pretoria they took part in the defence of Elands River camp during August 1900 and later in November at Rhenoster Kop, both significant battles of that conflict. Contrary to popular belief, Trooper Cobb was not wounded in South Africa and returned unscathed to Brisbane where the contingent was disbanded on 20 June 1901. Trooper Cobb died of an apparent stroke on 3 July 1901 and was buried with full military honours.
 
-<!-- insert photo -->
+<!-- insert photo http://onesearch.slq.qld.gov.au/primo-explore/fulldisplay?docid=slq_alma21117481120002061&context=L&vid=SLQ&lang=en_US&search_scope=DT&adaptor=Local%20Search%20Engine&tab=dt&query=any,contains,%22John%20Cobb%22&facet=local7,include,South%20African%20(Boer)%20War%20Index&offset=0 -->
 
 ???+ directions "Directions" 
 
     Proceed along the path to the Murray‑Prior family vault, turn left at Heussler’s headstone, then immediately right after the Dorsett’s grave, continue back along the row to the pathway and at the end of this row is the tall obelisk of John Turner.
 
-## John Turner <!-- () -->
+    ![John Turner's Headstone](../assets/john-turner-headstone.jpg){ width="15%" } 
+
+
+## John Turner <small>(pp‑ss‑gg)</small>
 
 1826‑1900
 
@@ -259,6 +310,10 @@ John Sargent Turner was born in Wangaroa, New Zealand, to Reverend Nathaniel Tur
 
     Walk further down the hill and to the left to see the graves of James Wassell and R.R. Smellie.
 
+    ![James Wassell's Headstone](../assets/john-wassell-headstone.jpg){ width="15%" }   ![Robert Russell Smellie's Headstone](../assets/robert-russell-~~~~mellie-headstone.jpg){ width="15%" } 
+
+
+
 ## James Wassell <small>(13‑65‑10)</small>
 
 1841‑1926
@@ -267,7 +322,7 @@ James W. Wassell arrived in Queensland in 1864 and immediately joined the Water 
 
 <!-- insert photo -->
 
-## R.R. Smellie <!-- () -->
+## R.R. Smellie <small>(pp‑ss‑gg)</small>
 
 1823‑1898
 
@@ -279,6 +334,8 @@ Robert Russell Smellie was a pioneer of the engineering and iron foundry trade a
 
     Returning to the main pathway, walk down the hill and on the left come to the Bancroft family.
 
+    ![Bancroft family Headstone](../assets/joseph-bancroft-headstone.jpg){ width="15%" }
+
 ## Bancroft family <small>(13‑35‑3)</small>
 
 The Bancroft’s are among Queensland’s most notable medical families. After emigrating from England to Australia in 1864, Doctor Joseph Bancroft achieved world recognition for discovering the adult worm (mosquito borne) which caused the disease filariasis. The son of Doctor Bancroft, Thomas Lane Bancroft’s career included the positions of Quarantine Officer of Brisbane, Government Medical Officer, and Medical Officer on Palm Island. Shy, generous and kindly, Thomas shunned publicity, and although his desire for a full‑time research appointment was never fulfilled, his contribution to natural science amounted to 84 research papers including furthering his father’s work on filariasis. Doctor Bancroft was a general practitioner of the best type – a first‑rate all‑round surgeon, physician, gynaecologist and midwife. 
@@ -289,7 +346,10 @@ The Bancroft’s are among Queensland’s most notable medical families. After e
 
     Turn left here and walk the length of the row to the memorial of David Seymour.
 
-## David Seymour <!-- ()  -->
+    ![David Seymour's Headstone](../assets/david-seymour-headstone.jpg){ width="15%" }
+
+
+## David Seymour <small>(pp‑ss‑gg)</small>
 
 ca. 1831‑1916
 
@@ -300,6 +360,9 @@ David Thomson Seymour was born at Ballymore Castle, County Galway, Ireland, and 
 ???+ directions "Directions" 
 
     Turning around, walk down to the next row to the right along the length of the row and find the Celtic Cross, which marks the grave of George Rilatt.
+
+    ![George Rilatt's Headstone](../assets/george-rilatt-headstone.jpg){ width="15%" }
+
 
 ## George Rilatt <small>(13‑33‑12)</small>
 
@@ -313,6 +376,9 @@ George Rilatt was the dedicated janitor of Brisbane Grammar School for 51 years 
 
     Continue a short distance further, turn left and walk down the hill one row at Pilot Officer Munro Robin Ryder’s memorial, distinctive for the white marble angel on a crucifix. Turn right and stroll the length of the row back to the main path to the red granite headstone of Charles Patterson.
 
+    ![Charles Patterson's Headstone](../assets/charles-patterson-headstone.jpg){ width="15%" }
+
+
 ## Charles Patterson <small>(13‑30‑10)</small>
 
 1844‑1926
@@ -325,11 +391,9 @@ Charles Patterson emigrated from his birthplace in Aberdeenshire, Scotland, and 
 
     Cross the path and just up to the right on the corner lies the Prentice family.
 
-## Prentice family monument <small>(9‑41‑1)</small>
+    ![Prentice family monument](../assets/prentice-family-headstone.jpg){ width="15%" }
 
-This memorial is for two of the 133 passengers who drowned in the Quetta disaster of 1890. The vessel carrying prominent Queensland citizens was enroute to Brisbane when it struck a rock in the Torres Strait. Only 158 passengers survived the tragedy.
-
-<!-- insert photo -->
+--8<-- "snippets/jessie-blanche-and-george-prentice.md"
 
 ???+ directions "Directions" 
 
@@ -337,17 +401,21 @@ This memorial is for two of the 133 passengers who drowned in the Quetta disaste
 
 ## Pioneer children <small>(13‑10‑4)</small>
 
+![Pioneer Children's Graves at Toowong Cemetery](../assets/pioneer-childrens-graves-13-10-4.jpg){ width="100%" }
+
 Esther Roberts, mother of **William Henry Roberts** who is buried here, was the first teacher in the Moreton Bay settlement. Charles Roberts was transferred to Dunwich to take charge of the government store in August 1828. After the death of their son, the Roberts family returned to Sydney in 1834.  
 
 **Peter McCauley** was the son of Private Peter McCauley, who was a member of the 17^th^ Leicestershire Regiment. It was the longest serving regiment in Moreton Bay, having arrived around October 1830 and departed in November 1835. Private McCauley is memorialised at Redcliffe. His wife Mary was Matron of the Brisbane Town Female Factory. Young Peter drowned in the Brisbane River in 1832.
 
 **Jane Pittard** was the infant daughter of John Pittard, the late Colour Sergeant of the 57^th^ Regiment who drowned in Van Diemen’s Land shortly before his daughter’s birth. Jane’s mother remarried and came to Moreton Bay with Colour Sergeant David Collins, also of the 57^th^ Regiment. Jane died in 1833 and her family returned to Sydney the following year.
 
-<!-- insert photo -->
 
 ???+ directions "Directions" 
 
     At the roadway turn left and continue along ==Emma Miller Avenue== and note on the right the graves of the Petrie family. 
+
+    ![Petrie family Headstone](../assets/petrie-family-headstone.jpg){ width="15%" }
+
 
 ## Petrie family <small>(13‑5‑3)</small>
 
@@ -358,15 +426,26 @@ John Petrie (1822‑1892), Andrew’s eldest son, was Brisbane’s first Mayor f
 Also a stonemason, John Petrie’s best remembered work is the conversion of the windmill on Wickham Terrace to a signal station in 1861. John’s son, Andrew Lang Petrie (1854‑1928), a monumental mason and contractor, entered the Legislative Assembly on 29 April 1893 and remained a member until 7 May 1926. 
 
 
+![Andrew and John Petrie](../assets/andrew-and-john-petrie.jpg){ width="35.5%" }  ![The First Mayor and Aldermen of the Brisbane City Council - 1859](../assets/first-brisbane-city-council.jpg){ width="40%" } 
+
+*<small>[Andrew and John Petrie](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220096510002061) — State Library of Queensland.</small>* <br>
+*<small>[The First Mayor and Aldermen of the Brisbane City Council - 1859](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:8308/one?qu=The+First+Mayor+and+Aldermen+of+the+Brisbane+City+Council+-+1859&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS) — Brisbane City Council.</small>*
+
+
 ???+ directions "Directions" 
 
     Cross the road and walk toward the entrance to the cemetery. Look to the right opposite the brick tool shed to find the urn topped column commemorating Ann and Walter Hill.
 
-<!-- insert photo -->
+    ![Ann Hill's headstone](../assets/ann-hill-headstone.jpg){ width="15%" } 
+
 
 ## Ann and Walter Hill <small>(6‑21‑9)</small>
 
 Ann Hill (1850‑1871) was the second person buried in Toowong Cemetery, after Governor Blackall. Walter Hill, her father, was appointed first Superintendent of the Brisbane Botanic Gardens in 1855. As a tribute to Walter Hill, the Walter Hill fountain was erected in the City Botanic Gardens in 1867. This explanatory plaque was unveiled by the Lord Mayor Clem Jones in 1972
+
+![Lord Mayor Clem Jones Unveiling the Walter Hill Plaque](../assets/walter-hill-plaque.jpg){ width="32%" }  
+
+*<small>[Lord Mayor Clem Jones Unveiling the Walter Hill Plaque - Toowong Cemetery.](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:24873/one?qu=Lord+Mayor+Clem+Jones+Unveiling+the+Walter+Hill+Plaque+-+Toowong+Cemetery.&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS) - [Brisbane City Council](https://www.brisbane.qld.gov.au)</small>*
 
 ???+ directions "Directions" 
 
@@ -376,7 +455,9 @@ Ann Hill (1850‑1871) was the second person buried in Toowong Cemetery, after G
 
 The Cross of Sacrifice and Stone of Remembrance were unveiled on Anzac Day, 1924, by the Governor‑General, Lord Forster. The Stone of Remembrance is a solid block of Helidon sandstone weighing 10 tonne. The unveiling ceremony was attended by several hundred people including many prominent Queenslanders. Canon Garland raised the funds for this memorial.
 
-<!-- insert photo -->
+![Cross of Sacrifice and Stone of Remembrance memorials at Toowong Cemetery, Brisbane, 1924](assets/stone-of-remembrance.jpg){ width="96%" }  
+
+*<small>[Cross of Sacrifice and Stone of Remembrance memorials at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?change_lng=en&dps_pid=IE1400772) — State Library of Queensland.</small>*
 
 ???+ directions "Directions" 
 
@@ -384,35 +465,39 @@ The Cross of Sacrifice and Stone of Remembrance were unveiled on Anzac Day, 1924
 
     To see more, cross ==Soldiers Parade== toward the cemetery’s front gates to see the only marble statue in Toowong Cemetery of Edward McGregor.
 
+
+
 ## Edward McGregor <small>(4‑16‑17/18)</small>
 
 1862‑1939
 
 Edward McGregor worked on the Queensland railways for 20 years before purchasing the Grosvenor Hotel. A few years later he built the Lyceum Theatre on George Street, Brisbane, which he ran until his death. McGregor spoke several languages and toured the world twice. He was a keen music lover and was Patron of the Scottish and Curlew Choirs. McGregor was president of the Schoolboys’ Soccer Association and was largely responsible for the visit of the English soccer team in 1937. 
 
+<!--
 Beneath a rough cross directly behind Edward McGregor lies Able Seaman W.J. Harrhy who accidently drowned in the Brisbane River on Good Friday in 1924.
+-->
 
-<!-- insert photos -->
+![Edward McGregor's Headstone](../assets/edward-mcgregor-headstone.jpg){ width="100%" } 
 
 ???+ directions "Directions" 
 
     Turning right, see the Caskey Memorial.
 
-## Caskey Memorial <!-- () -->
+## Caskey Memorial <small>(pp‑ss‑gg)</small>
 
 Unveiled in May 1902, this is the [first known monument to the South African War](https://apps.des.qld.gov.au/heritage-register/detail/?id=600335) to be erected in Queensland. Lieutenant Caskey, of the 5^th^ Queensland Imperial Bushmen was killed in action in September 1901. This obelisk made of white Helidon sandstone and draped by a shroud, features emblems of Caskey’s teaching career and sporting interests. A rare memorial of the Anglo‑Boer conflict, this monument is a significant reminder of the emerging nationalism and contemporary attitudes to war.  
 
-<!-- insert photo -->
+![Caskey Memorial](../assets/caskey-memorial.jpg){ width="100%" } 
 
 ???+ directions "Directions" 
 
     Adjacent to this is a tall obelisk for the ‘A’ Battery Memorial, a shape which originates from the architecture of ancient Egypt.
 
-## ‘A’ Battery Memorial <!-- () -->
+## ‘A’ Battery Memorial <small>(pp‑ss‑gg)</small>
 
 Prior to Federation, each of the Australian colonies maintained its own defence force. These forces were largely comprised of part‑time volunteers and a small number of permanent officers and men. This memorial is to the men of Queensland’s permanent force, ‘A’ Battery, Queensland Artillery. All of those named on the memorial died while serving in the Battery, but only one, Driver Sydney Walker, died while on active service. Walker was serving with the first Queensland Contingent to the South African war when he died of enteric fever at Bloemfontein. 
 
-<!-- insert photo -->
+!['A’ Battery Memorial](../assets/a-battery-memorial.jpg){ width="100%" } 
 
 ???+ directions "Directions" 
 
@@ -422,7 +507,7 @@ Prior to Federation, each of the Australian colonies maintained its own defence 
 
 This [state‑heritage‑listed monument](https://apps.des.qld.gov.au/heritage-register/detail/?id=600334) was designed and largely constructed by Richard Ramo in memory of his three sons killed in World War I, to his adopted son Fred who died tragically in 1923, and later to the family dog. The dedication of the mausoleum was attended by several thousand people, largely pacifists, socialists and members of the Industrial Workers of the World. The temple bears several leaded marble inscriptions expressing Ramo’s bitter hatred of war and details of the deaths of his sons. One particularly sombre inscription reads: “*All my hope lies buried here*”. 
 
-<!-- insert photo -->
+![Temple of Peace](../assets/temple-of-peace.jpg){ width="100%" } 
 
 ## Copyright and Attribution 
 
