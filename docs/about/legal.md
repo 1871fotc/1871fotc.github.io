@@ -49,6 +49,7 @@ An example attribution for work derived from the Toowong Cemetery History page i
 To contribute content, you can:
 
 - **[Share content via email][email]**
+- **[Contribute a story using a Google form](https://forms.gle/U94dcEj6RihM9BPq9)**
 - **[Share content in a GitHub issue][new-issue]** (login required)
 - **[Discuss or share your contribution in the GitHub discussion forum][forum]** (login required)
 
