@@ -5,6 +5,8 @@ hide:
   - navigation
 ---
 
+--8<-- "snippets/sem/stories/all-the-worlds-a-stage.json"
+
 # All the world’s a stage 
 
 **Actors and performers buried in Toowong Cemetery**
@@ -107,6 +109,10 @@ hide:
     ![image of headstone](?.jpg)
     
 -->
+
+## Acknowledgements
+
+Written by Dr. Hilda Maclean
     
 ## Sources
 

@@ -1,0 +1,47 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "name": "All the world’s a stage",
+  "headline": "All the world’s a stage",
+  "description": "Stories about Actors and Performers who are remembered in Toowong Cemetery",
+  "keywords": [
+    "Toowong Cemetery Stories"
+  ],
+  "dateModified": "2022-09-22",
+  "datePublished": "2022-08-29",
+  "inLanguage": "en", 
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.fotc.au/#/schema/organization/1",
+    "name": "Friends of Toowong Cemetery Association Inc.",
+    "url": "https://www.fotc.au/"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Hilda Maclean",
+    "honorificPrefix": "Dr",
+    "url": "https://social-science.uq.edu.au/profile/603/hilda-maclean",
+    "sameAs": [
+      "https://www.qfhs.org.au/biographies/hilda-maclean/",
+      "https://www.linkedin.com/in/dr-hilda-maclean-4819a711/"
+    ]
+  },   
+  "image": [
+    "https://www.fotc.au/assets/logo/fotc-1x1.png", 
+    "https://www.fotc.au/assets/logo/fotc-banner-4x3.png", 
+    "https://www.fotc.au/assets/images/social/stories/all-the-worlds-a-stage.png"
+  ],
+  "about": {
+    "@type": "Place",
+    "name": "Toowong Cemetery",
+    "sameAs": [
+      "https://en.wikipedia.org/wiki/Toowong_Cemetery", 
+      "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery"
+    ]
+  },
+  "mentions": [
+    {"@type": "Person","name": "Henry Mobsby","sameAs": "https://en.wikipedia.org/wiki/Henry_Mobsby"}
+  ]
+}
+</script>
