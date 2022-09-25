@@ -2,7 +2,9 @@
 hide:
   - navigation
 ---
- 
+
+--8<-- "snippets/sem/stories/labour-luminaries.json"
+
 # Labor Luminaries  
 
 **Stories recognising people involved in the Labor movement.**
@@ -158,9 +160,10 @@ Waterson, D. B. *Biographical Register of the Queensland Parliament*, Australian
 
 ## Acknowledgements
 
-Research on Albert Whitford provided by Shelley Steel.
+Research on Albert Whitford provided by Shelley Steel
 
-Compiled by Hilda Maclean. 
+Compiled by Dr. Hilda Maclean
+
 <!-- Hilda Maclean https://social-science.uq.edu.au/profile/603/hilda-maclean h.maclean@uq.edu.au -->
 
 <!--

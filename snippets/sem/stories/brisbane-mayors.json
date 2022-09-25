@@ -1,0 +1,60 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "name": "Brisbane Mayors",
+  "headline": "Brisbane Mayor stories from Toowong Cemetery",
+  "description": "Stories about early Brisbane Mayors remembered in Toowong Cemetery",
+  "keywords": [
+    "Toowong Cemetery Stories"
+  ],
+  "dateModified": "2022-09-23",
+  "datePublished": "2022-08-29",
+  "inLanguage": "en", 
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.fotc.au/#/schema/organization/1",
+    "name": "Friends of Toowong Cemetery Association Inc.",
+    "url": "https://www.fotc.au/"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Hilda Maclean",
+    "honorificPrefix": "Dr",
+    "url": "https://social-science.uq.edu.au/profile/603/hilda-maclean",
+    "sameAs": [
+      "https://www.qfhs.org.au/biographies/hilda-maclean/",
+      "https://www.linkedin.com/in/dr-hilda-maclean-4819a711/"
+    ]
+  },   
+  "image": [
+    "https://www.fotc.au/assets/logo/fotc-1x1.png", 
+    "https://www.fotc.au/assets/logo/fotc-banner-4x3.png", 
+    "https://www.fotc.au/assets/images/social/stories/brisbane-mayors.png"
+  ],
+  "about": {
+    "@type": "Place",
+    "name": "Toowong Cemetery",
+    "sameAs": [
+      "https://en.wikipedia.org/wiki/Toowong_Cemetery", 
+      "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery"
+    ]
+  },
+  "mentions": [
+    {"@type": "Person","name": "John Petrie","sameAs": "https://en.wikipedia.org/wiki/John_Petrie"},
+    {"@type": "Person","name": "George Edmondstone","sameAs": "https://en.wikipedia.org/wiki/George_Edmondstone"},
+    {"@type": "Person","name": "Thomas Proe","sameAs": "https://en.wikipedia.org/wiki/Thomas_Proe"},
+    {"@type": "Person","name": "John Daniel Heal","sameAs": "https://en.wikipedia.org/wiki/John_Daniel_Heal"},
+    {"@type": "Person","name": "John Sinclair","sameAs": "https://en.wikipedia.org/wiki/John_Sinclair_(mayor)"},
+    {"@type": "Person","name": "Alfred John Raymond","sameAs": "https://en.wikipedia.org/wiki/Alfred_John_Raymond"},
+    {"@type": "Person","name": "James Swan","sameAs": "https://en.wikipedia.org/wiki/James_Swan_(mayor_of_Brisbane)"},
+    {"@type": "Person","name": "Richard Symes Warry","sameAs": "https://en.wikipedia.org/wiki/Richard_Symes_Warry"},
+    {"@type": "Person","name": "Richard Southall","sameAs": "https://en.wikipedia.org/wiki/Richard_Southall"},
+    {"@type": "Person","name": "John Hardgrave","sameAs": "https://en.wikipedia.org/wiki/John_Hardgrave"},
+    {"@type": "Person","name": "Joshua Jeays","sameAs": "https://en.wikipedia.org/wiki/Joshua_Jeays"},
+    {"@type": "Person","name": "William Pettigrew","sameAs": "https://en.wikipedia.org/wiki/William_Pettigrew_(politician)"},
+    {"@type": "Person","name": "Archibald Watson","sameAs": "https://en.wikipedia.org/wiki/Archibald_Watson_(mayor)"},
+    {"@type": "Person","name": "William MacNaughton Galloway","sameAs": "https://en.wikipedia.org/wiki/William_McNaughton_Galloway"}
+  ]
+}
+</script>

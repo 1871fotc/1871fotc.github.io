@@ -5,7 +5,12 @@ hide:
   - navigation
 ---
 
+--8<-- "snippets/sem/stories/artists.json"
+
 # The Artists 
+
+**Stories about Artists remembered in Toowong Cemetery**
+
 
 <!--
 
@@ -63,6 +68,10 @@ hide:
     - walking directions back to the start
 
 -->
+
+## Acknowledgements
+
+Written by Dr. Hilda Maclean
 
 ## Source
 

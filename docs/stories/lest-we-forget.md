@@ -3,9 +3,11 @@ hide:
   - navigation
 ---
 
+--8<-- "snippets/sem/stories/lest-we-forget.json"
+
 # Lest We Forget  
 
-**Their name liveth evermore** 
+**Their name liveth for evermore** 
 
 Commemorated here are only a small number of the [men and women who gave their lives in service to this country](https://www.cwgc.org/find-records/find-war-dead/search-results/?CemeteryExact=true&Cemetery=BRISBANE%20GENERAL%20(TOOWONG)%20CEMETERY&Size=100&Page=1) who are either buried or memorialised at Toowong Cemetery.
 
@@ -61,6 +63,8 @@ Gunner Webster has the dubious distinction of being the only fatality of the ‘
 The Lest We Forget guided tour was first conducted as part of the Remembrance Day Service on the 7 November 2010. 
 
 The Address was given by Rod Schafferius.
+
+Written by Dr. Hilda Maclean.
 
 <!-- The Service was arranged by Gavin Stoneley, Metropolitan Funerals. -->
 

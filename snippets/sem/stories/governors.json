@@ -1,87 +1,49 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@graph":[
-    {
+  "@type": "Article",
+  "name": "Queensland Governors",
+  "headline": "Past Queensland Governors",
+  "description": "Stories about past Queensland Governors, Lieutenant-Governors, and Administrators who are remembered in Toowong Cemetery",
+  "keywords": [
+    "Toowong Cemetery Stories", 
+    "Queensland Governors"
+  ],
+  "dateModified": "2022-09-22",
+  "datePublished": "2022-08-29",
+  "inLanguage": "en", 
+  "publisher": {
     "@type": "Organization",
     "@id": "https://www.fotc.au/#/schema/organization/1",
     "name": "Friends of Toowong Cemetery Association Inc.",
     "url": "https://www.fotc.au/"
-    },
-    {
-      "@type": "Place",
-      "@id": "https://www.fotc.au/#/schema/place/1",
-      "name": "Toowong Cemetery",
-      "sameAs": ["https://en.wikipedia.org/wiki/Toowong_Cemetery", "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery"]
-    },
-    {
-      "@type": "WebSite",
-      "@id": "https://www.fotc.au/#/schema/website/1",
-      "name": "Friends of Toowong Cemetery",
-      "url": "https://www.fotc.au/",
-      "publisher": {
-          "@id": "https://www.fotc.au/#/schema/organization/1"
-        }
-    },
-    {
-      "@type": "WebPage",
-      "@id": "https://www.fotc.au/",
-      "url": "https://www.fotc.au/",
-      "inLanguage": "en",
-      "name": "Friends of Toowong Cemetery",
-      "isPartOf": {
-          "@id": "https://www.fotc.au/#/schema/website/1"
-      },
-      "about": {
-          "@id": "https://www.fotc.au/#/schema/place/1"
-        },
-      "dateModified": "2022-08-30",
-      "datePublished": "2022-08-29",
-      "author": {
-          "@id": "https://www.fotc.au/#/schema/organization/1"
-        },
-      "description": "Discover and share the history and stories of Toowong Cemetery",
-      "image": [
-        "https://www.fotc.au/assets/logo/fotc-1x1.png",
-        "https://www.fotc.au/assets/logo/fotc-banner-4x3.png",
-        "https://www.fotc.au/assets/logo/fotc-banner-16x9.png"
-      ]
-    },
-    {
-      "@type": "Article",
-      "@id": "https://www.fotc.au/#/article/governors/",
-      "name": "Queensland Governors",
-      "headline": "Past Queensland Governors",
-      "description": "Stories about past Queensland Governors, Lieutenant-Governors, and Administrators who are remembered in Toowong Cemetery",
-      "keywords": ["Toowong Cemetery Stories", "Queensland Governors"],
-      "dateModified": "2022-09-19",
-      "datePublished": "2022-08-29",
-      "inLanguage": "en",
-      "author": {
-          "@id": "https://www.fotc.au/#/schema/organization/1"
-        },  
-      "publisher": {
-          "@id": "https://www.fotc.au/#/schema/organization/1"
-        },
-      "image": ["https://www.fotc.au/assets/logo/fotc-1x1.png", "https://www.fotc.au/assets/logo/fotc-banner-4x3.png", "https://www.fotc.au/assets/images/social/stories/governors.png"],
-      "about": {
-          "@id": "https://www.fotc.au/#/schema/place/1"
-        },
-      "mentions": [
-        {"@type": "Person","name": "Samuel Wensley Blackall","sameAs": "https://en.wikipedia.org/wiki/Samuel_Blackall"}, 
-        {"@type": "Person","name": "Anthony Musgrave","sameAs": "https://en.wikipedia.org/wiki/Anthony_Musgrave"}, 
-        {"@type": "Person","name": "Maurice Charles O’Connell","sameAs": "https://en.wikipedia.org/wiki/Maurice_Charles_O%27Connell_(Australian_politician)"}, 
-        {"@type": "Person","name": "Joshua Peter Bell","sameAs": "https://en.wikipedia.org/wiki/Joshua_Peter_Bell"}, 
-        {"@type": "Person","name": "Arthur Hunter Palmer","sameAs": "https://en.wikipedia.org/wiki/Arthur_Hunter_Palmer"}, 
-        {"@type": "Person","name": "Samuel Walker Griffith","sameAs": "https://en.wikipedia.org/wiki/Samuel_Griffith"}, 
-        {"@type": "Person","name": "Arthur Morgan","sameAs": "https://en.wikipedia.org/wiki/Arthur_Morgan_(Australian_politician,_born_1856)"}, 
-        {"@type": "Person","name": "Pope Alexander Cooper","sameAs": "https://en.wikipedia.org/wiki/Pope_Alexander_Cooper"}, 
-        {"@type": "Person","name": "Queensland Governors","sameAs": "https://en.wikipedia.org/wiki/Governor_of_Queensland"}
-      ], 
-      "isPartOf": {
-          "@id": "https://www.fotc.au/"
-        }
-    }
+  },
+  "author": {
+    "@id": "https://www.fotc.au/#/schema/organization/1"
+  },   
+  "image": [
+    "https://www.fotc.au/assets/logo/fotc-1x1.png", 
+    "https://www.fotc.au/assets/logo/fotc-banner-4x3.png", 
+    "https://www.fotc.au/assets/images/social/stories/governors.png"
+  ],
+  "about": {
+    "@type": "Place",
+    "name": "Toowong Cemetery",
+    "sameAs": [
+      "https://en.wikipedia.org/wiki/Toowong_Cemetery", 
+      "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery"
+    ]
+  },
+  "mentions": [
+    {"@type": "Person","name": "Samuel Wensley Blackall","sameAs": "https://en.wikipedia.org/wiki/Samuel_Blackall"}, 
+    {"@type": "Person","name": "Anthony Musgrave","sameAs": "https://en.wikipedia.org/wiki/Anthony_Musgrave"}, 
+    {"@type": "Person","name": "Maurice Charles O’Connell","sameAs": "https://en.wikipedia.org/wiki/Maurice_Charles_O%27Connell_(Australian_politician)"}, 
+    {"@type": "Person","name": "Joshua Peter Bell","sameAs": "https://en.wikipedia.org/wiki/Joshua_Peter_Bell"}, 
+    {"@type": "Person","name": "Arthur Hunter Palmer","sameAs": "https://en.wikipedia.org/wiki/Arthur_Hunter_Palmer"}, 
+    {"@type": "Person","name": "Samuel Walker Griffith","sameAs": "https://en.wikipedia.org/wiki/Samuel_Griffith"}, 
+    {"@type": "Person","name": "Arthur Morgan","sameAs": "https://en.wikipedia.org/wiki/Arthur_Morgan_(Australian_politician,_born_1856)"}, 
+    {"@type": "Person","name": "Pope Alexander Cooper","sameAs": "https://en.wikipedia.org/wiki/Pope_Alexander_Cooper"}, 
+    {"@type": "Person","name": "Queensland Governors","sameAs": "https://en.wikipedia.org/wiki/Governor_of_Queensland"}
   ]
 }
 </script>

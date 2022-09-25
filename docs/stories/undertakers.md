@@ -3,7 +3,11 @@ hide:
   - navigation
 ---
 
+--8<-- "snippets/sem/stories/undertakers.json"
+
 # Undertakers  
+
+**Stories about Undertakers remembered in Toowong Cemetery**
 
 <figure markdown>
   ![John Hislop Undertakers, Brisbane, ca. 1902](../assets/John-Hislop-Undertakers-Brisbane-ca1902.jpg){ width="70%" }
@@ -49,7 +53,9 @@ hide:
 
 ## Acknowledgements
 
-Thank you to Laurel Shanley from [K. M. Smith Funerals](https://kmsmith.com.au) for providing the story of Kate Mary Smith
+Written by Dr. Hilda Maclean.
+
+Thank you to Laurel Shanley from [K. M. Smith Funerals](https://kmsmith.com.au) for providing the story of Kate Mary Smith.
 
 <!--
 <div class="noprint" markdown="1">

@@ -3,6 +3,9 @@ hide:
   - navigation
 ---
 
+--8<-- "snippets/sem/stories/lest-we-forget-navy.json"
+
+
 # Lest We Forget: Naval  
 
 **These stories were created to mark the centenary of the Royal Australian Navy, 1911—2011.**
@@ -78,6 +81,8 @@ Two sailors from the Netherlands Merchant Navy are also buried at Toowong Cemete
 The Lest We Forget Naval guided tour was first conducted as part of a Remembrance Day Service on 6 November 2011 at the Toowong Cemetery. 
 
 The service was performed by Celebrant, Judy Magub, and Commander Tony Roper, RANR. 
+
+Written by Dr. Hilda Maclean.
 
 <!--
 <div class="noprint" markdown="1">

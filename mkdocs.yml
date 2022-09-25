@@ -153,6 +153,8 @@ plugins:
         'home/home.md': 'index.md'
         'home/index.md': 'index.md'
         'walks/news.md': 'index.md'        
+        'fotc/index.md': 'index.md'        
+
 # set up redirects for renamed pages
         'stories/in-their-caring-hands.md': 'stories/nurses-and-doctors.md'
         'stories/jewish.md': 'stories/jewish-walk.md'
@@ -173,8 +175,8 @@ nav:
   - Cemetery History: history.md
   - Walks and Stories:
     - Walks and Stories: stories/index.md
-#    - Mount Blackall Walk: stories/mount-blackall-walk.md
-#    - Lilian Cooper Walk: stories/lilian-cooper-walk.md
+    - Mount Blackall Walk: stories/mount-blackall-walk.md
+    - Dr. Lilian Cooper Walk: stories/lilian-cooper-walk.md
 # Politics
     - The Federation Walk: stories/federation-walk.md
     - Queensland Governors: stories/governors.md 

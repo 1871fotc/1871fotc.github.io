@@ -3,6 +3,8 @@ hide:
   - navigation
 ---
 
+--8<-- "snippets/sem/stories/nurses-and-doctors.json"
+
 # In their caring hands  
 
 **Commemorating the role of nurses, doctors and other health professionals**
@@ -124,9 +126,9 @@ Dr Cooper commenced private practise in Brisbane in 1891 at The Mansions, in Geo
 
 ## Acknowledgements
 
+- Compiled by Dr. Hilda Maclean, assisted by Margaret Graham and Margaret Campbell.
 - Additional information provided by Cecilia Brazil, Curator, [Museum of Nursing History](https://metronorth.health.qld.gov.au/rbwh/about-us/museum-of-nursing-history), Lady Lamington Nurses’ Home, Royal Brisbane Hospital.
 - Information of Mary Hogan provided by Ray and Lizzie Sergeant.
-- Compiled by Hilda Maclean, assisted by Margaret Graham and Margaret Campbell.
 
 <!--
 <div class="noprint" markdown="1">

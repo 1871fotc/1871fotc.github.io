@@ -1,10 +1,14 @@
 ---
-description: Stories about early Brisbane Mayors buried in Toowong Cemetery.
+description: Stories about early Brisbane Mayors remembered in Toowong Cemetery.
 hide:
   - navigation
 ---
 
+--8<-- "snippets/sem/stories/brisbane-mayors.json"
+
 # Brisbane Mayors  
+
+**Stories about early Brisbane Mayors remembered in Toowong Cemetery** 
 
 These stories cover many of the early Mayors of the Town of Brisbane. The City of Brisbane replaced the Town of Brisbane in 1903, which was then replaced by the new City of Brisbane in 1925.
 
@@ -192,6 +196,10 @@ These stories cover many of the early Mayors of the Town of Brisbane. The City o
     - Retrace your steps back to the starting point
 
 -->
+
+## Acknowledgements
+
+Written by Dr. Hilda Maclean
 
 ## Further Reading
 

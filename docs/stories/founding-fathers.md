@@ -3,6 +3,8 @@ hide:
   - navigation
 ---
 
+--8<-- "snippets/sem/stories/founding-fathers.json"
+
 # Founding Fathers   
 
 **Members of the first Brisbane General Cemetery Trust.**
@@ -64,3 +66,8 @@ John Hardgrave, a local politician and lord mayor of Brisbane, was born in Wickl
 --8<-- "snippets/william-pettigrew.md"
 
 --8<-- "snippets/nathaniel-lade.md"
+
+
+## Acknowledgements
+
+Written by Dr. Hilda Maclean

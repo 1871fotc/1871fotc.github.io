@@ -5,6 +5,8 @@ hide:
   - navigation
 ---
 
+--8<-- "snippets/sem/stories/notable-women.json"
+
 # Notable Women  
 
 **Women who shaped Queensland**
@@ -44,6 +46,10 @@ Emma died in 1917. On 22 October 1922 a publicly funded marble bust of her was u
 ![Arthur Hoey Davis - Steele Rudd, Charles Lilley and Emma Miller statues located in King George Square in Brisbane, Australia.](../assets/arthur-hoey-davis--charles-lilley--emma-miller-statues.jpg){ width="76%" }
 
 *<small>[Arthur Hoey Davis - Steele Rudd, Charles Lilley and Emma Miller statues located in King George Square in Brisbane, Australia. Artist: Artbusters Materials: Bronze Installation date: 1993](https://en.wikipedia.org/wiki/File:A._Davis,_C._Lilley_and_E._Miller_statues_in_Brisbane_01.JPG) by [Kgbo](https://commons.wikimedia.org/wiki/User:Kgbo), used under [CC BY-SA 4.0][cc-by-sa].  </small>*
+
+## Acknowledgements
+
+Written by Dr. Hilda Maclean.
 
 ## Sources 
 

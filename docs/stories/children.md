@@ -3,6 +3,8 @@ hide:
   - navigation
 ---
 
+--8<-- "snippets/sem/stories/children.json"
+
 #  The Children  
 
 **Suffer the little children, and forbid them not, to come unto me**
@@ -65,7 +67,10 @@ Doris Eliza was the daughter of William Carrington Gilbert and his wife May née
 > My time was short my grief was less  <br>
 > I'm gone from pain to happiness. <br>
 
+
 ## Acknowledgements
+
+Written by Dr. Hilda Maclean
 
 Hector Vasyli story researched and written by Steven Gil Verses, collected by Joyce Simpson
 

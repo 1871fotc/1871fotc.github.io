@@ -4,7 +4,12 @@ hide:
 icon: fontawesome/solid/person-walking
 ---
 
+--8<-- "snippets/sem/stories/jewish-walk.json"
+
 # The Jewish walk
+
+**A self-guided walk through the Jewish portion of Toowong Cemetery** 
+
 
 <figure markdown>
   ![The Brisbane Synagogue, ca. 1906](../assets/brisbane-synagogue-1906.jpg)
@@ -334,7 +339,7 @@ Text by Morris. S. Ochert OAM - Queensland Researcher, [Australian Jewish Histor
 Photography by: Joyce Simpson Sexton's Office Toowong Cemetery
 -->
 
-Edited by Hilda Maclean - Friends of Toowong Cemetery
+Edited by Dr. Hilda Maclean - Friends of Toowong Cemetery
 
 <!--
 <div class="noprint" markdown="1">

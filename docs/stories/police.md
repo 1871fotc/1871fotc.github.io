@@ -4,6 +4,8 @@ hide:
   - navigation
 ---
 
+--8<-- "snippets/sem/stories/police.json"
+
 # Queensland Colonial Police  
 
 **Stories about Queensland Colonial Policing and connections to people remembered in Toowong Cemetery**.
@@ -59,7 +61,9 @@ Hanly was a member of the Royal Irish Constabulary for five years before joining
 
 ## Acknowledgements
 
-Police career information supplied by the [Queensland Police Museum](https://www.police.qld.gov.au/museum)
+Written by Dr. Hilda Maclean.
+
+Police career information supplied by the [Queensland Police Museum](https://www.police.qld.gov.au/museum).
 
 ## Sources
 

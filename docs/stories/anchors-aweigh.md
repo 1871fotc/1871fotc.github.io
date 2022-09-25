@@ -5,6 +5,8 @@ hide:
   - navigation
 ---
 
+--8<-- "snippets/sem/stories/anchors-aweigh.json"
+
 # Anchors Aweigh! 
 
 **Maritime stories from Toowong Cemetery**
@@ -52,7 +54,7 @@ George was for many years the Superintendent Engineer to the Australasian Steam 
 
 ## Acknowledgements
 
-- Compiled by Hilda Maclean
+- Compiled by Dr. Hilda Maclean
 - Captain John Burke research by David Larkin
 
 <!--

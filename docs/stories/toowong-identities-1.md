@@ -5,6 +5,8 @@ hide:
   - navigation
 ---
 
+--8<-- "snippets/sem/stories/toowong-identities-1.json"
+
 # Toowong Identities
 
 **Stories to commemorate the centenary of the proclamation of the Town of Toowong in 1903**.
@@ -178,7 +180,10 @@ Archibald was the Chairman of the Toowong Fire Brigade, which had built a [fire 
 
 --8<-- "snippets/alfred-roberts.md"
 
+
 ## Acknowledgements
+
+Written by Dr. Hilda Maclean.
 
 Sponsored by Judy Magub, Councillor for Toowong, 1994—2007
 

@@ -5,6 +5,8 @@ hide:
   - navigation
 ---
 
+--8<-- "snippets/sem/stories/toowong-identities-2.json"
+
 # More Toowong Identities
 
 **More stories to commemorate the centenary of the proclamation of the Town of Toowong in 1903**.
@@ -140,6 +142,8 @@ Born in Tasmania in 1843, Robert was educated in Scotland before coming to Queen
 
 
 ## Acknowledgements
+
+Written by Dr. Hilda Maclean.
 
 Sponsored by Judy Magub, Councillor for Toowong, 1994—2007
 
