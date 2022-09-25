@@ -134,12 +134,11 @@ markdown_extensions:
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
   - javascripts/tablesort.js
-#  - javascripts/imagezoom.js
   
 # Plugins
 plugins:
   - search
-#  - social
+  - social
   - glightbox:
       touchNavigation: true
       loop: false
