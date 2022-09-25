@@ -47,15 +47,16 @@ George was for many years the Superintendent Engineer to the Australasian Steam 
 
 --8<-- "snippets/john-burke.md"
 
-## Further Reading 
-
-- Broomham, Rosemary Steady Revolutions: The Australian Institution of Marine and Power Engineers 1881-1990 New South Wales University Press, 1991
-- Hempel, J. A. ‘Collin, William (1834-1914)’, Australian Dictionary of Biography, Vol. 3 Melbourne University Press, 1969, p. 441
-
 ## Acknowledgements
 
 - Compiled by Dr. Hilda Maclean
 - Captain John Burke research by David Larkin
+
+
+## Further Reading 
+
+- Broomham, Rosemary Steady Revolutions: The Australian Institution of Marine and Power Engineers 1881-1990 New South Wales University Press, 1991
+- Hempel, J. A. ‘Collin, William (1834-1914)’, Australian Dictionary of Biography, Vol. 3 Melbourne University Press, 1969, p. 441
 
 <!--
 <div class="noprint" markdown="1">
