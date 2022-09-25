@@ -17,11 +17,11 @@ theme:
     code: Roboto Mono 
   palette:
     scheme: default
-    primary: deep-purple
+    primary: deep purple
     accent: purple
 # toggle between alternate schemes
 #    - scheme: default
-#      primary: deep-purple
+#      primary: deep purple
 #      accent: purple
 #      toggle:
 #        icon: octicons/sun-16
@@ -139,7 +139,7 @@ extra_javascript:
 # Plugins
 plugins:
   - search
-  - social
+#  - social
   - glightbox:
       touchNavigation: true
       loop: false
@@ -167,7 +167,7 @@ plugins:
         'links/links.md': 'research/index.md'
         'contactus/contactus.md': 'contact.md'
 # redirect to bitly to count QR code scans
-        'hello.md': 'https://bit.ly/3wQYQxe' 
+        'hello.md': 'https://bit.ly/3wQYQxe'
 
 # Page tree - only 2 levels allowed
 nav:
@@ -175,11 +175,11 @@ nav:
   - Cemetery History: history.md
   - Walks and Stories:
     - Walks and Stories: stories/index.md
-    - Mount Blackall Walk: stories/mount-blackall-walk.md
-    - Dr. Lilian Cooper Walk: stories/lilian-cooper-walk.md
+#    - Mount Blackall Walk: stories/mount-blackall-walk.md
+#    - Dr. Lilian Cooper Walk: stories/lilian-cooper-walk.md
 # Politics
     - The Federation Walk: stories/federation-walk.md
-    - Queensland Governors: stories/governors.md 
+    - Queensland Governors: stories/governors.md
     - Brisbane Mayors: stories/brisbane-mayors.md
     - One Adult, One Vote: stories/suffrage.md
     - Labor Luminaries: stories/labor-luminaries.md
