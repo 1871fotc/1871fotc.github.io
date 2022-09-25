@@ -138,7 +138,7 @@ extra_javascript:
 # Plugins
 plugins:
   - search
-  - social
+#  - social
   - glightbox:
       touchNavigation: true
       loop: false
@@ -153,7 +153,6 @@ plugins:
         'home/index.md': 'index.md'
         'walks/news.md': 'index.md'        
         'fotc/index.md': 'index.md'        
-
 # set up redirects for renamed pages
         'stories/in-their-caring-hands.md': 'stories/nurses-and-doctors.md'
         'stories/jewish.md': 'stories/jewish-walk.md'
