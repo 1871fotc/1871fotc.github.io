@@ -103,7 +103,7 @@ There are 34 Portions in the cemetery, numbered 1 to 30 and also 2A, 7A, 15A, 29
 
 <figure markdown>
 ![Toowong Cemetery Map showing Portions, Sections and key features](assets/Toowong-cemetery-map-2022-09-29.jpg){ width="100%" }
-  <figcaption markdown>Toowong Cemetery Map showing Portions, Sections and key features). [Toowong Cemetery Area Map](https://www.brisbane.qld.gov.au/sites/default/files/documents/2022-09/20220906-Toowong-Cemetery-Map-2022.pdf)  © [Brisbane City Council](https://www.brisbane.qld.gov.au) 2022, used under [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/). Corrections made in consultation with Toowong Cemetery: Portion 10 Section, 85 and 83 swapped. Portion 7A, Sections 233a and 233b renamed to 234 and 235 respectively.</figcaption>
+  <figcaption markdown>Toowong Cemetery Map showing Portions, Sections and key features. [Toowong Cemetery Area Map](https://www.brisbane.qld.gov.au/sites/default/files/documents/2022-09/20220906-Toowong-Cemetery-Map-2022.pdf)  © [Brisbane City Council](https://www.brisbane.qld.gov.au) 2022, used under [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/). Corrections made in consultation with Toowong Cemetery: Portion 10 Section, 85 and 83 swapped. Portion 7A, Sections 233a and 233b renamed to 234 and 235 respectively.</figcaption>
 </figure>
 
 ### Toowong Cemetery Road Map 
