@@ -43,8 +43,7 @@ Tours are on the first Sunday of each month (March to December) from 10:30 to 12
 
 Our next tour is called "**Tragically Taken**" and is on **Sunday 2 October**. The tour is limited to 20 people. Add it to your calendar.
 
-:fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20221002.ics)**
-
+[Add to Calendar :fontawesome-regular-calendar-plus:](assets/calendar/fotc-tour-20221002.ics){ .md-button .md-button--primary }
 
 ## Guided tour alternatives
 
