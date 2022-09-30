@@ -44,14 +44,6 @@
         "currency": "AUD",
         "value": "0"
       },
-      "supply": {
-        "@type": "HowToSupply",
-        "name": "Internet Connection"
-      },
-      "tool": {
-        "@type": "HowToTool",
-        "name": "Computer"
-      },
       "step": [{
         "@type": "HowToStep",
         "text": "Use the Brisbane City Council Grave location search to look up a person's name and find their location in Toowong Cemetery.
