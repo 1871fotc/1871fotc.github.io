@@ -138,7 +138,7 @@ extra_javascript:
 # Plugins
 plugins:
   - search
-#  - social
+  - social
   - glightbox:
       touchNavigation: true
       loop: false
@@ -187,6 +187,8 @@ nav:
     - Notable Women: stories/notable-women.md    
     - Toowong Identities: stories/toowong-identities-1.md 
     - More Toowong Identities: stories/toowong-identities-2.md
+#    - Toowong Streets: stories/toowong-street-name-origins.md
+
 # Stories by Profession    
     - Artists: stories/artists.md 
     - Health Professionals: stories/nurses-and-doctors.md
