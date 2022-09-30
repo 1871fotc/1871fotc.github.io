@@ -25,7 +25,7 @@ Note the location which will be 3 numbers in the format, *Portion*-*Section*-*Gr
 </figure>
 
 
-## Locate the grave on the map
+## Locate the grave
 
 Use the Toowong Cemetery Map to locate the Portion and Section the person is buried in.
 
