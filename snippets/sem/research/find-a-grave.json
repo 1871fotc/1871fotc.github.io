@@ -44,49 +44,57 @@
         "currency": "AUD",
         "value": "0"
       },
-      "step": [{
-        "@type": "HowToStep",
-        "text": "Use the Brisbane City Council Grave location search to look up a person's name and find their location in Toowong Cemetery.
-    
-    Note the location which will 3 numbers in the format, Portion-Section-Grave. For example, Peter Jackson's grave is located at Portion 5, Section 28, Grave 1 or 5-28-1.",
-        "image": "https://www.fotc.au/assets/BCC-grave-location-search-results.png",
-        "name": "Search for a grave",
-        "url": "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search"
-      },{
-        "@type": "HowToStep",
-        "text": "Use the Toowong Cemetery Map to find the Portion and Section the person is buried in.",
-        "image": "https://www.fotc.au/assets/toowong-cemetery-map-2022-09-30.jpg",
-        "name": "Locate the grave on the map",
-        "url": "https://www.fotc.au/research/find-a-grave/#locate-the-grave-on-the-map" 
-      },{
-        "@type": "HowToStep",
-        "text": "Check Office opening hours.
-    
-    Get directions to Toowong Cemetery.",
-        "image": "https://www.fotc.au/assets/flag-pole.jpg",
-        "name": "Plan your visit to Toowong Cemetery",
-        "url": "https://www.fotc.au/research/find-a-grave/#plan-your-visit"
-      },{
-        "@type": "HowToStep",
-        "text": "Ask Friends of Toowong Cemetery for help:
-    
-    If you're visiting outside of office hours, we can mark the side of the road with the section number to help you locate the grave.
-    
-    If the grave is unmarked, we can outline the grave using a surface spray. The spray does no harm and two mowings later it will disappear.
-    
-    If you're unable to visit, we can to take a digital photograph of a grave and email it to you.",
-        "image": "https://www.fotc.au/assets/unmarked-graves.jpg",
-        "name": "Ask for help",
-        "url": "https://www.fotc.au/#ask-for-help"
-      },{
-        "@type": "HowToStep",
-        "text": "Travel to Toowong Cemetery.
-    
-    When you arrive, ask the Toowong Cemetery Office to help find a grave.",
-        "image": "https://www.fotc.au/assets/flag-pole.jpg",
-        "name": "Visit a grave",
-        "url": "https://www.fotc.au/#visit-a-grave"
-      }]    
+      "step": [
+        {
+          "@type": "HowToStep",
+          "text": "Use the Brisbane City Council Grave location search to look up a person's name and find their location in Toowong Cemetery.
+      
+                  Note the location which will 3 numbers in the format, Portion-Section-Grave. For example, Peter Jackson's grave is located at Portion 5, Section 28, Grave 1 or 5-28-1.",
+          "image": "https://www.fotc.au/assets/BCC-grave-location-search-results.png",
+          "name": "Search for a grave",
+          "url": "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Use the Toowong Cemetery Map to find the Portion and Section the person is buried in.",
+          "image": "https://www.fotc.au/assets/toowong-cemetery-map-2022-09-30.jpg",
+          "name": "Locate the grave on the map",
+          "url": "https://www.fotc.au/research/find-a-grave/#locate-the-grave-on-the-map" 
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Check Office opening hours. 
+          
+                  Decide how you'll travel to Toowong Cemetery. 
+                  
+                  Get directions to Toowong Cemetery.",
+          "image": "https://www.fotc.au/assets/flag-pole.jpg",
+          "name": "Plan your visit to Toowong Cemetery",
+          "url": "https://www.fotc.au/research/find-a-grave/#plan-your-visit"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Ask Friends of Toowong Cemetery for help:
+      
+                  If you're visiting outside of office hours, we can mark the side of the road with the section number to help you locate the grave.
+                  
+                  If the grave is unmarked, we can outline the grave using a surface spray. 
+                  
+                  If you're unable to visit, we can to take a digital photograph of a grave and email it to you.",
+          "image": "https://www.fotc.au/assets/unmarked-graves.jpg",
+          "name": "Ask for help",
+          "url": "https://www.fotc.au/#ask-for-help"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Travel to Toowong Cemetery.
+      
+                  When you arrive, ask the Toowong Cemetery Office to help find a grave.",
+          "image": "https://www.fotc.au/assets/flag-pole.jpg",
+          "name": "Visit a grave",
+          "url": "https://www.fotc.au/#visit-a-grave"
+        }
+      ]    
     }
   ]
 }
