@@ -140,7 +140,7 @@ We are inspired by the works of others who share and create with open data, incl
 
 Our end goal for publishing and linking our data is to enable Friends of Toowong Cemetery and others to discover and share new stories and historical insights about Toowong Cemetery.
 
-We encourage you to reuse our data but please follow the terms of the licence and provide attribution. 
+We encourage you to reuse our data but please **[follow the terms of the licence](../about/legal.md)** and provide attribution. 
 
 <!-- 
 We may encourage reuse of our data by participating in hack-a-thons (such as [GovHack](https://govhack.org)), and experiments with other organisations. 
