@@ -143,10 +143,12 @@ plugins:
       touchNavigation: true
       loop: false
       effect: fade
-      width: 100%
-      height: auto
+      width: auto 
+      height: 100vh
       zoomable: true
       draggable: false
+      auto_caption: false
+      caption_position: bottom
   - redirects:
       redirect_maps:
         'home/home.md': 'index.md'
