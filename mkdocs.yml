@@ -143,8 +143,8 @@ plugins:
       touchNavigation: true
       loop: false
       effect: fade
-      width: auto 
-      height: 100vh
+      width: 100vw
+      height: auto
       zoomable: true
       draggable: false
       auto_caption: false
