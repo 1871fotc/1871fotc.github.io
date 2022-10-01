@@ -20,7 +20,7 @@ Note the location which will be 3 numbers in the format, *Portion*-*Section*-*Gr
 
 <figure markdown>
   ![BCC Grave Location Search result for Peter Jackson](../assets/BCC-grave-location-search-results.png
-){ width="100%" }
+){ width="100%" data-title="BCC Grave Location Search result for Peter Jackson" data-description="Go to https://graves.brisbane.qld.gov.au; Choose Toowong Cemetery as the Cemetery Name, Enter the other details you know; Click the Details link and the grave location is displayed."}
   <figcaption markdown>BCC Grave Location Search result for Peter Jackson</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ Use the Toowong Cemetery Map to locate the Portion and Section the person is bur
 Can you locate Peter Jackson's grave (5-28-1) using the Portion and Section numbers in the map below?
 
 <figure markdown>
-  ![Toowong Cemetery Map](../assets/toowong-cemetery-map-2022-10-01.jpg){ width="100%" }
+  ![Toowong Cemetery Map](../assets/toowong-cemetery-map-2022-10-01.jpg){ width="100%" data-title="Toowong Cemetery Map" data-description="Portion numbers are the large numbers. Section numbers are the small numbers inside the light green rectangles. Grave numbers are not shown."}
   <figcaption markdown>Toowong Cemetery Map showing Portions (the large numbers) and Sections (the numbers inside the light green rectangles). [Toowong Cemetery Area Map](https://www.brisbane.qld.gov.au/sites/default/files/documents/2022-09/20220906-Toowong-Cemetery-Map-2022.pdf)  © [Brisbane City Council](https://www.brisbane.qld.gov.au) 2022, used under [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/). Corrected on 1 October 2022 in consultation with Toowong Cemetery: Portion 10 Section, 85 and 83 swapped. Portion 7A, Sections 233a and 233b renamed to 234 and 235 respectively. Portion 30, swapped Sections 20 and 21. Road name labels added and spelling corrected.</figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ There are 34 Portions in the cemetery, numbered 1 to 30 and also 2A, 7A, 15A, 29
 Portion numbers are shown on signs throughout the cemetery.
 
 <figure markdown>
-  ![Portion Sign](../assets/portion-sign.jpg){ width="100%" }
+  ![Portion Sign](../assets/portion-sign.jpg){ width="100%" data-title="Portion 10 Sign" data-description="Portion numbers are shown on signs throughout the cemetery."}
   <figcaption markdown>Portion 10 sign post.</figcaption>
 </figure>
 
@@ -74,15 +74,15 @@ Plan your visit to Toowong Cemetery.
 
 ## Grave Markers
 
-Markers can be seen on, or embedded into, graves. They represent a person buried in the grave. Historic Burial and Portion Registers link some people to markers and their grave. Unfortunately many markers are missing or have been moved.
+Markers can be seen on, or embedded into, graves. A Marker represents a person buried in the grave. Historic Burial and Portion Registers link some people to markers and their grave. Unfortunately many markers are missing or have been moved.
 
 <figure markdown>
-  ![Markers embedded into a grave](../assets/many-markers.jpg){ width="100%" }
+  ![Markers embedded into a grave](../assets/many-markers.jpg){ width="100%" data-title="Markers embedded into a grave" data-description="A Marker represents a person buried in the grave. Historic Burial and Portion Registers link some people to markers and their grave." } 
   <figcaption>Grave markers embedded into a grave surround.</figcaption>
 </figure>
 
 <figure markdown>
-  ![Grave markers found on the grass](../assets/markers.jpg){ width="100%" }
+  ![Grave markers found on the grass](../assets/markers.jpg){ width="100%" data-title="Grave markers found on the grass, separated from their graves" data-description="Unfortunately many markers are missing or have been moved, making it difficult to use them to identify who is buried in a grave." }
   <figcaption>Grave markers found on the grass, separated from their graves.</figcaption>
 </figure>
 
@@ -105,6 +105,6 @@ Only the surname is recorded in the Portion Book so you can't link a marker to a
 There are many unmarked graves in Toowong Cementery. Take care when you walk across the grass as unmarked graves can leave hidden hollows that are a trip hazard.
 
 <figure markdown>
-  ![Unmarked graves](../assets/unmarked-graves.jpg){ width="100%" }
+  ![Unmarked graves](../assets/unmarked-graves.jpg){ width="100%" data-title="Unmarked graves can be clearly seen after rain" data-description="There are many unmarked graves in Toowong Cementery. Take care when you walk across the grass as unmarked graves can leave hidden hollows that are a trip hazard."}
   <figcaption markdown>Unmarked graves can be clearly seen after rain.</figcaption>
 </figure>
