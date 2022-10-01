@@ -29,15 +29,16 @@ Note the location which will be 3 numbers in the format, *Portion*-*Section*-*Gr
 
 Use the Toowong Cemetery Map to locate the Portion and Section the person is buried in.
 
+[Print the Toowong Cemetery Map :fontawesome-solid-map:](../assets/documents/toowong-cemetery-map-2022-10-01.pdf "Print a high resolution version of the map. 2.1 Mb."){ .md-button .md-button--primary }
+
+
+
 Can you locate Peter Jackson's grave (5-28-1) using the Portion and Section numbers in the map below?
 
 <figure markdown>
   ![Toowong Cemetery Map](../assets/toowong-cemetery-map-2022-10-01.jpg){ width="100%" }
   <figcaption markdown>Toowong Cemetery Map showing Portions (the large numbers) and Sections (the numbers inside the light green rectangles). [Toowong Cemetery Area Map](https://www.brisbane.qld.gov.au/sites/default/files/documents/2022-09/20220906-Toowong-Cemetery-Map-2022.pdf)  © [Brisbane City Council](https://www.brisbane.qld.gov.au) 2022, used under [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/). Corrected on 1 October 2022 in consultation with Toowong Cemetery: Portion 10 Section, 85 and 83 swapped. Portion 7A, Sections 233a and 233b renamed to 234 and 235 respectively. Portion 30, swapped Sections 20 and 21. Road name labels added and spelling corrected.</figcaption>
 </figure>
-
-[Print the Toowong Cemetery Map :fontawesome-solid-map:](../assets/documents/toowong-cemetery-map-2022-10-01.pdf){ .md-button .md-button--primary }
-
 
 There are 34 Portions in the cemetery, numbered 1 to 30 and also 2A, 7A, 15A, 29A. Each Section can contain up to 80 graves and the graves are usually in two rows within the section. 
 
