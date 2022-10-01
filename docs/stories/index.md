@@ -46,7 +46,10 @@ Stories marked with :fontawesome-solid-person-walking: are **self-guided walks**
 - **[Notable Women][notable-women]** - Women who shaped Queensland
 - **[Toowong Identities][toowong-identities-1]** - commemorating the Centenary of the Proclamation of the Town of Toowong in 1903 
 - **[More Toowong Identities][toowong-identities-2]** - commemorating the Centenary of the Proclamation of the Town of Toowong in 1903
- 
+
+<!--  
+- **[Toowong Streets](toowong-street-name-origins.md)** - the origins of Toowong Street names 
+--> 
 
 ## Stories by Profession
 
