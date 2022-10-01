@@ -10,4 +10,4 @@ hide:
 
 # Scan the QR code
 
-![Friends of Toowong Cemetery banner](assets/images/fotc-qr-code.png){ .off-glb }
+![Friends of Toowong Cemetery banner](assets/images/fotc-qr-code.png)
