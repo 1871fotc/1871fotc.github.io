@@ -7,6 +7,12 @@ hide:
 
 # 1919 Soldiers 
 
+**A historic walk visiting 1919 soldiers in Toowong Cemetery**
+
+--8<-- "snippets/story-map-link.md"
+
+
+
 --8<-- "snippets/frank-goodwin.md"
 
 --8<-- "snippets/arthur-leslie-middleton.md"
