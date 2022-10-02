@@ -3,6 +3,7 @@ search:
   boost: 1
 title: Archaeological Digs
 description: Get your hands dirty and uncover stories from Brisbane's past 
+glightbox.auto_caption: true  
 ---
 
 --8<-- "snippets/sem/headstones/archaeological-digs.json"
@@ -19,15 +20,15 @@ The next [Toowong Cemetery Archaeological Dig](https://archaeologyweek.org/event
 
 ## Where did the buried headstones come from?
 
-The buried headstones are believed to come from two sources: 
+The headstones discovered in Toowong Cemetery Archaeological digs are believed to come from two sources: 
 
 - **[Headstones from the Paddington Cemetery Reserved Area](lost-paddington-headstones.md)** dumped in Toowong Cemetery in the 1930's
 - Toowong Cemetery headstones destroyed and buried in the 1970's as part of the Brisbane City Council's 'Beautification Scheme'
 
-## Toowong Cemetery Archaeological dig finds 
+## Headstones uncovered in Toowong Cemetery
 
 Many headstones have been found in Toowong Cemetery Archaeological digs. **[See photos of our discoveries](https://www.facebook.com/pg/1871fotc/photos/?ref=page_internal)** on Facebook.
 
-![Discovered headstones](../assets/lost-and-found.jpg){ width="96%" } 
+![Headstones discovered in Toowong Cemetery Archaeological digs](../assets/lost-and-found.jpg){ width="96%" } 
 
-*<small>Toowong Cemetery Archaeological Dig Finds</small>*
+*<small>Headstones discovered in Toowong Cemetery Archaeological digs</small>*
