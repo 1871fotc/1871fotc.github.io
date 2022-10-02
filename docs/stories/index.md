@@ -3,6 +3,7 @@ title:  Walks and Stories
 description: Stories and walks to discover the people remembered in Toowong Cemetery
 search:
   boost: 2
+glightbox.auto_caption: true  
 ---
 
 --8<-- "snippets/sem/stories/index.json"
