@@ -77,12 +77,12 @@ Plan your visit to Toowong Cemetery.
 Markers can be seen on, or embedded into, graves. A Marker represents a person buried in the grave. Historic Burial and Portion Registers link some people to markers and their grave. Unfortunately many markers are missing or have been moved.
 
 <figure markdown>
-  ![Markers embedded into a grave](../assets/many-markers.jpg){ width="100%" data-title="Markers embedded into a grave" data-description="A Marker represents a person buried in the grave. Historic Burial and Portion Registers link some people to markers and their grave." } 
+  ![Markers embedded into a grave](../assets/many-markers.jpg){ width="100%" data-title="Markers embedded into a grave" data-description="A Marker represents a person buried in the grave." } 
   <figcaption>Grave markers embedded into a grave surround.</figcaption>
 </figure>
 
 <figure markdown>
-  ![Grave markers found on the grass](../assets/markers.jpg){ width="100%" data-title="Grave markers found on the grass, separated from their graves" data-description="Unfortunately many markers are missing or have been moved, making it difficult to use them to identify who is buried in a grave." }
+  ![Grave markers found on the grass](../assets/markers.jpg){ width="100%" data-title="Grave markers found on the grass, separated from their graves" data-description="Unfortunately many markers are missing or have been moved." }
   <figcaption>Grave markers found on the grass, separated from their graves.</figcaption>
 </figure>
 
@@ -105,6 +105,6 @@ Only the surname is recorded in the Portion Book so you can't link a marker to a
 There are many unmarked graves in Toowong Cementery. Take care when you walk across the grass as unmarked graves can leave hidden hollows that are a trip hazard.
 
 <figure markdown>
-  ![Unmarked graves](../assets/unmarked-graves.jpg){ width="100%" data-title="Unmarked graves can be clearly seen after rain" data-description="There are many unmarked graves in Toowong Cementery. Take care when you walk across the grass as unmarked graves can leave hidden hollows that are a trip hazard."}
+  ![Unmarked graves](../assets/unmarked-graves.jpg){ width="100%" data-title="Unmarked graves can be clearly seen after rain" data-description="There are many unmarked graves in Toowong Cementery."}
   <figcaption markdown>Unmarked graves can be clearly seen after rain.</figcaption>
 </figure>
