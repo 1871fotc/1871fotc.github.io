@@ -9,7 +9,8 @@ hide:
 
 **A historic walk visiting 1919 soldiers in Toowong Cemetery**
 
---8<-- "snippets/story-map-link.md"
+
+Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
 
 
 
