@@ -17,7 +17,10 @@ The anchor is a symbol found on many Christian graves but it does not necessaril
 
 The allegorical figure, Hope, is often shown holding an anchor. Anchors may be shown with its rope crudely cut or a broken chain link to indicate the deceased has been removed from the land of the living, often prematurely.
 
-![Anchor on headstone](../assets/anchor.jpg){ width="40%" }   
+![Anchor on headstone](../assets/anchor.jpg){ width="40%" }
+
+Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
+
 
 --8<-- "snippets/william-john-harrhy.md"
 

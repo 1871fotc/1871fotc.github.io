@@ -10,6 +10,8 @@ hide:
   <figcaption markdown>[Christmas morning under the Christmas tree, ca. 1935](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220399300002061) — State Library of Queensland.</figcaption>
 </figure>
 
+Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
+
 <!--
 
 ???+ directions "Directions" 

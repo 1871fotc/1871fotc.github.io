@@ -4,7 +4,10 @@ hide:
   - navigation
 ---
 
-# Stories from Portion 5 (part 2)  
+# Stories from Portion 5 (part 2)
+
+Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
+
 
 --8<-- "snippets/daniel-george-bloomfield.md"
 

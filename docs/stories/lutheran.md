@@ -11,6 +11,9 @@ These stories were written to commemorate the 150^th^ anniversary (1857-2007) of
 
 These stories represent a small number Lutherans who participated in the sacramental life of this tradition of the church or who were at some time, or in some way, connected with it. They came from all walks of life.
 
+Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
+
+
 --8<-- "snippets/christian-thomas-wagner.md"
 
 --8<-- "snippets/johannes-lather.md"

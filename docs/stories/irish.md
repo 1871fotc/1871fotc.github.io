@@ -5,6 +5,10 @@ hide:
 
 # The Irish  
 
+**Stories about the Irish remembered in Toowong Cemetery**
+
+Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
+
 --8<-- "snippets/anne-devoy.md"
 
 <!--
@@ -31,7 +35,6 @@ hide:
 -->
 
 --8<-- "snippets/james-thomas-mooney.md"
-
 
 
 --8<-- "snippets/patrick-mayne.md"

@@ -11,6 +11,9 @@ hide:
 
 **Women who shaped Queensland**
 
+Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
+
+
 --8<-- "snippets/mary-douglas.md"
 
 --8<-- "snippets/florence-griffiths-buchanan.md"

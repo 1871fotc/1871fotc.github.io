@@ -9,6 +9,9 @@ hide:
 
 **Stories recognising people involved in the Labor movement.**
 
+Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
+
+
 <!--
 ???+ directions "Directions" 
 

@@ -7,6 +7,9 @@ hide:
 
 **Connections to our Convict past**
 
+Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
+
+
 --8<-- "snippets/peter-mccauley.md"
 
 --8<-- "snippets/william-henry-roberts.md"

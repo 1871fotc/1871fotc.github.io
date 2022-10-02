@@ -14,6 +14,9 @@ hide:
   <figcaption markdown>[John Hislop Undertakers, Brisbane, ca. 1902](http://onesearch.slq.qld.gov.au/permalink/f/1c7c5vg/slq_alma21220144750002061), held by John Oxley Library, State Library of Queensland</figcaption>
 </figure>
 
+Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
+
+
 --8<-- "snippets/george-barney-petrie.md"
 
 --8<-- "snippets/alex-gow.md"

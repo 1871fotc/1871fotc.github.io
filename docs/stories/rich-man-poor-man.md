@@ -7,7 +7,12 @@ hide:
 
 # Rich man, Poor man
 
+**Stories about the rich and the poor in Toowong Cemetery**
+
 --8<-- "snippets/no-spoilers.md"
+
+
+Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
 
 <!--
 Introduction

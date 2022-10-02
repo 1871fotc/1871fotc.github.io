@@ -14,6 +14,8 @@ hide:
   <figcaption markdown>[Contingent of soldiers preparing to ride west during the shearer's strike, 1891](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21270205600002061) -  State Library of Queensland. Cropped.</figcaption>
 </figure>
 
+Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
+
 --8<-- "snippets/william-hamilton.md"
 
 --8<-- "snippets/kenneth-hutchison.md"

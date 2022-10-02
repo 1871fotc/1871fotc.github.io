@@ -7,10 +7,14 @@ hide:
 
 # At the mercy of the weather
 
+**Stories about people in Toowong Cemetery that were impacted by the weather**
+
 <figure markdown>
   ![The 'Young Australia' wrecked at Moreton Island](../assets/young-australia-ship-wrecked.jpeg){ width="70%" }
   <figcaption markdown>[The 'Young Australia' wrecked at Moreton Island, Queensland](https://collections.slsa.sa.gov.au/resource/PRG+1373/5/9) — State Library of South Australia  - PRG 1373/5/9</figcaption>
 </figure>
+
+Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
 
 <!--
 ![Map](../assets/toowong-identities-1-map.png){ width="40%" }

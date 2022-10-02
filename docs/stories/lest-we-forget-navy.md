@@ -12,6 +12,9 @@ hide:
 
 Those represented here are only a small number of the [men and women who gave their lives in service to this country](https://www.cwgc.org/find-records/find-war-dead/search-results/?CemeteryExact=true&Cemetery=BRISBANE%20GENERAL%20(TOOWONG)%20CEMETERY&Size=100&Page=1) who are either buried or memorialised at Toowong Cemetery.
 
+Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
+
+
 <!-- imange and caption 
 Royal Australian Navy Official Badge Design of 1949
 -->

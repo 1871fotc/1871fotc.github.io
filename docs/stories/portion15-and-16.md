@@ -6,6 +6,9 @@ hide:
 
 # Stories from Portions 15 and 16
 
+Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
+
+
 --8<-- "snippets/alexander-mountford.md"
 
 --8<-- "snippets/charles-walter-de-vis.md"

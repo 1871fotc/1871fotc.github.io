@@ -5,6 +5,10 @@ hide:
 
 # Men of the Royal Navy
 
+**Stories about men of the Royal Navy remembered in Toowong Cemetery**
+
+Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
+
 
 --8<-- "snippets/joseph-watters.md"
 

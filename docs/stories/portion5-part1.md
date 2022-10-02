@@ -6,6 +6,8 @@ hide:
 
 # Stories from Portion 5 (part 1)  
 
+Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
+
 
 ## Jonas and Mary Malouf <small>(5‑26‑2/3)</small>
 

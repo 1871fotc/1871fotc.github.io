@@ -11,6 +11,9 @@ hide:
 
 **Actors and performers buried in Toowong Cemetery**
 
+Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
+
+
 <!--
 ???+ directions "Directions" 
 

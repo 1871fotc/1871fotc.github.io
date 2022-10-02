@@ -11,6 +11,9 @@ hide:
 
 At Toowong Cemetery are many health professionals; nurses, doctors, dispensers and others, some of whom gave their lives in the course of their duties. This is just a small number of those people who spent their working lives caring for others.
 
+Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
+
+
 <!-- 
 ![In their caring hands self-guided walk map](../assets/in-their-caring-hands-map.png)
 -->
@@ -92,11 +95,14 @@ Dr Cooper commenced private practise in Brisbane in 1891 at The Mansions, in Geo
 
 --8<-- "snippets/lilian-gertrude-ramsay.md"
 
-<!--
+
 !!! Warning "Nurses buried in Portion 22" 
 
-    Portion 22 is steep in parts. These graves are best approached from Francis Forde Avenue, which runs parallel to Birdwood Terrace. These graves are not included on the walk.    
--->
+    Portion 22 is steep in parts. These graves are best approached from Francis Forde Avenue, which runs parallel to Birdwood Terrace.
+    
+    
+<!-- These graves are not included on the walk. -->
+
 
 --8<-- "snippets/mary-hogan.md"
 

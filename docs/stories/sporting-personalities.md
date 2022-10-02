@@ -7,6 +7,10 @@ hide:
 
 # Famous Sporting Personalities  
 
+**Famous sporting personalities remembered in Toowong Cemetery**
+
+Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
+
 --8<-- "snippets/peter-morgan.md"
 
 --8<-- "snippets/amos-roy-goddard.md"
