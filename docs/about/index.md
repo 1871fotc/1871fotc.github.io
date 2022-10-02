@@ -4,6 +4,8 @@ description: Learn what Friends of Toowong Cemetery have done, what we're workin
 
 search:
   boost: 2  
+
+glightbox.auto_caption: true  
 ---
 
 --8<-- "snippets/sem/about.json"
@@ -14,7 +16,7 @@ search:
 
 <br>
 
-![Friends of Toowong Cemetery banner](../assets/fotc-banner-transparent-1280x320.png)
+![Friends of Toowong Cemetery banner](../assets/fotc-banner-transparent-1280x320.png){ .off-glb }
 
 
 ## What we do 
@@ -84,7 +86,7 @@ The Friends of Toowong Cemetery Association Inc. is a:
 - Registered Australian Business, ABN: **[12868524011](https://abr.business.gov.au/ABN/View?id=12868524011)**  that holds holds public liability insurance with **[History Queensland Inc.](https://www.historyqueensland.org.au/insurance/)** for $20 million 
 - **[Registered Charity](https://www.acnc.gov.au/charity/charities/cbe72786-39af-e811-a963-000d3ad24077/profile)** with the Australian Charities and Not-for-profits Commission (ACNC)
 
-![ACNC Registered Charity Logo](../assets/ACNC-Registered-Charity-Logo_RGB.png){ width="25%" } 
+![ACNC Registered Charity Logo](../assets/ACNC-Registered-Charity-Logo_RGB.png){ width="25%" .off-glb } 
 
 Our Bank details are: 
 
