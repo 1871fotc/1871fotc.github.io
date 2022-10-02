@@ -2,6 +2,7 @@
 description: Friends of Toowong Cemetery volunteers guide you on 10 different heritage walks each year
 search:
   boost: 2
+glightbox.auto_caption: true  
 ---
 
 --8<-- "snippets/sem/guided-tours.json"
@@ -20,7 +21,7 @@ Friends of Toowong Cemetery volunteers guide you on 10 different heritage walks 
 
 There's no need to book, just meet under the flagpole, in Canon Garland Place at the Toowong Cemetery. There is plenty of parking available inside the cemetery. Wear a hat, enclosed shoes, and bring a water bottle.
 
-![Canon Garland Place](assets/flag-pole.jpg){ width="98%" }
+![Canon Garland Place](assets/flag-pole.jpg){ width="98%" data-title="Guided tours start at Canon Garland Place" }
 
 *<small>The Flagpole in Canon Garland Place</small>*
 
@@ -28,22 +29,22 @@ There's no need to book, just meet under the flagpole, in Canon Garland Place at
 
 The Museum is open before and after our guided tours.
 
-![Toowong Cemetery Museum](assets/museum.jpg){ width="98%" }
+![Toowong Cemetery Museum](assets/museum.jpg){ width="98%" data-title="Toowong Cemetery Museum is open before and after our guided tours"}
 
 *<small>The Toowong Cemetery Museum is the former Sexton's office.</small>*
 
 The Museum has an extensive display of photographs and artefacts.
 
-![Museum photo display 1](assets/museum-photos-1.jpg){ width="48.5%" } ![Museum photo display 2](assets/museum-photos-2.jpg){ width="48.5%" }
-![Museum photo display 2](assets/museum-photos-3.jpg){ width="48.5%" } ![Museum photo display 4](assets/museum-photos-4.jpg){ width="48.5%" }
+![Museum photo display](assets/museum-photos-1.jpg){ width="48.5%" } ![Museum photo display](assets/museum-photos-2.jpg){ width="48.5%" }
+![Museum photo display](assets/museum-photos-3.jpg){ width="48.5%" } ![Museum photo display](assets/museum-photos-4.jpg){ width="48.5%" }
 
 ## Upcoming guided tours
 
 Tours are on the first Sunday of each month (March to December) from 10:30 to 12:00. 
 
-Our next tour is called "**Tragically Taken**" and is on **Sunday 2 October**. The tour is limited to 20 people. Add it to your calendar.
+Our next tour is on **Sunday 6 November**. The tour is limited to 20 people. Add it to your calendar.
 
-[Add to Calendar :fontawesome-regular-calendar-plus:](assets/calendar/fotc-tour-20221002.ics){ .md-button .md-button--primary }
+[Add to Calendar :fontawesome-regular-calendar-plus:](assets/calendar/fotc-tour-20221106.ics){ .md-button .md-button--primary }
 
 ## Guided tour alternatives
 
