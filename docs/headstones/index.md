@@ -1,6 +1,7 @@
 ---
 name: Toowong and Paddington Cemetery Headstones
 description: Lost and found headstones, their symbology and secret signs
+glightbox.auto_caption: true  
 ---
 
 # Headstones
