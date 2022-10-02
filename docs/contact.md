@@ -3,6 +3,7 @@ title: Contact Us
 description: Contact Friends of Toowong Cemetery
 search:
   boost: 2  
+glightbox.auto_caption: true  
 ---
 
 <!-- -8- "snippets/sem/contact.json" TODO or NOT NEEDED -->
