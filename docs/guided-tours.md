@@ -48,7 +48,7 @@ Our next tour is on **Sunday 6 November**. The tour is limited to 20 people. Add
 
 ## Guided tour alternatives
 
-If you can't join our guided tour, consider a **[self-guided heritage walk](stories/index.md)** or the visiting the **[headstone symbolism display](headstones/symbols.md)**.
+If you can't join our guided tour, consider taking a **[Toowong Cemetery self-guided heritage walk](stories/index.md)** or the visiting the **[headstone symbolism display](headstones/symbols.md)**.
 
 <!--
 !!! warning "COVID-19 Restrictions"
