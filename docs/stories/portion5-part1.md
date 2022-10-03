@@ -1,10 +1,13 @@
 ---
 title: Stories from Portion 5 (part 1)
+description: Stories about people remembered in Portion 5 of Toowong Cemetery.
 hide:
   - navigation
 ---
 
-# Stories from Portion 5 (part 1)  
+# Stories from Portion 5 (part 1)
+
+**Stories about people remembered in Portion 5 of Toowong Cemetery.**
 
 Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
 
