@@ -1,6 +1,7 @@
 ---
 hide:
   - navigation
+description: Stories commemorating the arrival of the first registered Lutheran minister in Queensland
 ---
 
 # The Lutherans
