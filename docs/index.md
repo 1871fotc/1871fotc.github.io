@@ -99,7 +99,7 @@ If you enter via the Richer Street back gate, to get to Canon Garland Place:
 
 ### Toowong Cemetery Portion Map
 
-There are 34 Portions in the cemetery, numbered 1 to 30 and also 2A, 7A, 15A, 29A. Portions contain many sectons. Each section can contain up to 80 graves. The graves in a section are usually in two rows.
+There are 34 Portions in Toowong Cemetery, numbered 1 to 30 and also 2A, 7A, 15A, 29A. Portions contain many sectons. Each section can contain up to 80 graves. The graves in a section are usually in two rows.
 
 [Print the Toowong Cemetery Map :fontawesome-solid-map:](assets/documents/toowong-cemetery-map-2022-10-01.pdf "Print a high resolution version of the map. 2.1 Mb."){ .md-button .md-button--primary }
 
