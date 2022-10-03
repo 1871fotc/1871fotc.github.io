@@ -1,5 +1,5 @@
 ---
-title:  Walks and Stories
+title:  Stories and Walks
 description: Stories and walks to discover the people remembered in Toowong Cemetery
 search:
   boost: 2
@@ -12,7 +12,7 @@ glightbox.auto_caption: true
 --8 < -- "snippets/hide-nav.html"
 -->
 
-# Toowong Cemetery Walks and Stories 
+# Toowong Cemetery Stories and Walks
 
 The Friends of Toowong Cemetery have published **[over 500 individual stories](../research/find-a-story.md)** about people remembered at the cemetery. 
 
