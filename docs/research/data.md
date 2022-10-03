@@ -12,7 +12,7 @@ glightbox.auto_caption: true
 
 Friends of Toowong Cemetery have published data, including: 
 
-- an **[index to individual stories ](../research/find-a-story.md)** we've written
+- an **[index to individual stories ](../research/find-a-story.md)** we've written about in our [Toowong Cemetery stories](../stories/index.md).
 - a list of **[headstones moved from Paddington Cemetery](../headstones/moved-paddington-headstones.md)** to Toowong Cemetery in the 1910's
 - a list of **[headstones lost from Paddington Cemetery](../headstones/lost-paddington-headstones.md)** in the 1930's, some which have been rediscovered in Toowong Cemetery 
 
