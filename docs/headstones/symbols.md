@@ -1,5 +1,6 @@
 --- 
 description: Discover the hidden meaning behind headstone symbols in Toowong Cemetery
+glightbox.auto_caption: false  
 ---
 
 # Headstone Symbols
@@ -26,40 +27,40 @@ The cross comes in a variety of shapes. The Celtic cross (with its arms enclosed
 
 Columns are indicative of heaven and their height implies the social status of the person buried. A broken column represents the break between life on earth and in heaven, and also a life cut short. Columns were also used to represent the loss of the head of family.
 
-![Column](../assets/column.jpg){ width="40%" }
+![A broken column headstone can represent a life cut short.](../assets/column.jpg){ width="40%" }
 
 ## Crown
 
 A crown was often used to represent the "sovereignty of the Lord".
 
-![Crown](../assets/crown.jpg){ width="70%" }
+![Crown symbol on a headstone](../assets/crown.jpg){ width="70%" }
 <!-- add caption and grave id -->
 
 ## Harp or Lyre
 
 A harp or lyre symbolises hope, joy and music. It was the symbol of St. Cecila, the Patron Saint of Musicians, and is often associated with worship in heaven. This can be seen on the grave of Joseph Phillips (10-8-12).
 
-![Lyre](../assets/lyre.jpg){ width="70%" }
+![Lyre symbol on a headstone](../assets/lyre.jpg){ width="70%" }
 
 ## Ship's Anchor
 
 A ship's anchor was commonly used to commemorate the life of a sailor or someone with a maritime career. 
 
-![Ship's Anchor](../assets/anchor.jpg) 
+![Ship's Anchor symbol carved on a headstone](../assets/anchor.jpg) 
 <!-- add caption and grave id -->
 
 ## Obelisk
 
 An obelisk is defined as a thin, four-sided tapering monument ending in a pyramid at the top. The height of the obelisk also indicates the importance of the deceased. 
 
-![Obelisk](../assets/obelisk.jpg){ width="40%" }
+![Obelisk headstone](../assets/obelisk.jpg){ width="40%" }
 <!-- add caption and grave id -->
 
 ## Clasped hands
 
 Clasped hands symbolise the belief Victorians held that they would be reunited with their loved ones after death. If you look carefully at the cuffs of those shaking hands, you can often see that they are male and female. This can be seen are the grave of Herman Wuiski and his wife Emily (1-50A-10).
 
-![Clasped hands](../assets/clasped-hands.jpg) 
+![Clasped hands symbol carved on a headstone](../assets/clasped-hands.jpg) 
 <!-- add caption and grave id -->
 <!-- get photo of of Herman Wuiski and his wife Emily (1-50A-10) -->
 
@@ -67,8 +68,8 @@ Clasped hands symbolise the belief Victorians held that they would be reunited w
 
 Plants can represent a person's birthplace (such as thistles from Scotland) and also reflect religious meanings. See the grave of Michael McCormack and his wife Elizabeth (1-20-9) where ivy symbolises hope and mortality. Roses are another symbol that has multiple interpretations (including beauty, hope and love) and they are often associated with the Virgin Mary. The age of the deceased can also be revealed by the size of the flower or plant - a bud represents a child, and a full flower represents an adult. 
 
-![Plant carved on headstone](../assets/plant.jpg){ width="30%" }  ![Cross with Vine](../assets/cross-with-vine.jpg){ width="30%" }  ![Flower bud](../assets/bud.jpg){ width="30%" } 
-![Thistle](../assets/thistle.jpg){ width="30%" } ![Rose](../assets/rose.jpg){ width="30%" } ![Plant carvings on wooden headstone](../assets/wood-headstone-with-plants.jpg){ width="30%" }
+![Plant carved on headstone](../assets/plant.jpg){ width="30%" }  ![Cross with Vines carved on headstone](../assets/cross-with-vine.jpg){ width="30%" }  ![Flower bud symbol carved on a headstone](../assets/bud.jpg){ width="30%" } 
+![Thistle symbol carved on a headstone](../assets/thistle.jpg){ width="30%" } ![Rose carved on headstone](../assets/rose.jpg){ width="30%" } ![Plant carvings on wooden headstone](../assets/wood-headstone-with-plants.jpg){ width="30%" }
 
 <!-- add caption and grave id -->
 <!-- Get photo of Michael McCormack and his wife Elizabeth (1-20-9) -->
@@ -77,28 +78,28 @@ Plants can represent a person's birthplace (such as thistles from Scotland) and 
 
 Urns are a Greek symbol of mourning and represent the process of death, where the body becomes dust while the spirit rests with God. When the urn is draped it becomes a symbol of the house mourning.
 
-![Draped Urn](../assets/draped-urn.jpg){ width="40%" }
+![Draped Urn on a headstone](../assets/draped-urn.jpg){ width="40%" }
 <!-- add caption and grave id -->
 
 ## Animals
 
 Animals symbolise the character of the deceased. Lambs were often used as a symbol of innocence and found on the graves of children, while lions were used as a symbol of courage. Visit the grave of heavyweight boxing champion Peter Jackson (5-28-1) which is adorned with a lion.
 
-<img class="full-width" src="../../assets/lion.jpg" alt="Lion" width="70%">
+<img class="full-width" src="../../assets/lion.jpg" alt="Lion carving on top of a headstone" width="70%">
 
 
 ## IHS Emblem
 
 The IHS Emblem is from the Greek alphabet, (I) Iota, (H) Eta, and (Σ) Sigma and represents the first Greek word for Jesus or Christ. 
 
-![IHS Emblem](../assets/ihs.jpg){ width="70%" }
+![IHS Emblem carved on headstone](../assets/ihs.jpg){ width="70%" }
 <!-- add caption and grave id -->
 
 ## Books
 
 Books often symbolise the Bible and the faith of its reader. An open book has also been associated with the human heart.
 
-![Book](../assets/book.jpg) 
+![Book headstone](../assets/book.jpg) 
 <!-- photos --> 
 <!-- add caption and grave id -->
 
@@ -119,7 +120,7 @@ https://en.wikipedia.org/wiki/Heptagram
 
 In Steele Rudd Avenue you'll find a collection of broken headstones. [Where did they come from?](archaeological-digs.md) Why are they here? What is planned? 
 
-![Discovered headstones](../assets/lost-and-found.jpg) 
+![Headstones found in Toowong Cemetery Archaeological Digs](../assets/lost-and-found.jpg) 
 <!-- add caption and grave id -->
 
 ## Source
