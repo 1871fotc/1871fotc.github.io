@@ -182,7 +182,7 @@ You can find signs of Friendly Societies in the local area such as:
 
 
 [^1]: Thanks to VW Bro. Brodie Taylor, Grand Librarian, Freemasons Queensland, for his contribution.
-[^2]: An extension of the Loyal Orange Institute.
+[^2]: Royal Black Preceptory is an extension of the Loyal Orange Institute.
 
 
 <!-- links -->
