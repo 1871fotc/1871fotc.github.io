@@ -1,6 +1,7 @@
 ---
 title: Toowong Cemetery History
 description: Discover the history of Toowong Cemetery
+glightbox.auto_caption: true  
 ---
 
 --8<-- "snippets/sem/history.json"
@@ -54,11 +55,11 @@ The land for the cemetery was first reserved in 1866. [The reserve of 250 acres 
 
 The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the largest cemetery in Queensland at 44 Hectares and is an important record of the history of Brisbane and Queensland. It was officially opened on 5 July 1875 and over 119,000 people are buried in approximately 46,000 graves.
 
-![Toowong Cemetery, Brisbane, ca. 1890](assets/toowong-cemetery-ca1890.jpg){ width="96%" loading=lazy } 
+![Toowong Cemetery, Brisbane, ca. 1890](assets/toowong-cemetery-ca1890.jpg){ width="96%" loading=lazy data-title="Toowong Cemetery, Brisbane, ca. 1890"} 
 
 *<small>[Toowong Cemetery, Brisbane, ca. 1890](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21272130100002061), — State Library of Queensland. Cropped.</small>*
 
-![Map and aerial photo of Toowong Cemetery][map-photo]{ width="96%" loading=lazy }  
+![Map and aerial photo of Toowong Cemetery][map-photo]{ width="96%" loading=lazy data-title="Map and aerial photo of Toowong Cemetery" }  
 
 [map-photo]: assets/Toowong-cemetery-map-photo.jpg "Click to view the full aerial photo"
 
@@ -71,7 +72,7 @@ The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the 
 
 **[The oldest surviving headstone in Queensland](headstones/queenslands-oldest-headstones.md)** is from 15 November 1831. Three children originally interred on the banks of the Brisbane River, were re‑interred at Toowong Cemetery in October 1881. 
 
-![Pioneer Children's Graves at Toowong Cemetery](assets/pioneer-childrens-graves-13-10-4.jpg){ width="96%" loading=lazy }  
+![Pioneer Children's Graves at Toowong Cemetery](assets/pioneer-childrens-graves-13-10-4.jpg){ width="96%" loading=lazy data-title="Queensland's oldest surviving headstones at Toowong Cemetery" }  
 
 *<small>Pioneer Children's Graves (13-10-4). </small>*
 
@@ -87,12 +88,12 @@ In 1911 the Queensland Government passed the *[Paddington Cemetery Act][Paddingt
 
 [Paddington Cemetery]: https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery 
 
-![Paddington Cemetery 1910](assets/paddington-cemetery-goat-1910.jpg){ width="70%" loading=lazy } 
+![Paddington Cemetery 1910](assets/paddington-cemetery-goat-1910.jpg){ width="70%" loading=lazy data-title="Paddington Cemetery 1910" } 
 
 *<small>[Paddington Cemetery 1910](https://www.flickr.com/photos/queenslandstatearchives/30299711162/in/photolist-2joySJt-NatWv9-KCpMLU) — Queensland State Archives.</small>*
 
 
-![Paddington Memorial](assets/paddington-memorial.jpg){ width="70%" loading=lazy } 
+![Paddington Memorial](assets/paddington-memorial.jpg){ width="70%" loading=lazy data-title="Paddington Memorial at Toowong Cemetery" } 
 
 *<small>Paddington Memorial, Portion 17 Section 1, on the corner of Emma Miller and William Brown Avenues.</small>*
 
@@ -111,11 +112,11 @@ Allotments on [Heussler Terrace][Heussler Terrace] (renamed Birdwood Terrace) on
 
 (Scroll back to the 1946 aerial photo to see how few allotments were built on 25 years later.)
 
-![Chermside Park advertisement](assets/chermside-park.jpg){ width="96%" loading=lazy }  
+![Chermside Park advertisement](assets/chermside-park.jpg){ width="96%" loading=lazy data-title="Chermside Park advertisement" }  
 
 *<small>[Chermside Park, second section : Auchenflower](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21190073930002061), 1921 — [State Library of Queensland](https://www.slq.qld.gov.au). Note in the Inset how the tram stopped at the Toowong Cemetery gates. [Third Avenue was renamed Couldrey St](assets/documents/new-streets-1939.pdf) in 1939 after a [Queensland Miner](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:24525/one?qu=Duplicated+Street+Names+-+Extracts+from+Council+Records+re+Final+Approval+and+ORIGINS+of+names+1938+-+1939&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS). </small>*
 
-![Tram passing the Toowong Cemetery with Mt Coot-tha in the distance, Queensland, 1921](assets/tram-passing-the-toowong-cemetery-1921.jpg){ width="96%" loading=lazy }  
+![Tram passing the Toowong Cemetery with Mt Coot-tha in the distance, Queensland, 1921](assets/tram-passing-the-toowong-cemetery-1921.jpg){ width="96%" loading=lazy data-title="Tram passing the Toowong Cemetery with Mt Coot-tha in the distance, Queensland, 1921" }  
 
 *<small>[Tram passing the Toowong Cemetery with Mt Coot-tha in the distance, Queensland, 1921](http://onesearch.slq.qld.gov.au/permalink/f/fhnkog/slq_digitool542430) — State Library of Queensland. Cropped. </small>*
 
@@ -135,7 +136,7 @@ Under the guidance of Garland the Anzac Day service at Toowong Cemetery grew in 
 
 Garland, aged 75, died at Red Hill on 11 October 1939. His grave is located at Portion 1, Section 50A, Grave 9, overlooking "Soldiers' Corner".
 
-![Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](assets/unveiling-cross-of-sacrifice.jpg){ width="96%" loading=lazy }  
+![Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](assets/unveiling-cross-of-sacrifice.jpg){ width="96%" loading=lazy data-title="Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924"}  
 
 *<small>[Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?dps_pid=IE1400763&change_lng=) — State Library of Queensland. <!-- The Union Jack flag was placed on the building to mask the fact that it was the amenities. --> </small>*
 
@@ -146,7 +147,7 @@ Garland, aged 75, died at Red Hill on 11 October 1939. His grave is located at P
 
 -->
 
-![Small children looking at wreaths laid at the memorial on Anzac Day, Toowong Cemetery, Brisbane, 1924](assets/stone-of-remembrance-with-children-1924.jpg){ width="96%" loading=lazy }  
+![Small children looking at wreaths laid at the memorial on Anzac Day, Toowong Cemetery, Brisbane, 1924](assets/stone-of-remembrance-with-children-1924.jpg){ width="96%" loading=lazy loading=lazy data-title="Small children looking at wreaths laid at the memorial on Anzac Day, Toowong Cemetery, Brisbane, 1924" }  
 
 *<small>[Small children looking at wreaths laid at the memorial on Anzac Day, Toowong Cemetery, Brisbane, 1924](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21271931300002061) — State Library of Queensland. Cropped.</small>*
 
@@ -156,7 +157,7 @@ Garland, aged 75, died at Red Hill on 11 October 1939. His grave is located at P
 
 --8<-- "snippets/toowong-cemetery-tram.md"
 
-The [heritage-listed Paddington Tramways Substation](https://apps.des.qld.gov.au/heritage-register/detail/?id=601198) can still be found at 150 Enoggera Terrace, Paddington. [Trammies Corner Park](https://brismania.com/day-93-paddington-bare/) can be visited at	74 Prince Street, Paddington.
+The [heritage-listed Paddington Tramways Substation](https://apps.des.qld.gov.au/heritage-register/detail/?id=601198) can still be found at 150 Enoggera Terrace, Paddington. [Trammies Corner Park](https://brismania.com/day-93-paddington-bare/) can be visited at 74 Prince Street, Paddington.
 
 ## 1970's "Beautification Scheme"
 
@@ -186,9 +187,9 @@ The Toowong Cemetery Museum, located over the open drain, was formerly the Sexto
 
 [^1]: From [Toowong Cemetery](https://apps.des.qld.gov.au/heritage-register/detail/?id=601773) © The State of Queensland, used under a [CC BY 4.0][cc-by] licence.
 
-![Toowong Cemetery Museum](assets/museum.jpg){ width="98%" loading=lazy }
+![Toowong Cemetery Museum](assets/museum.jpg){ width="98%" loading=lazy data-title="Toowong Cemetery Museum, 2022" }
 
-You can visit the Museum as part of the Friends of Toowong Cemetery **[Guided Tours](guided-tours.md)**
+You can visit the Museum as part of our **[Toowong Cemetery Guided Tours](guided-tours.md)**
 
 
 ## 1992 Friends of Toowong Cemetery formed 
@@ -201,7 +202,7 @@ Learn more about **[Friends of Toowong Cemetery](about/index.md)** - what we do,
 
 The **[Federation Pavilion][Federation Pavilion]** commemorates the contribution of the delegates who attended the 1891 Federation that are buried at the Toowong Cemetery. It was officially opened on 3 March 2001.
 
-![Federation Pavilion](assets/federation-pavilion.jpg){ width="96%" loading=lazy }  
+![Federation Pavilion](assets/federation-pavilion.jpg){ width="96%" loading=lazy data-title="Federation Pavilion at Toowong Cemetery, 2022" }  
 
 Take the **[Federation self-guided walk](stories/federation-walk.md)** to visit the Federation Pavilion and learn how four Queenslanders shaped Australia's Constitution.
 
@@ -217,11 +218,11 @@ In 2011, while staff prepared a new grave, the headstone of a John Peel was disc
 
 In 1913 the headstones had been stored in good order behind Christ Church in Paddington. In 1930 they suddenly disappeared. The Authorities claimed it was rubble, unreadable and used for road-base. This was not entirely true as many headstones have been found our archaeological digs since 2011.
 
-![Paddington Cemetery ca. 1900's](assets/paddington-cemetery-ca-1900.jpg){ width="96%" loading=lazy } 
+![Paddington Cemetery ca. 1900's](assets/paddington-cemetery-ca-1900.jpg){ width="96%" loading=lazy data-title="Paddington Cemetery ca. 1900's" } 
 
 *<small>[Paddington Cemetery ca. 1900's](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/22186/1) — Brisbane City Council. Cropped.</small>*
 
-![Discovered headstones](assets/lost-and-found.jpg){ width="96%" loading=lazy } 
+![Headstones discovered in Toowong Cemetery Archaeological dig](assets/lost-and-found.jpg){ width="96%" loading=lazy data-title="Headstones discovered in Toowong Cemetery Archaeological dig" } 
 
 *<small>Toowong Cemetery Archaeological dig finds</small>*
 
@@ -237,7 +238,7 @@ On 24 July 2011, 140 years after Governor Blackall was buried, a **[re-enactment
 
 [re-enactment]: about/140-commemoration.md "Read about our awarding winning event."
 
-![Re-enactment of the funeral of Governor Blackall, 2011](assets/140-commemoration.png){ width="96%" loading=lazy }  
+![Re-enactment of the funeral of Governor Blackall, 2011](assets/140-commemoration.png){ width="96%" loading=lazy data-title="Re-enactment of the funeral of Governor Blackall, 2011" }  
 
 ## Today
 
