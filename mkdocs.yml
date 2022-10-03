@@ -173,8 +173,8 @@ plugins:
 nav:
   - Home: index.md
   - Cemetery History: history.md
-  - Walks and Stories:
-    - Walks and Stories: stories/index.md
+  - Stories and Walks:
+    - Stories and Walks: stories/index.md
 #    - Mount Blackall Walk: stories/mount-blackall-walk.md
 #    - Dr. Lilian Cooper Walk: stories/lilian-cooper-walk.md
 # Politics
@@ -233,6 +233,7 @@ nav:
     - Portion 5 - part 2: stories/portion5-part2.md
     - Portion 6 and 24: stories/portion6-and-24.md
     - Portion 15 and 16: stories/portion15-and-16.md
+  - Guided Tours: guided-tours.md  
   - Headstones: 
     - Headstones: headstones/index.md  
     - Headstone Symbols: headstones/symbols.md
@@ -254,7 +255,6 @@ nav:
     - Find a Story: research/find-a-story.md
 #    - Paddington Cemetery: research/paddington-cemetery.md
     - Data: research/data.md
-  - Guided Tours: guided-tours.md  
   - About Us: 
     - About Us: about/index.md
     - Publications: about/publications.md
