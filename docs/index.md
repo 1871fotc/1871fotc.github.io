@@ -23,9 +23,8 @@ On this site you'll find information about:
 
 - **[Toowong cemetery's history](history.md)** and the **[stories](stories/)** of people remembered here.
 - **[how to find graves in Toowong Cemetery](research/find-a-grave.md)** and a **[Toowong Cemetery map](index.md#toowong-cemetery-map)** 
-- our regular **[guided heritage tours](guided-tours.md)** and **[self‑guided walks](stories/)**.
-- **[headstones](headstones/)** including **[headstone symbols](headstones/symbols.md)**, **[signs](headstones/signs.md)** and **[archaeological digs](headstones/archaeological-digs.md)**.
-- **[research resources](research/index.md)** including an **[index of people in our stories](research/find-a-story.md)** and **[data downloads](research/data.md)**.
+- **[headstones](headstones/)** including **[Queensland's oldest headstones](headstones/queenslands-oldest-headstones.md)**, and our **[archaeological digs](headstones/archaeological-digs.md)**.
+- **[research resources](research/index.md)** including an **[index of people in our stories](research/find-a-story.md)**.
 - **[Friends of Toowong Cemetery](about/)** - what we do, what we've done, and how to join in.
  
 The cemetery is maintained by the **[Brisbane City Council](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery)**.
@@ -35,7 +34,6 @@ The cemetery is maintained by the **[Brisbane City Council](https://www.brisbane
 At Toowong Cemetery you can:
 
 - take a **[self-guided walk](stories/)** and explore the stories of people who shaped our local history.
-- search for secret **[headstone signs](headstones/signs.md)** and share your discoveries.
 - join us on one of our regular **[guided heritage tours](guided-tours.md)**.
 - discover the meaning of **[headstone symbols](headstones/symbols.md)** at the Symbolism display.
 
