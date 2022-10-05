@@ -23,7 +23,7 @@ Heritage‑listed Toowong Cemetery is the largest cemetery in Queensland. The fi
 On this site you'll find information about:
 
 - **[Toowong cemetery's history](history.md)** and the **[stories](stories/)** of people remembered here.
-- **[how to find graves in Toowong Cemetery](research/find-a-grave.md)** and a **[Toowong Cemetery map](index.md#toowong-cemetery-map)** 
+- **[how to find a grave in Toowong Cemetery](research/find-a-grave.md)** and a **[Toowong Cemetery map](index.md#toowong-cemetery-map)** 
 - **[headstones](headstones/)** including **[Queensland's oldest headstones](headstones/queenslands-oldest-headstones.md)**, and our **[archaeological digs](headstones/archaeological-digs.md)**.
 - **[research resources](research/index.md)** including an **[index of people in our stories](research/find-a-story.md)**.
 - **[Friends of Toowong Cemetery](about/)** - what we do, what we've done, and how to join in.
@@ -42,7 +42,9 @@ At Toowong Cemetery you can:
 
 ## Visit Toowong Cemetery
 
-![The Toowong Cemetery Main Entrance was designed by the Colonial Architect F.D.G. Stanley and erected in 1873-1874]( assets/main-entrance.jpg) 
+![Toowong Cemetery main entrance][main-entry] 
+
+[main-entry]: assets/main-entrance.jpg "The Toowong Cemetery Main Entrance was designed by the Colonial Architect F.D.G. Stanley and erected in 1873-1874"
 
 ### Driving
 
@@ -147,16 +149,6 @@ Some cemetery road names have recently been changed to the names of notable peop
     Unfortunately signs are often vandalised in the cemetery. Please **[report damaged signs to the Brisbane City Council](https://ofpm.brisbane.qld.gov.au/site/wss/form/report-it-traffic-signs).**
 -->
 
-
-## Find a grave
-
-**[Find a grave in Toowong Cemetery](research/find-a-grave.md)** in 5 steps:
-
-1. Search for a grave using the Brisbane City Council Grave location search.
-2. Locate the grave on the Toowong Cemetery Map.
-3. Plan your visit to Toowong Cemetery.
-4. Ask Friends of Toowong Cemetery to help you locate the grave on-site or take a digital photo.
-5. Ask the staff at the Toowong Cemetery to help you locate the grave on-site.
 
 ## Attractions nearby
 
