@@ -95,6 +95,15 @@
           "url": "https://www.fotc.au/#visit-a-grave"
         }
       ]    
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.fotc.au/assets/toowong-cemetery-map-2022-10-01.jpg",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "acquireLicensePage": "https://www.fotc.au/about/legal/",
+      "isPartOf": {
+        "@id": "https://www.fotc.au/research/find-a-grave/"
+      }  
     }
   ]
 }
