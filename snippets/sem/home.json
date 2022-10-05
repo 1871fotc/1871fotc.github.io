@@ -102,7 +102,7 @@
         {"@type": "Thing","name": "Headstone","sameAs": "https://en.wikipedia.org/wiki/Headstone"}, 
         {"@type": "Organization","name": "Brisbane City Council","sameAs": "https://en.wikipedia.org/wiki/City_of_Brisbane"}
       ],
-      "dateModified": "2022-10-05",
+      "dateModified": "2022-10-06",
       "datePublished": "2022-08-29",
       "author": {
           "@id": "https://www.fotc.au/#/schema/organization/1"
@@ -113,6 +113,15 @@
         "https://www.fotc.au/assets/logo/fotc-banner-4x3.png",
         "https://www.fotc.au/assets/logo/fotc-banner-16x9.png"
       ]
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.fotc.au/assets/toowong-cemetery-map-2022-10-01.jpg",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "acquireLicensePage": "https://www.fotc.au/about/legal/",
+      "isPartOf": {
+        "@id": "https://www.fotc.au/"
+      }  
     }
   ]  
 }
