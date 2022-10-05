@@ -3,6 +3,7 @@ title: Friends of Toowong Cemetery
 description: Discover and share the history and stories of Toowong Cemetery
 hide:
   - navigation
+glightbox.auto_caption: true
 ---
 
 --8<-- "snippets/sem/home.json"
@@ -17,7 +18,7 @@ hide:
 [image2]: assets/flag-pole.jpg "Canon Garland Place"
 [image3]: assets/symbolism-display.jpg "Headstone Symbolism Display"
 
-The heritage‑listed Toowong Cemetery is the largest cemetery in Queensland. The first burial was of **[Governor Samuel Blackall](research/samuel-wensley-blackall.md)** on 3 January 1871. Read his and hundreds of other stories about the people who shaped Brisbane, Queensland, and Australia's history.
+Heritage‑listed Toowong Cemetery is the largest cemetery in Queensland. The first burial was of **[Governor Samuel Blackall](research/samuel-wensley-blackall.md)** on 3 January 1871. Read his and hundreds of other stories about the people who shaped Brisbane, Queensland, and Australia's history.
 
 On this site you'll find information about:
 
@@ -37,17 +38,15 @@ At Toowong Cemetery you can:
 - join us on one of our regular **[guided heritage tours](guided-tours.md)**.
 - discover the meaning of **[headstone symbols](headstones/symbols.md)** at the Symbolism display.
 
-<img class="full-width" src="assets/symbolism-display.jpg" alt="Toowong Cemetery Headstone Symbolism Display" width="70%">
+<img class="full-width" src="assets/symbolism-display.jpg" alt="Toowong Cemetery Headstone Symbolism Display" width="70%" />
 
 ## Visit Toowong Cemetery
 
-<img class="full-width" src="assets/main-entrance.jpg" alt="Toowong Cemetery Main Entrance" width="70%">
-
-*<small>The Toowong Cemetery Main Entrance was designed by the Colonial Architect <b>[F.D.G. Stanley](research/francis-drummond-grenville-stanley/)</b> and erected in 1873-1874.</small>*
+![The Toowong Cemetery Main Entrance was designed by the Colonial Architect F.D.G. Stanley and erected in 1873-1874]( assets/main-entrance.jpg) 
 
 ### Driving
 
-If you're driving to the cemetery, it has two entrances:
+Toowong Cemetery has two entrances:
 
 - The main entrance at **[Frederick Street, Toowong](https://www.google.com/maps/place/Toowong+Cemetery/@-27.4772749,152.9818283,17z/data=!3m1!4b1!4m5!3m4!1s0x6b9150c2f0f2e23f:0xf02a35bd720a310!8m2!3d-27.4772714!4d152.9839608)**,  can only be entered via a slip road beside the Toowong roundabout, approaching from the west.
 - The back entrance, **[opposite 26 Richer Street, Toowong](https://www.google.com/maps/place/25+Richer+St,+Toowong+QLD+4066/@-27.4737507,152.9767263,17z/data=!3m1!4b1!4m5!3m4!1s0x6b9150dd31b12cc5:0xc3a1deb2fe09484!8m2!3d-27.4737555!4d152.978915)** is much easier to access.
@@ -56,13 +55,13 @@ Parking is available inside the cemetery.
 
 ### Walking
 
-If you're walking, in addition to the entries above, you can enter via:
+If you're walking to Toowong Cemetery, in addition to the entries above, you can enter via:
 
 - the pedestrian ramp from Mt Coot-tha Road, opposite the Mt Coot-tha Botanic Gardens. Turn right at the top of the ramp and walk downhill to go to Canon Garland Place.
 - Frederick Street gate (opposite Sleath Street) that leads onto Steel Rudd Avenue (previously 4^th^ Avenue).
 - the many informal entries off Birdwood Terrace.
 
-<img class="full-width" src="assets/pedestrian-ramp.jpg" alt="Toowong Cemetery Pedestrian Entrance" width="70%">
+<img class="full-width" src="assets/pedestrian-ramp.jpg" alt="Toowong Cemetery Pedestrian Entrance" width="70%" />
 
 *<small>Toowong Cemetery Pedestrian Entrance off Mt Coot-tha Road. <b>[Bus stop 17, Mt Coot-tha Rd](https://jp.translink.com.au/plan-your-journey/stops/001403/timetable/)</b> is nearby.</small>*
 
@@ -83,7 +82,7 @@ If you enter the main entrance, you'll find:
 - the **[Office](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#officehours)**, where Brisbane City Council staff can answer your enquiries and help locate graves and memorial sites.
 - **Toilets** - the only ones available in the cemetery.
 
-<img class="full-width" src="assets/flag-pole.jpg" alt="Canon Garland Place" width="70%">
+<img class="full-width" src="assets/flag-pole.jpg" alt="Canon Garland Place" width="70%" />
 
 *<small>The Stone of Remembrance, Cross of Sacrifice, and Flagpole in Canon Garland Place</small>*
 
