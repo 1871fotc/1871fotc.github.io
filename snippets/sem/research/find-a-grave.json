@@ -101,6 +101,7 @@
       "contentUrl": "https://www.fotc.au/assets/toowong-cemetery-map-2022-10-01.jpg",
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "acquireLicensePage": "https://www.fotc.au/about/legal/",
+      "copyrightNotice": "Toowong Cemetery Area Map © Brisbane City Council 2022, used under Creative Commons Attribution 4.0 Licence. Corrected on 1 October 2022 in consultation with Toowong Cemetery: Portion 10 Section, 85 and 83 swapped. Portion 7A, Sections 233a and 233b renamed to 234 and 235 respectively. Portion 30, swapped Sections 20 and 21. Road name labels added and spelling corrected.",
       "isPartOf": {
         "@id": "https://www.fotc.au/research/find-a-grave/"
       }  
