@@ -5,6 +5,7 @@ description: Second Governor of Queenland and first person buried in Toowong Cem
 hide:
   - toc
   - navigation
+glightbox.auto_caption: true  
 ---
 
 --8<-- "snippets/sem/research/samuel-wensley-blackall.json"
