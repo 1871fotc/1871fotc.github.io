@@ -13,13 +13,13 @@ glightbox.auto_caption: true
 
 ## Guided Tours
 
-Friends of Toowong Cemetery volunteers guide you on 10 different heritage walks each year.
+Friends of Toowong Cemetery run 10 different guided heritage tours each year.
 
 ![Pat Hill's headstone][image11]{ width="32%" } ![Harry Potter's headstone][image9]{ width="32%" } ![Cherub headstone][image8]{ width="32%" }
 
 **Guided tours are free** but donations are appreciated to help us continue **[our work](about/index.md)**.
 
-There's no need to book, just meet under the flagpole, in Canon Garland Place at the Toowong Cemetery. There is plenty of parking available inside the cemetery. Wear a hat, enclosed shoes, and bring a water bottle.
+There's no need to book, just meet under the flagpole in Canon Garland Place at the Toowong Cemetery. There is plenty of parking available inside the cemetery. Wear a hat, enclosed shoes, and bring a water bottle.
 
 ![Canon Garland Place](assets/flag-pole.jpg){ width="98%" data-title="Guided tours start at Canon Garland Place" }
 
