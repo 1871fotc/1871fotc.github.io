@@ -8,6 +8,6 @@ In 1868 he was appointed Governor of Queensland. On arrival Blackall was met by 
 
 By October 1870 Blackall's health was deteriorating. He requested that his funeral be such “as could be attended by even the humblest”. On 2 January 1871, he died and was buried the next day with as much pomp and ceremony as could be mustered at such short notice.
 
-![Colonel Blackall, Governor of Queensland, with his family](../assets/colonel-blackall-and-family.jpg){ width="61.55%" }  ![Blackall monument](../assets/samuel-blackall-monument.jpg){ width="34%" }
+![Colonel Blackall, Governor of Queensland, with his family](../assets/colonel-blackall-and-family.jpg){ width="61.55%" }  ![Blackall monument, the oldest grave in Toowong Cemetery](../assets/samuel-blackall-monument.jpg){ width="34%" }
 
 *<small>[Colonel Blackall, Governor of Queensland, with his family](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218698200002061) - State Library of Queensland.</small>*  <br> *<small>Blackall Monument, the oldest grave in Toowong Cemetery.</small>*
