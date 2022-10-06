@@ -10,4 +10,4 @@ By October 1870 Blackall's health was deteriorating. He requested that his funer
 
 ![Colonel Blackall, Governor of Queensland, with his family](../assets/colonel-blackall-and-family.jpg){ width="61.55%" }  ![Blackall monument](../assets/samuel-blackall-monument.jpg){ width="34%" }
 
-*<small>[Colonel Blackall, Governor of Queensland, with his family](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218698200002061) - State Library of Queensland </small>*
+*<small>[Colonel Blackall, Governor of Queensland, with his family](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218698200002061) - State Library of Queensland.</small>*  <br> *<small>Blackall Monument, the oldest grave in Toowong Cemetery.</small>*

@@ -80,8 +80,17 @@
       "image": ["https://www.fotc.au/assets/logo/fotc-1x1.png", "https://www.fotc.au/assets/logo/fotc-banner-4x3.png", "https://www.fotc.au/assets/images/social/research/samuel-wensley-blackall.png"],
       "about": {
           "@id": "https://www.fotc.au/#/schema/person/samuel-wensley-blackall"
-        }  
-    }
+        } 
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.fotc.au/assets/samuel-blackall-monument.jpg",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "acquireLicensePage": "https://www.fotc.au/about/legal/",
+      "isPartOf": {
+        "@id": "https://www.fotc.au/#/article/samuel-wensley-blackall/"
+      }  
+    }    
   ]
 }
 </script>
