@@ -53,7 +53,7 @@ The land for the cemetery was first reserved in 1866. [The reserve of 250 acres 
 
 ## 1875 Toowong Cemetery opened
 
-The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the largest cemetery in Queensland at 44 Hectares and is an important record of the history of Brisbane and Queensland. It was officially opened on 5 July 1875 and over 119,000 people are buried in approximately 46,000 graves.
+The Toowong Cemetery was officially opened on 5 July 1875 and was originally called the Brisbane General Cemetery.  Toowong Cemetery is the largest cemetery in Queensland at 44 Hectares and is an important record of the history of Brisbane and Queensland. Over 119,000 people are buried in Toowong Cemetery in approximately 46,000 graves.
 
 ![Toowong Cemetery, Brisbane, ca. 1890](assets/toowong-cemetery-ca1890.jpg){ width="96%" loading=lazy data-title="Toowong Cemetery, Brisbane, ca. 1890"} 
 
