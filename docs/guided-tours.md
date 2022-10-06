@@ -1,5 +1,5 @@
 ---
-description: Friends of Toowong Cemetery volunteers guide you on 10 different heritage walks each year
+description: Friends of Toowong Cemetery run 10 different guided tours each year
 search:
   boost: 2
 glightbox.auto_caption: true  
@@ -13,7 +13,7 @@ glightbox.auto_caption: true
 
 ## Guided Tours
 
-Friends of Toowong Cemetery run 10 different guided heritage tours each year.
+Friends of Toowong Cemetery run 10 different guided tours each year.
 
 ![Pat Hill's headstone][image11]{ width="32%" } ![Harry Potter's headstone][image9]{ width="32%" } ![Cherub headstone][image8]{ width="32%" }
 
