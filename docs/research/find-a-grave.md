@@ -1,5 +1,5 @@
 ---
-title: Find a Grave in Toowong Cemetery
+title: How to find a grave in Toowong Cemetery
 description: Find a grave in Toowong Cemetery in 5 steps
 search:
   boost: 2
@@ -27,7 +27,7 @@ Note the location which will be 3 numbers in the format, *Portion*-*Section*-*Gr
 
 ## Locate the grave on the map
 
-Use the Toowong Cemetery Map to locate the Portion and Section the person is buried in.
+Use the Toowong Cemetery Map to locate the Portion and Section where the person is buried.
 
 [Print the Toowong Cemetery Map :fontawesome-solid-map:](../assets/documents/toowong-cemetery-map-2022-10-01.pdf "Print a high resolution version of the map. 2.1 Mb."){ .md-button .md-button--primary }
 
