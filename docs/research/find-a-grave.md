@@ -12,7 +12,7 @@ search:
 
 Heritage‑listed Toowong Cemetery is the largest cemetery in Queensland. It can be difficult to find a grave as some graves are unmarked, headstones have been destroyed, and sections are not signed.
 
-## Search for a grave
+## Search for a person's grave
 
 Use the Brisbane City Council **[Grave location search](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search)** to look up a person's name and find their location in Toowong Cemetery.
 
@@ -56,7 +56,6 @@ Plan your visit to Toowong Cemetery.
 
   - **[Check Office opening hours](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#officehours)**. 
   - **[Decide how you'll travel to Toowong Cemetery](../index.md#visit-toowong-cemetery)**
-  - **[Get directions to Toowong Cemetery](https://www.google.com.au/maps/dir//Toowong+Cemetery,+Frederick+St,+Toowong+QLD+4066/@-27.4772749,152.9818283,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x6b9150c2f0f2e23f:0xf02a35bd720a310!2m2!1d152.9839608!2d-27.4772714!3e0)**.
 
 ## Ask for help 
 
@@ -66,10 +65,10 @@ Plan your visit to Toowong Cemetery.
   - If the grave is unmarked, we can outline the grave using a surface spray. The spray does no harm and two mowings later it will disappear.
   - If you're unable to visit, we can to take a digital photograph of a grave and email it to you.
 
-## Visit a grave
+## Visit the grave
 
   - **[Travel to Toowong Cemetery](../../#visit-toowong-cemetery)**.
-  - When you arrive, **[ask the Toowong Cemetery Office to help find a grave](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#locatinggravesandashesmemorialsites)**.
+  - When you arrive, **[ask the Toowong Cemetery Office to help find the grave](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#locatinggravesandashesmemorialsites)**.
 
 
 ## Grave Markers
