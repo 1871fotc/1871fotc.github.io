@@ -58,6 +58,7 @@
       "@type": "WebSite",
       "@id": "https://www.fotc.au/#/schema/website/1",
       "name": "Friends of Toowong Cemetery",
+      "alternateName" : "FOTC",
       "url": "https://www.fotc.au/",
       "about": {
           "@id": "https://www.fotc.au/#/schema/place/1"
