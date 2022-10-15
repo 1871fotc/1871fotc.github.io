@@ -67,7 +67,7 @@ The Lest We Forget guided tour was first conducted as part of the Remembrance Da
 
 The Address was given by Rod Schafferius.
 
-Written by Dr. Hilda Maclean.
+Written by [Dr. Hilda Maclean](https://www.linkedin.com/in/dr-hilda-maclean-4819a711/).
 
 <!-- The Service was arranged by Gavin Stoneley, Metropolitan Funerals. -->
 

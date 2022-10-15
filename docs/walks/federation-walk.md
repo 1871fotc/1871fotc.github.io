@@ -2,6 +2,7 @@
 title: The Federation walk 
 description: A Toowong Cemetery self-guided walk commemorating Queensland's contribution to Australia's federation
 icon: fontawesome/solid/person-walking
+glightbox.auto_caption: true  
 ---
 
 --8<-- "snippets/sem/walks/federation-walk.json"
@@ -100,7 +101,7 @@ The Commonwealth of Australia was inaugurated under a pavilion erected for the o
 
 Research: Sally McGrath
 
-Walk Design: Dr. Hilda Maclean 
+Walk Design: [Dr. Hilda Maclean](https://www.linkedin.com/in/dr-hilda-maclean-4819a711/) 
 
 <!-- Cover drawing: Jeff Turner 
 

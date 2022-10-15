@@ -56,7 +56,7 @@ Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you vis
 
 ## Acknowledgements
 
-Written by Dr. Hilda Maclean.
+Written by [Dr. Hilda Maclean](https://www.linkedin.com/in/dr-hilda-maclean-4819a711/).
 
 Thank you to Laurel Shanley from [K. M. Smith Funerals](https://kmsmith.com.au) for providing the story of Kate Mary Smith.
 

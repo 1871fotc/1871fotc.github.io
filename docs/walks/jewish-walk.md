@@ -343,7 +343,7 @@ Text by Morris. S. Ochert OAM - Queensland Researcher, [Australian Jewish Histor
 Photography by: Joyce Simpson Sexton's Office Toowong Cemetery
 -->
 
-Edited by Dr. Hilda Maclean - Friends of Toowong Cemetery
+Edited by [Dr. Hilda Maclean](https://www.linkedin.com/in/dr-hilda-maclean-4819a711/) - Friends of Toowong Cemetery
 
 <!--
 <div class="noprint" markdown="1">

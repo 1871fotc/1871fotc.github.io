@@ -145,7 +145,7 @@ Born in Tasmania in 1843, Robert was educated in Scotland before coming to Queen
 
 ## Acknowledgements
 
-Written by Dr. Hilda Maclean.
+Written by [Dr. Hilda Maclean](https://www.linkedin.com/in/dr-hilda-maclean-4819a711/).
 
 Sponsored by Judy Magub, Councillor for Toowong, 1994—2007
 

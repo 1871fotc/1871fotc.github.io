@@ -33,4 +33,4 @@ He married Jessie, daughter of James Hall-Scott, a pioneer of the Bowen district
 
 ### Acknowledgement
 
-This story was contributed by Hilda Maclean.
+This story was contributed by [Hilda Maclean](https://www.linkedin.com/in/dr-hilda-maclean-4819a711/).

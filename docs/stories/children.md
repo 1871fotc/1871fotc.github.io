@@ -73,7 +73,7 @@ Doris Eliza was the daughter of William Carrington Gilbert and his wife May née
 
 ## Acknowledgements
 
-Written by Dr. Hilda Maclean
+Written by [Dr. Hilda Maclean](https://www.linkedin.com/in/dr-hilda-maclean-4819a711/)
 
 Hector Vasyli story researched and written by Steven Gil Verses, collected by Joyce Simpson
 

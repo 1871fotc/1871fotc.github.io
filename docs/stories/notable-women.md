@@ -52,7 +52,7 @@ Emma died in 1917. On 22 October 1922 a publicly funded marble bust of her was u
 
 ## Acknowledgements
 
-Written by Dr. Hilda Maclean.
+Written by [Dr. Hilda Maclean](https://www.linkedin.com/in/dr-hilda-maclean-4819a711/).
 
 ## Sources 
 

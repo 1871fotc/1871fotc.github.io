@@ -27,4 +27,4 @@ Could not find headstone
 
 ### Copyright
 
-This story is from *Toowong Cemetery*, by Hilda Maclean and Prue Firth, in *[Toowong: A community's history](http://www.toowong.org.au/books_for_sale.htm)* by [West Toowong Community Association Inc.](http://www.toowong.org.au). Used with permission. Links added.
+This story is from *Toowong Cemetery*, by [Hilda Maclean](https://www.linkedin.com/in/dr-hilda-maclean-4819a711/) and Prue Firth, in *[Toowong: A community's history](http://www.toowong.org.au/books_for_sale.htm)* by [West Toowong Community Association Inc.](http://www.toowong.org.au). Used with permission. Links added.

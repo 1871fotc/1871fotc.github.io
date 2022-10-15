@@ -72,4 +72,4 @@ John Hardgrave, a local politician and lord mayor of Brisbane, was born in Wickl
 
 ## Acknowledgements
 
-Written by Dr. Hilda Maclean
+Written by [Dr. Hilda Maclean](https://www.linkedin.com/in/dr-hilda-maclean-4819a711/)

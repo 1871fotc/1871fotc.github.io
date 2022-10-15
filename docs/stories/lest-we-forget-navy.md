@@ -85,7 +85,7 @@ The Lest We Forget Naval guided tour was first conducted as part of a Remembranc
 
 The service was performed by Celebrant, Judy Magub, and Commander Tony Roper, RANR. 
 
-Written by Dr. Hilda Maclean.
+Written by [Dr. Hilda Maclean](https://www.linkedin.com/in/dr-hilda-maclean-4819a711/)
 
 <!--
 <div class="noprint" markdown="1">

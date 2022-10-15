@@ -165,9 +165,7 @@ Waterson, D. B. *Biographical Register of the Queensland Parliament*, Australian
 
 Research on Albert Whitford provided by Shelley Steel
 
-Compiled by Dr. Hilda Maclean
-
-<!-- Hilda Maclean https://social-science.uq.edu.au/profile/603/hilda-maclean h.maclean@uq.edu.au -->
+Compiled by [Dr. Hilda Maclean](https://www.linkedin.com/in/dr-hilda-maclean-4819a711/)
 
 <!--
 <div class="noprint" markdown="1">

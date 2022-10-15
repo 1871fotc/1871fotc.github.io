@@ -64,7 +64,7 @@ Hanly was a member of the Royal Irish Constabulary for five years before joining
 
 ## Acknowledgements
 
-Written by Dr. Hilda Maclean.
+Written by [Dr. Hilda Maclean](https://www.linkedin.com/in/dr-hilda-maclean-4819a711/).
 
 Police career information supplied by the [Queensland Police Museum](https://www.police.qld.gov.au/museum).
 

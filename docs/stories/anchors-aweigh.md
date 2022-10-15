@@ -52,7 +52,7 @@ George was for many years the Superintendent Engineer to the Australasian Steam 
 
 ## Acknowledgements
 
-- Compiled by Dr. Hilda Maclean
+- Compiled by [Dr. Hilda Maclean](https://www.linkedin.com/in/dr-hilda-maclean-4819a711/)
 - Captain John Burke research by David Larkin
 
 

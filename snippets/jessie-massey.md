@@ -29,4 +29,4 @@ Matthew J. Fox wrote this about Jessie in his book *The History of in Queensland
 
 ### Acknowledgement
 
-This story was contributed by Hilda Maclean.
+This story was contributed by [Hilda Maclean](https://www.linkedin.com/in/dr-hilda-maclean-4819a711/).
