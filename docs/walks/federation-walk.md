@@ -15,7 +15,7 @@ The Federation Walk was produced by the Friends of Toowong Cemetery as a Centena
 
 The National Australasian Convention was held in Sydney from the 2^nd^ of March to the 9^th^ of April 1891. The convention was attended by seven delegates from each of the six colonies and three delegates from New Zealand. The Queensland delegates were John Donaldson, Sir Samuel Griffith, John Macrossan, Thomas Macdonald- Paterson, Thomas McIlwraith, Arthur Rutledge and Andrew Thynne. Significant outcomes from this convention included agreement of the name Commonwealth of Australia and more importantly, the production of a draft constitution. Sir Samuel Griffith was Chairman of the committee responsible for writing the draft constitution.
 
-This convention marked Queensland’s greatest role in the path towards Federation as Queensland was not represented at later conventions. For Queenslanders, the Depression, droughts, floods, industrial upheavals such as the [Shearers Strikes](shearers-strike.md) and financial collapses were higher priorities.
+This convention marked Queensland’s greatest role in the path towards Federation as Queensland was not represented at later conventions. For Queenslanders, the Depression, droughts, floods, industrial upheavals such as the [Shearers Strikes](../stories/shearers-strike.md) and financial collapses were higher priorities.
 
 Other Queensland issues in the federation debate included Queensland’s use of indentured Melanesian labour that was in contrast the federation movement’s White Australia policy and the possible division of Queensland into two or three separate colonies. 
 
