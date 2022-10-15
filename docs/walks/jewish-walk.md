@@ -1,10 +1,10 @@
 ---
-hide:
-  - navigation
+title: The Jewish walk
+description: A self-guided walk through the Jewish portion of Toowong Cemetery
 icon: fontawesome/solid/person-walking
 ---
 
---8<-- "snippets/sem/stories/jewish-walk.json"
+--8<-- "snippets/sem/walks/jewish-walk.json"
 
 # The Jewish walk
 

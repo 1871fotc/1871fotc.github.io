@@ -34,7 +34,7 @@ The cemetery is maintained by the **[Brisbane City Council](https://www.brisbane
 
 At Toowong Cemetery you can:
 
-- take a **[self-guided walk](stories/)** and explore the stories of people who shaped our local history.
+- take a **[self-guided walk](walks/)** and explore the stories of people who shaped our local history.
 - join us on one of our regular **[guided heritage tours](guided-tours.md)**.
 - discover the meaning of **[headstone symbols](headstones/symbols.md)** at the Symbolism display.
 
@@ -95,7 +95,6 @@ If you enter via the Richer Street back gate, to get to Canon Garland Place:
 - at the end, turn right into Emma Miller Avenue (previously 8^th^ Avenue) to arrive behind Canon Garland Place, where you can park on the right side of the road.
 
 ## Toowong Cemetery Map
-
 
 ### Toowong Cemetery Portion Map
 

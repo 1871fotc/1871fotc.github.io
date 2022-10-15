@@ -55,6 +55,9 @@ theme:
 # Customization
 extra:
   generator: false
+  extra:
+  status:
+    new: Recently added
   social:
     - icon: fontawesome/solid/envelope
       link: mailto:inquiries@fotc.org.au
@@ -159,7 +162,7 @@ plugins:
         'stories/in-their-caring-hands.md': 'stories/nurses-and-doctors.md'
         'stories/jewish.md': 'stories/jewish-walk.md'
 # set up redirects for deep links
-        'walks/walks.md': 'stories/index.md'
+        'walks/walks.md': 'walks/index.md'
         'activities/activities.md': 'about/index.md'
         'obituaries/obituaries.md': 'research/index.md'
         'publications/publications.md': 'about/publications.md'
@@ -173,12 +176,10 @@ plugins:
 nav:
   - Home: index.md
   - Cemetery History: history.md
-  - Stories and Walks:
-    - Stories and Walks: stories/index.md
-#    - Mount Blackall Walk: stories/mount-blackall-walk.md
-#    - Dr. Lilian Cooper Walk: stories/lilian-cooper-walk.md
+  - Stories:
+    - Stories: stories/index.md
 # Politics
-    - The Federation Walk: stories/federation-walk.md
+    - The Federation Walk: walks/federation-walk.md
     - Queensland Governors: stories/governors.md
     - Brisbane Mayors: stories/brisbane-mayors.md
     - One Adult, One Vote: stories/suffrage.md
@@ -190,7 +191,6 @@ nav:
     - Toowong Identities: stories/toowong-identities-1.md 
     - More Toowong Identities: stories/toowong-identities-2.md
 #    - Toowong Streets: stories/toowong-street-name-origins.md
-
 # Stories by Profession    
     - Artists: stories/artists.md 
     - Health Professionals: stories/nurses-and-doctors.md
@@ -215,7 +215,7 @@ nav:
 # Community stories  
     - The Irish: stories/irish.md 
     - The Lutheran: stories/lutheran.md
-    - The Jewish Walk: stories/jewish-walk.md 
+    - The Jewish Walk: walks/jewish-walk.md 
 # Other themed stories 
     - Steam: stories/steam.md
     - Building Brisbane: stories/brisbane-open-house.md   
@@ -233,6 +233,12 @@ nav:
     - Portion 5 - part 2: stories/portion5-part2.md
     - Portion 6 and 24: stories/portion6-and-24.md
     - Portion 15 and 16: stories/portion15-and-16.md
+  - Walks:   
+    - Walks: walks/index.md 
+#    - Dr. Lilian Cooper Walk: walks/lilian-cooper-walk.md 
+#    - Mount Blackall Walk: walks/mount-blackall-walk.md
+    - The Federation Walk: walks/federation-walk.md
+    - The Jewish Walk: walks/jewish-walk.md 
   - Guided Tours: guided-tours.md  
   - Headstones: 
     - Headstones: headstones/index.md  

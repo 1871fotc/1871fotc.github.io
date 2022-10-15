@@ -24,7 +24,7 @@ glightbox.auto_caption: true
 The Friends of Toowong Cemetery:
 
 - **research the [history of Toowong Cemetery](../history.md)**, its [headstones](../headstones/symbols.md), and the [stories](../stories/) of the people remembered here. 
-- **share our discoveries** with the community through our [guided tours](../guided-tours.md), published [stories](../stories/), museum, [publications](publications.md), and [data](../research/data.md).
+- **share our discoveries** with the community through our [guided tours](../guided-tours.md), museum, [self-guided walks](../walks/),[publications](publications.md), and [data](../research/data.md).
 - **contribute stories** of people remembered at the Toowong and [Paddington cemeteries](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery) to other publications, biographical databases, and information signs around the cemetery.
 - **clean and conserve headstones**.
 - **search for buried headstones** in [archaeological digs](../headstones/archaeological-digs.md) in the cemetery grounds. 
@@ -39,7 +39,6 @@ The Friends of Toowong Cemetery have:
 - **commemorated the [140^th^ Anniversary of the cemetery](140-commemoration.md)**. We received an Award from the National Trust of Queensland for our work.
 - provided **stories for information signs** at significant grave sites.
 - **renamed cemetery roads** after notable people buried nearby, added the road names to [Google Maps](https://goo.gl/maps/7VX36iDLFNnShN6D8), and improved the [Toowong Cementry map](../index.md#toowong-cemetery-map) to make it easier to for you to find your way around the cemetery.
-- shared the history and stories of Toowong Cemetery through monthly **[guided tours](../guided-tours.md)**.
 - **[published books, a DVD](publications.md)** and this website.  
 
 ![Federation Pavilion](../assets/federation-pavilion.jpg)
@@ -71,7 +70,7 @@ Friends of Toowong Cemetery meet at **[Mt Coot-tha Botanical Gardens Auditorium]
 
 ![Mt Coot-tha Botanical Gardens Auditorium](../assets/auditorium.jpg)
 
-To join in, complete the **[Application form](https://forms.gle/iwFKCnpNYRTSeHLb8)** and pay the annual membership subscription (includes GST):
+Apply to join in, complete the **[Application form](https://forms.gle/iwFKCnpNYRTSeHLb8)** and pay the annual membership subscription (includes GST):
 
 - $11 Individuals
 - $5.50 Students and Pensioners

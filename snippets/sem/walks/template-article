@@ -1,0 +1,40 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "name": "XXXX",
+  "headline": "XXXX",
+  "description": "XXXX",
+  "keywords": [
+    "Toowong Cemetery Walk"
+  ],
+  "dateModified": "2022-10-15",
+  "datePublished": "2022-10-15",
+  "inLanguage": "en", 
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.fotc.au/#/schema/organization/1",
+    "name": "Friends of Toowong Cemetery Association Inc.",
+    "url": "https://www.fotc.au/"
+  },
+  "author": {
+    "@id": "https://www.fotc.au/#/schema/organization/1"
+  },   
+  "image": [
+    "https://www.fotc.au/assets/logo/fotc-1x1.png", 
+    "https://www.fotc.au/assets/logo/fotc-banner-4x3.png", 
+    "https://www.fotc.au/assets/images/social/walks/XXXX.png"
+  ],
+  "about": {
+    "@type": "Place",
+    "name": "Toowong Cemetery",
+    "sameAs": [
+      "https://en.wikipedia.org/wiki/Toowong_Cemetery", 
+      "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery"
+    ]
+  },
+  "mentions": [
+    {"@type": "Person","name": "Samuel Wensley Blackall","sameAs": "https://en.wikipedia.org/wiki/Samuel_Blackall"} 
+  ]
+}
+</script>

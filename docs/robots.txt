@@ -7,6 +7,9 @@ Disallow: /search/*
 Disallow: /assets/calendar/*
 Disallow: /assets/guides/*
 Disallow: /assets/documents/*
+Disallow: /drafts/*
+Disallow: /walks/lilian-cooper-walk/
+Disallow: /walks/mount-blackall-walk/
 
 #
 # Images - Don't flood images with our social images
@@ -20,7 +23,6 @@ Disallow: /assets/404.png
 Disallow: /assets/ACNC-Registered-Charity-Logo_RGB.png
 Allow: /assets/documents/toowong-cemetery-map.pdf
 Allow: /assets/toowong-cemetery-map.jpg
-Allow: /assets/documents/toowong-cemetery-map-2022-10-01.pdf
 Allow: /assets/toowong-cemetery-map-2022-10-01.jpg
 
 #
@@ -32,6 +34,6 @@ Allow: /assets/toowong-cemetery-map-2022-10-01.jpg
 # Allow: /assets/images/social/stories/index.png
 # Allow: /assets/images/social/about/federation-pavilion.png
 # Allow: /assets/images/social/about/extraordinary-stories.png
-# Allow: /assets/images/social/stories/federation-walk.png
-# Allow: /assets/images/social/stories/jewish-walk.png
+# Allow: /assets/images/social/walks/federation-walk.png
+# Allow: /assets/images/social/walks/jewish-walk.png
 

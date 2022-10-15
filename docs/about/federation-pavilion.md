@@ -85,5 +85,5 @@ The Federation Pavilion commemorates the contribution of the delegates who atten
 
 ## Learn more
 
-- Visit the graves by following the [Federation Walk](../stories/federation-walk.md) 
+- Visit the graves by following the [Federation Walk](../walks/federation-walk.md) 
 - Read about the [Federation of Australia](https://peo.gov.au/understand-our-parliament/history-of-parliament/federation/the-federation-of-australia/)

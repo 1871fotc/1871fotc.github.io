@@ -25,23 +25,27 @@
     },
     {
       "@type": "CollectionPage",
-      "@id": "https://www.fotc.au/stories/",
-      "url": "https://www.fotc.au/stories/",
+      "@id": "https://www.fotc.au/walks/",
+      "url": "https://www.fotc.au/walks/",
       "inLanguage": "en",
-      "name": "Toowong Cemetery Stories",
+      "name": "Toowong Cemetery Walks",
       "isPartOf": {
           "@id": "https://www.fotc.au/#/schema/website/1"
         },
       "dateModified": "2022-10-15",
       "datePublished": "2022-08-29",
-      "description": "Discover the stories of people remembered in Toowong Cemetery",
+      "description": "Self-guided heritage walks visiting some of the highlights of Toowong Cemetery",
       "about": {
           "@id": "https://www.fotc.au/#/schema/place/1"
         },
       "author": {
           "@id": "https://www.fotc.au/#/schema/organization/1"
         },
-      "image": ["https://www.fotc.au/assets/logo/fotc-1x1.png", "https://www.fotc.au/assets/logo/fotc-banner-4x3.png", "https://www.fotc.au/assets/images/social/stories/index.png"]
+      "image": [
+        "https://www.fotc.au/assets/logo/fotc-1x1.png",
+        "https://www.fotc.au/assets/logo/fotc-banner-4x3.png",
+        "https://www.fotc.au/assets/images/social/walks/index.png"
+        ]
     }
   ]
 }

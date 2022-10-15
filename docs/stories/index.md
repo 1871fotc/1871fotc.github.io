@@ -1,36 +1,29 @@
 ---
-title:  Stories and Walks
-description: Stories and walks to discover the people remembered in Toowong Cemetery
-search:
-  boost: 2
+title:  Stories 
+description: Discover the stories of people remembered in Toowong Cemetery
 glightbox.auto_caption: true  
 ---
 
 --8<-- "snippets/sem/stories/index.json"
 
-<!-- 
---8 < -- "snippets/hide-nav.html"
--->
 
-# Toowong Cemetery Stories and Walks
+--8<-- "snippets/hide-nav.html"
+
+
+# Toowong Cemetery Stories
 
 The Friends of Toowong Cemetery have published **[over 500 individual stories](../research/find-a-story.md)** about people remembered at the cemetery. 
 
-Individual stories have been grouped into **over 40 themed collections** below.
+Individual stories have been grouped into **over 40 themed collections** below. 
 
 <figure markdown>
   ![State Library of Queensland's reading room, Brisbane, 1902](../assets/slq-reading-room-1902-16x9.jpg)
   <figcaption markdown>[State Library of Queensland's reading room, Brisbane, 1902](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21298102690002061) - State Library of Queensland. Cropped.</figcaption>
 </figure>
 
-## Toowong Cemetery self-guided walks 
 
-Stories marked with :fontawesome-solid-person-walking: are **self-guided walks** with maps and directions. 
+Stories marked with :fontawesome-solid-person-walking: are **[self-guided walks](../walks/index.md)** with maps and directions. 
 
-<!--
-- **[Mount Blackall walk](mount-blackall-walk.md)** :fontawesome-solid-person-walking: - discover some of the highlights on Mount Blackall
-- **[Dr. Lilian Cooper walk](lilian-cooper-walk.md)** :fontawesome-solid-person-walking: - uncover the history along Lilian Cooper Drive
--->
 
 ## Political stories
 
@@ -107,7 +100,7 @@ Stories marked with :fontawesome-solid-person-walking: are **self-guided walks**
 
 
 <!-- 
-Missing Walks
+Missing stories
 
 - December 2021	One Day: New Year’s Day, hosted by Meryll Fletcher
 - November 2021	Laid to rest in 1921, hosted by Darcy Maddock
@@ -116,7 +109,7 @@ Missing Walks
 
 <!-- links to pages or pdfs -->
 
-[federation-walk]: federation-walk.md
+[federation-walk]: ../walks/federation-walk.md
 [governors]: governors.md
 [brisbane-mayors]: brisbane-mayors.md
 [labor-luminaries]: labor-luminaries.md
@@ -148,7 +141,7 @@ Missing Walks
 
 [convicts]: convict-connections.md
 [irish]: irish.md
-[jewish]: jewish-walk.md
+[jewish]: ../walks/jewish-walk.md
 [lutheran]: lutheran.md
 [children]: children.md
 [brisbane-open-house]: brisbane-open-house.md

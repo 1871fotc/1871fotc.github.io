@@ -204,7 +204,7 @@ The **[Federation Pavilion][Federation Pavilion]** commemorates the contribution
 
 ![Federation Pavilion](assets/federation-pavilion.jpg){ width="96%" loading=lazy data-title="Federation Pavilion at Toowong Cemetery, 2022" }  
 
-Take the **[Federation self-guided walk](stories/federation-walk.md)** to visit the Federation Pavilion and learn how four Queenslanders shaped Australia's Constitution.
+Take the **[Federation self-guided walk](walks/federation-walk.md)** to visit the Federation Pavilion and learn how four Queenslanders shaped Australia's Constitution.
 
 [Federation Pavilion]: about/federation-pavilion.md "Read about Federation Pavilion, created by the Friends of Toowong Cemetery"
 

@@ -1,12 +1,15 @@
 ---
-hide:
-  - navigation
+title: The Federation walk 
+description: A Toowong Cemetery self-guided walk commemorating Queensland's contribution to Australia's federation
 icon: fontawesome/solid/person-walking
 ---
 
---8<-- "snippets/sem/stories/federation-walk.json"
+--8<-- "snippets/sem/walks/federation-walk.json"
 
 # The Federation walk 
+
+**A self-guided walk commemorating Queensland's contribution to Australia's federation** 
+
 
 The Federation Walk was produced by the Friends of Toowong Cemetery as a Centenary of Federation project to commemorate the role of the four Queensland delegates to the National Australasian Convention of 1891 who are interred at Toowong Cemetery.
 
@@ -97,7 +100,7 @@ The Commonwealth of Australia was inaugurated under a pavilion erected for the o
 
 Research: Sally McGrath
 
-Layout and map: Dr. Hilda Maclean 
+Walk Design: Dr. Hilda Maclean 
 
 <!-- Cover drawing: Jeff Turner 
 
