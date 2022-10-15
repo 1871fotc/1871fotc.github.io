@@ -160,7 +160,9 @@ plugins:
         'fotc/index.md': 'index.md'        
 # set up redirects for renamed pages
         'stories/in-their-caring-hands.md': 'stories/nurses-and-doctors.md'
-        'stories/jewish.md': 'stories/jewish-walk.md'
+        'stories/jewish.md': 'walks/jewish-walk.md'
+        'stories/jewish-walk.md': 'walks/jewish-walk.md'
+        'stories/federation-walk.md.md': 'walks/federation-walk.md'
 # set up redirects for deep links
         'walks/walks.md': 'walks/index.md'
         'activities/activities.md': 'about/index.md'
@@ -179,7 +181,6 @@ nav:
   - Stories:
     - Stories: stories/index.md
 # Politics
-    - The Federation Walk: walks/federation-walk.md
     - Queensland Governors: stories/governors.md
     - Brisbane Mayors: stories/brisbane-mayors.md
     - One Adult, One Vote: stories/suffrage.md
@@ -215,7 +216,6 @@ nav:
 # Community stories  
     - The Irish: stories/irish.md 
     - The Lutheran: stories/lutheran.md
-    - The Jewish Walk: walks/jewish-walk.md 
 # Other themed stories 
     - Steam: stories/steam.md
     - Building Brisbane: stories/brisbane-open-house.md   
