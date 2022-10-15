@@ -1,0 +1,43 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "name": "The Federation walk",
+  "headline": "A self-guided walk commemorating Queensland's contribution to Australia's federation",
+  "description": "Take a short flat walk and commemorate the role of the four Queensland delegates to the National Australasian Convention of 1891 who are interred at Toowong Cemetery.",
+  "keywords": [
+    "Toowong Cemetery Walk"
+  ],
+  "dateModified": "2022-10-15",
+  "datePublished": "2000-08-22",
+  "inLanguage": "en", 
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.fotc.au/#/schema/organization/1",
+    "name": "Friends of Toowong Cemetery Association Inc.",
+    "url": "https://www.fotc.au/"
+  },
+  "author": {
+    "@id": "https://www.fotc.au/#/schema/organization/1"
+  },   
+  "image": [
+    "https://www.fotc.au/assets/logo/fotc-1x1.png", 
+    "https://www.fotc.au/assets/logo/fotc-banner-4x3.png",
+    "https://www.fotc.au/assets/federation-pavilion.jpg"
+  ],
+  "about": {
+    "@type": "Place",
+    "name": "Toowong Cemetery",
+    "sameAs": [
+      "https://en.wikipedia.org/wiki/Toowong_Cemetery", 
+      "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery"
+    ]
+  },
+  "mentions": [
+    {"@type": "Person","name": "Samuel Walker Griffith","sameAs": "https://en.wikipedia.org/wiki/Samuel_Griffith"}, 
+    {"@type": "Person","name": "Arthur Rutledge","sameAs": "https://en.wikipedia.org/wiki/Arthur_Rutledge"},      
+    {"@type": "Person","name": "John Donaldson","sameAs": "https://en.wikipedia.org/wiki/John_Donaldson_(Australian_politician)"},      
+    {"@type": "Person","name": "Thomas Macdonald-Paterson","sameAs": "https://en.wikipedia.org/wiki/Thomas_Macdonald-Paterson"}
+  ]
+}
+</script>
