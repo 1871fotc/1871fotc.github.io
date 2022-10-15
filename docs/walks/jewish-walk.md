@@ -2,6 +2,7 @@
 title: The Jewish walk
 description: A self-guided walk through the Jewish portion of Toowong Cemetery
 icon: fontawesome/solid/person-walking
+glightbox.auto_caption: true  
 ---
 
 --8<-- "snippets/sem/walks/jewish-walk.json"
@@ -24,13 +25,16 @@ Examples of vandalism will be seen in this cemetery. This is a world‑wide mala
 
 --8<-- "snippets/conditions-of-entry.md"
 
-## The Jewish walk
+## Map
 
-<!-- Map -->
+![The Jewish Walk map. Section at Section 25 in Portion 3.](../assets/jewish-walk-map.jpg)
+
+*<small>The Jewish Walk map, derived from the [Toowong Cemetery Area Map](https://www.brisbane.qld.gov.au/sites/default/files/documents/2022-09/20220906-Toowong-Cemetery-Map-2022.pdf)  © [Brisbane City Council](https://www.brisbane.qld.gov.au) 2022, used under [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).</small>*
+
 
 ???+ directions "Directions" 
 
-    Starting in Portion 3 from the Peter Jackson Parade end and closest to Frederick street, walk down the first row, looking left. About the 16^th^ headstone from the start is the grave of...
+    Starting at Section 25 in Portion 3 from the Peter Jackson Parade end and closest to Frederick street, walk down the first row, looking left. About the 16^th^ headstone from the start is the grave of...
     
     ![Sam Burmister's headstone](../assets/sam-burmister.jpg){ width="20%" }
 
