@@ -1,5 +1,5 @@
 ---
-title:  Stories 
+title:  Toowong Cemetery Stories 
 description: Discover the stories of people remembered in Toowong Cemetery
 glightbox.auto_caption: true  
 ---
