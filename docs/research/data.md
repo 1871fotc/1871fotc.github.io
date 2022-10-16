@@ -35,7 +35,7 @@ Where practical, we link to authoritative data sources, rather than duplicate da
     - [Cemetery boundary](https://www.spatial-data.brisbane.qld.gov.au/datasets/d9879ce7dce842ce8d5d3b50e3b702bf_0/explore?location=-27.476664%2C152.985658%2C16.53) is available as open open data
     - Portion and Section boundaries 
     - Cemetery Road casements - [centrelines](https://www.spatial-data.brisbane.qld.gov.au/datasets/46bbc7521e7949f68ef4b69d87e89ebc_0/explore?location=-27.475228%2C152.985532%2C15.84) are available as open open data
-    - Toowong Cemetery Pedestrian Entrance off Mt Coot-tha Road.
+    - Toowong Cemetery Pedestrian Entrance off Mt Coot‑tha Road.
     - Toowong Cemetery Main, Richer Street, and Frederick Street gates
     - Surrounding Road casements - including roads running off the surrounding road to aid orientation 
     - Cemetery Building outlines - Amenities, Workshop, Office, Museum and Shelter Sheds 
