@@ -41,9 +41,9 @@ The land for the cemetery was first reserved in 1866. [The reserve of 250 acres 
 ![Map showing Toowong Cemetery Reservation, ca. 1861](assets/toowong-cemetery-reservation-map-1861-alt.webp)
 
 *<small>[City of Brisbane, County of Stanley, showing Toowong Cemetery Reservation; being sheet 1b of a 20 chain grid series. 20 chains to the inch. Survey Office, Brisbane.](https://www.archivessearch.qld.gov.au/items/ITM634480), ca. 1861 — Queensland State Archives. Cropped.*</small>
---> 
 
 [reserve]: assets/toowong-cemetery-reservation-map-1861-alt.webp "View a map of the reserved land"
+--> 
 
 ## 1871 Governor Blackall buried
 
@@ -116,9 +116,9 @@ Allotments on [Heussler Terrace][Heussler Terrace] (renamed Birdwood Terrace) on
 
 *<small>[Chermside Park, second section : Auchenflower](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21190073930002061), 1921 — [State Library of Queensland](https://www.slq.qld.gov.au). Note in the Inset how the tram stopped at the Toowong Cemetery gates. [Third Avenue was renamed Couldrey St](assets/documents/new-streets-1939.pdf) in 1939 after a [Queensland Miner](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:24525/one?qu=Duplicated+Street+Names+-+Extracts+from+Council+Records+re+Final+Approval+and+ORIGINS+of+names+1938+-+1939&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS). </small>*
 
-![Tram passing the Toowong Cemetery with Mt Coot-tha in the distance, Queensland, 1921](assets/tram-passing-the-toowong-cemetery-1921.jpg){ width="96%" loading=lazy data-title="Tram passing the Toowong Cemetery with Mt Coot-tha in the distance, Queensland, 1921" }  
+![Tram passing the Toowong Cemetery with Mt Coot‑tha in the distance, Queensland, 1921](assets/tram-passing-the-toowong-cemetery-1921.jpg){ width="96%" loading=lazy data-title="Tram passing the Toowong Cemetery with Mt Coot‑tha in the distance, Queensland, 1921" }  
 
-*<small>[Tram passing the Toowong Cemetery with Mt Coot-tha in the distance, Queensland, 1921](http://onesearch.slq.qld.gov.au/permalink/f/fhnkog/slq_digitool542430) — State Library of Queensland. Cropped. </small>*
+*<small>[Tram passing the Toowong Cemetery with Mt Coot‑tha in the distance, Queensland, 1921](http://onesearch.slq.qld.gov.au/permalink/f/fhnkog/slq_digitool542430) — State Library of Queensland. Cropped. </small>*
 
 ## 1924 Remembering the Anzacs
 
