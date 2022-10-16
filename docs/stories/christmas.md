@@ -5,22 +5,22 @@ hide:
 
 # Christmas
 
+**Stories about people with a connection to Christmas**
+
 <figure markdown>
-  ![Christmas morning under the Christmas tree, ca. 1935](../assets/christmas-1935.jpg){ width="40%" } 
+  ![Christmas morning under the Christmas tree, ca. 1935](../assets/christmas-1935.jpg){ width="40%" class="full-width" } 
   <figcaption markdown>[Christmas morning under the Christmas tree, ca. 1935](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220399300002061) — State Library of Queensland.</figcaption>
 </figure>
 
 Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
 
 <!--
-
 ???+ directions "Directions" 
 
     Starting point
     Walking directions to first headstone... is the grave of...
     
     ![](../assets/404.png){ width="15%" }
-
 -->
 
 --8<-- "snippets/joseph-robert-abbott.md"
