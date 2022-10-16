@@ -26,7 +26,7 @@ Old cemeteries reflect aspects of our social, religious, cultural, architectural
 
 At the end of the convict period the main cemetery was near the northern end of the present William Jolly Bridge. In 1844 the Paddington Cemetery (on the site of the current Suncorp Stadium at Lang Park) came into use. This cemetery quickly became overcrowded. As early as 1853 a petition requesting a new general cemetery was sent to the Government of New South Wales, of which Queensland was then a part.
 
-In June 1866 a site of 203 acres at the base of One Tree Hill (now Mt Coot-tha) about 6 kilometres from the centre of Brisbane was surveyed for a cemetery reserve. This was extended to 257 acres in October 1870.
+In June 1866 a site of 203 acres at the base of One Tree Hill (now Mt Coot‑tha) about 6 kilometres from the centre of Brisbane was surveyed for a cemetery reserve. This was extended to 257 acres in October 1870.
 
 Queensland's second Governor, Colonel Samuel Blackall, was ill and this prompted him to choose a plot the highest in the cemetery - for his grave. He died in January 1871 and was the first to be buried in the new cemetery. His impressive memorial continues to dominate the hill.
 
