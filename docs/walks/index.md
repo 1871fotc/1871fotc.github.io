@@ -1,5 +1,5 @@
 ---
-title:  Toowong Cemetry Walks
+title:  Toowong Cemetery Walks
 description: Self-guided heritage walks visiting some of the highlights of Toowong Cemetery
 glightbox.auto_caption: true  
 ---
