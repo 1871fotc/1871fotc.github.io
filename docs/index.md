@@ -39,14 +39,14 @@ At Toowong Cemetery you can:
 - discover the meaning of **[headstone symbols](headstones/symbols.md)** at the Symbolism display.
 
 <figure markdown>
-  ![Toowong Cemetery Headstone Symbolism Display](assets/symbolism-display.jpg){ width="70%" class="full-width" }
+  ![Toowong Cemetery Headstone Symbolism Display](assets/symbolism-display.jpg){ class="full-width" }
   <figcaption markdown>Toowong Cemetery Headstone Symbolism Display</figcaption>
 </figure>
 
 ## Visit Toowong Cemetery
 
 <figure markdown>
-  ![Toowong Cemetery main entrance](assets/main-entrance.jpg){ width="70%" class="full-width" }
+  ![Toowong Cemetery main entrance](assets/main-entrance.jpg){ class="full-width" }
   <figcaption markdown>The Toowong Cemetery Main Entrance was designed by the Colonial Architect **[F.D.G. Stanley](research/francis-drummond-grenville-stanley.md)** and erected in 1873-1874</figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ If you're walking to Toowong Cemetery, in addition to the entries above, you can
 - the many informal entries off Birdwood Terrace.
 
 <figure markdown>
-  ![Toowong Cemetery Pedestrian Entrance](assets/pedestrian-ramp.jpg){ width="70%" class="full-width" }
+  ![Toowong Cemetery Pedestrian Entrance](assets/pedestrian-ramp.jpg){ class="full-width" }
   <figcaption markdown>Toowong Cemetery Pedestrian Entrance off Mt Coot‑tha Road. <b>[Bus stop 17, Mt Coot‑tha Rd](https://jp.translink.com.au/plan-your-journey/stops/001403/timetable/)</b> is nearby.</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ If you enter the main entrance, you'll find:
 - **Toilets** - the only ones available in the cemetery.
 
 <figure markdown>
-  ![Canon Garland Place](assets/flag-pole.jpg){ width="70%" class="full-width" }
+  ![Canon Garland Place](assets/flag-pole.jpg){ class="full-width" }
   <figcaption markdown>The Stone of Remembrance, Cross of Sacrifice, and Flagpole in Canon Garland Place</figcaption>
 </figure>
 
