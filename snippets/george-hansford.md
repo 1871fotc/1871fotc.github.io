@@ -10,7 +10,21 @@ The saddlery business continued through his son, Reginald, in Makerston Street.
 
 George died on Tuesday 13 October 1925 at the residence of his daughter, Mrs Harrison, Cribb Street, Milton. Three sons, two daughters, 30 grandchildren and eight great-grandchildren survived George. George was buried with his wife, who pre‑deceased him by seven years.
 
+<!--
 ![George Hansford, ca. 1900](../assets/george-hansford.jpg){ width="43.2%" }  ![Hansford Saddlers on Roma Street in Brisbane, Queensland. ca. 1900](../assets/george-hansford-saddlers.jpg){ width="42%" }
 
 *<small>[George Hansford, ca. 1900](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220000480002061) standing in his saddlery shop at 34 Roma Street, Brisbane - State Library of Queensland</small>* <br>
 *<small>[Hansford Saddlers on Roma Street in Brisbane, Queensland. ca. 1900](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220529050002061) - State Library of Queensland</small>*
+
+-->
+
+
+<figure markdown>
+  ![George Hansford, ca. 1900](../assets/george-hansford.jpg){ width="70%"  class="full-width" }  
+  <figcaption markdown>[George Hansford, ca. 1900](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220000480002061) standing in his saddlery shop at 34 Roma Street, Brisbane - State Library of Queensland*</figcaption>
+</figure>
+
+<figure markdown>
+  ![Hansford Saddlers on Roma Street in Brisbane, Queensland. ca. 1900](../assets/george-hansford-saddlers.jpg){ width="70%"  class="full-width" }
+  <figcaption markdown>[Hansford Saddlers on Roma Street in Brisbane, Queensland. ca. 1900](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220529050002061) - State Library of Queensland</figcaption>
+</figure>
