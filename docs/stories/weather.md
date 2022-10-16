@@ -10,7 +10,7 @@ hide:
 **Stories about people in Toowong Cemetery that were impacted by the weather**
 
 <figure markdown>
-  ![The 'Young Australia' wrecked at Moreton Island](../assets/young-australia-ship-wrecked.jpeg){ width="70%" }
+  ![The 'Young Australia' wrecked at Moreton Island](../assets/young-australia-ship-wrecked.jpeg){ width="70%"  class="full-width" }
   <figcaption markdown>[The 'Young Australia' wrecked at Moreton Island, Queensland](https://collections.slsa.sa.gov.au/resource/PRG+1373/5/9) — State Library of South Australia  - PRG 1373/5/9</figcaption>
 </figure>
 
