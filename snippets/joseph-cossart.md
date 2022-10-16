@@ -8,6 +8,7 @@ In 1890 Joseph moved his family to the Dugandan district near Boonah, where they
 In 1901, Joseph and Sydney, his second son, started a saw milling business in Gatton. Ultimately Joseph's other sons joined the business.
 Joseph died at his residence, *Babbiloora*, Browne Street, New Farm on the evening of 25 December 1911 leaving his widow, four sons and four daughters.
 
-![Log felled in the Gatton district, Queensland](../assets/joseph-cossart-log-felled.jpg){ width="60%" }  
-
-*<small>[Log felled in the Gatton district, Queensland](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21219240550002061). Log labelled Jos Cossart & Son Sawmills, Gatton — State Library of Queensland.</small>*
+<figure markdown>
+  ![Log felled in the Gatton district, Queensland](../assets/joseph-cossart-log-felled.jpg){ width="60%" class="full-width" } 
+  <figcaption markdown>[Log felled in the Gatton district, Queensland](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21219240550002061). Log labelled Jos Cossart & Son Sawmills, Gatton — State Library of Queensland.</figcaption>
+</figure>
