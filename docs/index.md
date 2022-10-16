@@ -38,13 +38,17 @@ At Toowong Cemetery you can:
 - join us on one of our regular **[guided heritage tours](guided-tours.md)**.
 - discover the meaning of **[headstone symbols](headstones/symbols.md)** at the Symbolism display.
 
-<img class="full-width" src="assets/symbolism-display.jpg" alt="Toowong Cemetery Headstone Symbolism Display" width="70%" />
+<figure markdown>
+  ![Toowong Cemetery Headstone Symbolism Display](assets/symbolism-display.jpg){ width="70%" class="full-width" }
+  <figcaption markdown>Toowong Cemetery Headstone Symbolism Display</figcaption>
+</figure>
 
 ## Visit Toowong Cemetery
 
-![Toowong Cemetery main entrance][main-entry] 
-
-[main-entry]: assets/main-entrance.jpg "The Toowong Cemetery Main Entrance was designed by the Colonial Architect F.D.G. Stanley and erected in 1873-1874"
+<figure markdown>
+  ![Toowong Cemetery main entrance](assets/main-entrance.jpg){ width="70%" class="full-width" }
+  <figcaption markdown>The Toowong Cemetery Main Entrance was designed by the Colonial Architect **[F.D.G. Stanley](research/francis-drummond-grenville-stanley.md)** and erected in 1873-1874</figcaption>
+</figure>
 
 ### Driving
 
@@ -59,13 +63,14 @@ Parking is available inside the cemetery.
 
 If you're walking to Toowong Cemetery, in addition to the entries above, you can enter via:
 
-- the pedestrian ramp from Mt Coot-tha Road, opposite the Mt Coot-tha Botanic Gardens. Turn right at the top of the ramp and walk downhill to go to Canon Garland Place.
+- the pedestrian ramp from Mt Coot‑tha Road, opposite the Mt Coot‑tha Botanic Gardens. Turn right at the top of the ramp and walk downhill to go to Canon Garland Place.
 - Frederick Street gate (opposite Sleath Street) that leads onto Steel Rudd Avenue (previously 4^th^ Avenue).
 - the many informal entries off Birdwood Terrace.
 
-<img class="full-width" src="assets/pedestrian-ramp.jpg" alt="Toowong Cemetery Pedestrian Entrance" width="70%" />
-
-*<small>Toowong Cemetery Pedestrian Entrance off Mt Coot-tha Road. <b>[Bus stop 17, Mt Coot-tha Rd](https://jp.translink.com.au/plan-your-journey/stops/001403/timetable/)</b> is nearby.</small>*
+<figure markdown>
+  ![Toowong Cemetery Pedestrian Entrance](assets/pedestrian-ramp.jpg){ width="70%" class="full-width" }
+  <figcaption markdown>Toowong Cemetery Pedestrian Entrance off Mt Coot‑tha Road. <b>[Bus stop 17, Mt Coot‑tha Rd](https://jp.translink.com.au/plan-your-journey/stops/001403/timetable/)</b> is nearby.</figcaption>
+</figure>
 
 ### Public Transport
 
@@ -84,9 +89,10 @@ If you enter the main entrance, you'll find:
 - the **[Office](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#officehours)**, where Brisbane City Council staff can answer your enquiries and help locate graves and memorial sites.
 - **Toilets** - the only ones available in the cemetery.
 
-<img class="full-width" src="assets/flag-pole.jpg" alt="Canon Garland Place" width="70%" />
-
-*<small>The Stone of Remembrance, Cross of Sacrifice, and Flagpole in Canon Garland Place</small>*
+<figure markdown>
+  ![Canon Garland Place](assets/flag-pole.jpg){ width="70%" class="full-width" }
+  <figcaption markdown>The Stone of Remembrance, Cross of Sacrifice, and Flagpole in Canon Garland Place</figcaption>
+</figure>
 
 If you enter via the Richer Street back gate, to get to Canon Garland Place:
 
@@ -124,7 +130,7 @@ Some cemetery road names have recently been changed to the names of notable peop
 
 | New Road Name                              | Old Road Name | Notes                                                                |
 | :----------                                | :--------     | :---------                                                           |
-| **[Walter Hill][Walter Hill]** Drive       | Boundary Road | running parallel to Mt Coot-tha Road                                 |
+| **[Walter Hill][Walter Hill]** Drive       | Boundary Road | running parallel to Mt Coot‑tha Road                                 |
 | **[Dr Lilian Cooper][Cooper]** Drive       | Boundary Road | running parallel to Richer Street                                    |
 | Pride of Erin Drive                        | Boundary Road | running parallel to Birdwood Terrace                                 |
 | Francis Forde Avenue              | Boundary Road | running parallel to Birdwood Terrace <br>closest to Frederick Street |
@@ -153,19 +159,20 @@ Some cemetery road names have recently been changed to the names of notable peop
 
 Combine your visit to Toowong Cemetery with a visit to other nearby attractions: 
 
-- [Mt Coot-tha Botanic Gardens](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/botanic-gardens-in-brisbane/brisbane-botanic-gardens-mt-coot-tha) is a 15 minute walk from the cemetery. Our favourite attractions include:
+- [Mt Coot‑tha Botanic Gardens](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/botanic-gardens-in-brisbane/brisbane-botanic-gardens-mt-coot-tha) is a 15 minute walk from the cemetery. Our favourite attractions include:
     - [National Australia Remembers Freedom Wall](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/botanic-gardens-in-brisbane/brisbane-botanic-gardens-mt-coot-tha/attractions/national-freedom-wall).
     - [Japanese Garden](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/botanic-gardens-in-brisbane/brisbane-botanic-gardens-mt-coot-tha/attractions/japanese-garden).
     - [Sir Thomas Brisbane Planetarium](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/sir-thomas-brisbane-planetarium). 
     - [Australian Plant Communities](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/brisbane-botanic-gardens-mt-coot-tha/attractions/australian-plant-communities).
-- [Mt Coot-tha Lookout](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/mt-coot-tha-precinct/mt-coot-tha-attractions/mt-coot-tha-lookout) - catch the [471 bus](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/471/outbound/) from the Mt Coot-tha Botanic Gardens.
-- [Anzac Park](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/parks-by-suburb/toowong-parks) a long walk via the Mt Coot-tha Botanic Gardens, then across [Canon Garland Overpass](https://garlandmemorial.com/2022/06/03/canon-garland-overpass/) into Anzac Park.
-- [Mt Coot-tha Reserve](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/mt-coot-tha-precinct/mt-coot-tha-reserve) - drive to picnic areas, bush walks, or mountain bike riding. J. C. Slaughter Falls and Simpson Falls are our favourites.
-- [Mt Coot-tha Events](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/mt-coot-tha-precinct/mt-coot-tha-precinct-events) - there's always something happening around Mt Coot-tha.
+- [Mt Coot‑tha Lookout](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/mt-coot-tha-precinct/mt-coot-tha-attractions/mt-coot-tha-lookout) - catch the [471 bus](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/471/outbound/) from the Mt Coot‑tha Botanic Gardens.
+- [Anzac Park](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/parks-by-suburb/toowong-parks) a long walk via the Mt Coot‑tha Botanic Gardens, then across [Canon Garland Overpass](https://garlandmemorial.com/2022/06/03/canon-garland-overpass/) into Anzac Park.
+- [Mt Coot‑tha Reserve](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/mt-coot-tha-precinct/mt-coot-tha-reserve) - drive to picnic areas, bush walks, or mountain bike riding. J. C. Slaughter Falls and Simpson Falls are our favourites.
+- [Mt Coot‑tha Events](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/mt-coot-tha-precinct/mt-coot-tha-precinct-events) - there's always something happening around Mt Coot-tha.
 
-<img class="full-width" src="assets/duke-and-duchess-of-york-mt-coot-tha-adjusted.jpg" alt="Their Royal Highnesses, the Duke and Duchess of York enjoy a morning at Mt. Coot-tha, April 1927" width="70%">
-
-*<small>[Their Royal Highnesses, the Duke and Duchess of York enjoy a morning at Mt. Coot-tha, April 1927](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218197470002061) - State Library of Queensland. The Duke of York was later King George VI, and the Duchess of York was later Queen Elizabeth the Queen Mother.</small>*
+<figure markdown>
+  ![Their Royal Highnesses, the Duke and Duchess of York enjoy a morning at Mt. Coot-tha, April 1927](assets/duke-and-duchess-of-york-mt-coot-tha-adjusted.jpg){ width="70%" class="full-width" }
+  <figcaption markdown>[Their Royal Highnesses, the Duke and Duchess of York enjoy a morning at Mt. Coot-tha, April 1927](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218197470002061) - State Library of Queensland. The Duke of York was later King George VI, and the Duchess of York was later Queen Elizabeth the Queen Mother.</figcaption>
+</figure>
 
 <!--
 <div class="video-wrapper">
