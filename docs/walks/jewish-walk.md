@@ -13,7 +13,7 @@ glightbox.auto_caption: true
 
 
 <figure markdown>
-  ![The Brisbane Synagogue, ca. 1906](../assets/brisbane-synagogue-1906.jpg)
+  ![The Brisbane Synagogue, ca. 1906](../assets/brisbane-synagogue-1906.jpg){ width="70%" class="full-width" }
   <figcaption markdown>[The Brisbane Synagogue, ca. 1906](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218659720002061). Erected in Margaret Street in 1885 and consecrated on 18 July 1886 - State Library of Queensland. Cropped.</figcaption>
 </figure>
 
