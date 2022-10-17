@@ -26,8 +26,8 @@ Each walk contains stories about people remembered in Toowong Cemetery and a map
 - **[Mount Blackall walk](mount-blackall-walk.md)** - explore some of the highlights on Mount Blackall
 -->
  
-- **[The Federation walk][federation-walk]** -  discover Queensland's contribution to Australia's federation
-- **[The Jewish walk][jewish]** - A self-guided walk around Portion 3
+- **[The Federation Walk][federation-walk]** -  discover Queensland's contribution to Australia's federation
+- **[The Jewish Walk][jewish]** - A self-guided walk around Portion 3
 
 <!-- links to pages or pdfs -->
 
