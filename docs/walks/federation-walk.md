@@ -1,5 +1,5 @@
 ---
-title: The Federation walk 
+title: The Federation Walk 
 description: A Toowong Cemetery self-guided walk commemorating Queensland's contribution to Australia's federation
 icon: fontawesome/solid/person-walking
 glightbox.auto_caption: true  
@@ -7,7 +7,7 @@ glightbox.auto_caption: true
 
 --8<-- "snippets/sem/walks/federation-walk.json"
 
-# The Federation walk 
+# The Federation Walk 
 
 **A self-guided walk commemorating Queensland's contribution to Australia's federation** 
 
@@ -29,7 +29,7 @@ Despite many arguments against federation, the Federal Referendum on the 2^nd^ o
 
 --8<-- "snippets/conditions-of-entry.md"
 
-## Map
+## The Federation Walk Map
 
 ![The Federation walk map](../assets/federation-walk.jpg){ width="50%" }
 
