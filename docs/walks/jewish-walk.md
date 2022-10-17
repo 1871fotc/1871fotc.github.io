@@ -1,5 +1,5 @@
 ---
-title: The Jewish walk
+title: The Jewish Walk
 description: A self-guided walk through the Jewish portion of Toowong Cemetery
 icon: fontawesome/solid/person-walking
 glightbox.auto_caption: true  
@@ -7,7 +7,7 @@ glightbox.auto_caption: true
 
 --8<-- "snippets/sem/walks/jewish-walk.json"
 
-# The Jewish walk
+# The Jewish Walk
 
 **A self-guided walk through the Jewish portion of Toowong Cemetery** 
 
@@ -25,7 +25,7 @@ Examples of vandalism will be seen in this cemetery. This is a world‑wide mala
 
 --8<-- "snippets/conditions-of-entry.md"
 
-## Map
+## The Jewish Walk Map
 
 ![The Jewish Walk map. Section at Section 25 in Portion 3.](../assets/jewish-walk-map.jpg)
 
