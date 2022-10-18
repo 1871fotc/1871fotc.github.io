@@ -4,8 +4,9 @@ description: Self-guided heritage walks visiting some of the highlights of Toowo
 glightbox.auto_caption: true  
 ---
 
---8<-- "snippets/sem/walks/index.json"
-
+<!-- 
+-- 8< -- "snippets/sem/walks/index.json"
+-->
 
 # Toowong Cemetery Walks
 
@@ -27,7 +28,7 @@ Each walk contains stories about people remembered in Toowong Cemetery and a map
 -->
  
 - **[The Federation Walk][federation-walk]** -  discover Queensland's contribution to Australia's federation
-- **[The Jewish Walk][jewish]** - A self-guided walk around Portion 3
+- **[The Jewish Walk][jewish]** - A self-guided walk around the Jewish portion of Toowong Cemetery
 
 <!-- links to pages or pdfs -->
 
