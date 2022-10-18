@@ -8,7 +8,7 @@
   "keywords": [
     "Toowong Cemetery Walk"
   ],
-  "dateModified": "2022-10-15",
+  "dateModified": "2022-10-19",
   "datePublished": "1998-08-01",
   "inLanguage": "en", 
   "publisher": {
@@ -39,7 +39,8 @@
     {"@type": "Person","name": "Sam Burmister","sameAs": "https://en.wikipedia.org/wiki/Samuel_Burmister"}, 
     {"@type": "Person","name": "Myer Kangan","sameAs": "https://en.wikipedia.org/wiki/Myer_Kangan"}, 
     {"@type": "Person","name": "Errol Solomon Meyers","sameAs": "https://en.wikipedia.org/wiki/Errol_Solomon_Meyers"},
-    {"@type": "Person","name": "Roy Mark Levy","sameAs": "https://en.wikipedia.org/wiki/Roy_Levy"}     
+    {"@type": "Person","name": "Roy Mark Levy","sameAs": "https://en.wikipedia.org/wiki/Roy_Levy"},
+    {"@type": "CreativeWork","name": "Brisbane Ladies","sameAs": "https://en.wikipedia.org/wiki/Brisbane_Ladies"}
   ]
 }
 </script>
