@@ -67,7 +67,7 @@ Toowong Cemetery is the largest cemetery in Queensland. You can walk in the ceme
 *<small>[Toowong Cemetery, Brisbane - DJI Mavic aerial](https://youtu.be/41fWB0IvDKU) by Drone Runner. </small>* **<small></small>**. 
 -->
 
-Find out how to [visit Toowong Cementry](../index.md#visit-toowong-cemetery) using public transport or by car. There is plenty of parking available inside the cemetery. 
+Find out how to [visit Toowong Cemetery](../index.md#visit-toowong-cemetery) using public transport or by car. There is plenty of parking available inside the cemetery. 
 
 On your walk you should wear a hat and enclosed shoes, and take a water bottle. Toilets are available at Canon Garland Place within the cemetery.
 
