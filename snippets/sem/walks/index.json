@@ -32,7 +32,7 @@
       "isPartOf": {
           "@id": "https://www.fotc.au/#/schema/website/1"
         },
-      "description": "Self-guided heritage walks visiting some of the highlights of Toowong Cemetery",
+      "description": "Free self-guided walks to help you explore the history and stories of Toowong Cemetery",
       "about": {
           "@id": "https://www.fotc.au/#/schema/place/1"
         }
@@ -41,10 +41,10 @@
       "@type": "Article",
       "@id": "https://www.fotc.au/#/article/walks/",
       "name": "Toowong Cemetery Walks",
-      "headline": "Self-guided heritage walks visiting some of the highlights of Toowong Cemetery",
+      "headline": "Free self-guided walks to help you explore the history and stories of Toowong Cemetery",
       "mainEntityOfPage": "https://www.fotc.au/walks/",
       "keywords": "Toowong Cemetery Walks",
-      "dateModified": "2022-10-22",
+      "dateModified": "2022-10-23",
       "datePublished": "2022-08-29",
       "author": {
           "@id": "https://www.fotc.au/#/schema/organization/1"
