@@ -3,7 +3,6 @@ search:
   boost: 1
 title: Archaeological Digs
 description: Get your hands dirty and uncover stories from Brisbane's past 
-glightbox.auto_caption: true  
 ---
 
 --8<-- "snippets/sem/headstones/archaeological-digs.json"

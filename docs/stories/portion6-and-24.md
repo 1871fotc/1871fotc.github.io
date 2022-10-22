@@ -102,7 +102,7 @@ Compiled and presented by Lyn Maddock
 - Northern Star Lismore, 4 December 1914 
 - [All Saints' Anglican Church](https://www.ohta.org.au/confs/Qld/WickhamTerrace.html) - Organ Historical Trust of Australia
 - [All Saints' Church, Brisbane 1862-1937](http://anglicanhistory.org/aus/wickham_kissick1937/03.html) - Project Canterbury
-- [Moreton Bay Pile Light](https://lighthouses.org.au/qld/moreton-bay-pile-light/) <!--, www.lighthouses.org.au/lights/QLD/Moreton%20Bay/Moreton%20Bay.htm --> - Lighthouses of Australia Inc. 
+- [Moreton Bay Pile Light](https://lighthouses.org.au/qld/moreton-bay-pile-light/) <!-- www.lighthouses.org.au/lights/QLD/Moreton%20Bay/Moreton%20Bay.htm --> - Lighthouses of Australia Inc. 
 
 <!--
 <div class="noprint" markdown="1">

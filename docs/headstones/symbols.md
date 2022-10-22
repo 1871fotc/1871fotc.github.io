@@ -1,6 +1,5 @@
 --- 
 description: Discover the hidden meaning behind headstone symbols in Toowong Cemetery
-glightbox.auto_caption: false  
 ---
 
 # Headstone Symbols
@@ -68,8 +67,8 @@ Clasped hands symbolise the belief Victorians held that they would be reunited w
 
 Plants can represent a person's birthplace (such as thistles from Scotland) and also reflect religious meanings. See the grave of Michael McCormack and his wife Elizabeth (1-20-9) where ivy symbolises hope and mortality. Roses are another symbol that has multiple interpretations (including beauty, hope and love) and they are often associated with the Virgin Mary. The age of the deceased can also be revealed by the size of the flower or plant - a bud represents a child, and a full flower represents an adult. 
 
-![Plant carved on headstone](../assets/plant.jpg){ width="30%" }  ![Cross with Vines carved on headstone](../assets/cross-with-vine.jpg){ width="30%" }  ![Flower bud symbol carved on a headstone](../assets/bud.jpg){ width="30%" } 
-![Thistle symbol carved on a headstone](../assets/thistle.jpg){ width="30%" } ![Rose carved on headstone](../assets/rose.jpg){ width="30%" } ![Plant carvings on wooden headstone](../assets/wood-headstone-with-plants.jpg){ width="30%" }
+![Palm carved on headstone](../assets/plant.jpg){ width="30%" }  ![Cross with Vines carved on headstone](../assets/cross-with-vine.jpg){ width="30%" }  ![Flower bud symbol carved on a headstone](../assets/bud.jpg){ width="30%" } 
+![Thistle symbol carved on a headstone](../assets/thistle.jpg){ width="30%" } ![Rose carved on headstone](../assets/rose.jpg){ width="30%" } ![Flower carvings on a wooden headstone](../assets/wood-headstone-with-plants.jpg){ width="30%" }
 
 <!-- add caption and grave id -->
 <!-- Get photo of Michael McCormack and his wife Elizabeth (1-20-9) -->
@@ -99,7 +98,7 @@ The IHS Emblem is from the Greek alphabet, (I) Iota, (H) Eta, and (Σ) Sigma and
 
 Books often symbolise the Bible and the faith of its reader. An open book has also been associated with the human heart.
 
-![Book headstone](../assets/book.jpg) 
+![Book shaped headstone](../assets/book.jpg) 
 <!-- photos --> 
 <!-- add caption and grave id -->
 

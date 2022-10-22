@@ -150,7 +150,7 @@ plugins:
       height: auto
       zoomable: true
       draggable: false
-      auto_caption: false
+      auto_caption: true
       caption_position: bottom
   - redirects:
       redirect_maps:

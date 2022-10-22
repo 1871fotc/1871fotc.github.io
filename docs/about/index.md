@@ -4,8 +4,6 @@ description: Learn what Friends of Toowong Cemetery have done, what we're workin
 
 search:
   boost: 2  
-
-glightbox.auto_caption: true  
 ---
 
 --8<-- "snippets/sem/about.json"

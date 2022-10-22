@@ -3,7 +3,6 @@ title: Friends of Toowong Cemetery
 description: Discover and share the history and stories of Toowong Cemetery
 hide:
   - navigation
-glightbox.auto_caption: true
 ---
 
 --8<-- "snippets/sem/home.json"

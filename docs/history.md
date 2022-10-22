@@ -1,7 +1,6 @@
 ---
 title: Toowong Cemetery History
 description: Discover the history of Toowong Cemetery
-glightbox.auto_caption: true  
 ---
 
 --8<-- "snippets/sem/history.json"
