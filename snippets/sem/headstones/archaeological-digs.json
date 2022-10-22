@@ -63,6 +63,20 @@
         {"@type": "Organization","name": "University of Queensland","sameAs": "https://en.wikipedia.org/wiki/University_of_Queensland"}, 
         {"@type": "Thing","name": "Archaeological","sameAs": "https://en.wikipedia.org/wiki/Archaeology"}
       ]  
+    },
+    {
+      "@type": "VideoObject",
+      "name": "National Archaeology Week - Toowong Cemetery",
+      "description": "Archaeologists from the University of Queensland along with the Friends of Toowong Cemetery continue excavations begun in 2006 to uncover buried monuments.",
+      "thumbnailUrl": [
+        "https://i.ytimg.com/vi/41fWB0IvDKU/hqdefault.jpg"
+       ],
+      "uploadDate": "24 May 2007",
+      "duration": "PT3M27S",
+      "contentUrl": "https://youtu.be/hgCx4OW69cY",
+      "isPartOf": {
+        "@id": "https://www.fotc.au/headstones/archaeological-digs/"
+      }
     }
   ]
 }
