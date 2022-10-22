@@ -90,7 +90,7 @@ If you enter the main entrance, you'll find:
 - **Toilets** - the only ones available in the cemetery.
 
 <figure markdown>
-  ![Canon Garland Place](assets/flag-pole.jpg){ class="full-width" }
+  ![Canon Garland Place at Toowong Cemetery](assets/flag-pole.jpg){ class="full-width" }
   <figcaption markdown>The Stone of Remembrance, Cross of Sacrifice, and Flagpole in Canon Garland Place</figcaption>
 </figure>
 
@@ -170,17 +170,10 @@ Combine your visit to Toowong Cemetery with a visit to other nearby attractions:
 - [Mt Coot‑tha Events](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/mt-coot-tha-precinct/mt-coot-tha-precinct-events) - there's always something happening around Mt Coot-tha.
 
 <figure markdown>
-  ![Their Royal Highnesses, the Duke and Duchess of York enjoy a morning at Mt. Coot-tha, April 1927](assets/duke-and-duchess-of-york-mt-coot-tha-adjusted.jpg){ width="70%" class="full-width" }
+  ![Their Royal Highnesses, the Duke and Duchess of York enjoy a morning at Mt. Coot-tha, April 1927](assets/duke-and-duchess-of-york-mt-coot-tha-adjusted.jpg){ class="full-width" width="70%"}
   <figcaption markdown>[Their Royal Highnesses, the Duke and Duchess of York enjoy a morning at Mt. Coot-tha, April 1927](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218197470002061) - State Library of Queensland. The Duke of York was later King George VI, and the Duchess of York was later Queen Elizabeth the Queen Mother.</figcaption>
 </figure>
 
-<!--
-<div class="video-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/41fWB0IvDKU?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>  
-
-*<small>[Toowong Cemetery, Brisbane - DJI Mavic aerial](https://youtu.be/41fWB0IvDKU) by Drone Runner. </small>* **<small>[Visit Toowong Cemetery](cemetery/visit.md)</small>**. 
--->
 
 <!-- Links -->
 
