@@ -100,6 +100,23 @@ th {
     padding: 6px 10px;
 }
 
+/* remove mkdocs figure style https://github.com/squidfunk/mkdocs-material/discussions/3408 
+
+.md-typeset figure img {
+  display: inline;
+}
+*/
+
+/* left align; allow 2 figures on the same line 
+
+figure {
+  display: inline-block;
+}
+figcaption {
+  display: inline-block;
+}
+*/
+
 
 .md-typeset figure {
   margin-left: 0px; 
@@ -128,8 +145,8 @@ th {
   top: 0;
   bottom: 0;
   left: 0;
-  width: 96%;
-  height: 96%;
+  width: 99.5%;
+  height: 99.5%;
   border: 0;
 }
 
@@ -177,4 +194,17 @@ th {
   background-color: rgb(126, 86, 194);
   -webkit-mask-image: var(--md-admonition-icon--directions);
           mask-image: var(--md-admonition-icon--directions); 
+}
+
+/* change card grid border https://github.com/squidfunk/mkdocs-material/discussions/4523 */
+
+.md-typeset .grid.cards>:-webkit-any(ul,ol)>li, .md-typeset .grid>.card::before {
+  border: .05rem solid rgb(126, 86, 194);
+  border-radius: .2rem;
+}
+
+.md-typeset .grid.cards>:-webkit-any(ul,ol)>li:-webkit-any(:focus-within,:hover), 
+.md-typeset .grid>.card:-webkit-any(:focus-within,:hover) {
+  border: .05rem solid rgb(126, 86, 194);
+  border-radius: .2rem;
 }
