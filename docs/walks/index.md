@@ -1,6 +1,6 @@
 ---
 title:  Toowong Cemetery Walks
-description: Self-guided heritage walks visiting some of the highlights of Toowong Cemetery
+description: Free self-guided walks to help you explore the history and stories of Toowong Cemetery
 ---
 
 <!-- 
@@ -9,7 +9,8 @@ description: Self-guided heritage walks visiting some of the highlights of Toowo
 
 # Toowong Cemetery Walks
 
-**Self-guided heritage walks visiting some of the highlights of Toowong Cemetery**
+**Free self-guided walks to help you explore the history and stories of Toowong Cemetery**
+
 
 <!--
 <figure markdown>
@@ -19,7 +20,7 @@ description: Self-guided heritage walks visiting some of the highlights of Toowo
 
 -->
 
-Each walk contains stories about people remembered in Toowong Cemetery, a map, and directions to help you visit each grave.
+Each walk has a map, directions, and stories about people remembered in Toowong Cemetery.
 
 <!--
 
