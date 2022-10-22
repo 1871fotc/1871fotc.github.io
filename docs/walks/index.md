@@ -48,17 +48,16 @@ Each walk contains stories about people remembered in Toowong Cemetery, a map, a
   
     ---
 
-    Discover Queensland's contribution to Australia's federation
+    Discover the stories of four Queenslander's who contributed to Australia's federation and our constitution.
     
 
 -   :fontawesome-solid-person-walking:{ .lg .middle } **[The Jewish Walk](jewish-walk.md)**
  
     ---
 
-    Learn about Jewish customs and local identities
+    Learn about Jewish customs and local identities. Visit the co‑founder of the University of Queensland Medical Faculty, a world championship wrestler, and a bush balladeer.
 
 </div>
-
 
 Toowong Cemetery is the largest cemetery in Queensland. You can walk in the cemetery between 6am and 6pm. 
 
@@ -69,7 +68,9 @@ Toowong Cemetery is the largest cemetery in Queensland. You can walk in the ceme
 *<small>[Toowong Cemetery, Brisbane - DJI Mavic aerial](https://youtu.be/41fWB0IvDKU) by Drone Runner. </small>* **<small></small>**. 
 -->
 
-There is plenty of parking available inside the cemetery. On your walk you should wear a hat and enclosed shoes, and take a water bottle. Toilets are available at Canon Garland Place within the cemetery.
+Find out how to [visit Toowong Cementry](../index.md#visit-toowong-cemetery) using public transport or by car. There is plenty of parking available inside the cemetery. 
+
+On your walk you should wear a hat and enclosed shoes, and take a water bottle. Toilets are available at Canon Garland Place within the cemetery.
 
 <!--
 
