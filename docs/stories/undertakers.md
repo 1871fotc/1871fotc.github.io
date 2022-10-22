@@ -51,14 +51,14 @@ Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you vis
 
 ## Further Reading 
 
-- Maclean, H. 2012, *The Undertakers’ Picnic* in England, M. (comp.) [Toowong 1863 – 2011](http://www.toowong.org.au/books_for_sale.htm). Toowong, Qld. Toowong History Group
+- Maclean, H. 2012, *The Undertakers’ Picnic* in England, M. (comp.) [Toowong 1863 – 2011](https://www.toowong.au/books/). Toowong, Qld. Toowong History Group
 - Nolan, C. 2009, *A family undertaking: Alex Gow Funerals The history of a funeral business 1840-2009*. Newstead, Qld. Alex Gow Pty Ltd.
 
 ## Acknowledgements
 
 Written by [Dr. Hilda Maclean](https://www.linkedin.com/in/dr-hilda-maclean-4819a711/).
 
-Thank you to Laurel Shanley from [K. M. Smith Funerals](https://kmsmith.com.au) for providing the story of Kate Mary Smith.
+Thank you to Laurel Shanley from [K. M. Smith Funerals](https://kmsmith.com.au){ rel=nofollow } for providing the story of Kate Mary Smith.
 
 <!--
 <div class="noprint" markdown="1">

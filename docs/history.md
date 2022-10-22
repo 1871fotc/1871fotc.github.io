@@ -16,7 +16,7 @@ Prior to 1875, the flat area where the entrance of Toowong Cemetery now stands w
 
 [Corroboree]: https://mappingbrisbanehistory.com.au/history-location/toowong-cemetery-aboriginal-corroboree-ground-232/ 
 
-[tu-wong]: http://www.toowong.org.au/books_for_sale.htm "From 'Aboriginal people of Toowong' by Arthur Beau Palmer, <br>in 'Toowong: A community's history' by West Toowong Community Association Inc."
+[tu-wong]: https://www.toowong.au/books/ "From 'Aboriginal people of Toowong' by Arthur Beau Palmer, <br>in 'Toowong: A community's history' by West Toowong Community Association Inc."
 
 ## 1866 Toowong Cemetery land reserved
 

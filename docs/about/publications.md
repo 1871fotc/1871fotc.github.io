@@ -42,7 +42,7 @@ Recommended for teachers of school groups visiting the cemetery. Available at [B
 
 
     
-The [Toowong History Group](http://www.toowong.org.au/home.htm) was formed to celebrate the 100^th^ anniversary of the short‑lived Toowong Town (1903 – 1925) and to record some local memories before they were lost with the passing of generations. 
+The [Toowong History Group](https://www.toowong.au) was formed to celebrate the 100^th^ anniversary of the short‑lived Toowong Town (1903 – 1925) and to record some local memories before they were lost with the passing of generations. 
 
 Their work has resulted in set of three books full of local history. 
 
