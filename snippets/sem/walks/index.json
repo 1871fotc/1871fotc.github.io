@@ -46,6 +46,20 @@
         "https://www.fotc.au/assets/logo/fotc-banner-4x3.png",
         "https://www.fotc.au/assets/images/social/walks/index.png"
         ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Toowong Cemetery, Brisbane - DJI Mavic aerial",
+      "description": "Toowong Cemetery is the largest cemetery in Queensland. You can walk in the cemetery between 6am and 6pm.",
+      "thumbnailUrl": [
+        "https://i.ytimg.com/vi/41fWB0IvDKU/hqdefault.jpg"
+       ],
+      "uploadDate": "17 Feb 2017",
+      "duration": "PT2M06S",
+      "contentUrl": "https://youtu.be/41fWB0IvDKU",
+      "isPartOf": {
+        "@id": "https://www.fotc.au/walks/"
+      }
     }
   ]
 }
