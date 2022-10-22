@@ -19,8 +19,7 @@ description: Free self-guided walks to help you explore the history and stories 
 </figure>
 
 -->
-
-Each walk has a map, directions, and stories about people remembered in Toowong Cemetery.
+Each walk has a map, directions, and stories about people remembered in Toowong Cemetery. Choose a walk:
 
 <!--
 
@@ -48,7 +47,7 @@ Each walk has a map, directions, and stories about people remembered in Toowong 
   
     ---
 
-    Discover the stories of four Queenslander's who contributed to Australia's federation and our constitution.
+    Discover the stories of Queenslander's who contributed to Australia's federation and our constitution.
     
 
 -   :fontawesome-solid-person-walking:{ .lg .middle } **[The Jewish Walk](jewish-walk.md)**
@@ -59,7 +58,7 @@ Each walk has a map, directions, and stories about people remembered in Toowong 
 
 </div>
 
-Toowong Cemetery is the largest cemetery in Queensland. You can walk in the cemetery between 6am and 6pm. 
+Self-guided walks in Toowong Cemetery are free. You can walk in the cemetery between 6am and 6pm.
 
 <div class="video-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/41fWB0IvDKU?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -70,7 +69,7 @@ Toowong Cemetery is the largest cemetery in Queensland. You can walk in the ceme
 
 Find out how to [visit Toowong Cemetery](../index.md#visit-toowong-cemetery) using public transport or by car. There is plenty of parking available inside the cemetery. 
 
-On your walk you should wear a hat and enclosed shoes, and take a water bottle. Toilets are available at Canon Garland Place within the cemetery.
+Toowong Cemetery is the largest cemetery in Queensland. On your walk you should wear a hat and enclosed shoes, and take a water bottle. Toilets are available at Canon Garland Place within the cemetery.
 
 <!--
 
