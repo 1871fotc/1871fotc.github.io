@@ -141,7 +141,7 @@ extra_javascript:
 # Plugins
 plugins:
   - search
-  - social
+#  - social
   - glightbox:
       touchNavigation: true
       loop: false
