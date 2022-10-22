@@ -32,20 +32,47 @@
       "isPartOf": {
           "@id": "https://www.fotc.au/#/schema/website/1"
         },
-      "dateModified": "2022-10-22",
-      "datePublished": "2022-08-29",
       "description": "Self-guided heritage walks visiting some of the highlights of Toowong Cemetery",
       "about": {
           "@id": "https://www.fotc.au/#/schema/place/1"
-        },
+        }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.fotc.au/#/article/walks/",
+      "name": "Toowong Cemetery Walks",
+      "headline": "Self-guided heritage walks visiting some of the highlights of Toowong Cemetery",
+      "mainEntityOfPage": "https://www.fotc.au/walks/",
+      "keywords": "Toowong Cemetery Walks",
+      "dateModified": "2022-10-22",
+      "datePublished": "2022-08-29",
       "author": {
           "@id": "https://www.fotc.au/#/schema/organization/1"
+        },  
+      "publisher": {
+          "@id": "https://www.fotc.au/#/schema/organization/1"
         },
-      "image": [
-        "https://www.fotc.au/assets/logo/fotc-1x1.png",
-        "https://www.fotc.au/assets/logo/fotc-banner-4x3.png",
-        "https://www.fotc.au/assets/images/social/walks/index.png"
-        ]
+      "isPartOf": {
+           "@id": "https://www.fotc.au/walks/"
+        },  
+      "image": ["https://www.fotc.au/assets/logo/fotc-1x1.png", "https://www.fotc.au/assets/logo/fotc-banner-4x3.png", "https://www.fotc.au/assets/images/social/walks.png"],
+      "about": {
+          "@type": [
+              "Cemetery",
+              "TouristAttraction"
+            ],
+          "name": "Toowong Cemetery",
+          "url": "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery",
+          "description": "Heritage‑listed Toowong Cemetery was officially opened on 5 July 1875",
+          "touristType": {
+              "@type": "Audience",
+              "audienceType" : "Memorial Tourism"
+            },
+          "hasMap": "https://www.fotc.au/assets/toowong-cemetery-map-alt.jpg", 
+          "publicAccess": true,
+          "isAccessibleForFree": true,
+          "openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 06:00-18:00"
+        }
     },
     {
       "@type": "VideoObject",
