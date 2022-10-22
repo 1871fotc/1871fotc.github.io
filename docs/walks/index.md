@@ -59,9 +59,22 @@ Each walk contains stories about people remembered in Toowong Cemetery, a map, a
 
 </div>
 
-Find out how to [visit Toowong Cementry](../index.md#visit-toowong-cemetery) by car, on foot, or using public transport.
+
+Toowong Cemetery is the largest cemetery in Queensland. You can walk in the cemetery between 6am and 6pm. 
+
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/41fWB0IvDKU?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>  
+<!--
+*<small>[Toowong Cemetery, Brisbane - DJI Mavic aerial](https://youtu.be/41fWB0IvDKU) by Drone Runner. </small>* **<small></small>**. 
+-->
+
+There is plenty of parking available inside the cemetery. On your walk you should wear a hat and enclosed shoes, and take a water bottle. Toilets are available at Canon Garland Place within the cemetery.
 
 <!--
+
+Find out how to [visit Toowong Cementry](../index.md#visit-toowong-cemetery) by car, on foot, or using public transport.
+
 - **[Dr. Lilian Cooper walk](lilian-cooper-walk.md)** - uncover the history along Lilian Cooper Drive
 - **[Mount Blackall walk](mount-blackall-walk.md)** - explore some of the highlights on Mount Blackall
 - **[The Federation Walk](federation-walk.md)** -  discover Queensland's contribution to Australia's federation
