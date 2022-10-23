@@ -7,7 +7,7 @@ hide:
 
 --8<-- "snippets/sem/stories/artists.json"
 
-# The Artists 
+# Local Artists 
 
 **Stories about Artists remembered in Toowong Cemetery**
 
@@ -76,9 +76,9 @@ Written by [Dr. Hilda Maclean](https://www.linkedin.com/in/dr-hilda-maclean-4819
 
 ## Source
 
-- Bradbury, Keith, *Sheldon, Eliza Jeanettie (1885-1974)*, Australian Dictionary of Biography, Volume 16, Melbourne University Press, 2002, pp 227-228.
-- Hogan, Janet, *Rivers, Richard Godfrey (1859?-1925)*, Australian Dictionary of Biography, Volume 11, Melbourne University Press, 1988, pp 397-398.
-- Maynard, Margaret, *Jenner, Isaac Walter (1837-1902)*, Australian Dictionary of Biography, Volume 9, Melbourne University Press, 1983, p. 480.
+- Bradbury, Keith, *[Sheldon, Eliza Jeanettie (1885-1974)](https://adb.anu.edu.au/biography/sheldon-eliza-jeanettie-11673)*, Australian Dictionary of Biography, Volume 16, Melbourne University Press, 2002, pp 227-228.
+- Hogan, Janet, *[Rivers, Richard Godfrey (1859?-1925)](https://adb.anu.edu.au/biography/rivers-richard-godfrey-8217)*, Australian Dictionary of Biography, Volume 11, Melbourne University Press, 1988, pp 397-398.
+- Maynard, Margaret, *[Jenner, Isaac Walter (1837-1902)](https://adb.anu.edu.au/biography/jenner-isaac-walter-6838)*, Australian Dictionary of Biography, Volume 9, Melbourne University Press, 1983, p. 480.
 - Smith, Donald, *Lefevre James Cranstone : his life and art*, Richmond, Virginia : Brandylane Publishers, 2004.
 
 <!--
