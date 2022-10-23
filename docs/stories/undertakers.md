@@ -23,9 +23,10 @@ Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you vis
 
 --8<-- "snippets/john-hislop.md"
 
-![John Hislop Undertakers in a funeral procession in Brisbane, ca. 1892](../assets/john-hislop-hearse-cemetery-road.jpg){ width="70%" }
+![John Hislop Undertakers in a funeral procession in Brisbane, ca. 1892](../assets/john-hislop-hearse-cemetery-road.jpg){ width="62.5%" } ![Advertisement for John Hislop's undertaking business featuring the premises and a horsedrawn hearse, 1902](../assets/john-hislop-funeral-director-advertisement-1902.jpg){ width="32%" }
 
-*<small>[John Hislop Undertakers in a funeral procession in Brisbane, ca. 1892](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220116790002061), held by John Oxley Library, State Library of Queensland. It is believed the procession is in Sylvan Road (previously Cemetery Road) on corner of Kate Street.</small>*
+*<small>[John Hislop Undertakers in a funeral procession in Brisbane, ca. 1892](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220116790002061), held by John Oxley Library, State Library of Queensland. It is believed the procession is in Sylvan Road (previously Cemetery Road) on corner of Kate Street.</small>* <br>
+*<small>[Advertisement for John Hislop's undertaking business featuring the premises and a horsedrawn hearse](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21219993970002061), 1902 - State Library of Queensland.</small>*
 
 --8<-- "snippets/alma-adlington.md"
 
