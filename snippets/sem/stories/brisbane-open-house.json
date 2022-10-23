@@ -1,0 +1,48 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "name": "Building Brisbane",
+  "headline": "Stories about people that helped build Brisbane",
+  "description": "Stories about people that helped build Brisbane who are remembered in Toowong Cemetery",
+  "keywords": [
+    "Toowong Cemetery Stories"
+  ],
+  "dateModified": "2022-10-23",
+  "datePublished": "2022-08-29",
+  "inLanguage": "en", 
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.fotc.au/#/schema/organization/1",
+    "name": "Friends of Toowong Cemetery Association Inc.",
+    "url": "https://www.fotc.au/"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Hilda Maclean",
+    "honorificPrefix": "Dr",
+    "url": "https://social-science.uq.edu.au/profile/603/hilda-maclean",
+    "sameAs": [
+      "https://www.qfhs.org.au/biographies/hilda-maclean/",
+      "https://www.linkedin.com/in/dr-hilda-maclean-4819a711/"
+    ]
+  },   
+  "image": [
+    "https://www.fotc.au/assets/logo/fotc-1x1.png", 
+    "https://www.fotc.au/assets/logo/fotc-banner-4x3.png", 
+    "https://www.fotc.au/assets/images/social/stories/brisbane-open-house.png"
+  ],
+  "about": {
+    "@type": "Place",
+    "name": "Toowong Cemetery",
+    "sameAs": [
+      "https://en.wikipedia.org/wiki/Toowong_Cemetery", 
+      "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery"
+    ]
+  },
+  "mentions": [
+    {"@type": "Person","name": "Andrew Petrie","sameAs": "https://en.wikipedia.org/wiki/Andrew_Petrie"},
+    {"@type": "Person","name": "Joshua Jeays","sameAs": "https://en.wikipedia.org/wiki/Joshua_Jeays"}
+  ]
+}
+</script>
