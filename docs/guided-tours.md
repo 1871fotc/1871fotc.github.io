@@ -39,9 +39,9 @@ The Museum has an extensive display of photographs and artefacts.
 
 ## Upcoming guided tours
 
-Tours are on the first Sunday of each month (March to December) from 10:30 to 12:00. 
+Tours are on the first Sunday of each month (March to December) from 10:30am to 12:00. 
 
-Our next tour is on **Sunday 6 November**. The tour is limited to 20 people. Add it to your calendar.
+Our next tour is on **Sunday 6 November** and is titled, **Soldiers of the Queen**. The tour is limited to 20 people. Add it to your calendar.
 
 [Add to Calendar :fontawesome-regular-calendar-plus:](assets/calendar/fotc-tour-20221106.ics){ .md-button .md-button--primary }
 
