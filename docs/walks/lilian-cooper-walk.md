@@ -1,19 +1,14 @@
 ---
-title: Dr. Lilian Cooper walk
-description: Discover some of the history and stories found along Dr. Lilian Cooper Drive.
-status: new
+title: Dr. Lilian Cooper Walk
+description: Uncover Brisbane's history along the gently sloping Dr. Lilian Cooper Drive.
 icon: fontawesome/solid/person-walking
-
-robots: 
-  noindex: true
-  nofollow: true
-search:
-  exclude: true
 ---
 
-# Dr. Lilian Cooper walk
+--8<-- "snippets/sem/walks/lilian-cooper-walk.json"
 
-**Discover some of the history and stories found along Dr. Lilian Cooper Drive.**
+# Dr. Lilian Cooper Walk
+
+**Uncover Brisbane's history along the gently sloping Dr. Lilian Cooper Drive.**
 
 - Duration: 1 hour
 - Difficulty: Mostly flat along Dr. Lilian Cooper Drive with short side trips over a gutter and across grass to visit graves. The walk to the last two graves is uphill with a moderate slope.
@@ -21,18 +16,17 @@ search:
 --8<-- "snippets/conditions-of-entry.md"
 
 
-## Map
+## Dr. Lilian Cooper Walk Map
 
 ![Lilian Cooper walk map](../assets/lilian-cooper-walk.jpg)
-
-
 
 ???+ directions "Directions" 
 
     - :fontawesome-solid-car:{ .deep-purple } If driving, park your car at the end of Federation Avenue. 
     - :fontawesome-solid-person-walking:{ .deep-purple } Begin the walk at Shelter Shed at the start of Federation Avenue. 
     - Opposite the Shelter Shed is the grave of Lachlan Chisholm Wilson.
-    
+
+    ![Shelter Shed at the start of Dr. Lilian Cooper walk](../assets/shelter-shed.jpg){ width="27%" } 
     ![Lachlan Chisholm Wilson's headstone](../assets/lachlan-chisholm-wilson-headstone.jpg){ width="15%" } 
 
 
@@ -163,7 +157,7 @@ https://vimeo.com/176117452
 
     Returning to the road and moving ahead approximately 20 meters, immediately to the left of the road are the graves of Alois Wilhelm Leitner and Robert William Black.
 
-    ![Alois Wilhelm Leitner headstone](../assets/alois-wilhelm-leitner-headstone.jpg){ width="15%" }   ![William Robert Black headstone](../assets/william-robert-black-headstone.jpg){ width="15%" } 
+    ![Alois Wilhelm Leitner headstone](../assets/alois-wilhelm-leitner-headstone.jpg){ width="15%" }   ![William Robert Black headstone](../assets/william-robert-black-headstone.jpg){ width="25%" } 
 
 
 --8<-- "snippets/alois-wilhelm-leitner.md"

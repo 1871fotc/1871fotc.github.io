@@ -1,0 +1,48 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@id": "https://www.fotc.au/#/article/lilian-cooper-walk/",
+  "@type": "Article",
+  "name": "Dr. Lilian Cooper Walk",
+  "headline": "Uncover Brisbane's history along the gently sloping Dr. Lilian Cooper Drive.",
+  "description": "Uncover Brisbane's history along the gently sloping Dr. Lilian Cooper Drive.",
+  "keywords": [
+    "Toowong Cemetery Walk"
+  ],
+  "dateModified": "2022-10-23",
+  "datePublished": "2000-08-22",
+  "inLanguage": "en", 
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.fotc.au/#/schema/organization/1",
+    "name": "Friends of Toowong Cemetery Association Inc.",
+    "url": "https://www.fotc.au/"
+  },
+  "author": {
+    "@id": "https://www.fotc.au/#/schema/organization/1"
+  },   
+  "image": [
+    "https://www.fotc.au/assets/logo/fotc-1x1.png", 
+    "https://www.fotc.au/assets/logo/fotc-banner-4x3.png",
+    "https://www.fotc.au/assets/lilian-cooper-walk.jpg"
+  ],
+  "about": {
+    "@type": "Place",
+    "name": "Toowong Cemetery",
+    "sameAs": [
+      "https://en.wikipedia.org/wiki/Toowong_Cemetery", 
+      "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery"
+    ]
+  },
+  "mentions": [
+    {"@type": "Person","name": "Lachlan Chisholm Wilson","sameAs": "https://en.wikipedia.org/wiki/Lachlan_Chisholm_Wilson"}, 
+    {"@type": "Person","name": "James McWhirter","sameAs": "https://en.wikipedia.org/wiki/James_McWhirter"},      
+    {"@type": "Person","name": "William Neil Gillies","sameAs": "https://en.wikipedia.org/wiki/William_Gillies_(Australian_politician)"},      
+    {"@type": "Person","name": "William Forgan Smith","sameAs": "https://en.wikipedia.org/wiki/William_Forgan_Smith"},
+    {"@type": "Person","name": "Manuel Richard Hornibrook","sameAs": "https://en.wikipedia.org/wiki/Manuel_Hornibrook"},
+    {"@type": "Person","name": "William Robert Black","sameAs": "https://en.wikipedia.org/wiki/William_Robert_Black"},
+    {"@type": "Person","name": "Dr Lilian Cooper","sameAs": "https://en.wikipedia.org/wiki/Lilian_Violet_Cooper"},
+    {"@type": "Person","name": "Frederic Charles Urquhart","sameAs": "https://en.wikipedia.org/wiki/Frederic_Urquhart#Administrator_of_the_Northern_Territory"}
+  ]
+}
+</script>

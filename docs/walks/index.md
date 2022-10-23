@@ -27,7 +27,7 @@ Each walk has a map, directions, and stories about people remembered in Toowong 
   
     ---
 
-    Uncover the history along Lilian Cooper Drive
+    Uncover the history along Dr. Lilian Cooper Drive
 
     :fontawesome-regular-clock: 1 hour  
     
@@ -48,13 +48,36 @@ Each walk has a map, directions, and stories about people remembered in Toowong 
     ---
 
     Discover the stories of Queenslander's who contributed to Australia's federation and our constitution.
+
+    :fontawesome-regular-clock: 30 minutes  
+
+    
+-   :fontawesome-solid-person-walking:{ .lg .middle } **[Dr. Lilian Cooper walk](lilian-cooper-walk.md)**
+  
+    ---
+
+    Uncover Brisbane's history along the gently sloping Dr. Lilian Cooper Drive.<br><br>
+
+    :fontawesome-regular-clock: 1 hour  
     
 
 -   :fontawesome-solid-person-walking:{ .lg .middle } **[The Jewish Walk](jewish-walk.md)**
  
     ---
 
-    Learn about Jewish customs and local identities including ministers, soldiers, a world championship wrestler, and a bush balladeer.
+    Learn about Jewish customs and local identities including a world champion wrestler and a bush balladeer.
+
+    :fontawesome-regular-clock: 45 minutes  
+
+-   :fontawesome-solid-person-walking:{ .lg .middle } **Mount Blackall walk**
+  
+    ---
+
+    Discover the historic highlights on and around Mount Blackall. <br>*A new walk coming soon...* 
+
+    :fontawesome-regular-clock: 1½ - 2 hours  
+    
+
 
 </div>
 

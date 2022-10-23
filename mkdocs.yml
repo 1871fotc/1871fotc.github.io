@@ -235,10 +235,10 @@ nav:
     - Portion 15 and 16: stories/portion15-and-16.md
   - Walks:   
     - Walks: walks/index.md 
-#    - Dr. Lilian Cooper Walk: walks/lilian-cooper-walk.md 
-#    - Mount Blackall Walk: walks/mount-blackall-walk.md
     - The Federation Walk: walks/federation-walk.md
+    - Dr. Lilian Cooper Walk: walks/lilian-cooper-walk.md 
     - The Jewish Walk: walks/jewish-walk.md 
+#    - Mount Blackall Walk: walks/mount-blackall-walk.md
   - Guided Tours: guided-tours.md  
   - Headstones: 
     - Headstones: headstones/index.md  
