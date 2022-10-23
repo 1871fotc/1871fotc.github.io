@@ -8,7 +8,6 @@ Disallow: /assets/calendar/*
 Disallow: /assets/guides/*
 Disallow: /assets/documents/*
 Disallow: /drafts/*
-Disallow: /walks/lilian-cooper-walk/
 Disallow: /walks/mount-blackall-walk/
 
 #
@@ -36,4 +35,5 @@ Allow: /assets/toowong-cemetery-map-2022-10-01.jpg
 # Allow: /assets/images/social/about/extraordinary-stories.png
 # Allow: /assets/images/social/walks/federation-walk.png
 # Allow: /assets/images/social/walks/jewish-walk.png
+# Allow: /assets/images/social/walks/lilian-cooper-walk.png
 
