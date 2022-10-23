@@ -85,7 +85,7 @@
       "duration": "PT2M06S",
       "contentUrl": "https://youtu.be/41fWB0IvDKU",
       "isPartOf": {
-        "@id": "https://www.fotc.au/walks/"
+        "@id": "https://www.fotc.au/#/article/walks/",
       }
     }
   ]
