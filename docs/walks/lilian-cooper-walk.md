@@ -24,7 +24,7 @@ icon: fontawesome/solid/person-walking
 
     - :fontawesome-solid-car:{ .deep-purple } If driving, park your car at the end of Federation Avenue. 
     - :fontawesome-solid-person-walking:{ .deep-purple } Begin the walk at Shelter Shed at the start of Federation Avenue. 
-    - Opposite the Shelter Shed is the grave of Lachlan Chisholm Wilson.
+    - Opposite the Shelter Shed is the grave of Lachlan Chisholm Wilson about 6 graves down the hill.
 
     ![Shelter Shed at the start of Dr. Lilian Cooper walk](../assets/shelter-shed.jpg){ width="27%" } 
     ![Lachlan Chisholm Wilson's headstone](../assets/lachlan-chisholm-wilson-headstone.jpg){ width="15%" } 
