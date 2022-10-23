@@ -54,7 +54,7 @@ Each walk has a map, directions, and stories about people remembered in Toowong 
  
     ---
 
-    Learn about Jewish customs and local identities. Visit the co‑founder of the University of Queensland Medical Faculty, a world championship wrestler, and a bush balladeer.
+    Learn about Jewish customs and local identities including ministers, soldiers, a world championship wrestler, and a bush balladeer.
 
 </div>
 
