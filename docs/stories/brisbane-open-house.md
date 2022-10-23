@@ -1,11 +1,15 @@
 ---
 title: Building Brisbane
-description: A historic walk discovering the people that helped build Brisbane
+description: Stories about people that helped build Brisbane
 hide:
   - navigation
 ---
 
+--8<-- "snippets/sem/stories/brisbane-open-house.json"
+
 # Building Brisbane 
+
+**Stories about people that helped build Brisbane**
 
 Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
 
