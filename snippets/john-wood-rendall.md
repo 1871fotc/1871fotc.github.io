@@ -2,7 +2,7 @@ John Wood Rendall was born in Upper Inkster, Orkney Islands, Scotland, to Peter 
 
 In 1846 he left for the Portuguese colony of Azores, where he was employed as tutor of languages, to the Governor's children. There he met Letitia Amelia Hewitt, a ward of the Governor. Letitia Amelia's mother and the Governor's wife were friends and Amelia (as she was later known) had been sent for health reasons from her home in Worcester, England, arriving the same year as John. She was born in 1829 to Joseph Hewitt and Mary Harris.
 
-John Rendall and Amelia Hewitt were married by the Chaplain of the British Protestant Church, City of Ponta Delgarda, Island of St. Michael, on the 13^th^ of June 1819.
+John Rendall and Amelia Hewitt were married by the Chaplain of the British Protestant Church, City of Ponta Delgarda, Island of St. Michael, on the 13^th^ of June 1849.
 
 One year later, also in Ponto Delgarda, Amelia's mother married for the second time to a Portuguese, Emmanuel Inez Rodrigues[^1]. When she was widowed again, Mary emigrated to join her daughter, who by this time was in Brisbane. Mary arrived on the 7^th^ of January 1877. She had been there only seven years when she died in 1883. As well as Amelia, she had a surviving son, Joseph, and a deceased girl from each of her marriages.
 
