@@ -1,0 +1,53 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "name": "Extraordinary Stories of Ordinary People",
+  "headline": "All the world’s a stage",
+  "description": "40 stories about extraordinary people buried at Toowong Cemetery",
+  "keywords": [
+    "Toowong Cemetery Stories"
+  ],
+  "dateModified": "2022-10-25",
+  "datePublished": "2022-08-29",
+  "inLanguage": "en", 
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.fotc.au/#/schema/organization/1",
+    "name": "Friends of Toowong Cemetery Association Inc.",
+    "url": "https://www.fotc.au/"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Hilda Maclean",
+    "honorificPrefix": "Dr",
+    "url": "https://social-science.uq.edu.au/profile/603/hilda-maclean",
+    "sameAs": [
+      "https://www.qfhs.org.au/biographies/hilda-maclean/",
+      "https://www.linkedin.com/in/dr-hilda-maclean-4819a711/"
+    ]
+  },   
+  "image": [
+    "https://www.fotc.au/assets/logo/fotc-1x1.png", 
+    "https://www.fotc.au/assets/logo/fotc-banner-4x3.png", 
+    "https://www.fotc.au/assets/images/social/about/extraordinary-stories.png"
+  ],
+  "about": {
+    "@type": "Place",
+    "name": "Toowong Cemetery",
+    "sameAs": [
+      "https://en.wikipedia.org/wiki/Toowong_Cemetery", 
+      "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery"
+    ]
+  },
+  "mentions": [
+    {"@type": "Person","name": "Silvester Diggles","sameAs": "https://en.wikipedia.org/wiki/Silvester_Diggles"},
+    {"@type": "Person","name": "John T. S. Bird","sameAs": "https://en.wikipedia.org/wiki/J._T._S._Bird"},
+    {"@type": "Person","name": "James Campbell","sameAs": "https://en.wikipedia.org/wiki/James_Campbell_(Queensland_politician)"},
+    {"@type": "Person","name": "Florence Griffiths Buchanan","sameAs": "https://en.wikipedia.org/wiki/Florence_Griffiths_Buchanan"},
+    {"@type": "Person","name": "Robert Arthur Johnstone","sameAs": "https://en.wikipedia.org/wiki/Robert_Arthur_Johnstone"},
+    {"@type": "Person","name": "Emma Miller","sameAs": "https://en.wikipedia.org/wiki/Emma_Miller"},
+    {"@type": "Person","name": "Charles Kingsford Smith","sameAs": "https://en.wikipedia.org/wiki/Charles_Kingsford_Smith"}    
+  ]
+}
+</script>
