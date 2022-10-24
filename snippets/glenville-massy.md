@@ -25,7 +25,7 @@ He married Jessie, daughter of James Hall-Scott, a pioneer of the Bowen district
 
 ![Panorama of a large Queenslander house on the corner of Milton Road and Hobbs Street, Auchenflower. ca. 1920](../assets/glenville-auchenflower.jpg)
 
-*<small>[5657 Panorama of a large Queenslander house on the corner of Milton Road and Hobbs Street, Auchenflower. ca. 1920](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21148712080002061). Part of a motorcar can be seen at the far right of the photo and tram lines and a tram are shown at far left. The house is timber, with a brick and timber fence. The house, named '*Glenville*' was the residence of pastoralist Glenville Massy and his family. The house was demolished in the 1960s. — State Library of Queensland.</small>*
+*<small>[5657 Panorama of a large Queenslander house on the corner of Milton Road and Hobbs Street, Auchenflower. ca. 1920](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21148712080002061). Part of a motorcar can be seen at the far right of the photo and tram lines and a tram are shown at far left. The house is timber, with a brick and timber fence. The house, named 'Glenville' was the residence of pastoralist Glenville Massy and his family. The house was demolished in the 1960s. — State Library of Queensland.</small>*
 
 <!--
 "Glenville" on the corner of Hobbs Street and Milton Road. Built 1910.
