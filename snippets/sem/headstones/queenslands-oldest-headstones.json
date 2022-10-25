@@ -1,0 +1,53 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph":[
+    {
+        "@type": "Article",
+        "name": "Queensland's Oldest Headstones",
+        "@id": "https://www.fotc.au/#/article/headstones/queenslands-oldest-headstones/",
+        "headline": "Where is the oldest headstone in Queesland?",
+        "description": "The oldest surviving headstone in Queensland is from 15 November 1831 and can be found in Toowong Cemetery.",
+        "dateModified": "2022-10-25",
+        "datePublished": "2022-08-29",
+        "inLanguage": "en", 
+        "publisher": {
+            "@type": "Organization",
+            "@id": "https://www.fotc.au/#/schema/organization/1",
+            "name": "Friends of Toowong Cemetery Association Inc.",
+            "url": "https://www.fotc.au/"
+        },
+        "author": {
+            "@id": "https://www.fotc.au/#/schema/organization/1"
+        },   
+        "image": [
+            "https://www.fotc.au/assets/logo/fotc-1x1.png", 
+            "https://www.fotc.au/assets/logo/fotc-banner-4x3.png", 
+            "https://www.fotc.au/assets/pioneer-childrens-graves-13-10-4.jpg"
+        ],
+        "about": {
+            "@type": "Place",
+            "name": "Toowong Cemetery",
+            "sameAs": [
+            "https://en.wikipedia.org/wiki/Toowong_Cemetery", 
+            "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery"
+            ]
+        }
+    },
+    {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.fotc.au/assets/pioneer-childrens-graves-13-10-4.jpg",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "acquireLicensePage": "https://www.fotc.au/about/legal/",
+        "copyrightNotice": "© 2022 Friends of Toowong Cemetery Association Inc.",
+        "creditText": "Friends of Toowong Cemetery Association Inc.",
+        "creator": {
+            "@id": "https://www.fotc.au/#/schema/organization/1"
+           },
+        "isPartOf": {
+            "@id": "https://www.fotc.au/#/article/headstones/queenslands-oldest-headstones/"
+        }  
+    }
+  ]
+}
+</script>
