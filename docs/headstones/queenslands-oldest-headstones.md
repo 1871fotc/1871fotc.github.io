@@ -3,6 +3,8 @@ name: Queensland's oldest headstones
 description: Queensland's oldest headstones can be found in Toowong Cemetery
 ---
 
+--8<-- "snippets/sem/headstones/queenslands-oldest-headstones.json"
+
 # Queensland's Oldest Headstones
 
 The oldest grave in Toowong Cemetery is of **[Governor Samuel Blackall](../research/samuel-wensley-blackall.md)** who was buried on **3 January 1871**. 
