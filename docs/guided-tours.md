@@ -49,7 +49,6 @@ Our next tour is on **Sunday 6 November** and is titled, **Soldiers of the Queen
 
 If you can't join our guided tour, consider taking a **[Toowong Cemetery self-guided heritage walk](walks/index.md)** or the visiting the **[headstone symbolism display](headstones/symbols.md)**.
 
-
 <!--
 !!! warning "COVID-19 Restrictions"
 
