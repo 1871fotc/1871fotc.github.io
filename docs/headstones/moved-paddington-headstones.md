@@ -18,7 +18,7 @@ By 1907 there were calls to turn the neglected burial grounds into a park and sp
 [Paddington Cemetery Act]: http://classic.austlii.edu.au/au/legis/qld/hist_act/pcao19112gvn9298/ "Read the 1911 Paddington Cemetery Act"
 
 
-![View of the Brisbane suburb of Milton, ca. 1870](../assets/milton-cemetery-1870.jpg){ width="100%"}
+![View of the Brisbane suburb of Milton, ca. 1870](../assets/milton-cemetery-1870.jpg){ width="70%"}
 
 *<small>[View of the Brisbane suburb of Milton, ca. 1870](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21219311070002061) Photograph taken in the vicinity of Caxton Street, Petrie Terrace, looking due west across the intersection of Judge and Hale Streets and across the Milton Cemetery. The mortuary chapel visible in the centre of the photograph was converted to a church in 1873, and was demolished when Christ Church (Milton) was constructed in 1874-76 — State Library of Queensland. Cropped.</small>*
 
@@ -29,6 +29,21 @@ By 1907 there were calls to turn the neglected burial grounds into a park and sp
 -->
 
 *<small>[Paddington Cemeteries Plans](https://www.brisbane.qld.gov.au/sites/default/files/Cemeteries_Visiting_our_Cemeteries_Plans_showing_the_old_Paddington_Cemeteries_and_the_present_reserves.pdf) from Appendix 8 in Volume 2 of the 1914 Parliamentary papers.</small>*
+
+
+## Paddington Memorial 
+
+![Paddington Memorial](../assets/paddington-memorial.jpg){ width="40%" } 
+
+*<small>Paddington Memorial, Portion 17 Section 1, on the corner of Emma Miller and William Brown Avenues.</small>*
+
+The Paddington Memorial commemorates people originally buried in the North Brisbane Burial Grounds, now interred at Toowong Cemetery. The Paddington Memorial plaque reads:
+
+>***The North Brisbane Burial Grounds at Paddington were opened by 1844 and became the final resting place for thousands of Brisbane's inhabitants over the ensuing decades. Following the opening of the Brisbane General Cemetery of Toowong in 1875, the seven sectarian cemeteries were gradually abandoned. By the end of the 19^th^ century, the site had fallen into a state of disrepair. A decision was made in 1911 to have the Paddington Cemetery converted to public parklands. The memorials were subsequently removed and the opportunity was provided to relatives to relocate the remains and or memorials to other cemeteries including Toowong. Only a few hundred bodies were removed leaving several thousand on the site that became known as Lang Park.***
+<br>
+
+>***Lang Park evolved into an iconic inner-city sports ground, with a major redevelopment of the stadium from 2001 to 2003. This resulted in the necessary excavation of sections of the former burial grounds that would be disturbed by construction. A methodical archaeological investigation was undertaken, and the fragmentary remains of 394 unidentified individuals were exhumed from the Episopalian (Anglican), Roman Catholic, and Presbyterian cemeteries. The remains were interred in this memorial in July 2003.***
+
 
 ## Paddington Cemetery Remains and Headstones moved to Toowong Cemetery { data-search-exclude }
 
@@ -74,20 +89,6 @@ Download the Moved Paddington Cemetery Headstones as a <a href="../../assets/dat
 
     If you open the .csv file using Microsoft Excel, be aware that it changes some grave locations into dates. [This behaviour cannot be prevented](https://support.microsoft.com/en-us/office/stop-automatically-changing-numbers-to-dates-452bd2db-cc96-47d1-81e4-72cec11c4ed8?ns=excel&version=90&ui=en-us&rs=en-us&ad=us). We suggest you consider using another tool.
 
-
-## Paddington Memorial 
-
-![Paddington Memorial](../assets/paddington-memorial.jpg){ width="40%" } 
-
-*<small>Paddington Memorial, Portion 17 Section 1, on the corner of Emma Miller and William Brown Avenues.</small>*
-
-The Paddington Memorial commemorates people originally buried in the North Brisbane Burial Grounds, now interred at Toowong Cemetery. The Paddington Memorial plaque reads:
-
->***The North Brisbane Burial Grounds at Paddington were opened by 1844 and became the final resting place for thousands of Brisbane's inhabitants over the ensuing decades. Following the opening of the Brisbane General Cemetery of Toowong in 1875, the seven sectarian cemeteries were gradually abandoned. By the end of the 19^th^ century, the site had fallen into a state of disrepair. A decision was made in 1911 to have the Paddington Cemetery converted to public parklands. The memorials were subsequently removed and the opportunity was provided to relatives to relocate the remains and or memorials to other cemeteries including Toowong. Only a few hundred bodies were removed leaving several thousand on the site that became known as Lang Park.***
-
-<br>
-
->***Lang Park evolved into an iconic inner-city sports ground, with a major redevelopment of the stadium from 2001 to 2003. This resulted in the necessary excavation of sections of the former burial grounds that would be disturbed by construction. A methodical archaeological investigation was undertaken, and the fragmentary remains of 394 unidentified individuals were exhumed from the Episopalian (Anglican), Roman Catholic, and Presbyterian cemeteries. The remains were interred in this memorial in July 2003.***
 
 <!--
 ## Richard Belford <small>(15‑11‑6)</small>
