@@ -50,8 +50,6 @@ The following abbreviations are used in the table above:
 | Queen's S.A.    | [Queen's South Africa Medal](https://en.wikipedia.org/wiki/Queen%27s_South_Africa_Medal) |
 |  Q.S.A.         | [Queen's South Africa Medal](https://en.wikipedia.org/wiki/Queen%27s_South_Africa_Medal) |
 
-
-
 ### Served in 
 
 | Abbreviation | Name or Honorific Prefix |
