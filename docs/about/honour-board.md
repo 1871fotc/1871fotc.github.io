@@ -39,7 +39,7 @@ The following abbreviations are used in the table above:
 
 ### Honours awarded
 
-| Abbreviation    | Name or Honorific Prefix |
+| Abbreviation    | Name |
 | -----------     | ----------- |
 | D.C.M.          | |
 | D.S.O.          | |
@@ -52,14 +52,15 @@ The following abbreviations are used in the table above:
 
 ### Served in 
 
-| Abbreviation | Name or Honorific Prefix |
+| Abbreviation | Name  |
 | -----------  | ----------- |
 | A.A.N.S.     | [Australian Army Nursing Service](https://en.wikipedia.org/wiki/Australian_Army_Nursing_Service) |
 | A.G.H.       | 1^st^ Australian General Hospital     |
 | BATT.        | Battalion     |
-| BTN.        | Battalion     |
-| COY. | Company |
-| TNLG. | Tunnelling |
+| BTN.         | Battalion     |
+| COY.         | Company |
+| TNLG.        | Tunnelling |
+
 
 <!--
 
