@@ -3,6 +3,7 @@ title: Toowong Cemetery Honour Board
 description: The Toowong Cemetery Honour Board commemorates people who have served in military uniform 
 hide:
   - toc
+  - navigation
 robots: 
   noindex: true
   nofollow: true
@@ -31,6 +32,36 @@ Friends of Toowong Cemetery President, Darcy Maddock, talks about the honour boa
 ## Honour Board Names
 
 --8<-- "snippets/honour-board.html"
+
+## Abbreviations
+
+The following abbreviations are used in the table above: 
+
+### Honours awarded
+
+| Abbreviation    | Name or Honorific Prefix |
+| -----------     | ----------- |
+| D.C.M.          | |
+| D.S.O.          | |
+| King's S.A.     | [King's South Africa Medal](https://en.wikipedia.org/wiki/King%27s_South_Africa_Medal) |
+| K.S.A.          | [King's South Africa Medal](https://en.wikipedia.org/wiki/King%27s_South_Africa_Medal) |
+| Natal Rebellion | [Natal Native Rebellion Medal](https://en.wikipedia.org/wiki/Natal_Native_Rebellion_Medal) |
+| O.F.S. Clasp    | |
+| Queen's S.A.    | [Queen's South Africa Medal](https://en.wikipedia.org/wiki/Queen%27s_South_Africa_Medal) |
+|  Q.S.A.         | [Queen's South Africa Medal](https://en.wikipedia.org/wiki/Queen%27s_South_Africa_Medal) |
+
+
+
+### Served in 
+
+| Abbreviation | Name or Honorific Prefix |
+| -----------  | ----------- |
+| A.A.N.S.     | [Australian Army Nursing Service](https://en.wikipedia.org/wiki/Australian_Army_Nursing_Service) |
+| A.G.H.       | 1^st^ Australian General Hospital     |
+| BATT.        | Battalion     |
+| BTN.        | Battalion     |
+| COY. | Company |
+| TNLG. | Tunnelling |
 
 <!--
 
