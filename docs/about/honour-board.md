@@ -34,6 +34,12 @@ Friends of Toowong Cemetery President, Darcy Maddock, talks about the honour boa
 
 --8<-- "snippets/honour-board.html"
 
+<!--
+## Honour Board Names Alternative
+
+--8<-- "snippets/honour-board-alt.html"
+-->
+
 ## Abbreviations
 
 The following abbreviations are used in the table above: 
@@ -43,11 +49,12 @@ The following abbreviations are used in the table above:
 | Abbreviation    | Name |
 | -----------     | ----------- |
 | D.C.M.          | [Distinguished Conduct Medal](https://en.wikipedia.org/wiki/Distinguished_Conduct_Medal) |
+| DCM             | [District Court Martia](https://en.wikipedia.org/wiki/Court-martial)
 | D.S.O.          | |
 | King's S.A.     | [King's South Africa Medal](https://en.wikipedia.org/wiki/King%27s_South_Africa_Medal) |
 | K.S.A.          | [King's South Africa Medal](https://en.wikipedia.org/wiki/King%27s_South_Africa_Medal) |
 | Natal Rebellion | [Natal Native Rebellion Medal](https://en.wikipedia.org/wiki/Natal_Native_Rebellion_Medal) |
-| O.F.S. Clasp    | Orange Free State |
+| O.F.S. Clasp    | [Orange Free State](https://en.wikipedia.org/wiki/Medalje_voor_de_Anglo-Boere_Oorlog) |
 | Queen's S.A.    | [Queen's South Africa Medal](https://en.wikipedia.org/wiki/Queen%27s_South_Africa_Medal) |
 | Q.S.A.          | [Queen's South Africa Medal](https://en.wikipedia.org/wiki/Queen%27s_South_Africa_Medal) |
 
