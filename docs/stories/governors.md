@@ -35,7 +35,7 @@ Griffith served as Queensland's chief justice from 13 March 1893 to 6 October 19
 
 On 16 March 1917 Griffith suffered a stroke while on the bench and was temporarily retired. His mortgage forced him, aged 72, to return to work. He eventually retired to Brisbane where he died at Merthyr on 9 August 1920.
 
-![Sir Samuel Walker Griffith and family](../assets/samuel-walker-griffith-and-family.jpg)
+![Sir Samuel Walker Griffith and family](../assets/samuel-walker-griffith-and-family.jpg){ width=70% }
 
 *<small>[Sir Samuel Walker Griffith and family](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218185350002061) - State Library of Queensland </small>*
 
