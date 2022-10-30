@@ -11,3 +11,4 @@ hide:
 --8<-- "snippets/charles-heaphy.md"
 
 --8<-- "snippets/headstones/charles-heaphy.md"
+
