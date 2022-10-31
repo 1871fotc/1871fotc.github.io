@@ -25,6 +25,4 @@ description: The Architect of Anzac Day
 - [Memorial Ribbons, ANZAC Day](https://www.slq.qld.gov.au/blog/memorial-ribbons-anzac-day) by John Oxley Library, State Library of Queensland
 - [Canon Garland’s Memorial digital story, 2017](https://youtu.be/5yyTjotxG4c) - State Library Queensland
 
-<div class="video-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5yyTjotxG4c" title="Canon Garland’s Memorial digital story, 2017" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
-</div>
