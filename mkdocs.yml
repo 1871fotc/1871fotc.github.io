@@ -40,7 +40,7 @@ theme:
   features:
 # instant and announce seem to conflict with was this page helpful. Pick one. Works on Material for Mkdocs - look there. 
 #    - announce.dismiss
-    - navigation.instant
+#    - navigation.instant
     - navigation.tracking
     - navigation.top
     - navigation.tabs
