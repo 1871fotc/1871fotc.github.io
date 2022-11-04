@@ -1,5 +1,5 @@
 ---
-description: Hello 👋 thanks for scanning the Friends of Toowong Cemetery QR code.
+title: Hello
 robots: 
   noindex: true
   nofollow: true
