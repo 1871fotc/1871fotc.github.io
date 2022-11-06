@@ -41,9 +41,9 @@ The Museum has an extensive display of photographs and artefacts.
 
 Tours are on the first Sunday of each month (March to December) from 10:30am to 12:00. 
 
-Our next tour is on **Sunday 6 November** visiting the graves of some soldiers who served during the reign of Queen Victoria and telling their stories. The tour is limited to 20 people. Add it to your calendar.
+Our next tour is on **Sunday 4 December**. The tour is limited to 20 people. Add it to your calendar.
 
-[Add to Calendar :fontawesome-regular-calendar-plus:](assets/calendar/fotc-tour-20221106.ics){ .md-button .md-button--primary }
+[Add to Calendar :fontawesome-regular-calendar-plus:](assets/calendar/fotc-tour-20221204.ics){ .md-button .md-button--primary }
 
 ## Guided tour alternatives
 
