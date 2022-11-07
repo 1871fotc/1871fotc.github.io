@@ -9,3 +9,4 @@ hide:
 **ca. 1859 — 4 February 1925**
 
 --8<-- "snippets/richard-godfrey-rivers.md"
+
