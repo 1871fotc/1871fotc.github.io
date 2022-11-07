@@ -11,4 +11,9 @@ A self‑taught marine and landscape painter of considerable ability and technic
 
 He died at Taringa on 1 March 1902. He was survived by his wife Mary, née Jenkins, whom he had married on 23 May 1860 at Anthony, Cornwall, and by three sons and three daughters.
 
+
+![Marine artist - Isaac Walter Jenner (1836 - 1902)](../assets/isaac-walter-jenner-marine-artist.jpg){ width=40% }
+
+*<small>[Marine artist - Isaac Walter Jenner (1836 - 1902)](https://www.flickr.com/photos/hwmobs/24099076204/in/photolist-kkpHXP-khd4co-khb8iH-khbbhi-khcYKs-khaDfk-baDQKF-baD5JF-khaART-khd1Ku-khayuP-kkpnLZ-baDu2X-baDRpk-aTc7yZ-DF4G8V-CHy4KS-b9t9ft-RovtrX-CHEVka-271vxfL-kzKg7S-CGVjTN-2kU37nf-RjMAkL-oxDp7D-kzHcNR-aZ89Vk-kzKe17-kkskCo-aTbPoM-onUteY-Qh2j5i-kh8SU6-kzHdiP-qASfYq-2bby845). Aussie~mobs.</small>*
+
 <!-- Kym Hyson suggests this story was contributed by Frances Pavlu. This is in The Artists walk which has no such attribution. Relates to discussion about attribution of prior work.   -->
