@@ -8,7 +8,7 @@
   "keywords": [
     "Toowong Cemetery Stories"
   ],
-  "dateModified": "2022-10-23",
+  "dateModified": "2022-11-08",
   "datePublished": "2022-08-29",
   "inLanguage": "en", 
   "publisher": {
@@ -42,7 +42,8 @@
   },
   "mentions": [
     {"@type": "Person","name": "Le Fevre James Cranstone","sameAs": "https://en.wikipedia.org/wiki/Lefevre_James_Cranstone"},
-    {"@type": "Person","name": "Richard Godfrey Rivers","sameAs": "https://en.wikipedia.org/wiki/Richard_Godfrey_Rivers"}
+    {"@type": "Person","name": "Richard Godfrey Rivers","sameAs": "https://en.wikipedia.org/wiki/Richard_Godfrey_Rivers"},
+    {"@type": "Person","name": "Isaac Walter Jenner","sameAs": "https://www.wikidata.org/wiki/Q21455512"}
   ]
 }
 </script>
