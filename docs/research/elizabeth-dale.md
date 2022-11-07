@@ -10,9 +10,19 @@ hide:
 
 --8<-- "snippets/elizabeth-dale.md"
 
-<!--
-![Elizabeth Dale](../assets/elizabeth-dale.jpg){ width="32%" }
--->
+### Headstone
+
+![Elizabeth Dale](../assets/elizabeth-dale-headstone.jpg){ width="32%" }
+
+### Inscription
+
+> Elizabeth <br>
+> beloved wife of <br>
+> Thomas Dale <br>
+> died Feb. 1^st^ 1905 <br>
+> aged 40 years <br>
+> Thy will be done <br>
+
 
 ### Learn more
 
