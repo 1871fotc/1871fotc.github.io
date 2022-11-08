@@ -10,3 +10,8 @@ Vincent was educated by the Christian Brothers at St James's School, Brisbane. H
 Back in Brisbane, Vincent taught printmaking at his home at Clayfield. In 1931 he was elected a member of the Australian Painter‑Etchers' Society. His drypoints of country scenes, and of Brisbane and its landmarks, were described in 1934 as being executed with 'rare skill' and 'joyous animation'. On 9 July 1934 at All Saints Church, Wickham Terrace, he married with Anglican rites Cynthia Ruth Sturtridge; they were childless.
 
 During World War II Vincent worked in a munitions factory until illness forced him to resign. Survived by his wife, he died of a coronary occlusion on 19 July 1945 at Boolarong, near Caboolture, and was buried with Catholic rites. A memorial exhibition of his work was held in Brisbane in 1948. In 1981 Sheldon's widow gave more than two hundred of his works to the [Queensland Art Gallery](https://www.qagoma.qld.gov.au/learn/collection).
+
+
+![Jeanette Sheldon](../assets/eliza-jeanettie-sheldon.jpg){ width="35%" }  
+
+*<small>[Jeanette Sheldon](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218163840002061) - State Library of Queensland </small>* 

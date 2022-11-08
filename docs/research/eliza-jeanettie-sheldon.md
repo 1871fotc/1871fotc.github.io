@@ -10,4 +10,6 @@ hide:
 
 --8<-- "snippets/eliza-jeanettie-sheldon.md"
 
-<!-- TODO consider http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218163840002061 -->
+### Learn more 
+
+[Jeanette Sheldon: Queensland Art Pioneer](http://www3.slv.vic.gov.au/latrobejournal/issue/latrobe-37/t1-g-t2.html#latrobe-37-010a) - The La Trobe Journal, No 37 Autumn 1986.
