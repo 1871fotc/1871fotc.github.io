@@ -23,6 +23,6 @@ description: The Architect of Anzac Day
 - [Garland, David John (1864–1939)](https://adb.anu.edu.au/biography/garland-david-john-6278) by Australian Dictionary of Biography
 - [The Architect of ANZAC Day](https://garlandmemorial.com/about-garland/) by Canon Garland Memorial Society
 - [Memorial Ribbons, ANZAC Day](https://www.slq.qld.gov.au/blog/memorial-ribbons-anzac-day) by John Oxley Library, State Library of Queensland
-- [Canon Garland’s Memorial digital story, 2017](https://youtu.be/5yyTjotxG4c) - State Library Queensland
+- [Anzac Day ritual](https://www.anzacsquare.qld.gov.au/stories/anzac-day-ritual-0) - State Library Queensland
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5yyTjotxG4c" title="Canon Garland’s Memorial digital story, 2017" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
