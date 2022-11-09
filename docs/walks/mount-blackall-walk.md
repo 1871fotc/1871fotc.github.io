@@ -456,7 +456,7 @@ Ann Hill (1850‑1871) was the second person buried in Toowong Cemetery, after G
 
 The Cross of Sacrifice and Stone of Remembrance were unveiled on Anzac Day, 1924, by the Governor‑General, Lord Forster. The Stone of Remembrance is a solid block of Helidon sandstone weighing 10 tonne. The unveiling ceremony was attended by several hundred people including many prominent Queenslanders. Canon Garland raised the funds for this memorial.
 
-![Cross of Sacrifice and Stone of Remembrance memorials at Toowong Cemetery, Brisbane, 1924](assets/stone-of-remembrance.jpg){ width="96%" }  
+![Cross of Sacrifice and Stone of Remembrance memorials at Toowong Cemetery, Brisbane, 1924](../assets/stone-of-remembrance.jpg){ width="96%" }  
 
 *<small>[Cross of Sacrifice and Stone of Remembrance memorials at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?change_lng=en&dps_pid=IE1400772) — State Library of Queensland.</small>*
 
