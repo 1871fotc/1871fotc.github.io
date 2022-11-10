@@ -11,7 +11,7 @@ hide:
 
 **Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.**
 
-![Toowong Cemetery main entrance][image4]{ width="32.33%" .off-glb } ![Canon Garland Place][image5]{ width="32.33%" .off-glb } ![Headstone Symbolism Display][image6]{ width="32.3%" .off-glb }
+![Toowong Cemetery main entrance][image4]{ width="32.33%" .off-glb } ![Canon Garland Place][image5]{ width="32.33%" .off-glb } ![Headstone Symbolism Display][image6]{ width="32.33%" .off-glb }
 
 [image1]: assets/main-entrance.jpg "The main entrance to Toowong Cemetery"
 [image2]: assets/flag-pole.jpg "Canon Garland Place"
@@ -19,7 +19,7 @@ hide:
 <!-- Anzac and Rememberance day -->
 [image4]: assets/stone-of-remembrance-with-children-1924.jpg "Remembering those who have died in the line of duty"
 [image5]: assets/unveiling-cross-of-sacrifice-16x9.jpg "Remembering those who have died in the line of duty"
-[image6]: assets/rememberance.jpg "Remembering those who have died in the line of duty"
+[image6]: assets/unveiling-memorials-1924.jpg "Remembering those who have died in the line of duty"
 
 Heritage‑listed Toowong Cemetery is the largest cemetery in Queensland. The first burial was of **[Governor Samuel Blackall](research/samuel-wensley-blackall.md)** on 3 January 1871. Read his and hundreds of other stories about the people who shaped Brisbane, Queensland, and Australia's history.
 
