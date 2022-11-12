@@ -26,7 +26,7 @@ There's no need to book, just meet under the flagpole in Canon Garland Place at 
 
 *<small>The Flagpole in Canon Garland Place</small>*
 
-## Upcoming guided tours
+## Upcoming Guided Tours
 
 Our next tour, **'School’s Out'** is on **Sunday 4 December**. We will be telling the stories of some early Queensland school teachers and administrators at their graves.
 
@@ -47,7 +47,7 @@ The Museum has an extensive display of photographs and artefacts.
 ![Museum photo display](assets/museum-photos-1.jpg){ width="48.5%" } ![Museum photo display](assets/museum-photos-2.jpg){ width="48.5%" }
 ![Museum photo display](assets/museum-photos-3.jpg){ width="48.5%" } ![Museum photo display](assets/museum-photos-4.jpg){ width="48.5%" }
 
-## Guided tour alternatives
+## Guided Tour Alternatives
 
 If you can't join our guided tour, consider taking a **[Toowong Cemetery self-guided heritage walk](walks/index.md)** or the visiting the **[headstone symbolism display](headstones/symbols.md)**.
 
