@@ -26,6 +26,14 @@ There's no need to book, just meet under the flagpole in Canon Garland Place at 
 
 *<small>The Flagpole in Canon Garland Place</small>*
 
+## Upcoming guided tours
+
+Our next tour, **'School’s Out'** is on **Sunday 4 December**. We will be telling the stories of some early Queensland school teachers and administrators at their graves.
+
+The tour is limited to 20 people. Add it to your calendar.
+
+[Add to Calendar :fontawesome-regular-calendar-plus:](assets/calendar/fotc-tour-20221204.ics){ .md-button .md-button--primary }
+
 ## Toowong Cemetery Museum
 
 The Museum is open before and after our guided tours.
@@ -38,14 +46,6 @@ The Museum has an extensive display of photographs and artefacts.
 
 ![Museum photo display](assets/museum-photos-1.jpg){ width="48.5%" } ![Museum photo display](assets/museum-photos-2.jpg){ width="48.5%" }
 ![Museum photo display](assets/museum-photos-3.jpg){ width="48.5%" } ![Museum photo display](assets/museum-photos-4.jpg){ width="48.5%" }
-
-## Upcoming guided tours
-
-Our next tour, **'School’s Out'** is on **Sunday 4 December**. We will be telling the stories of some early Queensland school teachers and administrators at their graves.
-
-The tour is limited to 20 people. Add it to your calendar.
-
-[Add to Calendar :fontawesome-regular-calendar-plus:](assets/calendar/fotc-tour-20221204.ics){ .md-button .md-button--primary }
 
 ## Guided tour alternatives
 
