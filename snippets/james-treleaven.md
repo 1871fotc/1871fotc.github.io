@@ -1,0 +1,3 @@
+## James Treleaven (13‑65‑1)</small>
+
+James Treleaven was a partner with James Clark in Clark & Treleaven, Drapers and Outfitters at 127 Queen Street from early 1874. James Treleaven was born in Launceston Cornwall in 1838, the son of Benjamin Treleaven, a grocer and his wife, Mary (née Harvey). He arrived in Brisbane in the early 1860s and married Emily Agnes Rains in 1867. He was 46 years of age when [he died at his Kelvin Grove home](https://trove.nla.gov.au/newspaper/article/3428543?searchTerm=James%20Treleaven) on 30 March 1884.

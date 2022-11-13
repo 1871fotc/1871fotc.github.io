@@ -81,9 +81,8 @@ You may also be interested in our books:
 - **[The Jewish walk][jewish]** :fontawesome-solid-person-walking: - A self-guided walk around Portion 3
 
 ## Other themed stories
-<!--
+
 - **[Christmas Shopping 1877](christmas-shopping-1877.md)** - stories about shop keepers and Christmas in 1877
---> 
 - **[Steam](steam.md)** - stories about our steam-driven past
 - **[Building Brisbane][brisbane-open-house]** - recalling the builders of early Brisbane
 - **[Convicts][convicts]** - connections to our convict past

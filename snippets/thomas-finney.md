@@ -13,4 +13,5 @@ Slaughter, Leslie E. (Leslie Edgar). Brisbane, Qld. Royal Historical Society of 
 
 assets/sidney-house-toowong.pdf
 
+https://en.wikipedia.org/wiki/Thomas_Finney_(politician)#/media/File:StateLibQld_1_103590_Thomas_Finney_of_Finney,_Isles_and_Co.jpg
 -->
