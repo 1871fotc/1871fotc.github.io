@@ -6,7 +6,9 @@ description: A list of people mentioned in our story collections and links to th
 
 # Find a Story 
 
-**Find a story about a person remembered at Toowong Cemetery**. The table below lists over 500 people mentioned in our **[Toowong Cemetery stories](../stories/index.md)**. 
+**Find a story about a person remembered at Toowong Cemetery**. 
+
+The table below lists over 500 people mentioned in our **[Toowong Cemetery stories](../stories/index.md)**. Each person's individual story may contain extra information, a headstone photo and its inscription.
 
 ??? question "Volunteer - Contribute missing data"
 
@@ -15,7 +17,7 @@ description: A list of people mentioned in our story collections and links to th
 
     Use our **[Research Resources](index.md)** to search for missing data.
     
-    Use the **[Contribute a Story](https://forms.gle/U94dcEj6RihM9BPq9)** form, to share your discoveries with us.
+    **[Contribute a Story](https://forms.gle/U94dcEj6RihM9BPq9)** and share your discoveries with us.
 
 <!-- 
 ??? directions "How to use the Index" 
@@ -37,12 +39,15 @@ description: A list of people mentioned in our story collections and links to th
 
 The [Friends of Toowong Cemetery Story Index](find-a-story.md) by [Friends of Toowong Cemetery Association Inc.](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You must provide attribution if you reuse this work.
 
-Download the Story Index as a <a href="../../assets/data/story-index.csv" download>Comma Separated Value file</a> (.csv) 
+Download the Story Index as a Comma Separated Value file</a> (.csv) 
 
+<!--
+Download the Story Index as a <a href="../../assets/data/story-index.csv" download>Comma Separated Value file</a> (.csv) 
+-->
+
+[Download the data][data]{ .md-button .md-button--primary download}
+
+[data]: ../../assets/data/story-index.csv
 !!! warning "Excel does not process dates correctly"
 
     If you open the .csv file using Microsoft Excel, be aware that it tries to be helpful and automatically adjust the date formats. It doesn't do this well and can corrupt dates. It also doesn't handle characters like "ü" very well. We suggest you consider using another tool.
-    
-<!--
-or [Tabular Data Package](../assets/data/story-index.zip) (.zip). 
--->

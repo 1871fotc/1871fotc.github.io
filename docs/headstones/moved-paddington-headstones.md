@@ -83,7 +83,15 @@ Abbreviations used in the source document have been expanded using the following
 
 The [Moved Paddington Cemetery Headstones](moved-paddington-headstones.md) by [Friends of Toowong Cemetery Association Inc.](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You must provide attribution if you reuse this work.
 
+Download the Paddington Cemetery Reserved Area Headstones as a Comma Separated Value file</a> (.csv)
+
+<!--
 Download the Moved Paddington Cemetery Headstones as a <a href="../../assets/data/moved-paddington-cemetery-headstones.csv" download>Comma Separated Value file</a> (.csv) 
+-->
+
+[Download the data][data]{ .md-button .md-button--primary download}
+
+[data]: ../../assets/data/moved-paddington-cemetery-headstones.csv
 
 !!! warning "Excel interprets some grave locations as dates"
 
