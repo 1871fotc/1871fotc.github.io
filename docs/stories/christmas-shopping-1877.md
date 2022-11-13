@@ -28,14 +28,6 @@ search:
 
 Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
 
-<!--
-???+ directions "Directions" 
-
-    - walking directions
-    
-    ![](?.jpg) 
-    
--->
 ## George Prentice <small>(9-41-4)</small>
 
 George Prentice Jnr was born on 8 February 1841 in Durham England where his father George Snr was a stonemason. In 1854 the family migrated to Victoria, settling in Geelong where they lived for some time before moving to Brisbane. George Jnr operated a sports and tobacconist store in Edward Street in 1877. His father who was in business as a stonemason in Roma Street and a teenage daughter of George drowned in the sinking of the *S.S. Quetta* in Torres Strait in 1890. [George died at Sandgate](https://trove.nla.gov.au/newspaper/article/183135149) on 20 February 1902 after a seizure.
@@ -93,11 +85,6 @@ Irish-born John Tutty (1844-1879) arrived in Brisbane around 1864. His parents w
   <figcaption markdown>[Finney and Isles store, Fortitude Valley, ca. 1868](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183512248602061) — State Library of Queensland.</figcaption>
 </figure>
 
-<!-- 
-https://collections.slq.qld.gov.au/viewer/IE438725
-https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183512686402061
--->
-
 ## James Treleaven (13-65-1)</small>
 
 James Treleaven was a partner with James Clark in Clark & Treleaven, Drapers and Outfitters at 127 Queen Street from early 1874. James Treleaven was born in Launceston Cornwall in 1838, the son of Benjamin Treleaven, a grocer and his wife, Mary (née Harvey). He arrived in Brisbane in the early 1860s and married Emily Agnes Rains in 1867. He was 46 years of age when [he died at his Kelvin Grove home](https://trove.nla.gov.au/newspaper/article/3428543?searchTerm=James%20Treleaven) on 30 March 1884.
@@ -130,7 +117,7 @@ James Isles of Finney Isles & Co was born in Scone, Scotland in 1837, the son of
 Soft goods merchant, James Chapman was born in Perthshire, Scotland where he commenced his commercial career before migrating to Queensland arriving in August 1864 in the ship *Earl Russell*. With Richard Edwards, he was a partner in the firm of [Edwards and Chapman](https://trove.nla.gov.au/newspaper/article/181787104?searchTerm=%22Edwards%20Chapman%22). He died at his residence *Kintullo* Gregory Terrace on 4 May 1917.
 
 <!-- 
-https://trove.nla.gov.au/newspaper/article/196937137
+https://trove.nla.gov.au/newspaper/article/196937137 1890 
 -->
 
 <figure markdown>
@@ -151,32 +138,31 @@ The Shirt and Collar Box, three doors down from the GPO, was the business of Hen
   <figcaption markdown>Advertisments in the [The Telegraph, 14 December 1877](https://trove.nla.gov.au/newspaper/page/19378522) including Herny Beesley's Shirt and Collar Box, Edwards and Chapman, Clark and Treleaven, and Tutty and Finney - National Library of Australia.</figcaption>
 </figure>
 
-<!-- 
-https://trove.nla.gov.au/newspaper/page/19378522
-
--->
-
 ## Thomas Spilsbury <small>(13-23-2/3)</small>
 
-Thomas Spilsbury's confectionery shop stood at 28 Queen Street. Thomas was born in Bromsgrove Worcestershire to parents Richard (also a confectioner) and Hannah in 1838. He lived in Kiama NSW before coming to Brisbane ca.1861-2. He worked as a compositor before entering the confectionery business in 1876. After his death in 1884, the business passed to his son, Thomas.
+Thomas Spilsbury's confectionery shop stood at 28 Queen Street. Thomas was born in Bromsgrove Worcestershire to parents Richard (also a confectioner) and Hannah in 1838. He lived in Kiama NSW before coming to Brisbane ca.1861-1862. He worked as a compositor before entering the confectionery business in 1876. After his death in 1884, the business passed to his son, Thomas.
 
 ## James Martin <small>(13-24-21)</small>
 
 The Civet Cat fancy goods and toy emporium stood in Queen Street where the Myer Centre is today. Its proprietor, James Martin was born in Worcestershire in 1838 to parents, Joseph Martin and Elizabeth (née Teague). He married Henrietta Bradshaw in Brisbane in 1869. [James died at the age of 89](https://trove.nla.gov.au/newspaper/article/180790667) at his home *Mascotte* at New Farm on 25 November 1927
-
-
 
 <figure markdown>
   ![Brisbane's first fire brigade, 1868](../assets/brisbane-first-fire-brigade-1868.jpg){ width="40%"  class="full-width" }
   <figcaption markdown>James Martin and George Pretice were members of Brisbane's first fire brigade in 1868. From [Page 22 of The Queenslander Pictorial, supplement to The Queenslander, 24 March 1917](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/tqqf2h/alma99183906327202061) — State Library of Queensland. Cropped.</figcaption>
 </figure>
 
-
-
 ## Acknowledgements
 
 Written by Lyn Maddock
 
+## Learn more 
+
+- [Christmas Eve in Brisbane](https://trove.nla.gov.au/newspaper/article/19763726), 1877, The Queenslander - National Library of Australia
+
+<!--
+- https://trove.nla.gov.au/newspaper/article/175544653 1871
+
+-->
 <!--
 ## Sources
 
