@@ -13,19 +13,25 @@ description: Discover the stories of people remembered in Toowong Cemetery
 
 The Friends of Toowong Cemetery have published **[over 500 individual stories](../research/find-a-story.md)** about people remembered at the cemetery. 
 
-Individual stories have been grouped into **over 40 themed collections** below. 
+Individual stories have been grouped into **over 40 themed collections** below. Stories marked with :fontawesome-solid-person-walking: are also self-guided walks.
 
-Stories marked with :fontawesome-solid-person-walking: are **[self-guided walks](../walks/index.md)** with maps and directions. 
+## Featured Stories
 
-<figure markdown>
-  ![State Library of Queensland's reading room, Brisbane, 1902](../assets/slq-reading-room-1902-16x9.jpg){ width="100%" align=left }
-  <figcaption markdown>[State Library of Queensland's reading room, Brisbane, 1902](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21298102690002061) - State Library of Queensland. Cropped.</figcaption>
-</figure>
+<div class="grid cards" markdown>  
 
-You may also be interested in our books:
+-   :octicons-gift-16:{ .lg .middle } **[Christmas Shopping 1877][christmas-shopping-1877]** 
+  
+    ---
 
-- **[Extraordinary Stories of Ordinary People](../about/extraordinary-stories.md)**, a compilation of stories submitted by the public about people buried at Toowong Cemetery.
-- **[Colonel Samuel Wensley Blackall: 1809-1871](../assets/documents/samuel-blackall.pdf)**, commemorating the 140^th^ anniversary of Toowong Cemetery and the internment of Governor Samuel Wensley Blackall.
+    Read the stories of Brisbane's shopkeepers in 1877 that helped locals celebrate Christmas.
+
+-   :fontawesome-solid-building-columns:{ .lg .middle } **[Brisbane Mayors][brisbane-mayors]**
+  
+    ---
+
+    Read about 14 Brisbane Mayors from 1859 to 1931 who are buried in Toowong Cemetery.
+
+</div>
 
 
 ## Political stories
@@ -74,6 +80,7 @@ You may also be interested in our books:
 - **[Conflict and Compassion](conflict-and-compassion.md)** 
 
 <!-- - **[Toowong Cemetery Remembrance Walk][remembrance-walk]** - explore the lives of Queensland's volunteer troops and take a moment to reflect on the service and sacrifice for which the Anzac Legend is known. -->
+
 ## Community stories 
 
 - **[The Irish][irish]** 
@@ -82,7 +89,7 @@ You may also be interested in our books:
 
 ## Other themed stories
 
-- **[Christmas Shopping 1877](christmas-shopping-1877.md)** - stories about shop keepers and Christmas in 1877
+- **[Christmas Shopping 1877][christmas-shopping-1877]** - stories about shop keepers and Christmas in 1877
 - **[Steam](steam.md)** - stories about our steam-driven past
 - **[Building Brisbane][brisbane-open-house]** - recalling the builders of early Brisbane
 - **[Convicts][convicts]** - connections to our convict past
@@ -102,6 +109,12 @@ You may also be interested in our books:
 - **[Portions 6 and 24](portion6-and-24.md)** 
 - **[Portions 15 and 16](portion15-and-16.md)** 
 
+## Story Books
+
+You may also be interested in our books:
+
+- **[Extraordinary Stories of Ordinary People][Extraordinary Stories]**, a compilation of stories submitted by the public about people buried at Toowong Cemetery.
+- **[Colonel Samuel Wensley Blackall: 1809-1871](../assets/documents/samuel-blackall.pdf)**, commemorating the 140^th^ anniversary of Toowong Cemetery and the internment of Governor Samuel Wensley Blackall.
 
 <!-- 
 Missing stories
@@ -110,6 +123,12 @@ Missing stories
 - November 2021	Laid to rest in 1921, hosted by Darcy Maddock
 
 -->
+
+
+<figure markdown>
+  ![State Library of Queensland's reading room, Brisbane, 1902](../assets/slq-reading-room-1902-16x9.jpg){ width="100%" align=left }
+  <figcaption markdown>[State Library of Queensland's reading room, Brisbane, 1902](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21298102690002061) - State Library of Queensland. Cropped.</figcaption>
+</figure>
 
 <!-- links to pages or pdfs -->
 
@@ -150,5 +169,6 @@ Missing stories
 [children]: children.md
 [brisbane-open-house]: brisbane-open-house.md
 
-[bcc-walk-1]: bcc-walk-1.md
-[bcc-walk-2]: bcc-walk-2.md
+[christmas-shopping-1877]: christmas-shopping-1877.md
+
+[Extraordinary Stories]: ../about/extraordinary-stories.md
