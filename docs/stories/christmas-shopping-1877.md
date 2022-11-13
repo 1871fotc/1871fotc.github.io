@@ -13,7 +13,7 @@ hide:
 **Stories about shop keepers and Christmas in 1877**
 
 <figure markdown>
-  ![People gathered in front of Finney, Isles & Co, corner Queen and Edward Streets, Brisbane, ca. 1873](../assets/finney-isles-co-store-1873.jpg){ width="70%"  class="full-width" }
+  ![People gathered in front of Finney, Isles & Co, corner Queen and Edward Streets, Brisbane, ca. 1873](../assets/finney-isles-co-store-1873-sml.jpg){ width="70%"  class="full-width" }
   <figcaption markdown>[People gathered in front of Finney, Isles & Co, corner Queen and Edward Streets, Brisbane, ca. 1873](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/tqqf2h/alma99183513700802061) — State Library of Queensland.</figcaption>
 </figure>
 
