@@ -161,7 +161,6 @@ Compiled and presented by
 - [Trove](https://trove.nla.gov.au) - National Library of Australia
 - [Grave Location Search](https://graves.brisbane.qld.gov.au) - Brisbane City Council
 - [One Search](https://www.slq.qld.gov.au/search), The State of Queensland (State Library of Queensland) 2016 
-- [Trove](https://trove.nla.gov.au) - National Library of Australia
 
 <!--
 <div class="noprint" markdown="1">
