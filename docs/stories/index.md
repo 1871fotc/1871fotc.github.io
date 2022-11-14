@@ -102,7 +102,7 @@ Individual stories have been grouped into **over 40 themed collections** below. 
 - **[Children][children]** - Suffer the little children, and forbid them not, to come unto me
 - **[Mothers](mothers.md)** 
 
-## Stories by Portion  
+## Stories by Portion
 
 - **[Portion 5 - part 1](portion5-part1.md)** 
 - **[Portion 5 - part 2](portion5-part2.md)** 
