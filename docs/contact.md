@@ -44,6 +44,7 @@ You can send a letter to:
 *<small>[Woman typing on a typewriter, ca. 1915](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218088650002061) - State Library of Queensland.</small>*
 -->
 
-![Telephonists working at the, Brisbane Central telephone exchange, Brisbane, 1910](assets/brisbane-telephone-exchange.jpg)
-
-*<small>[Telephonists working at the, Brisbane Central telephone exchange, Brisbane, 1910](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21297980500002061) - State Library of Queensland.</small>*
+<figure markdown>
+  ![Telephonists working at the, Brisbane Central telephone exchange, Brisbane, 1910](assets/brisbane-telephone-exchange.jpg){ width="70%" class="full-width" }
+  <figcaption markdown>[Telephonists working at the, Brisbane Central telephone exchange, Brisbane, 1910](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/bumb4u/alma99184003680302061) — State Library of Queensland.</figcaption>
+</figure>
