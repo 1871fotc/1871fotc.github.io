@@ -11,6 +11,9 @@ search:
   exclude: true
 ---
 
+--8<-- "snippets/sem/stories/the-other-half.json"
+
+
 # The Other Half 
 
 **Stories about women who made an impact on Queensland**
@@ -101,7 +104,7 @@ Mary and Patrick had six children, of whom three sons and two daughters reached 
 
 A codicil to Patrick’s will appointed Mary as executrix of the Mayne estate. After his death on 17 August 1865, Mary largely controlled the management of the estate. In March 1876 she bought *Moorlands Villa* to become the family home and almost six hectares of land on which it stood at Auchenflower. Mary died of coronary heart disease at the age of 63 on 4 September 1889.
 
-Mary Emelia Mayne, born 31 December 1858, was the second youngest daughter of Mary and Patrick. She was a philanthropist along with her brother, James.
+Mary Emelia Mayne, born 31 December 1858, was the second youngest daughter of Mary and Patrick. [She was a philanthropist](https://trove.nla.gov.au/newspaper/article/22759764) along with her brother, James.
 
 <figure markdown>
   ![Emelia Mayne](../assets/mary-emelia-mayne.jpg){ width="40%" class="full-width" }
