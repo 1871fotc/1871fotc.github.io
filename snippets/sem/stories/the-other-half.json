@@ -1,0 +1,42 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "name": "The Other Half",
+  "headline": "Stories about women who made an impact on Queensland",
+  "keywords": [
+    "Toowong Cemetery Stories"
+  ],
+  "dateModified": "2022-11-20",
+  "datePublished": "2022-11-20",
+  "inLanguage": "en", 
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.fotc.au/#/schema/organization/1",
+    "name": "Friends of Toowong Cemetery Association Inc.",
+    "url": "https://www.fotc.au/"
+  },
+  "author": {
+    "@id": "https://www.fotc.au/#/schema/organization/1"
+  },   
+  "image": [
+    "https://www.fotc.au/assets/logo/fotc-1x1.png", 
+    "https://www.fotc.au/assets/logo/fotc-banner-4x3.png", 
+    "https://www.fotc.au/assets/images/social/stories/the-other-half.png"
+  ],
+  "about": {
+    "@type": "Place",
+    "name": "Toowong Cemetery",
+    "sameAs": [
+      "https://en.wikipedia.org/wiki/Toowong_Cemetery", 
+      "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery"
+    ]
+  },
+  "mentions": [
+    {"@type": "Person","name": "William Perry","sameAs": "https://en.wikipedia.org/wiki/William_Perry_(Queensland_businessman)"}, 
+    {"@type": "Person","name": "Mary Harriett Griffith","sameAs": "https://en.wikipedia.org/wiki/Mary_Harriett_Griffith"}, 
+    {"@type": "Place","name": "Mary ‘Eva’ O’Doherty","sameAs": "https://en.wikipedia.org/wiki/Mary_Eva_Kelly"}, 
+    {"@type": "Person","name": "Mary Emelia Mayne","sameAs": "https://en.wikipedia.org/wiki/Mary_Emelia_Mayne"}
+  ]
+}
+</script>
