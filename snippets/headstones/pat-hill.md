@@ -1,6 +1,6 @@
 ### Headstone  
 
-![Pat Hill headstone](../assets/pat-hill-headstone.jpg){ width="40%" }
+![Pat Hill headstone](../assets/pat-hill-headstone.jpg){ width="70%" class="full-width" }
 
 *<small>Pat Hill's headstone</small>*
 

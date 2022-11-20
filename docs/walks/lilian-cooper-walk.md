@@ -235,12 +235,11 @@ After this time, Urquhart moved and was appointed administrator of the Northern 
 
 --8<-- "snippets/pat-hill.md"
 
-![image of headstone](../assets/pat-hill-headstone.jpg){ width="90%" }
+![image of headstone](../assets/pat-hill-headstone.jpg)
 
 ???+ directions "Directions" 
 
     :fontawesome-solid-person-walking-arrow-loop-left:{ .deep-purple } retrace your steps and return to the start.
-
 
 ## Copyright and Attribution 
 
