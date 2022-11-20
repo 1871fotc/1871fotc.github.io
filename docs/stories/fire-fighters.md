@@ -11,6 +11,8 @@ search:
   exclude: true
 ---
 
+--8<-- "snippets/sem/stories/fire-fighters.json"
+
 # Fire fighters of early Brisbane
 
 **Stories about people remembered in Toowong Cemetery and how fire impacted their lives**
@@ -112,13 +114,6 @@ On 19 August 1871 a [fire broke out in Mary Mayne's stables](https://trove.nla.g
 
 On 23 March 1877 a fire broke out at the premises of William Hughes, a grocer and wine and spirit merchant in Refuge Row. Superintendent Beattie with several members of [the City Volunteer Fire Brigade attended the fire](https://trove.nla.gov.au/newspaper/article/169510018). The fire was contained but not before one of the firemen, James Thomas Mooney (1855-1877) suffered burns which [resulted in his death](https://trove.nla.gov.au/newspaper/article/181784650) two days later.
 
-<figure markdown>
-  ![Headstone of James Thomas Mooney](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?dps_pid=IE193343&dps_func=thumbnail){ width="40%" class="full-width" }
-  <figcaption markdown>[Headstone of James Thomas Mooney](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183507980102061). — State Library of Queensland.</figcaption>
-</figure>
-
-**Action: Get Photo and Inscription**
-
 <!--
 <figure markdown>
   ![Grave of James Mooney](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?dps_pid=IE175607&dps_func=thumbnail){ width="40%" class="full-width" }
@@ -152,11 +147,10 @@ the street.
 A monument over his grave erected by his fire brigade and railway comrades and friends was publicly unveiled by Hon. A. G. C. Hawthorn, M.L.C. on Sunday, 12 April 1914.
 
 <figure markdown>
-  ![William Henry Sowray's monument](../assets/???.jpg){ width="40%" class="full-width" }
-  <figcaption markdown>William Henry Sowray's monument</figcaption>
+  ![William Henry Sowray's headstone](../assets/william-henry-sowray-headstone.jpg){ class="full-width" }
+  <figcaption markdown>William Henry Sowray's headstone</figcaption>
 </figure>
 
-**Action: Get Photo and Inscription**
 
 ## Acknowledgements
 
