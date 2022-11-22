@@ -22,7 +22,7 @@ search:
   <figcaption markdown>[Brisbane Fire Brigade Station, ca. 1899](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183513704502061). Erected on the north east corner of Ann and Edward Street in 1890.  — State Library of Queensland.</figcaption>
 </figure>
 
-Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
+--8<-- "snippets/toowong-cementry-map.md"
 
 ## Brisbane Fire Brigades
 
@@ -42,25 +42,9 @@ Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you vis
 
 ## Edward Barrow Forrest <small>(9‑37‑1)</small> & Robert Russell Smellie <small>(13‑60‑5/10)</small>
 
-In the early hours of 6 September 1864 [Edward Forrest noticed a bright light](https://trove.nla.gov.au/newspaper/article/1261617) in the home newly constructed for recent Scottish immigrant, Robert Smellie on Bowen Terrace. Mr Forrest raised the alarm, woke the Hingston family whose house was next door to the fire, and rescued two horses from the stable.
+--8<-- "snippets/edward-barrow-forrest.md"
 
-[Robert Smellie (1823-1898)]() was later a pioneer of Brisbane's engineering and iron foundry trade. 
-
-[Edward Forrest (1838-1914)](https://adb.anu.edu.au/biography/forrest-edward-barrow-6209) was Queensland director of the Colonial Sugar Refining Company for many years. He was appointed vice-consul for France in 1872 and served in both Houses of Queensland Parliament.
-
-<figure markdown>
-  ![Edward Barrow Forrest, 1907](../assets/edward-barrow-forrest-1907.jpg){ width="30%" class="full-width" }
-  <figcaption markdown>[Edward Barrow Forrest, 1907](https://en.wikipedia.org/wiki/Edward_Barrow_Forrest#/media/File:Edward_Barrow_Forrest,_1907.jpg). — Wikimedia Commons.</figcaption>
-</figure>
-
-## Francis Beattie <small>(9‑39‑7)</small>
-
-The fire alarm bell rang just after 4.30am on 21 December 1871. [The Ann Street Presbyterian Church was ablaze](https://trove.nla.gov.au/newspaper/article/1303176). The City Volunteer Fire Brigade under Superintendent [Francis Beattie (1829-1886)](https://en.wikipedia.org/wiki/Francis_Beattie_(Queensland_politician)) attended. Beattie was appointed Deputy-Superintendent of the City Volunteer Fire Brigade in 1868 and Superintendent of the Brigade in 1870 and continued in that role with the Brisbane Fire Brigade from 1878 until he retired in 1883. After settling in Brisbane in 1862, he opened a hat and cap shop. He served as an alderman for the Fortitude Valley Ward and two terms as MLA for the Fortitude Valley electorate.
-
-<figure markdown>
-  ![Alderman Francis Beattie, ca.1870](../assets/francis-beattie.jpg){ width="75%" class="full-width" }
-  <figcaption markdown>[Alderman Francis Beattie, ca.1870](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:19696/email?qu=Alderman+Francis+Beattie&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&d=ent%3A%2F%2FSD_ASSET%2F0%2FSD_ASSET%3A19696%7E%7E0&te=ASSET&lm=ALL_ASSETS). — Brisbane City Council.</figcaption>
-</figure>
+--8<-- "snippets/francis-beattie.md"
 
 ## Thomas Proe <small>(13‑35‑9)</small>
 
@@ -71,44 +55,17 @@ Alderman Thomas Proe (1852-1922) was the Brisbane Municipal Council representati
   <figcaption markdown>[Interior of the fire brigade building in Brisbane, 1908](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99184004708302061). — State Library of Queensland.</figcaption>
 </figure>
 
-## Nicholas Frederick Peut <small>(13‑44‑13)</small>
+--8<-- "snippets/nicholas-frederick-peut.md"
 
-Nicholas Peut (1856-1892) was appointed to the Brisbane Fire Brigade as resident foreman of No 2 station located at Stanley Street, South Brisbane in 1883. He became Superintendent at South Brisbane in January 1888 and continued in that role with the inception of permanent Fire Brigades with full time staff in Brisbane in 1889. [He was fatally injured](https://trove.nla.gov.au/newspaper/article/3552275) on 5 December 1892.
+--8<-- "snippets/david-thomas-stewart.md"
 
-<figure markdown>
-  ![South Brisbane Fire Station, ca. 1900](../assets/south-brisbane-fire-station-1900.jpg){ width="70%" class="full-width" }
-  <figcaption markdown>[South Brisbane Fire Station, ca. 1900](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183507972502061). — State Library of Queensland.</figcaption>
-</figure>
+--8<-- "snippets/james-dunbar.md"
 
-## David Thomas Stewart <small>(13‑7‑19/20)</small>
+--8<-- "snippets/francis-murray.md"
 
-David Stewart (1826-1897) was a leader in the foundation of the City Volunteer Fire Brigade and succeeded Francis Beattie as Deputy Superintendent of the Brigade in 1870. On 3 April that year he was in charge when the Brigade attended a [fire at the Queensland Club](https://trove.nla.gov.au/newspaper/article/1315243). A boot and shoemaker by trade, he arrived in Sydney in 1834 with his parents and first came to Brisbane in 1860.
+--8<-- "snippets/martin-moffatt.md"
 
-## James Dunbar <small>(1‑8‑14)</small>
-
-James Dunbar (ca.1837-1920) was appointed station keeper at the Central Fire Station in Edward Street in 1867 and was [the oldest known fireman in Brisbane](https://trove.nla.gov.au/newspaper/article/179640595) when he died at the age of 83 on 22 November 1920. His service spanned the period from when hand drawn fire appliances were used to the introduction of motor fire trucks.
-
-<figure markdown>
-  ![Merryweather chemical fire engine ca. 1905](../assets/merryweather-chemical-fire-engine-1905.jpg){ width="70%" class="full-width" }
-  <figcaption markdown>[Merryweather chemical fire engine ca. 1905](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/tqqf2h/alma99184004871002061). Brisbane's first motorised firefighting vehicle. — State Library of Queensland.</figcaption>
-</figure>
-
-## Francis Murray <small>(15‑3‑20)</small>
-
-A [fire broke out on 27 July 1872](https://trove.nla.gov.au/newspaper/article/1292111) in the premises used as a workshop by Alderman Francis Murray (1838-1872) who was also an undertaker and cabinetmaker. [Francis Murray died on 15 August 1872](https://trove.nla.gov.au/newspaper/article/27272282) at Maryborough Queensland aged 34 years His coffin was brought to Brisbane on the steamship Lady Bowen for the funeral at St. Stephens Cathedral on 18 August 1872.
-
-## Martin Moffatt <small>(7A‑74‑14)</small>
-
-Martin Moffatt (ca.1843-1905) was the station keeper of the Valley Fire Station in Ann Street. He attended many of the major fires in Brisbane during his 31 years of service, including one at Alfred Shaw & Co in 1891 when [he was seriously injured](https://trove.nla.gov.au/newspaper/article/184253875). He was born in Antrim Ireland in 1842, the son of Luke Moffatt and Isabella McCormick. He married Mary McAlister in 1871 in Brisbane.
-
-<figure markdown>
-  ![Great fire in Queen Street, Brisbane 1864](../assets/queen-street-fire-1864.jpg){ width="70%" class="full-width" }
-  <figcaption markdown>[Great fire in Queen Street, Brisbane 1864](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/tqqf2h/alma99183505953002061). — State Library of Queensland.</figcaption>
-</figure>
-
-## Mary Mayne <small>(7‑49‑9)</small>
-
-On 19 August 1871 a [fire broke out in Mary Mayne's stables](https://trove.nla.gov.au/newspaper/article/1314130) and spread to the adjoining Cobb & Co stables. The City Volunteer Fire Brigade under Francis Beattie was summoned. [Mary Mayne (1826-1889)](https://adb.anu.edu.au/biography/mayne-mary-13272) was the widow of Patrick Mayne and an astute businesswoman who took over management of Patrick's estate and later conducted her own business interests.
+--8<-- "snippets/mary-mayne.md"
 
 ## James Thomas Mooney <small>(7‑45‑10)</small>
 
@@ -130,9 +87,7 @@ Walter Thorpe Olding (1888-1912) was born in Queensland. When fire broke out in 
   <figcaption markdown>[Warehouse destroyed by fire in Edward Street, Brisbane, 1912](https://trove.nla.gov.au/newspaper/page/21126876), from *The Week*, 3 May 1912. — National Library of Australia.</figcaption>
 </figure>
 
-## John Deazeley <small>(1‑37‑4)</small>
-
-Irish-born John Deazeley (1831-1890) operated a photographic studio at the top of Queen Street. On 31 January 1875 a [fire broke out in the studio](https://trove.nla.gov.au/newspaper/article/169480301). The Fire Brigade was quickly on the scene, assisted by officers and crew of the *HMS Barracouta*. After the fire was extinguished, cash and valuable documents were found to be missing from Mr Deazeley's cash box.
+--8<-- "snippets/john-deazeley.md"
 
 ## William Henry Sowray <small>(1‑50A‑1)</small>
 
@@ -151,7 +106,6 @@ A monument over his grave erected by his fire brigade and railway comrades and f
   <figcaption markdown>William Henry Sowray's headstone</figcaption>
 </figure>
 
-
 ## Acknowledgements
 
 Written by Lyn Maddock
@@ -159,12 +113,3 @@ Written by Lyn Maddock
 ## Learn more 
 
 [Fire! fire! Queensland fire brigade histories](https://www.slq.qld.gov.au/blog/fire-fire-queensland-fire-brigade-histories) - State Library of Queensland.
-
-<!--
-## Sources
-
-- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
-- [Trove](https://trove.nla.gov.au) - National Library of Australia
-- [Australian Dictionary of Biography](https://adb.anu.edu.au) - Australian National University
-- http://thefashionarchives.org/ *(broken link)*
--->
