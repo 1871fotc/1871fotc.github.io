@@ -13,7 +13,7 @@ hide:
 
 On 19 August 1903, the Shire of Toowong was proclaimed a town. At the time, the population numbered about 4700. The town grew rapidly, reaching 10,000 residents by 1922. Three years later the Toowong Town Council was absorbed into the Brisbane City Council.^1^ 
 
-Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
+--8<-- "snippets/toowong-cemetery-map.md"
 
 <!-- In August 2003, community celebrations were held to mark the centenary. 
 

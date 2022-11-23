@@ -12,7 +12,7 @@ hide:
 
 These stories cover many of the early Mayors of the Town of Brisbane. The City of Brisbane replaced the Town of Brisbane in 1903, which was then replaced by the new City of Brisbane in 1925.
 
-Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
+--8<-- "snippets/toowong-cemetery-map.md"
 
 
 <!--

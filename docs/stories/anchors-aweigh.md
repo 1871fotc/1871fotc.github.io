@@ -19,7 +19,7 @@ The allegorical figure, Hope, is often shown holding an anchor. Anchors may be s
 
 ![Anchor on headstone](../assets/anchor.jpg){ width="40%" }
 
-Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
+--8<-- "snippets/toowong-cemetery-map.md"
 
 
 --8<-- "snippets/william-john-harrhy.md"

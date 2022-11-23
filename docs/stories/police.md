@@ -12,8 +12,7 @@ hide:
 
 These are the stories of some of the police buried in Toowong Cemetery. There are many more and we thank them all for their service.
 
-Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
-
+--8<-- "snippets/toowong-cemetery-map.md"
 
 --8<-- "snippets/christopher-francis.md"
 ^1^

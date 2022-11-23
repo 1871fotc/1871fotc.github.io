@@ -7,7 +7,7 @@ hide:
 
 **Queensland's own suffrage story** 
 
-Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
+--8<-- "snippets/toowong-cemetery-map.md"
 
 <!--
 ???+ directions "Directions" 

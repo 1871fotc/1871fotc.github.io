@@ -22,7 +22,7 @@ search:
   <figcaption markdown>[Brisbane Fire Brigade Station, ca. 1899](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183513704502061). Erected on the north east corner of Ann and Edward Street in 1890.  — State Library of Queensland.</figcaption>
 </figure>
 
---8<-- "snippets/toowong-cementry-map.md"
+--8<-- "snippets/toowong-cemetery-map.md"
 
 ## Brisbane Fire Brigades
 

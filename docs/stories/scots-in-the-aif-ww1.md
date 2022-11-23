@@ -8,8 +8,7 @@ hide:
 
 **Stories about Scots in the Australian Imperial Force remembered in Toowong Cemetery**
 
-Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
-
+--8<-- "snippets/toowong-cemetery-map.md"
 
 <!-- TODO
 ## Private John Jack <small>()</small>

@@ -7,8 +7,7 @@ hide:
 
 # More Print Media Identities of Early Brisbane  
 
-Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
-
+--8<-- "snippets/toowong-cemetery-map.md"
 
 --8<-- "snippets/richard-oldfield-white.md"
 

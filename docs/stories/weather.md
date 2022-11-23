@@ -14,7 +14,7 @@ hide:
   <figcaption markdown>[The 'Young Australia' wrecked at Moreton Island, Queensland](https://collections.slsa.sa.gov.au/resource/PRG+1373/5/9) — State Library of South Australia  - PRG 1373/5/9</figcaption>
 </figure>
 
-Use the [Toowong Cementry map](../index.md#toowong-cemetery-map) to help you visit the graves in this story.
+--8<-- "snippets/toowong-cemetery-map.md"
 
 <!--
 ![Map](../assets/toowong-identities-1-map.png){ width="40%" }

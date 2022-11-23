@@ -18,6 +18,9 @@ search:
 
 **Stories about women who made an impact on Queensland**
 
+--8<-- "snippets/toowong-cemetery-map.md"
+
+
 ## Annie Perry <small>(13‑70‑5)</small>
 
 Annie Perry was the daughter of William Harcourt, a brass founder and his wife, Elizabeth Mills. She was born on 5 September 1834 in Edgbaston, a suburb of Birmingham in England. Annie arrived in Sydney with her parents and sister on the ship La Hogue on 26 October 1860. On 27 February 1862 she was married in St Philips’ Church in Sydney by the Anglican Dean of Sydney to William Perry, one of Brisbane’s early businessmen and later a member of the Qld Legislative Council.
