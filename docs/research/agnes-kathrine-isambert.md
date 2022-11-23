@@ -10,3 +10,5 @@ hide:
 **1874 — 7 June 1956**
 
 --8<-- "snippets/agnes-kathrine-isambert.md"
+
+--8<-- "snippets/add-to-this-story.md"

@@ -11,3 +11,5 @@ hide:
 **1854 — 1 April 1928**
 
 --8<-- "snippets/andrew-lang-petrie.md"
+
+--8<-- "snippets/add-to-this-story.md"

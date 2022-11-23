@@ -10,3 +10,5 @@ hide:
 **ca. 1882 — 11 October 1964**
 
 --8<-- "snippets/annie-mcgarrigal.md"
+
+--8<-- "snippets/add-to-this-story.md"

@@ -16,3 +16,5 @@ search:
 <!--
 ![Arthur Hoey Davis](../assets/arthur-hoey-davis.jpg){ width="32%" }
 -->
+
+--8<-- "snippets/add-to-this-story.md"

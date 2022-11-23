@@ -9,3 +9,5 @@ hide:
 **16 July 1863 — 20 July 1910**
 
 --8<-- "snippets/anderson-dawson.md"
+
+--8<-- "snippets/add-to-this-story.md"

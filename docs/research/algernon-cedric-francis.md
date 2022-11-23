@@ -10,3 +10,5 @@ hide:
 **1896 — 8 November 1916**
 
 --8<-- "snippets/algernon-cedric-francis.md"
+
+--8<-- "snippets/add-to-this-story.md"

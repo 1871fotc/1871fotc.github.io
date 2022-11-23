@@ -11,3 +11,5 @@ hide:
 **1837 — ca. 10 May 1920**
 
 --8<-- "snippets/alfred-roberts.md"
+
+--8<-- "snippets/add-to-this-story.md"

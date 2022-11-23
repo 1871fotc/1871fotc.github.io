@@ -1,6 +1,5 @@
 ---
 title: Augustus Charles Gregory
-description: DESCRIPTION
 hide:
   - toc
   - navigation 
@@ -11,3 +10,5 @@ hide:
 **1 August 1819 — 25 June 1905**
 
 --8<-- "snippets/augustus-charles-gregory.md"
+
+--8<-- "snippets/add-to-this-story.md"

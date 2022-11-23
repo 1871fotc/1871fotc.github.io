@@ -11,3 +11,5 @@ hide:
 **1817 — 1908**
 
 --8<-- "snippets/anne-devoy.md"
+
+--8<-- "snippets/add-to-this-story.md"

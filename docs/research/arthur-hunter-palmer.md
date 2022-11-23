@@ -11,3 +11,5 @@ hide:
 **28 December 1819 — 20 March 1898**
 
 --8<-- "snippets/arthur-hunter-palmer.md"
+
+--8<-- "snippets/add-to-this-story.md"

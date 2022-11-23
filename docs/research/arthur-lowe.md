@@ -13,3 +13,6 @@ hide:
 ### Learn more
 
 - Read how [Friends of Queensland Police Museum restored Arthur Lowe's grave](https://www.friendsqpmuseum.com.au/project/auto-draft/)
+
+
+--8<-- "snippets/add-to-this-story.md"

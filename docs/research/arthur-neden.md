@@ -17,3 +17,6 @@ Sergeant First Class Arthur Neden collapsed and died from a heart attack whilst 
 ### Acknowledgement
 
 Story contributed by Kym Hyson. Used with permission.
+
+
+--8<-- "snippets/add-to-this-story.md"

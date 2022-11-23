@@ -10,3 +10,5 @@ hide:
 **7 June 1826 — 20 January 1911**
 
 --8<-- "snippets/agnes-susan-maclean.md"
+
+--8<-- "snippets/add-to-this-story.md"

@@ -12,3 +12,5 @@ hide:
 ## Able Seaman Archibald Edward Bartsch <small>(10‑44‑20)</small>
 
 --8<-- "snippets/bartsch-theeman-harrison.md"
+
+--8<-- "snippets/add-to-this-story.md"

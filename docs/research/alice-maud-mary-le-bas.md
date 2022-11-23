@@ -10,3 +10,5 @@ hide:
 **Died 25 September 1886**
 
 --8<-- "snippets/alice-maud-mary-le-bas.md"
+
+--8<-- "snippets/add-to-this-story.md"

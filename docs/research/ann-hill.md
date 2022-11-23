@@ -31,3 +31,5 @@ that linger the longest <br>
 Like thise that decay while their <br>
 branches are green
 >
+
+--8<-- "snippets/add-to-this-story.md"

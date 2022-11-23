@@ -11,3 +11,6 @@ hide:
 **1910 — 10 August 1933**
 
 --8<-- "snippets/amos-roy-goddard.md"
+
+
+--8<-- "snippets/add-to-this-story.md"

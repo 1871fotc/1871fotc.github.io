@@ -11,3 +11,5 @@ hide:
 **1811 — 1888**
 
 --8<-- "snippets/andrew-purcell.md"
+
+--8<-- "snippets/add-to-this-story.md"

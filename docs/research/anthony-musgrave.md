@@ -11,3 +11,5 @@ hide:
 **17 November 1828 — 9 October 1888**
 
 --8<-- "snippets/anthony-musgrave.md"
+
+--8<-- "snippets/add-to-this-story.md"

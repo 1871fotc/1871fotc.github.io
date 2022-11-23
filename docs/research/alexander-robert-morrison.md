@@ -9,3 +9,5 @@ hide:
 **9 July 1885 — 2 May 1939**
 
 --8<-- "snippets/alexander-robert-morrison.md"
+
+--8<-- "snippets/add-to-this-story.md"
