@@ -11,3 +11,5 @@ hide:
 **ca. 1870 — 14 August 1897**
 
 --8<-- "snippets/elizabeth-powell.md"
+
+--8<-- "snippets/add-to-this-story.md"

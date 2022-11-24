@@ -11,3 +11,5 @@ hide:
 **ca. 1893 — 26 December 1912**
 
 --8<-- "snippets/edward-arthur-gordon.md"
+
+--8<-- "snippets/add-to-this-story.md"

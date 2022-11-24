@@ -10,3 +10,5 @@ hide:
 **ca. 1903 — 31 October 1927**
 
 --8<-- "snippets/ethel-ivy-ellen-amess.md"
+
+--8<-- "snippets/add-to-this-story.md"

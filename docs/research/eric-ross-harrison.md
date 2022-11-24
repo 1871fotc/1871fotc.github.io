@@ -12,3 +12,5 @@ hide:
 ## Steward Eric Ross Harrison <small>(10‑43‑7)</small>
 
 --8<-- "snippets/bartsch-theeman-harrison.md"
+
+--8<-- "snippets/add-to-this-story.md"

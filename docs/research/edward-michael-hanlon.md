@@ -12,3 +12,6 @@ hide:
 --8<-- "snippets/edward-michael-hanlon.md"
 
 ![Edward Michael Hanlon](../assets/edward-michael-hanlon.jpg){ width="32%" }
+
+
+--8<-- "snippets/add-to-this-story.md"

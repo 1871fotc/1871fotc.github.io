@@ -11,3 +11,6 @@ hide:
 **1848 — 1 October 1921**
 
 --8<-- "snippets/ernest-eglinton.md"
+
+
+--8<-- "snippets/add-to-this-story.md"

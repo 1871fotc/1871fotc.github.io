@@ -11,3 +11,5 @@ hide:
 **12 June 1851 — 16 October 1911**
 
 --8<-- "snippets/edward-vincent-pollock.md"
+
+--8<-- "snippets/add-to-this-story.md"

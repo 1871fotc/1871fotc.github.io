@@ -10,3 +10,5 @@ hide:
 **ca. 1885 — 5 November 1944**
 
 --8<-- "snippets/ellen-margaret-kavanagh.md"
+
+--8<-- "snippets/add-to-this-story.md"

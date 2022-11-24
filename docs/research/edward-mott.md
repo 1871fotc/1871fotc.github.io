@@ -11,3 +11,5 @@ hide:
 **ca. 1807 — 28 August 1900**
 
 --8<-- "snippets/edward-mott.md"
+
+--8<-- "snippets/add-to-this-story.md"

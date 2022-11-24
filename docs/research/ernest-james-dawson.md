@@ -17,3 +17,6 @@ On January 19, 1931 a large funeral procession commenced in Ann Street, Brisbane
 ### Acknowledgement
 
 Story contributed by Kym Hyson. Used with permission.
+
+
+--8<-- "snippets/add-to-this-story.md"

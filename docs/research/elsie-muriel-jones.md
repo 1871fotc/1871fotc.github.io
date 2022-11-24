@@ -11,3 +11,5 @@ hide:
 **ca. 1889 — 17 May 1942**
 
 --8<-- "snippets/elsie-muriel-jones.md"
+
+--8<-- "snippets/add-to-this-story.md"
