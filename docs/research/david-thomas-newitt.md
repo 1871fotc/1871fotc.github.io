@@ -11,3 +11,5 @@ hide:
 **30 June 1890 — 2 September 1922**
 
 --8<-- "snippets/david-thomas-newitt.md"
+
+--8<-- "snippets/add-to-this-story.md"

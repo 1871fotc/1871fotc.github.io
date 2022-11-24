@@ -9,3 +9,5 @@ hide:
 **15 July 1878 — 18 May 1939**
 
 --8<-- "snippets/duncan-mcdougall.md"
+
+--8<-- "snippets/add-to-this-story.md"

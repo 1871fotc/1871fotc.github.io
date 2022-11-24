@@ -9,3 +9,5 @@ hide:
 **22 May 1893 — ca. February 1919**
 
 --8<-- "snippets/david-gordon-rattray.md"
+
+--8<-- "snippets/add-to-this-story.md"

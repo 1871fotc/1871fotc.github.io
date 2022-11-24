@@ -11,3 +11,5 @@ hide:
 **Born ca. 1824**
 
 --8<-- "snippets/david-muir.md"
+
+--8<-- "snippets/add-to-this-story.md"

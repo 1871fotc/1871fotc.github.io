@@ -14,3 +14,5 @@ hide:
 <!--
 ![David Bowman](../assets/david-bowman.jpg){ width="32%" }
 -->
+
+--8<-- "snippets/add-to-this-story.md"

@@ -26,3 +26,6 @@ description: The Architect of Anzac Day
 - [Anzac Day ritual](https://www.anzacsquare.qld.gov.au/stories/anzac-day-ritual-0) - State Library Queensland
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5yyTjotxG4c" title="Canon Garland’s Memorial digital story, 2017" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+
+
+--8<-- "snippets/add-to-this-story.md"
