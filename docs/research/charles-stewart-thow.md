@@ -10,3 +10,5 @@ hide:
 **ca. 1840 — 2 June 1883**
 
 --8<-- "snippets/charles-stewart-thow.md"
+
+--8<-- "snippets/add-to-this-story.md"

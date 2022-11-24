@@ -9,3 +9,5 @@ hide:
 **15 April 1845 — 31 December 1920**
 
 --8<-- "snippets/barnard-charles-evans.md"
+
+--8<-- "snippets/add-to-this-story.md"

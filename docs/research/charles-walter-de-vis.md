@@ -11,3 +11,5 @@ hide:
 **9 May 1829 — 30 April 1915**
 
 --8<-- "snippets/charles-walter-de-vis.md"
+
+--8<-- "snippets/add-to-this-story.md"

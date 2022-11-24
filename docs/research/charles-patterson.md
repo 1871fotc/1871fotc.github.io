@@ -11,3 +11,5 @@ hide:
 **Died 4 January 1926**
 
 --8<-- "snippets/charles-patterson.md"
+
+--8<-- "snippets/add-to-this-story.md"

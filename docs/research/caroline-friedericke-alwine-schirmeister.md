@@ -13,3 +13,5 @@ hide:
 ## Caroline Friedericke Alwine Schirmeister <small>(13‑25‑6)</small>
 
 --8<-- "snippets/carl-franz-alexander-and-caroline-friedericke-alwine-schirmeister.md"
+
+--8<-- "snippets/add-to-this-story.md"

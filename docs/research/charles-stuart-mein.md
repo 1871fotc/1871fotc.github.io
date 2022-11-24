@@ -11,3 +11,5 @@ hide:
 **14 June 1841 — 30 June 1890**
 
 --8<-- "snippets/charles-stuart-mein.md"
+
+--8<-- "snippets/add-to-this-story.md"

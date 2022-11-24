@@ -9,3 +9,5 @@ hide:
 **2 October 1836 — 19 February 1905**
 
 --8<-- "snippets/benjamin-harris-babbidge.md"
+
+--8<-- "snippets/add-to-this-story.md"

@@ -11,3 +11,5 @@ hide:
 **Died 1897**
 
 --8<-- "snippets/bezalel-saul-mendelsohn.md"
+
+--8<-- "snippets/add-to-this-story.md"

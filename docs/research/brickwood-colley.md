@@ -11,3 +11,6 @@ hide:
 **1849 — 1896**
 
 --8<-- "snippets/brickwood-colley.md"
+
+
+--8<-- "snippets/add-to-this-story.md"

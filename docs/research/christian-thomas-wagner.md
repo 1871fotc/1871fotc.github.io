@@ -10,3 +10,5 @@ hide:
 **1830 — 28 February 1903**
 
 --8<-- "snippets/christian-thomas-wagner.md"
+
+--8<-- "snippets/add-to-this-story.md"

@@ -11,3 +11,5 @@ hide:
 **31 March 1871 — 3 July 1941**
 
 --8<-- "snippets/charles-siemon.md"
+
+--8<-- "snippets/add-to-this-story.md"

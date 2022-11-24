@@ -11,3 +11,5 @@ hide:
 **10 May 1865 — 28 February 1929**
 
 --8<-- "snippets/charles-stumm.md"
+
+--8<-- "snippets/add-to-this-story.md"

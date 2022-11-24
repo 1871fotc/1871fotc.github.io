@@ -11,3 +11,5 @@ hide:
 **1862 — 25 January 1938**
 
 --8<-- "snippets/charles-frederick-augustus-garland.md"
+
+--8<-- "snippets/add-to-this-story.md"

@@ -11,3 +11,5 @@ hide:
 **ca. 1840 — 10 November 1915**
 
 --8<-- "snippets/christopher-francis.md"
+
+--8<-- "snippets/add-to-this-story.md"
