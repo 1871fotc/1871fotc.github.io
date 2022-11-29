@@ -11,3 +11,5 @@ hide:
 --8<-- "snippets/george-and-frederick-loesch.md"
 
 --8<-- "snippets/loesch-surnames.md"
+
+--8<-- "snippets/add-to-this-story.md"

@@ -11,3 +11,5 @@ hide:
 **1883 — 1931**
 
 --8<-- "snippets/frank-thorne.md"
+
+--8<-- "snippets/add-to-this-story.md"

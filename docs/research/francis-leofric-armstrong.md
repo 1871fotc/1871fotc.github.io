@@ -10,3 +10,5 @@ hide:
 **25 October 1880 — 10 May 1915**
 
 --8<-- "snippets/francis-leofric-armstrong.md"
+
+--8<-- "snippets/add-to-this-story.md"

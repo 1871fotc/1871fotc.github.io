@@ -11,3 +11,5 @@ hide:
 **1 January 1839 — 28 May 1897**
 
 --8<-- "snippets/francis-drummond-grenville-stanley.md"
+
+--8<-- "snippets/add-to-this-story.md"
