@@ -12,13 +12,13 @@ search:
 
 ## Guided Tours
 
-Friends of Toowong Cemetery run 10 different guided walking tours each year.
+Friends of Toowong Cemetery run 11 different guided walking tours each year.
 
 ![Pat Hill's headstone][image11]{ width="32%" } ![Harry Potter's headstone][image9]{ width="32%" } ![Cherub headstone][image8]{ width="32%" }
 
 **Guided tours are free** but donations are appreciated to help us continue **[our work](about/index.md)**.
 
-Tours are on the first Sunday of each month (March to December) from 10:30am to 12:00. 
+Tours are on the first Sunday of each month (February to December) from 10:30am to 12:00. 
 
 There's no need to book, just meet under the flagpole in Canon Garland Place at the Toowong Cemetery. There is plenty of parking available inside the cemetery. Wear a hat, enclosed shoes, and bring a water bottle.
 
