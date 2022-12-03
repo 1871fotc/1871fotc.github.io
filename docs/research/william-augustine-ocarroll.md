@@ -6,8 +6,12 @@ hide:
   - navigation 
 ---
 
+<!-- this one is in the index -->
+
 # William Augustine O’Carroll
 
 **1831 — 1885**
 
 --8<-- "snippets/william-augustine-ocarroll.md"
+
+--8<-- "snippets/add-to-this-story.md"
