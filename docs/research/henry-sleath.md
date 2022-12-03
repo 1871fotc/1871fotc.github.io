@@ -11,3 +11,5 @@ hide:
 **1828 — 21 May 1918**
 
 --8<-- "snippets/henry-sleath.md"
+
+--8<-- "snippets/add-to-this-story.md"

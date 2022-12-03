@@ -10,3 +10,5 @@ hide:
 **1832 — 3 October 1914**
 
 --8<-- "snippets/henry-marjoribanks-chester.md"
+
+--8<-- "snippets/add-to-this-story.md"

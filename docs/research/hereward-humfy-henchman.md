@@ -25,3 +25,5 @@ hide:
 <!--
 ### Acknowledgement
 -->
+
+--8<-- "snippets/add-to-this-story.md"

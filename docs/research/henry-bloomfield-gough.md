@@ -11,3 +11,5 @@ hide:
 **ca. 1845 — 29 January 1896**
 
 --8<-- "snippets/henry-bloomfield-gough.md"
+
+--8<-- "snippets/add-to-this-story.md"

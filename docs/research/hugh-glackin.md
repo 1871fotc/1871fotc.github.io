@@ -11,3 +11,5 @@ hide:
 **18 March 1844 — 22 September 1926**
 
 --8<-- "snippets/hugh-glackin.md"
+
+--8<-- "snippets/add-to-this-story.md"

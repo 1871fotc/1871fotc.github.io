@@ -12,3 +12,5 @@ hide:
 ## Warrant Officer Henry Theeman <small>(10‑41‑21)</small>
 
 --8<-- "snippets/bartsch-theeman-harrison.md"
+
+--8<-- "snippets/add-to-this-story.md"

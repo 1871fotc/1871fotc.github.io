@@ -10,3 +10,5 @@ hide:
 **1895 — 31 July 1917**
 
 --8<-- "snippets/henry-townsend-wilkins.md"
+
+--8<-- "snippets/add-to-this-story.md"

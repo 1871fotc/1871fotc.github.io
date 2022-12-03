@@ -9,3 +9,5 @@ hide:
 **20 May 1855 — 16 June 1901**
 
 --8<-- "snippets/henry-james-beatty.md"
+
+--8<-- "snippets/add-to-this-story.md"

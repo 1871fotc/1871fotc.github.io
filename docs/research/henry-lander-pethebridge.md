@@ -11,3 +11,5 @@ hide:
 **ca. 1835 — 13 June 1910**
 
 --8<-- "snippets/henry-lander-pethebridge.md"
+
+--8<-- "snippets/add-to-this-story.md"

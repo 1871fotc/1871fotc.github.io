@@ -9,3 +9,5 @@ hide:
 **24 September 1916 — 25 March 1918**
 
 --8<-- "snippets/iris-elizabeth-carson.md"
+
+--8<-- "snippets/add-to-this-story.md"

@@ -9,3 +9,5 @@ hide:
 **11 February 1843 — 15 November 1909**
 
 --8<-- "snippets/hugh-mosman.md"
+
+--8<-- "snippets/add-to-this-story.md"

@@ -20,3 +20,5 @@ hide:
 > RIP <br>
 
 -->
+
+--8<-- "snippets/add-to-this-story.md"

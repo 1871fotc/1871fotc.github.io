@@ -10,3 +10,5 @@ hide:
 **22 November 1896 — 14 June 1977**
 
 --8<-- "snippets/helena-veronica-luton.md"
+
+--8<-- "snippets/add-to-this-story.md"

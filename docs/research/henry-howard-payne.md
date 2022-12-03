@@ -11,3 +11,5 @@ hide:
 **ca. 1821 — 18 February 1903**
 
 --8<-- "snippets/henry-howard-payne.md"
+
+--8<-- "snippets/add-to-this-story.md"

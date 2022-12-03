@@ -12,3 +12,5 @@ hide:
 ## Ina Euphemia Wallace <small>(9‑46‑9)</small>
 
 --8<-- "snippets/bruce-and-ina-euphemia-wallace.md"
+
+--8<-- "snippets/add-to-this-story.md"

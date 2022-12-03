@@ -11,3 +11,5 @@ hide:
 --8<-- "snippets/isaac-walter-jenner.md"
 
 <!-- TODO reconcile with Walter Issac Jenner extraondinary story -->
+
+--8<-- "snippets/add-to-this-story.md"

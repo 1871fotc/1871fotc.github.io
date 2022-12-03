@@ -13,3 +13,5 @@ hide:
 -->
 
 --8<-- "snippets/hercules-smith.md"
+
+--8<-- "snippets/add-to-this-story.md"

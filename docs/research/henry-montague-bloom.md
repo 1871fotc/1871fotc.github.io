@@ -12,3 +12,5 @@ hide:
 -->
 
 --8<-- "snippets/henry-montague-bloom.md"
+
+--8<-- "snippets/add-to-this-story.md"
