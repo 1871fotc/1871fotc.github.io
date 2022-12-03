@@ -11,3 +11,5 @@ hide:
 --8<-- "snippets/richard-belford.md"
 
 --8<-- "snippets/headstones/richard-belford.md"
+
+--8<-- "snippets/add-to-this-story.md"

@@ -10,3 +10,5 @@ hide:
 **1890 — 21 October 1917**
 
 --8<-- "snippets/roy-nestor-sinclair-brown.md"
+
+--8<-- "snippets/add-to-this-story.md"

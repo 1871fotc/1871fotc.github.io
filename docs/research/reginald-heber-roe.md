@@ -9,3 +9,5 @@ hide:
 **3 August 1850 — 21 September 1926**
 
 --8<-- "snippets/reginald-heber-roe.md"
+
+--8<-- "snippets/add-to-this-story.md"

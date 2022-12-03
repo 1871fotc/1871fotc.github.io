@@ -11,3 +11,5 @@ hide:
 **1843 — 10 January 1905**
 
 --8<-- "snippets/robert-arthur-johnstone.md"
+
+--8<-- "snippets/add-to-this-story.md"

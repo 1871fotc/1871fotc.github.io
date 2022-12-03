@@ -11,3 +11,5 @@ hide:
 **17 October 1825 — 25 March 1885**
 
 --8<-- "snippets/ratcliffe-pring.md"
+
+--8<-- "snippets/add-to-this-story.md"

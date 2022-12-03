@@ -11,3 +11,5 @@ hide:
 **1830 — 1877**
 
 --8<-- "snippets/randal-macdonnell.md"
+
+--8<-- "snippets/add-to-this-story.md"

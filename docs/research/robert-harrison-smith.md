@@ -13,3 +13,5 @@ hide:
 --8<-- "snippets/robert-harrison-smith.md"
 
 Robert Harrison Smith occupied a now [heritage listed house](https://heritage.brisbane.qld.gov.au/heritage-places/193) at 180 Waterworks Road, Ashgrove, from 1894 to 1897. 
+
+--8<-- "snippets/add-to-this-story.md"

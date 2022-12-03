@@ -11,3 +11,5 @@ hide:
 **ca. 1805 — 16 April 1893**
 
 --8<-- "snippets/robert-cribb.md"
+
+--8<-- "snippets/add-to-this-story.md"

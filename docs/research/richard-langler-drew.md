@@ -9,3 +9,5 @@ hide:
 **9 October 1823 — 8 October 1869**
 
 --8<-- "snippets/richard-langler-drew.md"
+
+--8<-- "snippets/add-to-this-story.md"

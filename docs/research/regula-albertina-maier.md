@@ -12,3 +12,5 @@ hide:
 ## Regula Albertina Maier <small>(13‑15‑5)</small>
 
 --8<-- "snippets/ernst-otto-and-regula-albertina-maier.md"
+
+--8<-- "snippets/add-to-this-story.md"
