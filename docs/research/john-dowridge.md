@@ -11,3 +11,5 @@ hide:
 **1848 — 1922**
 
 --8<-- "snippets/john-dowridge.md"
+
+--8<-- "snippets/add-to-this-story.md"

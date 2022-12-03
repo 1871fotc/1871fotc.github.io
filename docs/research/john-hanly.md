@@ -15,3 +15,5 @@ Hanly was a member of the Royal Irish Constabulary for five years before joining
 ### Acknowledgement
 
 Story contributed by Kym Hyson. Used with permission.
+
+--8<-- "snippets/add-to-this-story.md"

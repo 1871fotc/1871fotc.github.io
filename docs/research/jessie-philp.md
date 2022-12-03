@@ -15,3 +15,5 @@ hide:
 ### Sources
 
 4: Kindly provided by descendants.
+
+--8<-- "snippets/add-to-this-story.md"

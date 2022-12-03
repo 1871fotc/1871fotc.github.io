@@ -11,3 +11,5 @@ hide:
 **ca. 1808 — 7 May 1889**
 
 --8<-- "snippets/james-davis.md"
+
+--8<-- "snippets/add-to-this-story.md"

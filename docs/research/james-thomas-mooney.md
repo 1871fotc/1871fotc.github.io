@@ -11,3 +11,5 @@ hide:
 **1855 — 1877**
 
 --8<-- "snippets/james-thomas-mooney.md"
+
+--8<-- "snippets/add-to-this-story.md"

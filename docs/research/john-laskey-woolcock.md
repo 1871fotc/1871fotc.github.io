@@ -11,3 +11,5 @@ hide:
 **7 November 1861 — 18 January 1929**
 
 --8<-- "snippets/john-laskey-woolcock.md"
+
+--8<-- "snippets/add-to-this-story.md"

@@ -10,3 +10,5 @@ hide:
 **10 January 1832 — 27 January 1833**
 
 --8<-- "snippets/jane-pittard.md"
+
+--8<-- "snippets/add-to-this-story.md"

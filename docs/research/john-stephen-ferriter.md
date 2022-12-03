@@ -9,3 +9,5 @@ hide:
 **24 August 1802 — 21 October 1865**
 
 --8<-- "snippets/john-stephen-ferriter.md"
+
+--8<-- "snippets/add-to-this-story.md"

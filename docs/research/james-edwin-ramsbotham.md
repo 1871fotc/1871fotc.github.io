@@ -10,3 +10,5 @@ hide:
 **4 November 1856 — 14 April 1913**
 
 --8<-- "snippets/james-edwin-ramsbotham.md"
+
+--8<-- "snippets/add-to-this-story.md"

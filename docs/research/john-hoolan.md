@@ -11,3 +11,5 @@ hide:
 --8<-- "snippets/john-hoolan.md"
 
 ![John Hoolan](../assets/john-hoolan.jpg){ width="32%" }
+
+--8<-- "snippets/add-to-this-story.md"

@@ -11,3 +11,5 @@ hide:
 **19 January 1827 — 20 December 1881**
 
 --8<-- "snippets/joshua-peter-bell.md"
+
+--8<-- "snippets/add-to-this-story.md"

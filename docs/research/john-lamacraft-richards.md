@@ -11,3 +11,5 @@ hide:
 **Died 1930**
 
 --8<-- "snippets/john-lamacraft-richards.md"
+
+--8<-- "snippets/add-to-this-story.md"

@@ -12,3 +12,5 @@ hide:
 ## Johann Christian Heussler <small>(13‑64‑11)</small>
 
 --8<-- "snippets/johann-christian-and-sophia-esther-heussler.md"
+
+--8<-- "snippets/add-to-this-story.md"

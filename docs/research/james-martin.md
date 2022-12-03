@@ -10,3 +10,5 @@ hide:
 **1838 — 25 November 1927**
 
 --8<-- "snippets/james-martin.md"
+
+--8<-- "snippets/add-to-this-story.md"

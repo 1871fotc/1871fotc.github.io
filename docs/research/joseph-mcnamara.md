@@ -11,3 +11,5 @@ hide:
 **23 May 1916 — 25 December 1941**
 
 --8<-- "snippets/joseph-mcnamara.md"
+
+--8<-- "snippets/add-to-this-story.md"

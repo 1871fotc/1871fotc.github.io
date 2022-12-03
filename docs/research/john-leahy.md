@@ -11,3 +11,5 @@ hide:
 **1854 — 1909**
 
 --8<-- "snippets/john-leahy.md"
+
+--8<-- "snippets/add-to-this-story.md"

@@ -15,3 +15,6 @@ hide:
 ### Learn more 
 
 - [Burke's flaming ocean - coastal shipping in Queensland](https://www.slq.qld.gov.au/blog/burkes-flaming-ocean-coastal-shipping-queensland) - State Library Of Queensland.
+  
+
+--8<-- "snippets/add-to-this-story.md"  

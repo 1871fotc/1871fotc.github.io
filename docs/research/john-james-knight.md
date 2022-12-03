@@ -9,3 +9,5 @@ hide:
 **7 June 1863 — 24 November 1927**
 
 --8<-- "snippets/john-james-knight.md"
+
+--8<-- "snippets/add-to-this-story.md"

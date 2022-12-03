@@ -10,3 +10,5 @@ hide:
 **16 February 1825 — 31 July 1891**
 
 --8<-- "snippets/johannes-lather.md"
+
+--8<-- "snippets/add-to-this-story.md"

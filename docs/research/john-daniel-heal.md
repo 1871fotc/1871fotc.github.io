@@ -15,3 +15,5 @@ hide:
 
 *<small>[Mayor John Daniel Heal](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/results?qu=Mayor+John+Daniel+Heal&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS) — Brisbane City Council.</small>* <br>
 *<small>[Prince Consort Hotel, Brisbane, 1936](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218131470002061) — State Library of Queensland.</small>*  
+
+--8<-- "snippets/add-to-this-story.md"

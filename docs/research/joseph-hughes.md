@@ -11,3 +11,5 @@ hide:
 **1843 — 27 July 1920**
 
 --8<-- "snippets/joseph-hughes.md"
+
+--8<-- "snippets/add-to-this-story.md"

@@ -11,3 +11,5 @@ hide:
 **1828 — 1902**
 
 --8<-- "snippets/joseph-darragh.md"
+
+--8<-- "snippets/add-to-this-story.md"

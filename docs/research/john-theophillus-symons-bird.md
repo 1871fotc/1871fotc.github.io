@@ -11,3 +11,5 @@ hide:
 **10 May 1842 — 7 May 1932**
 
 --8<-- "snippets/john-theophillus-symons-bird.md"
+
+--8<-- "snippets/add-to-this-story.md"

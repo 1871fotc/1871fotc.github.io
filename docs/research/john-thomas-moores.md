@@ -10,3 +10,5 @@ hide:
 **1891 — 27 June 1969**
 
 --8<-- "snippets/john-thomas-moores.md"
+
+--8<-- "snippets/add-to-this-story.md"

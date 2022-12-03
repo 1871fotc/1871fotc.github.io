@@ -9,3 +9,5 @@ hide:
 **ca. 1824 — 26 October 1890**
 
 --8<-- "snippets/john-and-mary-ann-ogle.md"
+
+--8<-- "snippets/add-to-this-story.md"

@@ -11,3 +11,5 @@ hide:
 **ca. 1830 — 20 May 1910**
 
 --8<-- "snippets/john-fewings.md"
+
+--8<-- "snippets/add-to-this-story.md"

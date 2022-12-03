@@ -9,3 +9,5 @@ hide:
 **2 October 1857 — 9 July 1933**
 
 --8<-- "snippets/james-clark.md"
+
+--8<-- "snippets/add-to-this-story.md"

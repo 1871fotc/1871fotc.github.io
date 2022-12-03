@@ -11,3 +11,5 @@ hide:
 **1840 — 1893**
 
 --8<-- "snippets/john-ahern.md"
+
+--8<-- "snippets/add-to-this-story.md"

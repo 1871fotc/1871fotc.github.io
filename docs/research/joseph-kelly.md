@@ -15,3 +15,5 @@ hide:
 ### Learn more
 
 - Read how [Friends of Queensland Police Museum restored Joseph Kelly's grave](https://www.friendsqpmuseum.com.au/project/joseph-kelly-grave-project-toowong-cemetery/)
+
+--8<-- "snippets/add-to-this-story.md"

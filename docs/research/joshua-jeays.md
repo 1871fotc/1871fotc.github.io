@@ -11,3 +11,5 @@ hide:
 --8<-- "snippets/joshua-jeays.md"
 
 --8<-- "snippets/headstones/joshua-jeays.md"
+
+--8<-- "snippets/add-to-this-story.md"

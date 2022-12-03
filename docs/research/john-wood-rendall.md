@@ -12,3 +12,5 @@ hide:
 ## John Wood Rendall <small>(1‑51‑2)</small>
 
 --8<-- "snippets/john-wood-rendall.md"
+
+--8<-- "snippets/add-to-this-story.md"

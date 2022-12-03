@@ -11,3 +11,5 @@ hide:
 **1857 — 27 January 1925**
 
 --8<-- "snippets/john-galligan.md"
+
+--8<-- "snippets/add-to-this-story.md"

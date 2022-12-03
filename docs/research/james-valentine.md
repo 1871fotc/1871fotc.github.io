@@ -11,3 +11,5 @@ hide:
 **ca. 1853 — 17 January 1904**
 
 --8<-- "snippets/james-valentine.md"
+
+--8<-- "snippets/add-to-this-story.md"

@@ -10,3 +10,5 @@ hide:
 **11 September 1861 — 3 July 1933**
 
 --8<-- "snippets/johannes-christian-brunnich.md"
+
+--8<-- "snippets/add-to-this-story.md"

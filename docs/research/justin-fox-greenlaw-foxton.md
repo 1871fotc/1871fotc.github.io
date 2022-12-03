@@ -9,3 +9,5 @@ hide:
 **24 September 1849 — 23 June 1916**
 
 --8<-- "snippets/justin-fox-greenlaw-foxton.md"
+
+--8<-- "snippets/add-to-this-story.md"

@@ -11,3 +11,5 @@ hide:
 **1841 — 1908**
 
 --8<-- "snippets/john-mcdermott.md"
+
+--8<-- "snippets/add-to-this-story.md"

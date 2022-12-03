@@ -9,3 +9,5 @@ hide:
 **19 October 1861 — 2 May 1919**
 -->
 --8<-- "snippets/joseph-watters.md"
+
+--8<-- "snippets/add-to-this-story.md"

@@ -9,3 +9,5 @@ hide:
 **ca. 1838 — 25 July 1885**
 
 --8<-- "snippets/joseph-needham-scrope-shrapnel.md"
+
+--8<-- "snippets/add-to-this-story.md"

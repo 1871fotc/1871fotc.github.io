@@ -11,3 +11,5 @@ hide:
 **1849 — 5 May 1910**
 
 --8<-- "snippets/joseph-letcher-phillips.md"
+
+--8<-- "snippets/add-to-this-story.md"

@@ -9,3 +9,5 @@ hide:
 **3 February 1874 — 7 December 1924**
 
 --8<-- "snippets/john-edward-maidens.md"
+
+--8<-- "snippets/add-to-this-story.md"

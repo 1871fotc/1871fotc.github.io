@@ -10,3 +10,5 @@ hide:
 **18 October 1892 — 29 November 1918**
 
 --8<-- "snippets/james-archibald-henry-bennett.md"
+
+--8<-- "snippets/add-to-this-story.md"

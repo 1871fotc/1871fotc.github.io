@@ -11,3 +11,5 @@ hide:
 **14 November 1843 — 25 December 1911**
 
 --8<-- "snippets/joseph-cossart.md"
+
+--8<-- "snippets/add-to-this-story.md"
