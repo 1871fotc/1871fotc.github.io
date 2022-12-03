@@ -17,11 +17,11 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTAMP:20211125T205944Z
 UID:1637807808248-67689@ical.marudot.com
-DTSTART;TZID=Australia/Brisbane:20220306T103000
-DTEND;TZID=Australia/Brisbane:20220306T120000
+DTSTART;TZID=Australia/Brisbane:20230305T103000
+DTEND;TZID=Australia/Brisbane:20230305T120000
 SUMMARY:Friends of Toowong Cemetery - Guided Heritage Tour
 URL:https://fotc.au/
-DESCRIPTION:Our first guided heritage tour for 2022 will be hosted by Lyn and Darcy. Meet under the flagpole\, in Canon Garland Place at the Toowong Cemetery. There is plenty of parking available inside the cemetery.\n\nWear a hat\, enclosed shoes\, and bring a water bottle.\n\nGuided tours are free but a small donation is appreciated to help us continue our work.
+DESCRIPTION:Meet under the flagpole\, in Canon Garland Place at the Toowong Cemetery. There is plenty of parking available inside the cemetery.\n\nWear a hat\, enclosed shoes\, and bring a water bottle.\n\nGuided tours are free but a small donation is appreciated to help us continue our work.
 LOCATION:Canon Garland Place within Toowong Cemetery
 BEGIN:VALARM
 ACTION:DISPLAY
