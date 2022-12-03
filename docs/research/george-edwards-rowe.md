@@ -11,3 +11,5 @@ hide:
 **26 August 1858 — 27 October 1926**
 
 --8<-- "snippets/george-edwards-rowe.md"
+
+--8<-- "snippets/add-to-this-story.md"

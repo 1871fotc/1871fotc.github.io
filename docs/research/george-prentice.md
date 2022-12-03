@@ -11,3 +11,5 @@ hide:
 **Died 28 February 1890**
 
 --8<-- "snippets/george-prentice.md"
+
+--8<-- "snippets/add-to-this-story.md"

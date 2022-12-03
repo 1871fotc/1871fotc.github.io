@@ -10,3 +10,5 @@ hide:
 **Died 12 July 1920**
 
 --8<-- "snippets/george-lewis-brown.md"
+
+--8<-- "snippets/add-to-this-story.md"

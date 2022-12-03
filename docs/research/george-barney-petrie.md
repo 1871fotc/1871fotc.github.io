@@ -10,3 +10,5 @@ hide:
 
 
 --8<-- "snippets/george-barney-petrie.md"
+
+--8<-- "snippets/add-to-this-story.md"

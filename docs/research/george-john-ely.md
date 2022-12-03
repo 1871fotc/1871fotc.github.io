@@ -10,3 +10,5 @@ hide:
 **Died 15 August 1877**
 
 --8<-- "snippets/george-john-ely.md"
+
+--8<-- "snippets/add-to-this-story.md"

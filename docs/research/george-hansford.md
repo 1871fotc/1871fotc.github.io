@@ -11,3 +11,5 @@ hide:
 **25 December 1840 — 13 October 1925**
 
 --8<-- "snippets/george-hansford.md"
+
+--8<-- "snippets/add-to-this-story.md"

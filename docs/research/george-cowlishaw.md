@@ -11,3 +11,5 @@ hide:
 **21 April 1841 — 6 January 1913**
 
 --8<-- "snippets/george-cowlishaw.md"
+
+--8<-- "snippets/add-to-this-story.md"
