@@ -9,3 +9,5 @@ hide:
 **ca. 1831 — 16 May 1885**
 
 --8<-- "snippets/william-augustine-o-carroll.md"
+
+--8<-- "snippets/add-to-this-story.md"
