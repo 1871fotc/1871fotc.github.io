@@ -11,3 +11,5 @@ hide:
 **1860 — September 1898**
 
 --8<-- "snippets/thomas-joseph-byrnes.md"
+
+--8<-- "snippets/add-to-this-story.md"

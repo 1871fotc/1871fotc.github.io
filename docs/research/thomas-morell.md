@@ -11,3 +11,5 @@ hide:
 -->
 
 --8<-- "snippets/thomas-morell.md"
+
+--8<-- "snippets/add-to-this-story.md"

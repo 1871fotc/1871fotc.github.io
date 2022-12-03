@@ -14,3 +14,5 @@ hide:
 ### Learn more
 
 - Read how [Friends of Queensland Police Museum restored Thomas Slattery's grave](https://www.friendsqpmuseum.com.au/project/thomas-slattery-grave-restoration-project/)
+
+--8<-- "snippets/add-to-this-story.md"

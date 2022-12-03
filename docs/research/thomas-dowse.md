@@ -11,3 +11,5 @@ hide:
 **ca. 1809 — 9 November 1885**
 
 --8<-- "snippets/thomas-dowse.md"
+
+--8<-- "snippets/add-to-this-story.md"

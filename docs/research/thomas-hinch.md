@@ -11,3 +11,5 @@ hide:
 **1855 — 11 May 1924**
 
 --8<-- "snippets/thomas-hinch.md"
+
+--8<-- "snippets/add-to-this-story.md"

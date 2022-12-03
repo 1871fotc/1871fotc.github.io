@@ -11,3 +11,5 @@ hide:
 **10 January 1837 — 16 December 1903**
 
 --8<-- "snippets/thomas-finney.md"
+
+--8<-- "snippets/add-to-this-story.md"

@@ -11,3 +11,5 @@ hide:
 **1875 — 1921**
 
 --8<-- "snippets/thomas-joseph-ryan.md"
+
+--8<-- "snippets/add-to-this-story.md"

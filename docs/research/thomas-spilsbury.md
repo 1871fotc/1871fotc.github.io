@@ -10,3 +10,5 @@ hide:
 **1838 — 1884**
 
 --8<-- "snippets/thomas-spilsbury.md"
+
+--8<-- "snippets/add-to-this-story.md"

@@ -32,3 +32,5 @@ Information provided by Jenny Davidson, Thomas Woodward Hill's wife's great-grea
 ### Learn more 
 
 - [Extra, Extra Read All About It](../assets/documents/extra-extra-read-all-about-it-thomas-woodward-hill.pdf) - © 2013, Jenny Davidson. First published in Queensland Family Historian November 2013 Volume 34 Number 4 Page 122
+
+--8<-- "snippets/add-to-this-story.md"
