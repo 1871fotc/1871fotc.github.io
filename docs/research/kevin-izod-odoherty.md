@@ -16,3 +16,6 @@ hide:
 
 - [Kevin Izod O'Doherty, convict Queenslander](https://www.slq.qld.gov.au/research-collections/family-history/convict-queenslanders/kevin-izod-odoherty-convict-queenslander) - State Library or Queensland
 - [Kevin Izod O'Doherty](https://adb.anu.edu.au/biography/odoherty-kevin-izod-4319) - Australian Dictionary of Biography
+
+
+--8<-- "snippets/add-to-this-story.md"

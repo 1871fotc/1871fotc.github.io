@@ -10,3 +10,5 @@ hide:
 **Died 3 August 1916**
 
 --8<-- "snippets/louis-walter-barnes.md"
+
+--8<-- "snippets/add-to-this-story.md"

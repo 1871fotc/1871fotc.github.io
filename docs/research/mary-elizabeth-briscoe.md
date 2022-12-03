@@ -11,3 +11,5 @@ hide:
 **ca. 1868 — 26 June 1935**
 
 --8<-- "snippets/mary-elizabeth-briscoe.md"
+
+--8<-- "snippets/add-to-this-story.md"

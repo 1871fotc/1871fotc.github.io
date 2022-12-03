@@ -11,3 +11,5 @@ hide:
 **ca. 1844 — 1880**
 
 --8<-- "snippets/matthew-collopy.md"
+
+--8<-- "snippets/add-to-this-story.md"

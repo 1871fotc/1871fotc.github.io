@@ -10,3 +10,5 @@ hide:
 **ca. 1861 — 18 August 1939**
 
 --8<-- "snippets/mary-jane-brown.md"
+
+--8<-- "snippets/add-to-this-story.md"

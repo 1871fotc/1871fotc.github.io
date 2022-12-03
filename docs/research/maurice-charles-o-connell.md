@@ -11,3 +11,5 @@ hide:
 **13 January 1812 — 23 March 1879**
 
 --8<-- "snippets/maurice-charles-o-connell.md"
+
+--8<-- "snippets/add-to-this-story.md"

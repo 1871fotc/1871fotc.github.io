@@ -10,3 +10,5 @@ hide:
 **1862 — 28 October 1890**
 
 --8<-- "snippets/mary-constance-crosse.md"
+
+--8<-- "snippets/add-to-this-story.md"

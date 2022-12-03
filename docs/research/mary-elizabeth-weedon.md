@@ -11,3 +11,5 @@ hide:
 **Died March 1942**
 
 --8<-- "snippets/mary-elizabeth-weedon.md"
+
+--8<-- "snippets/add-to-this-story.md"

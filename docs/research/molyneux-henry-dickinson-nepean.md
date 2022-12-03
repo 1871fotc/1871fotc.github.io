@@ -9,3 +9,5 @@ hide:
 **19 April 1846 — 30 September 1889**
 
 --8<-- "snippets/molyneux-henry-dickinson-nepean.md"
+
+--8<-- "snippets/add-to-this-story.md"

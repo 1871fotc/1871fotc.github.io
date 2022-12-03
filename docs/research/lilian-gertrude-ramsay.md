@@ -10,3 +10,5 @@ hide:
 **1891 — 5 June 1960**
 
 --8<-- "snippets/lilian-gertrude-ramsay.md"
+
+--8<-- "snippets/add-to-this-story.md"

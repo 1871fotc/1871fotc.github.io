@@ -11,3 +11,5 @@ hide:
 **1859 — 26 December 1917**
 
 --8<-- "snippets/michael-joseph-devitt.md"
+
+--8<-- "snippets/add-to-this-story.md"

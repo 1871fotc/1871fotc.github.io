@@ -9,3 +9,5 @@ hide:
 **1822 — 22 June 1893**
 
 --8<-- "snippets/le-fevre-james-cranstone.md"
+
+--8<-- "snippets/add-to-this-story.md"

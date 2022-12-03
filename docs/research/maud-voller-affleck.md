@@ -9,3 +9,5 @@ hide:
 **2 June 1874 — 26 September 1965**
 
 --8<-- "snippets/maud-voller-affleck.md"
+
+--8<-- "snippets/add-to-this-story.md"

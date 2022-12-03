@@ -15,3 +15,5 @@ search:
 <!--
 ![Leontine Mary Jane Cooper](../assets/leontine-cooper.jpg){ width="32%" }
 -->
+
+--8<-- "snippets/add-to-this-story.md"

@@ -11,3 +11,5 @@ hide:
 **Died 1908**
 
 --8<-- "snippets/letitia-jephson.md"
+
+--8<-- "snippets/add-to-this-story.md"

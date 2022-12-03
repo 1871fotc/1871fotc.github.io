@@ -25,3 +25,6 @@ Kevin Mason died on the 9^th^ May 1956 as a result of head injuries sustained wh
 ### Acknowledgement
 
 Story contributed by Kym Hyson. Used with permission.
+
+
+--8<-- "snippets/add-to-this-story.md"
