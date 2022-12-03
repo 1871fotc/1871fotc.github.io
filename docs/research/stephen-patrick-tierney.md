@@ -16,3 +16,5 @@ Stephen Patrick Tierney was seriously injured as a consequence of a bicycle inci
 ### Acknowledgement
 
 Story contributed by Kym Hyson. Used with permission.
+
+--8<-- "snippets/add-to-this-story.md"

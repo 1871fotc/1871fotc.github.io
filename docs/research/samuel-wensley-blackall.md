@@ -18,3 +18,6 @@ hide:
 ### Learn more 
 
 Read ***[Colonel Samuel Wensley Blackall: 1809-1871](../assets/documents/samuel-blackall.pdf)***, which celebrates the 140^th^ anniversary of the first year of operation of the Brisbane General Cemetery, now known as the Toowong Cemetery, and the internment of the first person buried there, Governor Samuel Wensley Blackall.
+
+
+--8<-- "snippets/add-to-this-story.md"

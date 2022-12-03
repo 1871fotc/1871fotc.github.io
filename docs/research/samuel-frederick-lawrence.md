@@ -11,3 +11,5 @@ hide:
 **ca. 1886 — 26 December 1901**
 
 --8<-- "snippets/samuel-frederick-lawrence.md"
+
+--8<-- "snippets/add-to-this-story.md"

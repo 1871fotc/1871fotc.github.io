@@ -10,3 +10,5 @@ hide:
 **ca. 1879 — 10 June 1925**
 
 --8<-- "snippets/susannah-josephine-mcgann.md"
+
+--8<-- "snippets/add-to-this-story.md"

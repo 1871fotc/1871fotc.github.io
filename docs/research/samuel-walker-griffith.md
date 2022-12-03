@@ -11,4 +11,4 @@ description: Chief Justice, Premier, and Author of much of the Australian Consti
 
 --8<-- "snippets/samuel-walker-griffith.md"
 
- 
+--8<-- "snippets/add-to-this-story.md"

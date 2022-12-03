@@ -10,3 +10,5 @@ hide:
 **ca. 1859 — 9 July 1928**
 
 --8<-- "snippets/sarah-stevens-lygo.md"
+
+--8<-- "snippets/add-to-this-story.md"

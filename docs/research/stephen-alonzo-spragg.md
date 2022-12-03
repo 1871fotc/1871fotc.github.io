@@ -11,3 +11,5 @@ hide:
 **2 October 1879 — 12 February 1904**
 
 --8<-- "snippets/stephen-alonzo-spragg.md"
+
+--8<-- "snippets/add-to-this-story.md"
