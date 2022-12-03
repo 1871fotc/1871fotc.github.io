@@ -9,3 +9,5 @@ hide:
 **2 August 1849 — 2 June 1914**
 
 --8<-- "snippets/virgil-power.md"
+
+--8<-- "snippets/add-to-this-story.md"

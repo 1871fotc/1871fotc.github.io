@@ -11,3 +11,5 @@ hide:
 **ca. 1842 — 26 August 1928**
 
 --8<-- "snippets/william-robert-colledge.md"
+
+--8<-- "snippets/add-to-this-story.md"

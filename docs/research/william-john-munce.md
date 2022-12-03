@@ -10,3 +10,5 @@ hide:
 **Died 1892**
 
 --8<-- "snippets/william-john-munce.md"
+
+--8<-- "snippets/add-to-this-story.md"

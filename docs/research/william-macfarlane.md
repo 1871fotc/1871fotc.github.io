@@ -10,3 +10,5 @@ hide:
 **30 May 1832 — 10 June 1886**
 
 --8<-- "snippets/william-macfarlane.md"
+
+--8<-- "snippets/add-to-this-story.md"

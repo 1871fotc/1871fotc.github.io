@@ -15,3 +15,5 @@ Ryan started his career as Constable in 1893 and ended it as Commissioner in 193
 ### Acknowledgement
 
 Story contributed by Kym Hyson. Used with permission.
+
+--8<-- "snippets/add-to-this-story.md"

@@ -11,3 +11,5 @@ hide:
 **1870 — 16 December 1892**
 
 --8<-- "snippets/william-cowley-goulbourne-stone.md"
+
+--8<-- "snippets/add-to-this-story.md"

@@ -11,3 +11,5 @@ hide:
 **ca. 1893 — 18 April 1924**
 
 --8<-- "snippets/william-john-harrhy.md"
+
+--8<-- "snippets/add-to-this-story.md"

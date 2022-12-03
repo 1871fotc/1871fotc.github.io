@@ -11,3 +11,5 @@ hide:
 **Died 1928**
 
 --8<-- "snippets/william-busby.md"
+
+--8<-- "snippets/add-to-this-story.md"

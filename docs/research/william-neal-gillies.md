@@ -13,3 +13,5 @@ hide:
 <!--
 ![William Neal Gillies](../assets/william-neal-gillies.jpg){ width="32%" }
 -->
+
+--8<-- "snippets/add-to-this-story.md"

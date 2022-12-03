@@ -11,3 +11,5 @@ hide:
 **ca. 1861 — 25 April 1917**
 
 --8<-- "snippets/william-maguire.md"
+
+--8<-- "snippets/add-to-this-story.md"

@@ -11,3 +11,5 @@ hide:
 **Born 30 August 1834**
 
 --8<-- "snippets/william-collin.md"
+
+--8<-- "snippets/add-to-this-story.md"

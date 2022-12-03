@@ -10,3 +10,5 @@ hide:
 **15 September 1828 — 15 November 1831**
 
 --8<-- "snippets/william-henry-roberts.md"
+
+--8<-- "snippets/add-to-this-story.md"

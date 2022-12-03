@@ -13,3 +13,5 @@ hide:
 ![William Forgan Smith](../assets/william-forgan-smith.jpg){ width="32%" }
  
 <!-- needs attribution -->
+
+--8<-- "snippets/add-to-this-story.md"

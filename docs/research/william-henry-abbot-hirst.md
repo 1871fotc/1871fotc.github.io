@@ -11,3 +11,5 @@ hide:
 **21 February 1837 — 26 May 1878**
 
 --8<-- "snippets/william-henry-abbot-hirst.md"
+
+--8<-- "snippets/add-to-this-story.md"

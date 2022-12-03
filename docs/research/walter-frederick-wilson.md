@@ -11,3 +11,5 @@ hide:
 **1863 — 1911**
 
 --8<-- "snippets/walter-frederick-wilson.md"
+
+--8<-- "snippets/add-to-this-story.md"

@@ -11,3 +11,5 @@ hide:
 **22 February 1851 — April 12, 1914**
 
 --8<-- "snippets/william-henry-sowray.md"
+
+--8<-- "snippets/add-to-this-story.md"

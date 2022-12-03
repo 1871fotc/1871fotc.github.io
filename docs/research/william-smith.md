@@ -11,3 +11,5 @@ hide:
 **ca. 1822 — 16 December 1872**
 
 --8<-- "snippets/william-smith.md"
+
+--8<-- "snippets/add-to-this-story.md"

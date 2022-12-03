@@ -11,3 +11,5 @@ hide:
 **Died 28 November 1924**
 
 --8<-- "snippets/william-richer.md"
+
+--8<-- "snippets/add-to-this-story.md"

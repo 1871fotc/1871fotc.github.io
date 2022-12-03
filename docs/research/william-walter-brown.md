@@ -11,3 +11,5 @@ hide:
 --8<-- "snippets/william-walter-brown.md"
 
 --8<-- "snippets/headstones/william-walter-brown.md"
+
+--8<-- "snippets/add-to-this-story.md"

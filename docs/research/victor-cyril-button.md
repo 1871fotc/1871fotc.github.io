@@ -11,3 +11,5 @@ hide:
 **1 January 1924 — 25 December 1942**
 
 --8<-- "snippets/victor-cyril-button.md"
+
+--8<-- "snippets/add-to-this-story.md"

@@ -11,3 +11,5 @@ hide:
 **1840 — February 1902**
 
 --8<-- "snippets/walter-horatio-wilson.md"
+
+--8<-- "snippets/add-to-this-story.md"

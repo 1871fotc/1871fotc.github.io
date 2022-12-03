@@ -14,3 +14,5 @@ Lived: **13 September 1846 — 12 April 1904**
 ![William Henry Browne](../assets/william-henry-browne.jpg){ width="32%" }
 
 <!-- needs attribution -->
+
+--8<-- "snippets/add-to-this-story.md"

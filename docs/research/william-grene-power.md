@@ -11,3 +11,5 @@ hide:
 **1835 — 14 August 1903**
 
 --8<-- "snippets/william-grene-power.md"
+
+--8<-- "snippets/add-to-this-story.md"

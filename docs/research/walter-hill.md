@@ -28,3 +28,5 @@ The plaque reads:
 >To commemorate one who made a significant contribution to early Queensland Development this plaque was presented by The Queensland Council of Garden Clubs.
 
 --8<-- "snippets/headstones/walter-hill.md"
+
+--8<-- "snippets/add-to-this-story.md"

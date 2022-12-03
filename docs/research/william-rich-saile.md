@@ -10,3 +10,5 @@ hide:
 **1893 — 25 July 1916**
 
 --8<-- "snippets/william-rich-saile.md"
+
+--8<-- "snippets/add-to-this-story.md"

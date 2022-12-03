@@ -11,3 +11,5 @@ hide:
 **25 September 1888 — 30 April 1912**
 
 --8<-- "snippets/walter-thorpe-olding.md"
+
+--8<-- "snippets/add-to-this-story.md"

@@ -9,3 +9,5 @@ hide:
 **26 August 1825 — 28 October 1906**
 
 --8<-- "snippets/william-pettigrew.md"
+
+--8<-- "snippets/add-to-this-story.md"
