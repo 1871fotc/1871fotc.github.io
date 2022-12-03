@@ -10,3 +10,5 @@ hide:
 **ca. 1927 — 1964**
 
 --8<-- "snippets/patricia-marion-hull.md"
+
+--8<-- "snippets/add-to-this-story.md"

@@ -12,3 +12,5 @@ hide:
 -->
 
 --8<-- "snippets/norman-kinamond-harvey.md"
+
+--8<-- "snippets/add-to-this-story.md"

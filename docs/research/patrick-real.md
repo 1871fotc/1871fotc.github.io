@@ -11,3 +11,5 @@ hide:
 **ca. 17 March 1846 — 10 June 1928**
 
 --8<-- "snippets/patrick-real.md"
+
+--8<-- "snippets/add-to-this-story.md"

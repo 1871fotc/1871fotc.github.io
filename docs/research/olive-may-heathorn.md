@@ -11,3 +11,5 @@ hide:
 **1890 — 7 June 1936**
 
 --8<-- "snippets/olive-may-heathorn.md"
+
+--8<-- "snippets/add-to-this-story.md"

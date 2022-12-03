@@ -12,3 +12,5 @@ hide:
 -->
 
 --8<-- "snippets/phyliss-mary-peixetto.md"
+
+--8<-- "snippets/add-to-this-story.md"

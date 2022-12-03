@@ -12,3 +12,5 @@ hide:
 ## Pauline Emma Eschenhagen <small>(9‑15‑5)</small>
 
 --8<-- "snippets/ernst-and-pauline-eschenhagen.md"
+
+--8<-- "snippets/add-to-this-story.md"

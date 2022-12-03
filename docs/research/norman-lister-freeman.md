@@ -10,3 +10,5 @@ hide:
 **1891 — 24 July 1916**
 
 --8<-- "snippets/norman-lister-freeman.md"
+
+--8<-- "snippets/add-to-this-story.md"

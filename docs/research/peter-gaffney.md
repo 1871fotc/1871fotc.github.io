@@ -11,3 +11,5 @@ hide:
 **1839 — 1879**
 
 --8<-- "snippets/peter-gaffney.md"
+
+--8<-- "snippets/add-to-this-story.md"

@@ -11,3 +11,5 @@ hide:
 **ca. 1865 — 3 March 1903**
 
 --8<-- "snippets/percy-lionel-benjamin.md"
+
+--8<-- "snippets/add-to-this-story.md"

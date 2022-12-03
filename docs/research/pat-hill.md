@@ -32,3 +32,6 @@ https://trove.nla.gov.au/newspaper/article/191590889?searchTerm=%22pat%20hill%22
 https://trove.nla.gov.au/newspaper/article/183433522?searchTerm=%22pat%20hill%22%20boxing
 
 -->
+
+
+--8<-- "snippets/add-to-this-story.md"

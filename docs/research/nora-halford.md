@@ -12,3 +12,5 @@ hide:
 ## Nora Halford <small>(7A‑102‑23A)</small>
 
 --8<-- "snippets/nora-halford-and-catherine-fitzgerald.md"
+
+--8<-- "snippets/add-to-this-story.md"

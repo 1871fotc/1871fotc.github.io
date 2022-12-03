@@ -11,3 +11,5 @@ hide:
 **12 May 1846 — 30 August 1923**
 
 --8<-- "snippets/pope-alexander-cooper.md"
+
+--8<-- "snippets/add-to-this-story.md"

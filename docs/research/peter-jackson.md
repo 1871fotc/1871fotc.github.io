@@ -11,3 +11,5 @@ hide:
 --8<-- "snippets/peter-jackson.md"
 
 --8<-- "snippets/headstones/peter-jackson.md"
+
+--8<-- "snippets/add-to-this-story.md"

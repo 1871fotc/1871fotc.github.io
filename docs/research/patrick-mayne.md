@@ -11,3 +11,5 @@ hide:
 **1825 — 17 August 1865**
 
 --8<-- "snippets/patrick-mayne.md"
+
+--8<-- "snippets/add-to-this-story.md"

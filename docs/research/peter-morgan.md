@@ -11,3 +11,5 @@ hide:
 **1916 — 23 February 1953**
 
 --8<-- "snippets/peter-morgan.md"
+
+--8<-- "snippets/add-to-this-story.md"
