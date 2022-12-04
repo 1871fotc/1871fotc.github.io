@@ -28,11 +28,15 @@ There's no need to book, just meet under the flagpole in Canon Garland Place at 
 
 ## Upcoming Guided Tours
 
-Our next tour, **'School’s Out'** is on **Sunday 4 December**. We will be telling the stories of some early Queensland school teachers and administrators at their graves.
+Our next tour is on **Sunday 5 February 2023**. 
 
-The tour is limited to 20 people. Add it to your calendar.
+The tour is limited to 20 people. 
 
-[Add to Calendar :fontawesome-regular-calendar-plus:](assets/calendar/fotc-tour-20221204.ics){ .md-button .md-button--primary }
+<!-- 
+Add it to your calendar.
+
+[Add to Calendar :fontawesome-regular-calendar-plus:](assets/calendar/fotc-tour-february.ics){ .md-button .md-button--primary }
+-->
 
 ## Toowong Cemetery Museum
 
@@ -61,107 +65,6 @@ If you can't join our guided tour, consider taking a **[Toowong Cemetery self-gu
 *<small>[Women wearing surgical masks during the influenza epidemic, Brisbane, 1919](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218113110002061), — State Library of Queensland. Cropped.</small>*
 
 -->
-
-<!--
-## 6 March 2022
-
-!!! warning "Postponed" 
-
-    Due to the floods and the current weather warnings, this walk has been postponed.
-
-Our first heritage walking tour for 2022 is called **Tragically Taken**.  
-
-Wandering amongst Toowong Cemetery's graves, you come across gravestones with inscriptions alluding to a sudden and tragic loss of a loved one. This walk looks at the events that inspired some of those inscriptions.
-
-The tour is from **10:30 to 12:00 on Sunday 6 March 2022**
-
-:fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20220306.ics)**
-
-
-### 3 April 2022
-
-Our April heritage walking tour is from **10:30 to 12:00 on Sunday 3 April 2022**. 
-
-:fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20220403.ics)**
-
-### 1 May 2022
-
-Our May heritage walking tour is from **10:30 to 12:00 on Sunday 1 May 2022**. 
-
-:fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20220501.ics)**
-
-### 5 June 2022
-
-Our June heritage walking tour is from **10:30 to 12:00 on Sunday 5 June 2022**. 
-
-:fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20220605.ics)**
-
-
-### 3 July 2022
-
-Our July heritage walking tour is from **10:30 to 12:00 on Sunday 3 July 2022**. 
-
-:fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20220703.ics)**
-
-### 7 August 2022
-
-Our August heritage walking tour is from **10:30 to 12:00 on Sunday 7 August 2022**. 
-
-:fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20220807.ics)**
-
-### 4 September 2022
-
-Our September heritage walking tour is from **10:30 to 12:00 on Sunday 4 September 2022**.  
-
-:fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20220904.ics)**
-
-### 2 October 2022
-
-Our October heritage walking tour is from **10:30 to 12:00 on Sunday 2 October 2022**. 
-
-:fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20221002.ics)**
-
-### 6 November 2022
-
-Our November  heritage walking tour is from **10:30 to 12:00 on Sunday 6 November 2022**. 
-
-:fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20221106.ics)**
-
-### 4 December 2022
-
-Our last heritage walking tour for 2022 is from **10:30 to 12:00 on Sunday 4 December 2022**. 
-
-:fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20221204.ics)**
-
-
-## 5 March 2023
-
-Our first heritage walking tour for 2023 will be guided by **Lyn** and **Darcy**. The tour is from **10:30 to 12:00 on Sunday 5 March 2023**. 
-
-:fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20230305.ics)**
-
--->
-
-<!--
-
-## Private Guided Tours
-
-We offer private guided heritage tours tailored to your needs. [Contact us](../about/#contact-us) to discuss your requirements. Price on Application. 
-
---> 
-
-<!--
-## Other Tours
-
-Other volunteer groups and commercial operators run tours in the cemetery under licence from the Council. These tours are not associated with the Friends of Toowong Cemetery.
-
-- **[Tragic Tales of Toowong Cemetery](https://www.fosbc.com/tours/tragic-tales-toowong-tour/)** is a unique night tour that focusses on some of the ghost stories, cemetery folklore and the horrible history surrounding this priceless heritage-listed site. Hear amazing true stories of the Moreton Bay Penal Settlement, Brisbane’s lost graveyard, horrific hangings, bloody murders, and, in among this horrible history, be prepared for some spine-tingling tales of the ghosts that are said to reside within Toowong Cemetery.
-
-- **[Toowong Cemetery Ghost Tours](https://ghosttoursaustralia.com.au/brisbane-ghost-tours/toowong-cemetery-original/)** is a commercial tour run in the cemetery at night. 
--->
-
-
-
 
 [image4]: assets/140-commemoration-sml.png
 [image5]: assets/museum.jpg
