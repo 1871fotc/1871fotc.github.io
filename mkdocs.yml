@@ -55,9 +55,6 @@ theme:
 # Customization
 extra:
   generator: false
-  extra:
-  status:
-    new: Recently added
   social:
     - icon: fontawesome/solid/envelope
       link: mailto:inquiries@fotc.org.au
@@ -65,10 +62,12 @@ extra:
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/1871fotc/
       name: Facebook @1871fotc
+#    - icon: fontawesome/brands/youtube
+#      link: https://www.youtube.com/@1871fotc
+#      name: YouTube @1871fotc  
 #    - icon: fontawesome/brands/github
 #      link: https://github.com/1871fotc/1871fotc.github.io
 #      name: Code, data and more on GitHub
-# Add twitter when Social Cards are working https://squidfunk.github.io/mkdocs-material/setup/setting-up-social-cards/?h=soci
 #    - icon: fontawesome/brands/twitter
 #      link: https://twitter.com/1871fotc
 #      name: Twitter @1871fotc
@@ -194,6 +193,7 @@ nav:
 #    - Toowong Streets: stories/toowong-street-name-origins.md
 # Stories by Profession    
     - Artists: stories/artists.md 
+#    - Fire: stories/fire-fighters.md
     - Health Professionals: stories/nurses-and-doctors.md
     - Judiciary: stories/judiciary.md
     - Mariners: stories/anchors-aweigh.md
@@ -218,6 +218,7 @@ nav:
     - The Lutheran: stories/lutheran.md
 # Other themed stories 
     - Christmas Shopping 1877: stories/christmas-shopping-1877.md
+#    - The Other Half: stories/the-other-half.md
     - Steam: stories/steam.md
     - Building Brisbane: stories/brisbane-open-house.md   
     - Convicts: stories/convict-connections.md      
