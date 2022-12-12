@@ -18,8 +18,8 @@ search:
 **Stories about people remembered in Toowong Cemetery and how fire impacted their lives**
 
 <figure markdown>
-  ![Brisbane Fire Brigade Station, ca. 1899](../assets/brisbane-fire-brigade-headquarters.jpg){ width="70%" class="full-width" }
-  <figcaption markdown>[Brisbane Fire Brigade Station, ca. 1899](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183513704502061). Erected on the north east corner of Ann and Edward Street in 1890.  — State Library of Queensland.</figcaption>
+  ![First Brisbane Fire Stations, 1868-1882](../assets/brisbane-fire-stations-1868-1882.jpg){ width="70%" class="full-width" }
+  <figcaption markdown>[First Brisbane Fire Stations, 1868-1882](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/tqqf2h/alma99183745019302061) — State Library of Queensland.</figcaption>
 </figure>
 
 --8<-- "snippets/toowong-cemetery-map.md"
@@ -35,10 +35,6 @@ search:
 - 1889-1890: First fulltime firemen employed. Headquarters opened in Ann Street.
 - 1921: Brisbane Metropolitan Fire Brigades amalgamated under Order of Council.
 
-<figure markdown>
-  ![First Brisbane Fire Stations, 1868-1882](../assets/brisbane-fire-stations-1868-1882.jpg){ width="70%" class="full-width" }
-  <figcaption markdown>[First Brisbane Fire Stations, 1868-1882](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/tqqf2h/alma99183745019302061) — State Library of Queensland.</figcaption>
-</figure>
 
 ## Edward Barrow Forrest <small>(9‑37‑1)</small> & Robert Russell Smellie <small>(13‑60‑5/10)</small>
 
@@ -50,10 +46,12 @@ search:
 
 Alderman Thomas Proe (1852-1922) was the Brisbane Municipal Council representative on the Metropolitan Fire Brigade Board at the time of a [fire in the warehouse of S Hoffnung & Co Ltd in 1902](https://trove.nla.gov.au/newspaper/article/183137726). He served as Mayor twice, firstly of Brisbane Municipal Council in 1901 and then of Brisbane City Council in 1905.
 
+<!--
 <figure markdown>
   ![Interior of the fire brigade building in Brisbane, 1908](../assets/ann-street-fire-station-1908.jpg){ width="70%" class="full-width" }
   <figcaption markdown>[Interior of the fire brigade building in Brisbane, 1908](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99184004708302061). — State Library of Queensland.</figcaption>
 </figure>
+-->
 
 --8<-- "snippets/nicholas-frederick-peut.md"
 
