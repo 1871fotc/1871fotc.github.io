@@ -32,9 +32,9 @@ search:
 - 1865: City Volunteer Fire Brigade forms.
 - 1868: First Fire Brigade Board meets. Francis Beattie appointed Deputy Superintendent of City Volunteer Fire Brigade.
 - 1881-1882: Brisbane Fire Brigade consolidated as an organisation.
-- 1889-1890: First fulltime firemen employed. Headquarters opened in Ann Street.
+- 1889-1890: First fulltime firemen employed. Headquarters opened corner Ann and Edward Streets.
+- 1908: Later headquarters opened corner Ann and Wharf Streets.
 - 1921: Brisbane Metropolitan Fire Brigades amalgamated under Order of Council.
-
 
 ## Edward Barrow Forrest <small>(9‑37‑1)</small> & Robert Russell Smellie <small>(13‑60‑5/10)</small>
 
