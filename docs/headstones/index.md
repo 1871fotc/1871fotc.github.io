@@ -53,7 +53,7 @@ Headstones uncovered in the **[archaeological digs](archaeological-digs.md)** ar
 
 ## Maintaining Headstones
 
-Individual graves and headstones are owned by private families. Whilst the Brisbane City Council maintains the cemetery, [maintenance of graves is the families responsiblity](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/maintenance-at-cemeteries). With the average age of graves being ~80 years old, it is often difficult to find family members to notify them that the historic headstones of their family are a risk of falling down.
+Individual graves and headstones are owned by private families. Whilst the Brisbane City Council maintains the cemetery, [maintenance of graves is the families responsibility](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/maintenance-at-cemeteries). With the average age of graves being ~80 years old, it is often difficult to find family members to notify them that the historic headstones of their family are a risk of falling down.
 
 Friends of Toowong Cemetery President, Darcy Maddock, explains to Radio Station 4BC [the dilemma of maintaining graves in Toowong Cemetery](https://www.4bc.com.au/brisbane-treasure-the-real-dilemma-in-maintaining-the-toowong-cemetery/){ rel=nofollow } .
 
