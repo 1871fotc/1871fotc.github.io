@@ -10,7 +10,7 @@ search:
 
 # How to find a grave in Toowong Cemetery
 
-Heritage‑listed Toowong Cemetery is the largest cemetery in Queensland. It can be difficult to find a grave as some graves are unmarked, headstones have been destroyed, and sections are not signed.
+Heritage‑listed Toowong Cemetery is the largest cemetery in Queensland. It can be difficult to find a grave as some graves are unmarked and some headstones have been destroyed.
 
 ## Search for a person's grave
 
@@ -42,7 +42,7 @@ Can you locate Peter Jackson's grave (5-28-1) using the Portion and Section numb
 
 There are 34 Portions in the cemetery, numbered 1 to 30 and also 2A, 7A, 15A, 29A. Each Section can contain up to 80 graves and the graves are usually in two rows within the section. 
 
-Portion numbers are shown on signs throughout the cemetery.
+Portion numbers are shown on signs throughout the cemetery. Section numbers are painted on the road.
 
 <figure markdown>
   ![Portion Sign](../assets/portion-sign.jpg){ width="100%" data-title="Portion 10 Sign" data-description="Portion numbers are shown on signs throughout the cemetery."}
