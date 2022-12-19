@@ -55,7 +55,7 @@
           "name": "Locate the grave on the map",
           "url": "https://www.fotc.au/research/find-a-grave/#locate-the-grave-on-the-map",
           "text": "Use the Toowong Cemetery Map to find the Portion and Section where the person is buried.",
-          "image": "https://www.fotc.au/assets/toowong-cemetery-map-2022-10-01.jpg" 
+          "image": "https://www.fotc.au/assets/toowong-cemetery-map.jpg" 
         },
         {
           "@type": "HowToStep",
