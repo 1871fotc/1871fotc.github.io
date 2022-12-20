@@ -8,7 +8,7 @@ description: A list of people mentioned in our story collections and links to th
 
 **Find a story about a person remembered at Toowong Cemetery**. 
 
-The table below lists over 500 people mentioned in our **[Toowong Cemetery stories](../stories/index.md)**. Each person's individual story may contain extra information, a headstone photo and its inscription.
+The table below lists over 550 people mentioned in our **[Toowong Cemetery stories](../stories/index.md)**. Each person's individual story may contain extra information, a headstone photo and its inscription.
 
 ??? question "Volunteer - Contribute missing data"
 
