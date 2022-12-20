@@ -6,6 +6,10 @@ site_description: >-
   Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.
 copyright: © 1992 — 2022 Friends of Toowong Cemetery Association Inc., unless noted otherwise. 
 
+# Watch these extra directories for changes 
+watch:
+- snippets
+
 # Configuration
 theme:
   language: en
@@ -158,10 +162,10 @@ plugins:
         'walks/news.md': 'index.md'        
         'fotc/index.md': 'index.md'        
 # set up redirects for renamed pages
-        'stories/in-their-caring-hands.md': 'stories/nurses-and-doctors.md'
-        'stories/jewish.md': 'walks/jewish-walk.md'
-        'stories/jewish-walk.md': 'walks/jewish-walk.md'
-        'stories/federation-walk.md.md': 'walks/federation-walk.md'
+#        'stories/in-their-caring-hands.md': 'stories/nurses-and-doctors.md'
+#        'stories/jewish.md': 'walks/jewish-walk.md'
+#        'stories/jewish-walk.md': 'walks/jewish-walk.md'
+#        'stories/federation-walk.md.md': 'walks/federation-walk.md'
 # set up redirects for deep links
         'walks/walks.md': 'walks/index.md'
         'activities/activities.md': 'about/index.md'
