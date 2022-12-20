@@ -22,7 +22,6 @@ Disallow: /assets/404.png
 Disallow: /assets/ACNC-Registered-Charity-Logo_RGB.png
 Allow: /assets/documents/toowong-cemetery-map.pdf
 Allow: /assets/toowong-cemetery-map.jpg
-Allow: /assets/toowong-cemetery-map-2022-10-01.jpg
 Allow: /assets/pioneer-childrens-graves-13-10-4.jpg
 
 #
