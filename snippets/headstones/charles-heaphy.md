@@ -14,4 +14,3 @@
 > member of parliment. He was <br>
 > the first non-regular soldier<br>
 > to be awarded the Victoria Cross.<br>
-
