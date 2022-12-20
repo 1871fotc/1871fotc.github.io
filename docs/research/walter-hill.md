@@ -21,7 +21,7 @@ hide:
 
 The plaque reads: 
 
->Walter Hill, The first director of The Brisbane Botanic Gardens, was born in 1920 in Scotsdyke, Dumfriesshire, Scotland. After training at The Royal Botanic Gardens of Edinburgh and Kew, He was appointed Superintendent of The Brisbane Botanic Gardens on 20 February 1855. Later he was designated Director and Government Botanist. He retired in 1881 and died at Eight Mile Plains on 4 February 1904. 
+>Walter Hill, The first director of The Brisbane Botanic Gardens, was born in 1820 in Scotsdyke, Dumfriesshire, Scotland. After training at The Royal Botanic Gardens of Edinburgh and Kew, He was appointed Superintendent of The Brisbane Botanic Gardens on 20 February 1855. Later he was designated Director and Government Botanist. He retired in 1881 and died at Eight Mile Plains on 4 February 1904. 
 >
 >Australia is indebted to him for introducing the Jacaranda and Poinciana. He was also responsible for the distribution of the Mango, Pawpaw, Sugar Cane, Ginger and Arrowrott, as well as other plants of economic importance. 
 >
