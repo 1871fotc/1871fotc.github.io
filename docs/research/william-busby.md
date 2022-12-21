@@ -8,8 +8,13 @@ hide:
 
 # William Busby
 
-**Died 1928**
+**ca. May 1857 - 14 April 1928**
 
 --8<-- "snippets/william-busby.md"
+
+### Learn more 
+
+- [Tombstone Tuesday: William Busby, stonemason of Toowong](http://www.dragongenealogy.com/blog/2011/11/tombstone-tuesday-william-busby-stonemason-of-toowong/)
+- [Memorial to the late Lieutenant Caskey](https://trove.nla.gov.au/newspaper/article/19130745) - The Brisbane Courier, 6 December 1901. William Busby won the design competition to design a memorial to the late Lieutenant Caskey
 
 --8<-- "snippets/add-to-this-story.md"
