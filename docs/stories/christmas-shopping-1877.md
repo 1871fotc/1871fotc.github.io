@@ -72,7 +72,7 @@ Written by Lyn Maddock
 
 ## Learn more 
 
-- [Christmas Eve in Brisbane](https://trove.nla.gov.au/newspaper/article/19763726), 1877, The Queenslander - National Library of Australia
+[Christmas Eve in Brisbane](https://trove.nla.gov.au/newspaper/article/19763726), 1877, The Queenslander - National Library of Australia
 
 <!--
 - https://trove.nla.gov.au/newspaper/article/175544653 1871
