@@ -32,7 +32,7 @@ On 19 August 1903, the Shire of Toowong was proclaimed a town. At the time, the 
     Walk to the Caskey monument and turn left. You should come across the polished red granite grave of the McGregor‑Lowndes family...
 --> 
 
-## Victor and Jean McGregor‑Lowndes <small>(4‑16-20/21)</small>
+## Victor and Jean McGregor‑Lowndes <small>(4‑16‑20/21)</small>
 
 Born in 1884, Victor was a Justice of the Peace and a Mason. He died at his home, *Craig‑Royston*, Toowong on 21 July 1951. His wife, Jean, was also a JP and a prominent citizen, honoured as a Member of the British Empire. Jean died in June 1976, aged 89.
 
@@ -43,7 +43,7 @@ Born in 1884, Victor was a Justice of the Peace and a Mason. He died at his home
     Return to the road and walk along it until you reach a tap on the right hand side. Nearby are...
 -->
 
-## Mary Elizabeth Weedon (4‑3‑20) and Annie Griffiths <small>(4‑3-20)</small>
+## Mary Elizabeth Weedon (4‑3‑20) and Annie Griffiths <small>(4‑3‑20)</small>
 
 Mary Weedon was the [first head nurse of the Brisbane Hospital](https://trove.nla.gov.au/newspaper/article/172695991), holding the position for five years from 1885. Mary and her friend, Annie Griffiths, shared a house called *Garton* in Terrace Street, Toowong for many years. They were also members of the congregation of St Thomas Anglican Church. They died within eighteen months of each other; Mary in March 1942 and [Annie in July 1943](https://trove.nla.gov.au/newspaper/article/42015824?searchTerm=Griffiths). 
 
@@ -74,7 +74,7 @@ In 1890, Sali published his most enduring ballad *The Drover* otherwise known as
     Continue along the road until you reach the shed. Turn left and proceed until you reach a fork in the road. Taking the right branch, 1^st^ Avenue, pass eight double rows of graves on the left until you come to...
 -->
 
-## Harriet and William Johnson <small>(1‑36-2)</small>
+## Harriet and William Johnson <small>(1‑36‑2)</small>
 
 The Johnsons lived in a house called *Castle Rawe*, Toowong. Harriet died in 1914, aged 63. Her husband, William, outlived her by twenty‑five years, dying aged 79.
 
