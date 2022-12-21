@@ -5,6 +5,8 @@ hide:
   - navigation
 ---
 
+--8<-- "snippets/sem/stories/printers.json"
+
 # Print Media Identities of Early Brisbane  
 
 >**…our liberty depends on freedom of the press, and that cannot be limited without being lost.** 
@@ -38,6 +40,12 @@ hide:
 </figure>
 
 --8<-- "snippets/james-and-george-cowlishaw.md"
+
+<!--
+https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/tqqf2h/alma99292513402061
+https://en.wikipedia.org/wiki/James_Cowlishaw
+https://en.wikipedia.org/wiki/James_Cowlishaw#/media/File:James_Cowlishaw_-_Queensland_politician.jpg
+-->
 
 --8<-- "snippets/john-james-knight.md"
 

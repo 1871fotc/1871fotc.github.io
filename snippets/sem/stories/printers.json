@@ -1,0 +1,44 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "name": "Print Media Identities of Early Brisbane",
+  "headline": "Print Media Identities of Early Brisbane",
+  "description": "Stories about Print Media identities of Early Brisbane who are remembered in Toowong Cemetery",
+  "keywords": [
+    "Toowong Cemetery Stories"
+    ],
+  "dateModified": "2022-12-21",
+  "datePublished": "2022-08-29",
+  "inLanguage": "en", 
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.fotc.au/#/schema/organization/1",
+    "name": "Friends of Toowong Cemetery Association Inc.",
+    "url": "https://www.fotc.au/"
+  },
+  "author": {
+    "@id": "https://www.fotc.au/#/schema/organization/1"
+  },   
+  "image": [
+    "https://www.fotc.au/assets/logo/fotc-1x1.png", 
+    "https://www.fotc.au/assets/logo/fotc-banner-4x3.png", 
+    "https://www.fotc.au/assets/images/social/stories/printers.png"
+  ],
+  "about": {
+    "@type": "Place",
+    "name": "Toowong Cemetery",
+    "sameAs": [
+      "https://en.wikipedia.org/wiki/Toowong_Cemetery", 
+      "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery"
+    ]
+  },
+  "mentions": [
+    {"@type": "Person","name": "Carl Adolf Feilberg","sameAs": "https://en.wikipedia.org/wiki/Carl_Feilberg"},
+    {"@type": "Person","name": "John James Knight","sameAs": "https://en.wikipedia.org/wiki/John_James_Knight"},
+    {"@type": "Person","name": "James Cowlishaw","sameAs": "https://en.wikipedia.org/wiki/James_Cowlishaw"},
+    {"@type": "Person","name": "James George Drake","sameAs": "https://en.wikipedia.org/wiki/James_Drake_(politician)"},
+    {"@type": "Person","name": "James George Drake","sameAs": "https://en.wikipedia.org/wiki/James_Drake_(politician)"}    
+  ]
+}
+</script>
