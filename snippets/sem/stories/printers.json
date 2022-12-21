@@ -37,8 +37,7 @@
     {"@type": "Person","name": "Carl Adolf Feilberg","sameAs": "https://en.wikipedia.org/wiki/Carl_Feilberg"},
     {"@type": "Person","name": "John James Knight","sameAs": "https://en.wikipedia.org/wiki/John_James_Knight"},
     {"@type": "Person","name": "James Cowlishaw","sameAs": "https://en.wikipedia.org/wiki/James_Cowlishaw"},
-    {"@type": "Person","name": "James George Drake","sameAs": "https://en.wikipedia.org/wiki/James_Drake_(politician)"},
-    {"@type": "Person","name": "James George Drake","sameAs": "https://en.wikipedia.org/wiki/James_Drake_(politician)"}    
+    {"@type": "Person","name": "James George Drake","sameAs": "https://en.wikipedia.org/wiki/James_Drake_(politician)"}  
   ]
 }
 </script>
