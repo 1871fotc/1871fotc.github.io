@@ -15,24 +15,42 @@ These are the stories of some of the police buried in Toowong Cemetery. There ar
 --8<-- "snippets/toowong-cemetery-map.md"
 
 --8<-- "snippets/christopher-francis.md"
+
+<!--
 ^1^
+-->
 
 --8<-- "snippets/henry-bloomfield-gough.md"
+
+<!--
 ^2^
+-->
 
 --8<-- "snippets/octavius-armstrong.md"
+
+<!--
 ^3^
+-->
 
 ## Robert Arthur Johnstone <small>(5‑36‑15/16)</small> 
 
 Born in Tasmania in 1843, Johnstone was educated in Scotland before coming to Queensland in 1865 to work in the cattle industry. In 1868, he switched to sugar growing, managing plantations in the Cardwell region. Appointed sub‑inspector of native police in 1871, Johnstone’s patrols took him into unexplored areas. In 1873, he accompanied G. E. Dalrymple to explore the northern coastline to Cooktown. The Johnstone River is named after him. His police duties took him to Winton, Bundaberg, Maryborough and Beenleigh before settling at *Serenata*, Toowong where he died on 16 January 1905, aged 63, probably of asthma.
+
+<!--
 ^4^
+-->
 
 --8<-- "snippets/ernest-eglinton.md"
+
+<!--
 ^5^
+-->
 
 --8<-- "snippets/william-maguire.md"
+
+<!--
 ^6^
+-->
 
 --8<-- "snippets/thomas-hinch.md"
 
@@ -49,17 +67,26 @@ Hanly was a member of the Royal Irish Constabulary for five years before joining
 --8<-- "snippets/william-harold-ryan.md"
 
 --8<-- "snippets/henry-marjoribanks-chester.md"
+
+<!--
 ^7^
+-->
 
 --8<-- "snippets/patrick-clancy.md"
 
 --8<-- "snippets/matthew-collopy.md"
+
+<!--
 ^8^
+-->
 
 --8<-- "snippets/joseph-kelly.md"
 
 --8<-- "snippets/thomas-slattery.md"
+
+<!--
 ^9^
+-->
 
 ## Acknowledgements
 
@@ -67,25 +94,27 @@ Written by [Dr. Hilda Maclean](https://www.linkedin.com/in/dr-hilda-maclean-4819
 
 Police career information supplied by the [Queensland Police Museum](https://www.police.qld.gov.au/museum).
 
+<!--
 ## Sources
 
-1: Morning Bulletin (Rockhampton) 11 Nov 1915 p.7
+1: [Morning Bulletin (Rockhampton), 11 Nov 1915 p.7](https://trove.nla.gov.au/newspaper/article/53412181?searchTerm=Christopher%20Francis)
 
-2: Warwick Argus 1 February 1896 p.2
+2: [Warwick Argus, 1 February 1896 p.2](https://trove.nla.gov.au/newspaper/article/76619733?searchTerm=Gough)
 
-3: Morning Bulletin (Rockhampton) 29 January 1917 p.3
+3: [Morning Bulletin (Rockhampton), 29 January 1917 p.3](https://trove.nla.gov.au/newspaper/article/55170000?searchTerm=Octavius%20Armstrong)
 
-4: Brisbane Courier 17 January 1905 p.4
+4: [Brisbane Courier, 17 January 1905 p.4](https://trove.nla.gov.au/newspaper/article/174351233)
 
-5: Brisbane Courier 3 October 1921 p.11
+5: [Brisbane Courier, 3 October 1921 p.11](https://trove.nla.gov.au/newspaper/article/20514582?searchTerm=Ernest%20Eglinton)
 
-6: Brisbane Courier 26 April 1917 p.11
+6: [Brisbane Courier, 26 April 1917 p.11](https://trove.nla.gov.au/newspaper/article/20153150?searchTerm=Maguire)
 
-7: Brisbane Courier 5 October 1914 p.6
+7: [Brisbane Courier, 5 October 1914 p.6](https://trove.nla.gov.au/newspaper/article/19987843)
 
-8: Morning Bulletin (Rockhampton) 3 Feb 1880 p.2
+8: [Morning Bulletin, (Rockhampton) 3 Feb 1880 p.2](https://trove.nla.gov.au/newspaper/article/51985578?searchTerm=Collopy)
 
-9: Brisbane Courier 6 February 1878 p.2
+9: [Brisbane Courier, 6 February 1878 p.2](https://trove.nla.gov.au/newspaper/article/1369783?searchTerm=Thomas%20Slattery)
+-->
 
 <!--
 <div class="noprint" markdown="1">
