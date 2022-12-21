@@ -5,6 +5,8 @@ hide:
   - navigation
 ---
 
+--8<-- "snippets/sem/stories/judiciary.json"
+
 # Judiciary  
 
 **Early Judiciary buried in Toowong Cemetery**

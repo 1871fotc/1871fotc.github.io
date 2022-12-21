@@ -1,0 +1,48 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "name": "Judiciary",
+  "headline": "Early Judiciary buried in Toowong Cemetery",
+  "description": "Stories of Early Brisbane Judiciary who are remembered in Toowong Cemetery",
+  "keywords": [
+    "Toowong Cemetery Stories"
+    ],
+  "dateModified": "2022-12-21",
+  "datePublished": "2022-08-29",
+  "inLanguage": "en", 
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.fotc.au/#/schema/organization/1",
+    "name": "Friends of Toowong Cemetery Association Inc.",
+    "url": "https://www.fotc.au/"
+  },
+  "author": {
+    "@id": "https://www.fotc.au/#/schema/organization/1"
+  },   
+  "image": [
+    "https://www.fotc.au/assets/logo/fotc-1x1.png", 
+    "https://www.fotc.au/assets/logo/fotc-banner-4x3.png", 
+    "https://www.fotc.au/assets/images/social/stories/judiciary.png"
+  ],
+  "about": {
+    "@type": "Place",
+    "name": "Toowong Cemetery",
+    "sameAs": [
+      "https://en.wikipedia.org/wiki/Toowong_Cemetery", 
+      "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery"
+    ]
+  },
+  "mentions": [
+    {"@type": "Person","name": "Patrick Real","sameAs": "https://en.wikipedia.org/wiki/Patrick_Real"},
+    {"@type": "Person","name": "George Rogers Harding","sameAs": "https://en.wikipedia.org/wiki/George_Rogers_Harding"},
+    {"@type": "Person","name": "Pope Alexander Cooper","sameAs": "https://en.wikipedia.org/wiki/Pope_Alexander_Cooper"},
+    {"@type": "Person","name": "Arthur Rutledge","sameAs": "https://en.wikipedia.org/wiki/Arthur_Rutledge"},  
+    {"@type": "Person","name": "Ratcliffe Pring","sameAs": "https://en.wikipedia.org/wiki/Ratcliffe_Pring"},  
+    {"@type": "Person","name": "Charles Stuart Mein","sameAs": "https://en.wikipedia.org/wiki/Charles_Mein"},  
+    {"@type": "Person","name": "Samuel Walker Griffith","sameAs": "https://en.wikipedia.org/wiki/Samuel_Griffith"},  
+    {"@type": "Person","name": "Charles Lilley","sameAs": "https://en.wikipedia.org/wiki/Charles_Lilley"},  
+    {"@type": "Person","name": "John Laskey Woolcock","sameAs": "https://en.wikipedia.org/wiki/John_Laskey_Woolcock"}    
+  ]
+}
+</script>
