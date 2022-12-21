@@ -43,7 +43,7 @@ Born in 1884, Victor was a Justice of the Peace and a Mason. He died at his home
     Return to the road and walk along it until you reach a tap on the right hand side. Nearby are...
 -->
 
-## Mary Elizabeth Weedon (4‑3‑20) and Annie Griffiths <small>(4‑3‑20)</small>
+## Mary Elizabeth Weedon and Annie Griffiths <small>(4‑3‑20)</small>
 
 Mary Weedon was the [first head nurse of the Brisbane Hospital](https://trove.nla.gov.au/newspaper/article/172695991), holding the position for five years from 1885. Mary and her friend, Annie Griffiths, shared a house called *Garton* in Terrace Street, Toowong for many years. They were also members of the congregation of St Thomas Anglican Church. They died within eighteen months of each other; Mary in March 1942 and [Annie in July 1943](https://trove.nla.gov.au/newspaper/article/42015824?searchTerm=Griffiths). 
 
@@ -92,7 +92,7 @@ The Johnsons lived in a house called *Castle Rawe*, Toowong. Harriet died in 191
     Continue up 1^st^ Avenue until you reach a tap on the left. This is immediately adjacent to...
 -->
 
-## Walter Horatio Wilson (1‑84‑22) and Walter Frederick Wilson (1‑85‑8)
+## Walter Horatio Wilson <small>(1‑84‑22)</small> and Walter Frederick Wilson <small>(1‑85‑8)</small>
 
 W. H. Wilson was a member of the Queensland Legislative Council, Minister of Justice, Secretary of Public Instruction, and Postmaster‑General in a varied political career. He was a founding member of the Anglican Church in Toowong in 1866 and found time to be elected to the Toowong Shire Council in 1884. He was also a Companion of the Order of St Michael and St George. He died at his Toowong home, *Sherwood Grove*, in February 1902, aged 62. 
 
