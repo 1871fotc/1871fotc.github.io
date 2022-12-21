@@ -45,7 +45,8 @@ Born in 1884, Victor was a Justice of the Peace and a Mason. He died at his home
 
 ## Mary Elizabeth Weedon (4‑3‑20) and Annie Griffiths <small>(4‑3-20)</small>
 
-Mary Weedon was the first head nurse of the Brisbane Hospital, holding the position for five years from 1885. She and her friend, Annie Griffiths, shared a house called *Garton* in Terrace Street, Toowong for many years. They were also members of the congregation of St Thomas Anglican Church. They died within eighteen months of each other; Mary in March 1942 and Annie in July 1943.
+Mary Weedon was the [first head nurse of the Brisbane Hospital](https://trove.nla.gov.au/newspaper/article/172695991), holding the position for five years from 1885. Mary and her friend, Annie Griffiths, shared a house called *Garton* in Terrace Street, Toowong for many years. They were also members of the congregation of St Thomas Anglican Church. They died within eighteen months of each other; Mary in March 1942 and [Annie in July 1943](https://trove.nla.gov.au/newspaper/article/42015824?searchTerm=Griffiths). 
+
 
 <!-- also in caring hands story -->
 
@@ -97,6 +98,13 @@ W. H. Wilson was a member of the Queensland Legislative Council, Minister of Jus
 
 Walter F. Wilson, Master of Arts, was elected to the Toowong Shire Council in 1886. A member of the Lands Court, Walter F. Wilson died at his home, *[Dovercourt](https://heritage.brisbane.qld.gov.au/heritage-places/1709)*, which still stands, aged 48 in 1911.
 
+<figure markdown>
+  ![Honourable Walter Horatio Wilson 1887](../assets/walter-horatio-wilson.jpg){ width=40% class="full-width" }
+  <figcaption markdown>[Honourable Walter Horatio Wilson 1887](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183505887202061) - State Library of Queensland.</figcaption>
+</figure>
+
+
+
 <!--
 ??? directions "Directions" 
 
@@ -124,6 +132,11 @@ Born in Tasmania in 1843, Robert was educated in Scotland before coming to Queen
 -->
 
 --8<-- "snippets/letitia-jephson.md"
+
+<figure markdown>
+  ![Mallow, home of Sir Robert Philp, Toowong](../assets/mallow.jpg){ width=70% class="full-width" }
+  <figcaption markdown>[Mallow, home of Sir Robert Philp, Toowong](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183507171002061) - State Library of Queensland.</figcaption>
+</figure>
 
 <!--
 ??? directions "Directions" 
@@ -153,9 +166,9 @@ Sponsored by Judy Magub, Councillor for Toowong, 1994—2007
 
 ## Sources
 
-1: Leggett, S. and Grant, R. (eds) Toowong: A community’s history, Toowong, West Toowong Community Association Inc., 2003
+1: Leggett, S. and Grant, R. (eds) [Toowong: A community’s history](https://www.toowong.au/books/), Toowong, West Toowong Community Association Inc., 2003
 
-2: Ochert, M. “Sali Mendelsohn” Australian Jewish Historical Society Journal
+2: Ochert, M. “[Sali Mendelsohn](https://www.ajhs.com.au/archives/ajhs-12-2-1994-p327/)”, Australian Jewish Historical Society Journal
 
 3: Maclean, H. (ed.) [Extraordinary Lives of Ordinary People](../about/extraordinary-stories.md), Toowong, Friends of Toowong Cemetery Association Inc. 1999
 

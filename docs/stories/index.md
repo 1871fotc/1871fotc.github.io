@@ -103,9 +103,6 @@ Individual stories have been grouped into **over 40 themed collections** below. 
 ## Other themed stories
 
 - **[Christmas Shopping 1877][christmas-shopping-1877]** - stories about shop keepers and Christmas in 1877
-<!-- 
-- **[The Other Half][the-other-half]** - Women who made an impact on Queensland
---> 
 - **[Steam](steam.md)** - stories about our steam-driven past
 - **[Building Brisbane][brisbane-open-house]** - recalling the builders of early Brisbane
 - **[Convicts][convicts]** - connections to our convict past
@@ -117,6 +114,10 @@ Individual stories have been grouped into **over 40 themed collections** below. 
 - **[Taken before their time](taken-before-their-time.md)** 
 - **[Children][children]** - Suffer the little children, and forbid them not, to come unto me
 - **[Mothers](mothers.md)** 
+
+<!-- 
+- **[The Other Half][the-other-half]** - Women who made an impact on Queensland
+--> 
 
 ## Stories by Portion
 

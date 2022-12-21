@@ -25,7 +25,7 @@ These are the stories of some of the police buried in Toowong Cemetery. There ar
 
 ## Robert Arthur Johnstone <small>(5‑36‑15/16)</small> 
 
-Born in Tasmania in 1843, Johnstone was educated in Scotland before coming to Queensland in 1865 to work in the cattle industry. In 1868, he switched to sugar growing, managing plantations in the Cardwell region. Appointed sub‑inspector of native police in 1871, Johnstone’s patrols took him into unexplored areas. In 1873, he accompanied G. E. Dalrymple to explore the northern coastline to Cooktown. The Johnstone River is named after him. His police duties took him to Winton, Bundaberg, Maryborough and Beenleigh before settling at Serenata, Toowong where he died on 16 January 1905, aged 63, probably of asthma.
+Born in Tasmania in 1843, Johnstone was educated in Scotland before coming to Queensland in 1865 to work in the cattle industry. In 1868, he switched to sugar growing, managing plantations in the Cardwell region. Appointed sub‑inspector of native police in 1871, Johnstone’s patrols took him into unexplored areas. In 1873, he accompanied G. E. Dalrymple to explore the northern coastline to Cooktown. The Johnstone River is named after him. His police duties took him to Winton, Bundaberg, Maryborough and Beenleigh before settling at *Serenata*, Toowong where he died on 16 January 1905, aged 63, probably of asthma.
 ^4^
 
 --8<-- "snippets/ernest-eglinton.md"

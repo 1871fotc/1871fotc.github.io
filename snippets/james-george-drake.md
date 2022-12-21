@@ -6,3 +6,8 @@ In 1888 James entered politics and at the end of 1899, he was appointed governme
 Postmaster-General and Secretary for Public Instruction. He was an energetic supporter of Federation, writing frequently in newspapers, publishing the pamphlet *Federation, Imperial or Democratic* and running his own fortnightly paper *Progress* which espoused the cause. 
 
 Upon Federation, he won election to the first Senate, and was chosen to be Postmaster-General in Edmund Barton's first ministry, following the death of Sir James Dickson. In early 1906 Drake ran a newspaper, *Commonwealth* in Brisbane to counteract State hostility to the Commonwealth. He died in Brisbane Hospital on 1 August 1941.
+
+<figure markdown>
+  ![Hon. James George Drake](../assets/james-george-drake.jpg){ width=40% class="full-width" }
+  <figcaption markdown>[Hon. James George Drake](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183507087102061) - State Library of Queensland.</figcaption>
+</figure>
