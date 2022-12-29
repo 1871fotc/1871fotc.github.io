@@ -101,9 +101,9 @@ Only the surname is recorded in the Portion Book so you can't link a marker to a
 
 ## Unmarked Graves
 
-There are many unmarked graves in Toowong Cementery. Take care when you walk across the grass as unmarked graves can leave hidden hollows that are a trip hazard.
+There are many unmarked graves in Toowong Cemetery. Take care when you walk across the grass as unmarked graves can leave hidden hollows that are a trip hazard.
 
 <figure markdown>
-  ![Unmarked graves](../assets/unmarked-graves.jpg){ width="100%" data-title="Unmarked graves can be clearly seen after rain" data-description="There are many unmarked graves in Toowong Cementery."}
+  ![Unmarked graves](../assets/unmarked-graves.jpg){ width="100%" data-title="Unmarked graves can be clearly seen after rain" data-description="There are many unmarked graves in Toowong Cemetery."}
   <figcaption markdown>Unmarked graves can be clearly seen after rain.</figcaption>
 </figure>
