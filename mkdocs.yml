@@ -201,6 +201,7 @@ nav:
     - Health Professionals: stories/nurses-and-doctors.md
     - Judiciary: stories/judiciary.md
     - Mariners: stories/anchors-aweigh.md
+#    - Monumental Masons: stories/monumental-masons.md
     - Performers: stories/all-the-worlds-a-stage.md 
     - Police: stories/police.md 
     - Print Media Identities: stories/printers.md
@@ -222,7 +223,7 @@ nav:
     - The Lutheran: stories/lutheran.md
 # Other themed stories 
     - Christmas Shopping 1877: stories/christmas-shopping-1877.md
-#    - The Other Half: stories/the-other-half.md
+    - The Other Half: stories/the-other-half.md
     - Steam: stories/steam.md
     - Building Brisbane: stories/brisbane-open-house.md   
     - Convicts: stories/convict-connections.md      
@@ -251,7 +252,7 @@ nav:
     - Headstone Symbols: headstones/symbols.md
     - Headstone Signs: headstones/signs.md 
 #    - Shapes: headstones/shapes.md  
-#    - Monuments: headstones/monuments.md  (use a different name Memorable Memorials?)
+#    - Monuments: headstones/monuments.md
     - Queensland's Oldest Headstones: headstones/queenslands-oldest-headstones.md
     - Archaeological Digs: headstones/archaeological-digs.md
     - Moved Paddington Cemetery Headstones: headstones/moved-paddington-headstones.md

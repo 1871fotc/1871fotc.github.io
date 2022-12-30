@@ -19,6 +19,18 @@ Individual stories have been grouped into **over 40 themed collections** below. 
 
 <div class="grid cards" markdown>  
 
+-   :material-fire:{ .lg .middle } **[Fire! Fire!][fire-fighters]**
+  
+    ---
+
+    Fire fighters of early Brisbane.
+
+-   :material-face-woman-outline:{ .lg .middle } **[The Other Half][the-other-half]**
+  
+    ---
+
+    Women who made an impact on Queensland. 
+<!--
 -   :octicons-gift-16:{ .lg .middle } **[Christmas Shopping 1877][christmas-shopping-1877]** 
   
     ---
@@ -29,19 +41,7 @@ Individual stories have been grouped into **over 40 themed collections** below. 
   
     ---
 
-    Read about 14 Brisbane Mayors from 1859 to 1931 who are buried in Toowong Cemetery.
-<!--
--   :material-fire:{ .lg .middle } **[Fire! Fire!][fire-fighters]**
-  
-    ---
-
-    Stories of Brisbane's first Fire fighters.
-
--   :material-face-woman-outline:{ .lg .middle } **[The Other Half][the-other-half]**
-  
-    ---
-
-    Women who made an impact on Queensland.    
+    Read about 14 Brisbane Mayors from 1859 to 1931 who are buried in Toowong Cemetery.       
 -->
 </div>
 
@@ -103,6 +103,7 @@ Individual stories have been grouped into **over 40 themed collections** below. 
 ## Other themed stories
 
 - **[Christmas Shopping 1877][christmas-shopping-1877]** - stories about shop keepers and Christmas in 1877
+- **[The Other Half][the-other-half]** - stories about women who made an impact on Queensland
 - **[Steam](steam.md)** - stories about our steam-driven past
 - **[Building Brisbane][brisbane-open-house]** - recalling the builders of early Brisbane
 - **[Convicts][convicts]** - connections to our convict past
