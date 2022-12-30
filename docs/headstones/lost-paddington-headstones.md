@@ -87,3 +87,8 @@ Download the Paddington Cemetery Reserved Area Headstones as a <a href="../../as
 [Download the data][data]{ .md-button .md-button--primary download}
 
 [data]: ../../assets/data/lost-paddington-cemetery-headstones.csv
+
+<!-- 
+https://trove.nla.gov.au/newspaper/article/77435062?searchTerm=James%20Teevan builder before George Prentice moved into Charlotte St?
+
+-->
