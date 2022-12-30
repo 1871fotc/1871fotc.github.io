@@ -6,3 +6,7 @@ The son of a Scottish engineer, Robert Thallon and his wife, Jean née Forsayth,
 
 *<small>[James F, Thallon](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220418430002061), Queensland Railways Commissioner, at the interstate railway commissioners and general managers' conference Melbourne in May 1909 - State Library of Queensland </small>* <br>
 *<small>[State funeral for James Forsyth Thallon, Queensland Commissioner for Railways, Brisbane, Queensland, 27 March 1911](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218753520002061), 1915 - State Library of Queensland </small>*  
+
+<!--
+Frank Williams (Ipswich) designed the memorial https://trove.nla.gov.au/newspaper/article/19709577?searchTerm=monumental%20mason 
+-->
