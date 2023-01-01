@@ -52,7 +52,7 @@ They then migrated to Victoria in 1860 and to Brisbane where he set up practice 
 
 - Gunthorpe, S. G. 'Dowse, Thomas (1809 ‑ 1885)', Australian Dictionary of Biography, Volume 4, Melbourne University Press, 1972, pp 101‑102
 - Laurie, A. ’Davis, James (1808 ‑ 1889)', Australian Dictionary of Biography, Volume 1, Melbourne University Press, 1966, pp 294-295.
-- Patrick, Ross and Heather Exiles Undaunted. St. Lucia : University of Queensland Press, 1989 [Kevin and Mary O’Doherty]
+- Patrick, Ross and Heather Exiles Undaunted. St. Lucia : University of Queensland Press, 1989, Kevin and Mary O’Doherty
 - ‘Death of Old Colonist’ [E. Mott] The Queenslander, 8 September 1900, pp.542-543.
 
 <!--
