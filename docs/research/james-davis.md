@@ -12,4 +12,10 @@ hide:
 
 --8<-- "snippets/james-davis.md"
 
+
+### Learn more 
+
+- [Tom Petrie's Reminiscences of Early Queensland](https://gutenberg.net.au/ebooks20/2000451h.html)
+
+
 --8<-- "snippets/add-to-this-story.md"
