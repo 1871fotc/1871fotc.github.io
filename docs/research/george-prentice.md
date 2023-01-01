@@ -8,7 +8,7 @@ hide:
 
 # George Prentice
 
-**Died 28 February 1890**
+**ca.1820 - 28 February 1890**
 
 --8<-- "snippets/george-prentice.md"
 
