@@ -8,7 +8,7 @@ hide:
 
 # Jessie Blanche Prentice
 
-**Died 28 February 1890**
+**12 September 1871 - 28 February 1890**
 
 --8<-- "snippets/jessie-blanche-prentice.md"
 
