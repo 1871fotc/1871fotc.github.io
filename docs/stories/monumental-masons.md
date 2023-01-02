@@ -295,7 +295,6 @@ William was an Alderman for the Town of Windsor from 1905-1914, and [Mayor in 19
     - moyor 1912 - https://trove.nla.gov.au/newspaper/article/175081469?searchTerm=mayor%20Windsor%20PARSONS
     - sons, Ernest and Charlie. - https://trove.nla.gov.au/newspaper/article/20535131?searchTerm=William%20Edward%20Parsons%20Ellen
     - [Windsor Town Council chambers](https://apps.des.qld.gov.au/heritage-register/detail/?id=600349) - [Newspaper payment](https://trove.nla.gov.au/newspaper/article/3637019) 
-
 -->
 
 <!--
