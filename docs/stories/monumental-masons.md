@@ -17,7 +17,7 @@ There are many beautiful monuments and headstones in Toowong Cemetery.
 that reflect the skills of the stonemasons that carved them. Some stonemasons, preferred to call themselves ‘[Sculptors](https://trove.nla.gov.au/newspaper/article/39008541?searchTerm=Sculptor)’. 
 -->
 
-![R.R. Smellie](../assets/logo/fotc-logo.svg){ width="33%" } ![R.R. Smellie](../assets/logo/fotc-logo.svg){ width="33%" }
+![R.R. Smellie](../assets/logo/fotc-logo.svg){ width="33%" } ![Rose Robertson](../assets/logo/fotc-logo.svg){ width="33%" }
  ![R.R. Smellie](../assets/logo/fotc-logo.svg){ width="33%" }
 
 These headstones were created by Brisbane's early Monumental Masons. In 1909, the [Stonemasons' Trade Board stated](https://trove.nla.gov.au/newspaper/article/19575621):
@@ -157,6 +157,7 @@ On 5 September 1850 Petrie married Jane Keith, daughter of Daniel McNaught of Du
     - https://www.petrie.com.au/family
     - https://www.petrie.com.au/history
     - Example works: 
+        - Ann Hill second burial in TC 1871
 -->
 
 ## Andrew Lang Petrie <small>(13‑10‑7)</small>
@@ -259,6 +260,11 @@ In later life, George Prentice was an Alderman in the Sandgate Municipal Council
 
 William Edward Parsons was born in Staffordshire ca. 1860. He learnt stone masonry at Bristol before arriving in Brisbane in 1884. He worked as a journeyman stone mason before commencing [his own business in Makerston street, off Roma street](https://nla.gov.au/nla.obj-3065199767/view?partId=nla.obj-3065306795#page/n685/mode/1up).
 
+<figure markdown>
+  ![Insert image of W.E. Parsons' mark](../assets/logo/fotc-logo.svg){ width="30%" }
+  <figcaption markdown>Insert image of W.E. Parsons' mark. Carving and Plaque on Sarah Jane Webster (4-19-2/3)</figcaption>
+</figure>
+
 William was an Alderman for the Town of Windsor from 1905-1914, and [Mayor in 1912](https://trove.nla.gov.au/newspaper/article/175081469?searchTerm=mayor%20Windsor%20PARSONS).
 
 After a long period of ill health, [William died in hospital on 1 April 1919](https://trove.nla.gov.au/newspaper/article/192735376?searchTerm=parsons). He left behind his wife, Ellen, and two sons, Ernest and Charlie. [Ellen died in November 1923](https://trove.nla.gov.au/newspaper/article/20678107?searchTerm=Ellen%20Parsons) and is buried with her husband.
@@ -326,15 +332,25 @@ Mark "[H. Payne North Quay](https://www.fosbc.com/history/cemetery-people/the-st
 
 ## John Lowther <small>(12‑5‑3/4)</small>
 
-John Lowther ran the firm of "Lowther & Sons" on Ann Street, Brisbane. John and his wife lived at Free street, Kelvin Grove, and had five children, Phillip, Ernest, Charles, Arthur and Lottie.
+John Lowther ran the firm of "Lowther & Sons" on Ann Street, Brisbane. John and his wife lived at Free street, Kelvin Grove, and had five children, Phillip, Ernest, Charles, Arthur and Lottie. John Lowther died 4 April 1918 aged 66.
 
-[John Lowther died 4 April 1918](https://trove.nla.gov.au/newspaper/article/20357396?searchTerm=%22John%20Lowther%22) <!-- remove link --> aged 66 and is [buried in Toowong Cemetery](https://trove.nla.gov.au/newspaper/article/176070446?searchTerm=%22John%20Lowther%22).
+<figure markdown>
+  ![Insert image of Lowther & Sons' mark](../assets/logo/fotc-logo.svg){ width="30%" }
+  <figcaption markdown>Insert image of Lowther & Sons' carving on Sydney Samuel Levy (3-2-7)</figcaption>
+</figure>
 
-The business continued after John's dead, with his eldest son, Phillip J. Lowther, operating the firm "[Phillip Lowther and Son](https://trove.nla.gov.au/newspaper/article/39008541?searchTerm=monumental)" Monumental and Building Masons at 108 Lutwyche Road. Notable works include:
+The business continued after John's death, with his eldest son, Phillip J. Lowther, operating the firm "[Phillip Lowther and Son](https://trove.nla.gov.au/newspaper/article/39008541?searchTerm=monumental)" Monumental and Building Masons at 108 Lutwyche Road. Notable works include:
 
 - the [Sandgate Cenotaph](https://trove.nla.gov.au/newspaper/article/180045354?searchTerm=Bowser%20%20MONUMENTAL%20MASONS)
 - [Cross of Sacrifice at Lutwyche Cemetery](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99184003729202061)
 - [Australian-American Memorial](https://www.qldwarmemorials.com.au/memorial?id=1405) at Newstead Park, Newstead
+
+
+<figure markdown>
+  ![Insert image of P.J. Lowther & Sons' mark](../assets/logo/fotc-logo.svg){ width="30%" }
+  <figcaption markdown>Insert image of P.J. Lowther & Sons' mark on James Hetch Bulter (11-40-8)</figcaption>
+</figure>
+
   
 Phillip's son, [Leslie John Lowther](https://trove.nla.gov.au/newspaper/article/50225005), was the managing director of P. J. Lowther and Son, Pty., Ltd., masonry contractors, Bowen Bridge Road. Leslie is buried in Toowong Cemetery (8‑71‑26/27).
 
@@ -348,6 +364,8 @@ Phillip's son, [Leslie John Lowther](https://trove.nla.gov.au/newspaper/article/
 
     - [Daughter Nellie died September 1914](https://trove.nla.gov.au/newspaper/article/176396437?searchTerm=%22John%20Lowther%22). Funeral left from their home in Free street, Kelvin Grove.
     - [Charles](https://trove.nla.gov.au/newspaper/article/22211615?searchTerm=%22John%20Lowther%22)
+    -  https://trove.nla.gov.au/newspaper/article/20357396?searchTerm=%22John%20Lowther%22 
+    -  [buried in Toowong Cemetery](https://trove.nla.gov.au/newspaper/article/176070446?searchTerm=%22John%20Lowther%22)
 -->
 
 ## William Busby <small>(4‑3‑22)</small>
@@ -419,7 +437,14 @@ In 1888, John created [a marble drinking fountain for Women's Christian Temperan
 </figure>
 -->
 
-John Simmonds took on his son, John Howard Simmonds (1862-1955), <!-- born in Calton Vic. --> as an apprentice stonemason in 1880. He ran the business after his [Father's death in 1889](https://www.familyhistory.bdm.qld.gov.au/details/b26ee2454ca983d88a44de85d949647c8e514f213f0884dc188c50bb4bdc7c2c) until he retired in 1920. J.H. Simmonds made a point of photographing the tombstones he worked on and introduced photography to his wife, [Rose Simmonds](https://adb.anu.edu.au/biography/simmonds-rose-11691/text20893), who studied art with Godfrey Rivers at the Brisbane Technical College. [A collection of Rose Simmonds' work](https://blog.qagoma.qld.gov.au/rose-simmonds-a-nostalgia-for-queenslands-pastoral-past/) is held by the Queensland Art Gallery. [J.H. Simmonds was also a Naturalist](https://www.eoas.info/biogs/P006858b.htm) who collected fossils and botanical specimens that are now held in the Queensland Museum and Queensland Herbarium.
+John Simmonds took on his son, John Howard Simmonds (1862-1955), <!-- born in Calton Vic. --> as an apprentice stonemason in 1880. He ran the business after his [Father's death in 1889](https://www.familyhistory.bdm.qld.gov.au/details/b26ee2454ca983d88a44de85d949647c8e514f213f0884dc188c50bb4bdc7c2c) until he retired in 1920. 
+
+<figure markdown>
+  ![Insert image of John Simmonds' mark](../assets/logo/fotc-logo.svg){ width="30%" }
+  <figcaption markdown>Insert image of  John Simmonds' carving on Arthur Lowe (11‑15‑16/17)</figcaption>
+</figure>
+
+J.H. Simmonds made a point of photographing the tombstones he worked on and introduced photography to his wife, [Rose Simmonds](https://adb.anu.edu.au/biography/simmonds-rose-11691/text20893), who studied art with Godfrey Rivers at the Brisbane Technical College. [A collection of Rose Simmonds' work](https://blog.qagoma.qld.gov.au/rose-simmonds-a-nostalgia-for-queenslands-pastoral-past/) is held by the Queensland Art Gallery. [J.H. Simmonds was also a Naturalist](https://www.eoas.info/biogs/P006858b.htm) who collected fossils and botanical specimens that are now held in the Queensland Museum and Queensland Herbarium.
 
 <figure markdown>
   ![St Andrew's Presbyterian Church on Ann Street, Brisbane, with stonemason next door, ca. 1915](../assets/j-simmonds-monumental-works.jpg){ width="70%' class="full-width" }
