@@ -17,8 +17,8 @@ There are many beautiful monuments and headstones in Toowong Cemetery.
 that reflect the skills of the stonemasons that carved them. Some stonemasons, preferred to call themselves ‘[Sculptors](https://trove.nla.gov.au/newspaper/article/39008541?searchTerm=Sculptor)’. 
 -->
 
-![R.R. Smellie](../assets/logo/fotc-logo.svg){ width="33%" } ![Rose Robertson](../assets/logo/fotc-logo.svg){ width="33%" }
- ![R.R. Smellie](../assets/logo/fotc-logo.svg){ width="33%" }
+![R.R. Smellie](../assets/logo/fotc-logo.svg){ width="32.33%" } ![Rose Robertson](../assets/logo/fotc-logo.svg){ width="32.33%" }
+ ![R.R. Smellie](../assets/logo/fotc-logo.svg){ width="32.33%" }
 
 These headstones were created by Brisbane's early Monumental Masons. In 1909, the [Stonemasons' Trade Board stated](https://trove.nla.gov.au/newspaper/article/19575621):
 
