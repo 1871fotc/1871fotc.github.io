@@ -12,7 +12,7 @@ search:
 
 # Brisbane's Early Monumental Masons
 
-There are many beautiful monuments and headstones in Toowong Cemetery. 
+There are many beautiful monuments and headstones in Toowong Cemetery sculpted by Brisbane's early Monumental Masons.
 <!--
 that reflect the skills of the stonemasons that carved them. Some stonemasons, preferred to call themselves ‘[Sculptors](https://trove.nla.gov.au/newspaper/article/39008541?searchTerm=Sculptor)’. 
 -->
@@ -20,13 +20,9 @@ that reflect the skills of the stonemasons that carved them. Some stonemasons, p
 ![R.R. Smellie (13-60-5/10)](../assets/logo/fotc-logo.svg){ width="32.33%" } ![Rose Robertson (13-48-11)](../assets/logo/fotc-logo.svg){ width="32.33%" }
  ![Frederick Ness (13-4-8)](../assets/logo/fotc-logo.svg){ width="32.33%" }
 
-These headstones were created by Brisbane's early Monumental Masons. In 1909, the [Stonemasons' Trade Board stated](https://trove.nla.gov.au/newspaper/article/19575621):
+In 1909, the [Stonemasons' Trade Board stated](https://trove.nla.gov.au/newspaper/article/19575621):
 
 >'Monumental mason' shall mean a stonemason who is engaged in preparing or fixing all stone for cemetery purposes, or in preparing marble or cutting in inscriptions for cemetery or other work.
-
-<!--
-In 1909 the Stonemasons' Trade Board divided Masons into [Building, Monumental, and Porphyry masons](https://trove.nla.gov.au/newspaper/article/19575621), each with different minimum wages, working conditions, and apprenticeship rules. 
--->
 
 <!--
 It could be [expensive to bury a loved one in Toowong Cemetery](https://trove.nla.gov.au/newspaper/article/169490124?searchTerm=headstones):
