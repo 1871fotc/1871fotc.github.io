@@ -8,7 +8,7 @@ hide:
 
 # Francis Drummond Grenville Stanley
 
-**1 January 1839 — 28 May 1897**
+**1 January 1839 — 26 May 1897**
 
 --8<-- "snippets/francis-drummond-grenville-stanley.md"
 
