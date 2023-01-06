@@ -8,7 +8,7 @@ hide:
 
 # Andrew Lang Petrie
 
-**1854 — 1 April 1928**
+**25 June 1854 — 1 April 1928**
 
 --8<-- "snippets/andrew-lang-petrie.md"
 
