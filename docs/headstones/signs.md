@@ -131,7 +131,7 @@ These signs, names or acronyms can be found on headstones in Toowong Cemetery.
 | RBP     | [Royal Black Preceptory][RBP] [^2]                           |                   | pp-ss-gg           | <!-- TODO THOMAS HUGHES 5-59-10 --> 
 | SC      | Scottish Constitution                                        | Freemasonry       | 25-46-17           |
 | UAOD    | [United Ancient Order of Druids][UAOD]                       | Friendly Society  | pp-ss-gg           |
-| UOSMS   | United Operative Stonemasons Society of Queensland          | Friendly Society  | pp-ss-gg           |
+| UOSMS   | United Operative Stonemasons Society of Queensland           | Friendly Society  | pp-ss-gg           |
 | UGL     | [United Grand Lodge of Ancient, Free and Accepted][UGL]      | Freemasonry       | 25-46-17           |
 
 
@@ -146,10 +146,10 @@ Unlike the [Clasped Hands symbol](symbols.md#clasped-hands) showing a man and wo
 
  ![Headstone carving with man and women holding hands](../assets/clasped-hands.jpg){ width="48%" }  ![Headstone carving with men shaking hands][20-20-35/36]{ width="48%" }  
 
-*<small>The image on the right is from the headstone of Richard Silas Bowden - Past Grand Master of the Manchester Unity Independent Order of Oddfellows (20‑20‑35/36) </small>*
+*<small>The image on the right is from the headstone of Richard Silas Bowden - Past Grand Master of the Manchester Unity Independent Order of Odd Fellows (20‑20‑35/36) </small>*
 
 
-[20-20-35/36]: ../assets/oddfellow-handshake.jpg "Richard Silas Bowden Headstone - Past Grand Master of the Manchester Unity Independent Order of Oddfellows (20‑20‑35/36)"
+[20-20-35/36]: ../assets/oddfellow-handshake.jpg "Richard Silas Bowden Headstone - Past Grand Master of the Manchester Unity Independent Order of Odd Fellows (20‑20‑35/36)"
 
 <!-- PPCM Permanent President Courts Martial https://www.awm.gov.au/learn/glossary/p -->
 
