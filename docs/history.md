@@ -24,6 +24,7 @@ The land for the cemetery was first reserved in 1866. [The reserve of 250 acres 
 
 [gazette-93]: assets/documents/Queensland_Gov_Gazette_8_October_1870_v11_93.pdf "Read the Queensland Government Gazetter No. 93"
 [gazette-94]: assets/documents/Queensland_Gov_Gazette_10_October_1870_v11_94.pdf "Read the Queensland Government Gazetter No. 94"
+[reserve]: assets/toowong-cemetery-reserve-map-1861.jpg "View a 1861 map of the reserved land"
 
 <div class="video-wrapper">
 <!--
@@ -37,12 +38,10 @@ The land for the cemetery was first reserved in 1866. [The reserve of 250 acres 
 
 <!--
 
-![Map showing Toowong Cemetery Reservation, ca. 1861](assets/toowong-cemetery-reservation-map-1861-alt.webp)
+![Map showing Toowong Cemetery Reservation, ca. 1861][reserve]
 
 *<small>[City of Brisbane, County of Stanley, showing Toowong Cemetery Reservation; being sheet 1b of a 20 chain grid series. 20 chains to the inch. Survey Office, Brisbane.](https://www.archivessearch.qld.gov.au/items/ITM634480), ca. 1861 — Queensland State Archives. Cropped.*</small>
-
-[reserve]: assets/toowong-cemetery-reservation-map-1861-alt.webp "View a map of the reserved land"
---> 
+-->
 
 ## 1871 Governor Blackall buried
 
@@ -53,6 +52,12 @@ The land for the cemetery was first reserved in 1866. [The reserve of 250 acres 
 ## 1875 Toowong Cemetery opened
 
 The Toowong Cemetery was officially opened on 5 July 1875 and was originally called the Brisbane General Cemetery.  Toowong Cemetery is the largest cemetery in Queensland at 44 Hectares and is an important record of the history of Brisbane and Queensland. Over 119,000 people are buried in Toowong Cemetery in approximately 46,000 graves.
+
+<!--
+![Plan of Parish of Enoggera showing Brisbane General Cemetery, 1876](assets/enoggera-parish-1876.jpg){ width="96%" loading=lazy }
+
+*[Plan of portions no.s 830b, 865, 866, 866a, 867, 867a & 868 to 872, Parish of Enoggera, County of Stanley, District of Moreton](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma997041034702061) showing Brisbane General Cemetery, 1876 - State Library of Queensland. Cropped.*
+-->
 
 ![Toowong Cemetery, Brisbane, ca. 1890](assets/toowong-cemetery-ca1890.jpg){ width="96%" loading=lazy data-title="Toowong Cemetery, Brisbane, ca. 1890"} 
 
