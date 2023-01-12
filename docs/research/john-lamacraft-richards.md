@@ -1,6 +1,6 @@
 ---
 title: John Lamacraft Richards
-description: Member of the City Volunteer Fire Brigade and a foundation member of the Progressive Lodge (Oddfellows)
+description: Member of the City Volunteer Fire Brigade and a foundation member of the Progressive Lodge (Odd Fellows)
 hide:
   - toc
   - navigation 
