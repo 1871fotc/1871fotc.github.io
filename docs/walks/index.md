@@ -14,7 +14,6 @@ description: Free self-guided walks to help you explore the history and stories 
 
 **Free self-guided walks to help you explore the history and stories of Toowong Cemetery**
 
-
 <!--
 <figure markdown>
   ![State Library of Queensland's reading room, Brisbane, 1902](../assets/slq-reading-room-1902-16x9.jpg){  class="full-width" }
@@ -89,30 +88,15 @@ Self-guided walks in Toowong Cemetery are free. You can walk in the cemetery bet
 <div class="video-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/41fWB0IvDKU?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>  
+
 <!--
 *<small>[Toowong Cemetery, Brisbane - DJI Mavic aerial](https://youtu.be/41fWB0IvDKU) by Drone Runner. </small>* **<small></small>**. 
 -->
 
-Toowong Cemetery is the largest cemetery in Queensland. On your walk you should wear a hat and enclosed shoes, and take a water bottle. Toilets are available at Canon Garland Place within the cemetery.
+Toowong Cemetery is the largest cemetery in Queensland. On your walk you should wear a hat and enclosed shoes, and take a water bottle. Toilets are available at Canon Garland Place within the cemetery - they are not wheel-chair accessible.
 
 [Visit Toowong Cemetery](../index.md#visit-toowong-cemetery){ .md-button .md-button--primary }
 
 ## Self-guided walk alternatives
 
 Consider joining a **[Toowong Cemetery Guided Tour](../guided-tours.md)** or the visiting the **[headstone symbolism display](../headstones/symbols.md)**.
-
-<!--
-
-Find out how to [visit Toowong Cementry](../index.md#visit-toowong-cemetery) by car, on foot, or using public transport.
-
-- **[Dr. Lilian Cooper walk](lilian-cooper-walk.md)** - uncover the history along Lilian Cooper Drive
-- **[Mount Blackall walk](mount-blackall-walk.md)** - explore some of the highlights on Mount Blackall
-- **[The Federation Walk](federation-walk.md)** -  discover Queensland's contribution to Australia's federation
-- **[The Jewish Walk](jewish-walk.md)** - A self-guided walk around the Jewish portion of Toowong Cemetery
---> 
-
-<!-- links to pages or pdfs 
-
-[federation-walk]: federation-walk.md
-[jewish-walk]: jewish-walk.md
--->
