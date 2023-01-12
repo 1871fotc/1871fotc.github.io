@@ -48,6 +48,8 @@ At Toowong Cemetery you can:
 
 ## Visit Toowong Cemetery
 
+Toowong Cemetery is open everyday from 6am-6pm. Check the Brisbane City Council for [Office opening hours](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#officehours).
+
 <figure markdown>
   ![Toowong Cemetery main entrance](assets/main-entrance.jpg){ class="full-width" }
   <figcaption markdown>The Toowong Cemetery Main Entrance was designed by the Colonial Architect **[F.D.G. Stanley](research/francis-drummond-grenville-stanley.md)** and erected in 1873-1874</figcaption>
@@ -90,7 +92,7 @@ If you enter the main entrance, you'll find:
 - **Canon Garland Place** named after **[Canon David John Garland][Garland]**. The Flagpole here is the departure point for our **[guided heritage tours](guided-tours.md)**.
 - a **Museum** operated by the Friends of Toowong Cemetery, and opened before and after our guided heritage tours
 - the **[Office](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#officehours)**, where Brisbane City Council staff can answer your enquiries and help locate graves and memorial sites.
-- **Toilets** - the only ones available in the cemetery.
+- **Toilets** - the only ones available in the cemetery and are not wheel-chair accessible.
 
 <figure markdown>
   ![Canon Garland Place at Toowong Cemetery](assets/flag-pole.jpg){ class="full-width" }
