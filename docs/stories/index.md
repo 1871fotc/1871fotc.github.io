@@ -81,6 +81,7 @@ Individual stories have been grouped into **over 40 themed collections** below. 
 - **[Sporting Personalities][sporting-personalities]** 
 - **[Railway People][railway]** - A Journey from Sevastopol to Brunswick Street
 - **[Undertakers][undertakers]**
+<!-- **[Monumental Masons](monumental-masons.md)** - Men who sculpted beautiful monuments in Toowong Cemetery -->
 
 ## Military stories
 
