@@ -61,7 +61,7 @@ extra:
   generator: false
   social:
     - icon: fontawesome/solid/envelope
-      link: mailto:inquiries@fotc.org.au
+      link: mailto:inquiries@fotc.au
       name: Email us
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/1871fotc/
