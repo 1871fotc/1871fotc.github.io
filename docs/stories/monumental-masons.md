@@ -1,24 +1,21 @@
 ---
 title: Brisbane's Early Monumental Masons
-description: Stories about Monumental Masons that crafted headstones in Toowong Cemetery
+description: Stories about Monumental Masons who crafted headstones in Toowong Cemetery
 hide:
   - navigation
-robots: 
-  noindex: true
-  nofollow: true
 search:
-  exclude: true  
+  exclude: true
 ---
 
 # Brisbane's Early Monumental Masons
 
-There are many beautiful monuments and headstones in Toowong Cemetery sculpted by Brisbane's early Monumental Masons.
+Brisbane's early Monumental Masons sculpted many beautiful monuments and headstones in Toowong Cemetery.
+
 <!--
-that reflect the skills of the stonemasons that carved them. Some stonemasons, preferred to call themselves ‘[Sculptors](https://trove.nla.gov.au/newspaper/article/39008541?searchTerm=Sculptor)’. 
+![R.R. Smellie (13-60-5/10)](../assets/robert-russell-smellie-headstone.jpg){ width="32.33%" } ![Rose Robertson (13-48-11)](../assets/rose-robertson-headstone.jpg){ width="32.33%" } ![Alexander Munn (18-54-15)](../assets/alexander-munn-headstone.jpg){ width="32.33%" } 
 -->
 
-![R.R. Smellie (13-60-5/10)](../assets/logo/fotc-logo.svg){ width="32.33%" } ![Rose Robertson (13-48-11)](../assets/logo/fotc-logo.svg){ width="32.33%" }
- ![Frederick Ness (13-4-8)](../assets/logo/fotc-logo.svg){ width="32.33%" }
+![Frederick Ness (13-4-8)](../assets/frederick-ness-headstone.jpg){ width="32.33%" } ![Thomas Bain headstone (11-77-13)](../assets/thomas-bain-headstone.jpg){ width="32.33%" }  ![Leslie Cooper Scarfe (11-80-1)](../assets/leslie-cooper-scarfe-headstone.jpg){ width="32.33%" }
 
 In 1909, the [Stonemasons' Trade Board stated](https://trove.nla.gov.au/newspaper/article/19575621):
 
@@ -104,42 +101,7 @@ ca. 1891 - 29 October 1974
     - age 83
 -->
 
-## Frank Martin Downes <small>(13‑4‑8)</small>
-
-Frank Martin Downes was [born in 1848](https://www.familyhistory.bdm.qld.gov.au/details/8519478a9dd500f066995d5b3ed0b3e9840b9c3cc8040d7b631c767b9bf2f705) to Henry Downes and his wife Mary Ann, née Martin. He was a [Manager at John Petrie & Son](https://trove.nla.gov.au/newspaper/article/97526386?searchTerm=MONUMENTAL) monumental works until the firm went bankrupt in 1894. The [F.M. Downes](https://trove.nla.gov.au/newspaper/article/70863391?searchTerm=DOWNES) monumental works started business in April 1894 in Wickham and Gotha Streets, Fortitude Valley. 
-
-One of the most beautifully carved monuments in Toowong Cemetery is that of [Frederick Ness](https://trove.nla.gov.au/newspaper/article/3488832?searchTerm=ness%20downes) (13-4-8), the brother-in-law of F.M. Downes.
-
-<figure markdown>
-  ![Insert image of Frederick Ness monuments](../assets/logo/fotc-logo.svg){ width="30%" }
-  <figcaption markdown>Insert image of Frederick Ness monument (13-4-8)</figcaption>
-</figure>
-
-Frank was the [Brisbane District, Provincial Grand Master](https://trove.nla.gov.au/newspaper/article/172140710?searchTerm=M.U.I.O.O.F.) of the Manchester Unity Independent Order of Odd Fellows in 1896, when the Friendly Society explored the formation of Female Lodges.
-
-On 26 August 1918, Frank was severly injuried in an accident at his monumental works when a crane jib broke and struck him, crushing his right knee, fracturing his left leg, and injuring his right ribs. [Frank died in the General Hospital early that evening](https://trove.nla.gov.au/newspaper/article/174824552?searchTerm=monumental%20mason).
-
-<figure markdown>
-  ![F.M. Downes Advertisement in Pugh's Queensland almanac and directory, 1901](../assets/f-m-downes-advertisement.jpg){ width="40%" }
-  <figcaption markdown>[F.M. Downes Advertisement in Pugh's Queensland almanac and directory, 1901](https://nla.gov.au/nla.obj-3029986054/view?sectionId=nla.obj-3036927085&searchTerm=monumental+mason&partId=nla.obj-3030027520#page/n22/mode/1up).</figcaption>
-</figure>
-
-<!--
-??? warning "Research"
-
-    - [126 Annie Street, New Farm](https://www.realestate.com.au/news/piece-of-brisbane-history-with-family-ties-to-channel-9-newsreader-melissa-downes-is-for-sale/) The rare piece of Brisbane’s history was built circa 1865 by a father and son team of stonemasons from Essex, England. Featured in [Homes with History on the New Farm Peninsula](https://newfarmhistorical.org.au/new-book-homes-with-history-on-the-new-farm-peninsula/)
-    - Was Frank born overseas? 
-    - https://trove.nla.gov.au/newspaper/article/187790680?searchTerm=Frederick%20Ness
--->
-
-<!-- 
-    - [Wyandotte eggs, Clayfield](https://trove.nla.gov.au/newspaper/article/175310957?searchTerm=%22F.%20M.%20DOWNES%22)
-    - [WANTED strong, willing Youth. F. M. Downes, Monumental Works, Wickham street. 3 August 1899](https://trove.nla.gov.au/newspaper/article/175312839?searchTerm=%22F.%20M.%20DOWNES%22)
-    - [Prov. Grand Master, Female Lodge](https://trove.nla.gov.au/newspaper/article/172140710?searchTerm=%22F.%20M.%20DOWNES%22) - 4 November 1896
-    - [M.U.I.O.O.F. Installation of District Officers, Presentation of Jewel and Regalia of office to Bro. F. M. Downes](https://trove.nla.gov.au/newspaper/article/172149901?searchTerm=%22F.%20M.%20DOWNES%22) - 1 March 1897
-    - [Ad, 15/9/1900](https://trove.nla.gov.au/newspaper/article/162120457?searchTerm=%22F.%20M.%20DOWNES%22)
-    - [ad 1901 with photo. LATE MANAGER OF MESSRS. JOHN PETRIE & SON](https://nla.gov.au/nla.obj-3029986054/view?sectionId=nla.obj-3036927085&searchTerm=monumental+mason&partId=nla.obj-3030027520#page/n22/mode/1up)
--->
+--8<-- "snippets/frank-martin-downes.md"
 
 <!--
 ## John Petrie <small>(13‑5‑3)</small>
@@ -264,49 +226,7 @@ In later life, George Prentice was an Alderman in the Sandgate Municipal Council
         - tba 
 -->
 
-## William Edward Parsons <small>(6‑3‑1)</small>
-
-William Edward Parsons was born in Staffordshire ca. 1860. He learnt stone masonry at Bristol before arriving in Brisbane in 1884. He worked as a journeyman stone mason before commencing [his own business in Makerston street, off Roma street](https://nla.gov.au/nla.obj-3065199767/view?partId=nla.obj-3065306795#page/n685/mode/1up).
-
-<figure markdown>
-  ![Insert image of W.E. Parsons' mark](../assets/logo/fotc-logo.svg){ width="30%" }
-  <figcaption markdown>Insert image of W.E. Parsons' mark. Carving and Plaque on Sarah Jane Webster (4-19-2/3)</figcaption>
-</figure>
-
-William was an Alderman for the Town of Windsor from 1905-1914, and [Mayor in 1912](https://trove.nla.gov.au/newspaper/article/175081469?searchTerm=mayor%20Windsor%20PARSONS). After a long period of ill health, [William died in hospital on 1 April 1919](https://trove.nla.gov.au/newspaper/article/192735376?searchTerm=parsons). He left behind his wife, Ellen, and two sons, Ernest and Charlie. [Ellen died in November 1923](https://trove.nla.gov.au/newspaper/article/20678107?searchTerm=Ellen%20Parsons) and is buried with her husband.
-
-<!--
-??? warning "Research"
-
-    - Parsons & Payne, Makerston street, off Roma street - William Edward Parsons & Henry Payne 
-    - https://trove.nla.gov.au/newspaper/article/192735376?searchTerm=parsons%20Rechabite - Upper Roma Street
-    - https://trove.nla.gov.au/newspaper/article/175052108?searchTerm=parsons%20monumental%20mason
-    - https://trove.nla.gov.au/newspaper/article/174357824?searchTerm=parsons%20monumental%20mason - William Edward Parsons 1905
-    - O'Connelltown = Windsor - https://adb.anu.edu.au/biography/wight-george-4850
-    - ald 1905 - https://trove.nla.gov.au/newspaper/article/19423377?searchTerm=alderman%20Windsor%20PARSONS, https://trove.nla.gov.au/newspaper/article/19307494?searchTerm=alderman%20Windsor%20PARSONS
-    - alderman 1906 with W.h. Bowser https://trove.nla.gov.au/newspaper/article/19453246?searchTerm=alderman%20Windsor%20PARSONS
-    - ald 1907 - https://trove.nla.gov.au/newspaper/article/178246971?searchTerm=alderman%20Windsor%20PARSONS
-    - ald 1908 - https://trove.nla.gov.au/newspaper/article/19537045?searchTerm=alderman%20Windsor%20PARSONS
-    - ald 1909 - https://trove.nla.gov.au/newspaper/article/19571638?searchTerm=mayor%20Windsor%20PARSONS
-    - moyor 1912 - https://trove.nla.gov.au/newspaper/article/175081469?searchTerm=mayor%20Windsor%20PARSONS
-    - sons, Ernest and Charlie. - https://trove.nla.gov.au/newspaper/article/20535131?searchTerm=William%20Edward%20Parsons%20Ellen
-    - [Windsor Town Council chambers](https://apps.des.qld.gov.au/heritage-register/detail/?id=600349) - [Newspaper payment](https://trove.nla.gov.au/newspaper/article/3637019) 
--->
-
-<!--
-## William John Parsons <small>(1‑63‑17)</small>
-
-No relation!
-
-d ca. 19-10-1936 age 87
-
-!!! warning "Research"
-
-    - [helped Richard Ramo make the Temple of Peace](https://trove.nla.gov.au/newspaper/article/22873160?searchTerm=parsons%20monumental%20mason) - 8 Dec 1924
-    - [Protest against increased charges](https://trove.nla.gov.au/newspaper/article/19641409?searchTerm=parsons%20monumental%20mason) - 23 June 1910 - Which W. Parsons?
-    - [Heritiage listed house at 68 Sixth Avenue, Windsor, constructed circa 1888 for stonemason William Parsons](https://heritage.brisbane.qld.gov.au/heritage-places/1815)
-    - William Roy Parsons d ~12-07-1932 age 31 Years
--->
+--8<-- "snippets/william-edward-parsons.md"
 
 <!--
 ## William Henry Bowser <small>(13‑2‑11)</small> 
@@ -316,7 +236,6 @@ d ca. 19-10-1936 age 87
 Bowser & Co Ltd - Quarries not Monumental Masons
 
 ### George Montague Bowser <small>(9‑5‑26)</small>
-
 
 ??? warning "Research"
 
@@ -331,160 +250,18 @@ Bowser & Co Ltd - Quarries not Monumental Masons
     - https://www.flickr.com/photos/basalamant/50310203258
 
 -->
-<!--
-## Henry Payne <small>(18‑102‑5)</small>
 
-d. ca. 20-01-1944 age 84 ➜ b. ca. 1860
+--8<-- "snippets/henry-payne.md"
 
-Parsons & Payne, Makerston street, off Roma street - [Pugh's Queensland almanac and directory, 1905](https://nla.gov.au/nla.obj-3065199767/view?partId=nla.obj-3065306795#page/n685/mode/1up).
+--8<-- "snippets/john-lowther.md"
 
-Mark "[H. Payne North Quay](https://www.fosbc.com/history/cemetery-people/the-stonemasons/)"
+--8<-- "snippets/william-busby-2.md"
 
--->
+![Caskey Monument (4‑36‑gg)](../assets/logo/fotc-logo.svg){ width="32.33%" } ![Percy Lionel Benjamin Memorial (3-12-7/8)](../assets/logo/fotc-logo.svg){ width="32.33%" } ![Stephen Alonzo Spragg Memorial (5-15-26)](../assets/logo/fotc-logo.svg){ width="32.33%" }
 
-## John Lowther <small>(12‑5‑3/4)</small>
+*<small>From left to right: Caskey Monument (4-36-?), Percy Lionel Benjamin Memorial (3-12-7/8), Stephen Alonzo Spragg Memorial (5-15-26)</small>* <br>
 
-John Lowther ran the firm of "Lowther & Sons" on Ann Street, Brisbane. John and his wife lived at Free street, Kelvin Grove, and had five children, Phillip, Ernest, Charles, Arthur and Lottie. John Lowther died 4 April 1918 aged 66.
-
-<figure markdown>
-  ![Insert image of Lowther & Sons' mark](../assets/logo/fotc-logo.svg){ width="30%" }
-  <figcaption markdown>Insert image of Lowther & Sons' carving on Sydney Samuel Levy (3-2-7)</figcaption>
-</figure>
-
-The business continued after John's death, with his eldest son, Phillip J. Lowther, operating the firm "[Phillip Lowther and Son](https://trove.nla.gov.au/newspaper/article/39008541?searchTerm=monumental)" Monumental and Building Masons at 108 Lutwyche Road. Notable works include:
-
-- the [Sandgate Cenotaph](https://trove.nla.gov.au/newspaper/article/180045354?searchTerm=Bowser%20%20MONUMENTAL%20MASONS)
-- [Cross of Sacrifice at Lutwyche Cemetery](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99184003729202061)
-- [Australian-American Memorial](https://www.qldwarmemorials.com.au/memorial?id=1405) at Newstead Park, Newstead
-
-
-<figure markdown>
-  ![Insert image of P.J. Lowther & Sons' mark](../assets/logo/fotc-logo.svg){ width="30%" }
-  <figcaption markdown>Insert image of P.J. Lowther & Sons' mark on James Hetch Bulter (11-40-8)</figcaption>
-</figure>
-
-  
-Phillip's son, [Leslie John Lowther](https://trove.nla.gov.au/newspaper/article/50225005), was the managing director of P. J. Lowther and Son, Pty., Ltd., masonry contractors, Bowen Bridge Road. Leslie is buried in Toowong Cemetery (8‑71‑26/27).
-
-<figure markdown>
-  ![Firm of Lowther & Sons on Ann Street, ca. 1907](../assets/lowther-and-sons.jpg){ width="70%" class="full-width" }
-  <figcaption markdown>[Firm of Lowther & Sons on Ann Street, ca. 1907](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183513705502061). The business of Lowther and Sons, monumental headstones was situated on Ann Street, between Boundary Street and Antrim Street - State Library of Queensland. Cropped.</figcaption>
-</figure>
-
-<!--
-??? warning "Research"
-
-    - [Daughter Nellie died September 1914](https://trove.nla.gov.au/newspaper/article/176396437?searchTerm=%22John%20Lowther%22). Funeral left from their home in Free street, Kelvin Grove.
-    - [Charles](https://trove.nla.gov.au/newspaper/article/22211615?searchTerm=%22John%20Lowther%22)
-    -  https://trove.nla.gov.au/newspaper/article/20357396?searchTerm=%22John%20Lowther%22 
-    -  [buried in Toowong Cemetery](https://trove.nla.gov.au/newspaper/article/176070446?searchTerm=%22John%20Lowther%22)
--->
-
-## William Busby <small>(4‑3‑22)</small>
-
-William and his wife Annie departed Plymouth aboard the *Mhari Bhan* on 29 August 1882 and [arrived in Brisbane 29 November 1882](http://www.dragongenealogy.com/blog/2011/11/tombstone-tuesday-william-busby-stonemason-of-toowong/). William worked as an Inspector of Works until he [controversially lost his job for using obscene language](https://trove.nla.gov.au/newspaper/article/3521969?searchTerm=INSPECTOR%20Busby). 
-
-William established himself as a stonemason and had a workshop and home in Sylvan Road, Toowong. Notable works include:
-
-- the heritage-listed Caskey Monument. [William won the competition](https://trove.nla.gov.au/newspaper/article/19130745) to design a memorial to the late Lieutenant Caskey and it is the first known South African War memorial in Queensland. 
-- a memorial to [Mr. Percy Lionel Benjamin](https://trove.nla.gov.au/newspaper/article/19244847) erected by the
-directors of Messrs. Hoffnung and Co. At the time the marble obelisk was said to be the largest piece of marble cut in Queensland.
-- a memorial to [Stephen Alonzo Spragg](https://trove.nla.gov.au/newspaper/article/19278904), a member of Australia's first full International Rugby Union team.
-  
-William was a member of the Manchester Unity Independent Order of Odd Fellows and continued working until [his death in 1928](https://trove.nla.gov.au/newspaper/article/179318668?searchTerm=Busby).
-
-![Caskey Monument](../assets/logo/fotc-logo.svg){ width="32.33%" } ![Percy Lionel Benjamin Memorial](../assets/logo/fotc-logo.svg){ width="32.33%" } ![Stephen Alonzo Spragg Memorial](../assets/logo/fotc-logo.svg){ width="32.33%" }
-
-*<small>From left to right: Caskey Monument (4-?-?), Percy Lionel Benjamin Memorial (3-12-7/8), Stephen Alonzo Spragg Memorial (5-15-26)</small>* <br>
-
-<!-- 
-<figure markdown>
-  ![Caskey Monument](../assets/!!!.jpg){ class="full-width" }
-  <figcaption markdown>[Caskey Monument](!!!)</figcaption>
-</figure>
-
-<figure markdown>
-  ![Percy Lionel Benjamin Memorial](../assets/!!!.jpg){ class="full-width" }
-  <figcaption markdown>[Percy Lionel Benjamin Memorial](!!!)</figcaption>
-</figure>
-
-<figure markdown>
-  ![Stephen Alonzo Spragg Memorial](../assets/!!!.jpg){ class="full-width" }
-  <figcaption markdown>[Stephen Alonzo Spragg Memorial](!!!)</figcaption>
-</figure>
--->
-
-## John Simmonds <small>(4‑3‑27)</small>
-
-<!-- ca. 1829 - 23-01-1889 -->
-
-John Simmonds operated a monumental masory business Brisbane. He created a fountain that was placed in the lawns immediately in front of the Queensland Houses of Parliament. In [*The Queenslander*, 9 December 1882](https://trove.nla.gov.au/newspaper/article/19788278?searchTerm=Simmonds%20monumental%20mason) an article about the Brisbane Botanic Gardens, reported:
-
->A very pleasing and attractive addition has been made recently in the shape of a fountain, chaste and neat in its design rather than elaborate, but which, in the opinion of many, will not detract in the least from its usefulness or general effect. This addition is placed conspicuously on one of the lawns immediately in front of the Houses of Parliament, and when connected with the Enoggera main, and put into play, will have a very pleasing and salutary effect. This work of art — for such it may be termed — is the production of Mr. J. Simmonds, monumental mason and sculptor, of Adelaide street.
-
-<!--
-[The fountain was removed in 1958](https://www.jstor.org/stable/26391593) when the gardens were extensively redeveloped.
-
-The business was founded in Melbourne in 1852 by John Simmonds Snr (1793-1860), then, after his death, passed on to his son John Simmonds Jnr (1828-1889). 
-
-https://brightoncemetery.com/john-simmonds-1793-1860/
--->
-
-<figure markdown>
-  ![Fountain and stairs in the Botanic Gardens with Parliament House in the background, Brisbane, 1920](../assets/botanic-gardens-fountain.jpg){ width=70% class="full-width" }
-  <figcaption markdown>[Fountain and stairs in the Botanic Gardens with Parliament House in the background, Brisbane, 1920](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99184033059802061) — State Library of Queensland. Cropped and rotated.</figcaption>
-</figure>
-
-<!--
-In 1888, John created [a marble drinking fountain for Women's Christian Temperance Union](https://trove.nla.gov.au/newspaper/article/176707482) that was erected on the corner of Ann and Edward streets just outside the Temperance Hall.
--->
-
-<!--
-<figure markdown>
-  ![Temperance Hall and the Colyer Refreshment Rooms on the corner of Ann Street and Edward Streets](../assets/temperance-hall-brisbane-1920.jpg){ width=70% class="full-width" }
-  <figcaption markdown>[Temperance Hall and the Colyer Refreshment Rooms on the corner of Ann Street and Edward Streets](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183505877102061) ca. 1912. The Temperance Hall in Brisbane was built in 1900. — State Library of Queensland.</figcaption>
-</figure>
-
-<figure markdown>
-  ![View of Brisbane city's central business district, ca. 1895](../assets/???.jpg){ width=70% class="full-width" }
-  <figcaption markdown>[View of Brisbane city's central business district, ca. 1895](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183787998202061) — State Library of Queensland.</figcaption>
-</figure>
--->
-
-John Simmonds took on his son, John Howard Simmonds (1862-1955), <!-- born in Calton Vic. --> as an apprentice stonemason in 1880. He ran the business after his [Father's death in 1889](https://www.familyhistory.bdm.qld.gov.au/details/b26ee2454ca983d88a44de85d949647c8e514f213f0884dc188c50bb4bdc7c2c) until he retired in 1920. 
-
-<figure markdown>
-  ![Insert image of John Simmonds' mark](../assets/logo/fotc-logo.svg){ width="30%" }
-  <figcaption markdown>Insert image of  John Simmonds' carving on Arthur Lowe (11‑15‑16/17)</figcaption>
-</figure>
-
-J.H. Simmonds made a point of photographing the tombstones he worked on and introduced photography to his wife, [Rose Simmonds](https://adb.anu.edu.au/biography/simmonds-rose-11691/text20893), who studied art with Godfrey Rivers at the Brisbane Technical College. [A collection of Rose Simmonds' work](https://blog.qagoma.qld.gov.au/rose-simmonds-a-nostalgia-for-queenslands-pastoral-past/) is held by the Queensland Art Gallery. [J.H. Simmonds was also a Naturalist](https://www.eoas.info/biogs/P006858b.htm) who collected fossils and botanical specimens that are now held in the Queensland Museum and Queensland Herbarium.
-
-<figure markdown>
-  ![St Andrew's Presbyterian Church on Ann Street, Brisbane, with stonemason next door, ca. 1915](../assets/j-simmonds-monumental-works.jpg){ width="70%' class="full-width" }
-  <figcaption markdown>[St Andrew's Presbyterian Church on Ann Street, Brisbane, with stonemason next door, ca. 1915](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/tqqf2h/alma99183505905002061) - State Library of Queensland. In March 1896 [John Simmonds moved his business to Ann-street](https://trove.nla.gov.au/newspaper/article/20446535?searchTerm=Simmonds%20monumental%20mason), near Creek-Street and the Central Station.</figcaption>
-</figure>
-
-<!--
-
-??? warning "Research"
-
-    - https://trove.nla.gov.au/newspaper/article/70862389?searchTerm=headstones - Ad 26 Nov 1892 - Roma Street
-    - https://trove.nla.gov.au/newspaper/article/20767681 - DISPLAY AD 19 December 1896 - ANN-STREET, near Creek-street
-    - John Howard Simmonds 15 July 1862 - 11 June 1955
-        - A [Naturalist and Stonemason](https://www.eoas.info/biogs/P006858b.htm)
-        - Son of J. Simmonds (Dad was 33 when born)
-        - 1880 Apprenticed to J. Simmonds, Stonemason
-        - 1889 - 1920 - Owner, J. Simmonds, Stonemason =(took over after father's death)
-        - https://trove.nla.gov.au/newspaper/article/202661707?searchTerm=Simmonds%20monumental%20mason - John Howard Simmonds robbery and illustration - 26 April 1914
-        - https://trove.nla.gov.au/newspaper/article/19404247?searchTerm=Simmonds%20monumental%20mason - Ad Nov 1907
-    - [Simmonds, Rose (1877-1960)](https://trove.nla.gov.au/people/1464177) (née Culpin). She married John Howard Simmonds on 30 March 1900 and they had two sons. John Simmonds was a stonemason who made a point of photographing the tombstones he worked on.
-        - https://adb.anu.edu.au/biography/simmonds-rose-11691/text20893
-        - Rose studied art with Godfrey Rivers at the Brisbane Technical College.
-        - Simmonds died on 3 July 1960 at Auchenflower and was cremated with Presbyterian forms. 
-        - [A collection of her photographs](https://blog.qagoma.qld.gov.au/rose-simmonds-a-nostalgia-for-queenslands-pastoral-past/) is held by the Queensland Art Gallery. https://www.qagoma.qld.gov.au/search/?s=Simmonds%2C+Rose&facet=collection
-        - [Rose Simmonds, Queensland photographer](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183513388802061)
--->
+--8<-- "snippets/john-simmonds.md"
 
 <!--
 ## John Heal <small>(13‑40‑9)</small>
@@ -592,14 +369,6 @@ Mark: "[C. G. Pilling Late Mansbridge](https://www.fosbc.com/history/cemetery-pe
     - https://trove.nla.gov.au/newspaper/article/20143091?searchTerm=parsons%20monumental%20mason
     - https://nla.gov.au/nla.obj-3029986054/view?sectionId=nla.obj-3036927085&searchTerm=monumental+mason&partId=nla.obj-3030027786#page/n24/mode/1up
 
--->
-
-<!--
-## Frank E. Ives <small>(n/a)</small>
-
-## L. Young <small>(tba)</small
-
-## H.G. Jones <small>(tba)</small
 -->
 
 <!--
