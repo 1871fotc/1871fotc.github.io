@@ -26,7 +26,7 @@ The Citizens’ Band provided music as the public laid wreaths at the Stone. So 
 
 *<small>[Small children looking at wreaths laid at the memorial on Anzac Day, Toowong Cemetery, Brisbane, 1924](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21271931300002061) — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
 
-## ‘A’ Battery Memorial <small>(4‑36‑gg)</small>
+## ‘A’ Battery Memorial <small>(4‑36‑1)</small>
 
 Prior to Federation each of the Australian colonies maintained its own defence force. These forces were largely comprised of part‑time volunteers and a small number of permanent officers and men. This memorial is to the men of Queensland’s permanent force ‘A’ Battery, Queensland Artillery. All of those named on the memorial died while serving in the Battery, but only one, Driver Sydney Walker, died while on active service. Walker was serving on the 1^st^ Queensland Contingent to the South African War when he died of enteric fever at Bloemfontein. This [monument](https://placesofpride.awm.gov.au/memorials/240931) was established in April 1886. A number of soldiers named on the memorial are buried nearby.
 
