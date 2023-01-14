@@ -10,12 +10,30 @@ hide:
 
 **ca. May 1857 - 14 April 1928**
 
---8<-- "snippets/william-busby.md"
+--8<-- "snippets/william-busby-2.md"
+
+### Headstone
+
+![William Busby headstone](../assets/william-busby-headstone.jpg){ width="30%" class="full-width" }
+
+### Inscription
+
+>In loving rememberance <br>
+>of <br>
+>William Busby <br>
+>Died 4^th^ April 1928, <br>
+>Aged 76 years 11 months. <br>
+>Also his wife  <br>
+>Annie <br>
+>Died 10^th^ May 1932, <br>
+>Aged 84 years. <br>
+>At rest.
+
 
 ### Learn more 
 
 - [Tombstone Tuesday: William Busby, stonemason of Toowong](http://www.dragongenealogy.com/blog/2011/11/tombstone-tuesday-william-busby-stonemason-of-toowong/)
-- [Memorial to the late Lieutenant Caskey](https://trove.nla.gov.au/newspaper/article/19130745) - The Brisbane Courier, 6 December 1901. William Busby won the design competition to design a memorial to the late Lieutenant Caskey
+- [Memorial to the late Lieutenant Caskey](https://trove.nla.gov.au/newspaper/article/19130745) - The Brisbane Courier, 6 December 1901. 
 
 <!--
 https://trove.nla.gov.au/newspaper/article/21240123?searchTerm=busby - M.U.I.O.O.F. Brother
