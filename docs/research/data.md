@@ -14,10 +14,10 @@ Friends of Toowong Cemetery have published data, including:
 - an **[index to individual stories ](../research/find-a-story.md)** we've written about in our [Toowong Cemetery stories](../stories/index.md).
 - a list of **[headstones moved from Paddington Cemetery](../headstones/moved-paddington-headstones.md)** to Toowong Cemetery in the 1910's
 - a list of **[headstones lost from Paddington Cemetery](../headstones/lost-paddington-headstones.md)** in the 1930's, some which have been rediscovered in Toowong Cemetery 
+- a list of **[information signs](../about/information-signs.md)** installed beside memorials and graves of notable people in Toowong Cemetery 
 
 <!-- **Headstones** (images, inscriptions, movements, and location) -->
 <!-- **Walks** (a route from grave to grave, linked to people, headstones, and stories) -->
-<!-- Location of information signs -->
 <!-- List of restored headstones  -->
 
 <!--
@@ -31,14 +31,14 @@ Where practical, we link to authoritative data sources, rather than duplicate da
 
 - **[Graves and Human Remains](https://graves.brisbane.qld.gov.au)** - who is buried in which grave and associated dates
 - **Cemetery Location data**:
-    - [Cemetery boundary](https://www.spatial-data.brisbane.qld.gov.au/datasets/d9879ce7dce842ce8d5d3b50e3b702bf_0/explore?location=-27.476664%2C152.985658%2C16.53) is available as open open data
+    - [Cemetery boundary](https://www.spatial-data.brisbane.qld.gov.au/datasets/d9879ce7dce842ce8d5d3b50e3b702bf_0/explore?location=-27.476664%2C152.985658%2C16.53) is available as  open data
     - Portion and Section boundaries 
-    - Cemetery Road casements - [centrelines](https://www.spatial-data.brisbane.qld.gov.au/datasets/46bbc7521e7949f68ef4b69d87e89ebc_0/explore?location=-27.475228%2C152.985532%2C15.84) are available as open open data
+    - Cemetery Road casements - [centrelines](https://www.spatial-data.brisbane.qld.gov.au/datasets/46bbc7521e7949f68ef4b69d87e89ebc_0/explore?location=-27.475228%2C152.985532%2C15.84) are available as open data
     - Toowong Cemetery Pedestrian Entrance off Mt Coot‑tha Road.
     - Toowong Cemetery Main, Richer Street, and Frederick Street gates
     - Surrounding Road casements - including roads running off the surrounding road to aid orientation 
     - Cemetery Building outlines - Amenities, Workshop, Office, Museum and Shelter Sheds 
-    - [Waterways](https://www.spatial-data.brisbane.qld.gov.au/datasets/e0839d26d85a429c8f64669ba69cfae7_0/explore?location=-27.475527%2C152.983328%2C17.22) - Langsville Creek and [Flood risk](https://www.data.brisbane.qld.gov.au/data/dataset/flood_awareness_overland_flow) are available as open open data
+    - [Waterways](https://www.spatial-data.brisbane.qld.gov.au/datasets/e0839d26d85a429c8f64669ba69cfae7_0/explore?location=-27.475527%2C152.983328%2C17.22) - Langsville Creek and [Flood risk](https://www.data.brisbane.qld.gov.au/data/dataset/flood_awareness_overland_flow) are available as open data
     - Governor Blackall and the Soldiers Memorial monument outlines
     - [Contour lines](https://www.data.brisbane.qld.gov.au/data/dataset/contours-2002) - are available as open data. <!-- These will help create a mobility map -->
 

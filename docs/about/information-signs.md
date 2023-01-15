@@ -1,6 +1,6 @@
 ---
 title: Graveside Information Signs
-description: List of memorial and grave information signs in Toowong Cemetery 
+description: List of memorial and graveside information signs in Toowong Cemetery 
 ---
 
 # Graveside Information Signs
