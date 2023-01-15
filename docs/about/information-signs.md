@@ -19,17 +19,19 @@ The table below lists people described in the information signs and their locati
 
     Unfortunately signs are often vandalised in the cemetery. **[Contact us](../contact.md)** if you find a damaged sign.
 
-    We are aware that the following signs have been damaged:
+    We are aware that the following signs have been damaged.
 
-    - Infant Graves (Horsfall family) - unreadable
-    - James William Wassell - unreadable
-    - Andrew Purcell - removed, post still in place
-    - Ken Hutchison - removed, post still in place
-    - Peter Gaffney - removed, post still in place
-    - Robert Cribb - sign removed from the ground but located beside grave 
-    - Sir Arthur Rutledge - sign removed from the ground but located beside grave
-    - William Grene Power - sign removed from the ground but located beside grave
-    - Dorothy Hawthorn - sign removed from the ground but located nearby
+    - Sign unreadable/missing; post still in place:
+        - Infant Graves (Horsfall family) 
+        - James William Wassell
+        - Andrew Purcell
+        - Ken Hutchison
+        - Peter Gaffney
+    - Sign readable; post removed from ground:
+        - Robert Cribb  
+        - Sir Arthur Rutledge 
+        - William Grene Power 
+        - Dorothy Hawthorn 
 
 
 ### Download the data
