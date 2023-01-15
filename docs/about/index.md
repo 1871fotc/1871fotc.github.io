@@ -22,7 +22,7 @@ search:
 The Friends of Toowong Cemetery:
 
 - **research the [history of Toowong Cemetery](../history.md)**, its [headstones](../headstones/symbols.md), and the [stories](../stories/) of the people remembered here. 
-- **share our discoveries** with the community through our [guided tours](../guided-tours.md), museum, [self-guided walks](../walks/),[publications](publications.md), and [data](../research/data.md).
+- **share our discoveries** with the community through our [guided tours](../guided-tours.md), museum, [self-guided walks](../walks/), [publications](publications.md), and [data](../research/data.md).
 - **contribute stories** of people remembered at the Toowong and [Paddington cemeteries](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery) to other publications, biographical databases, and information signs around the cemetery.
 - **clean and conserve headstones**.
 - **search for buried headstones** in [archaeological digs](../headstones/archaeological-digs.md) in the cemetery grounds. 
@@ -35,9 +35,9 @@ The Friends of Toowong Cemetery have:
 
 - **established the [Federation Pavilion](federation-pavilion.md)**, which commemorates the contribution of the delegates who attended the 1891 Australian Federation Convention that are buried at the Toowong Cemetery. 
 - **commemorated the [140^th^ Anniversary of the cemetery](140-commemoration.md)**. We received an Award from the National Trust of Queensland for our work.
-- provided **stories for interpretive signs** at significant grave sites.
+- provided stories for **[information signs](information-signs.md)** at significant grave sites.
 - **renamed cemetery roads** after notable people buried nearby, added the road names to [Google Maps](https://goo.gl/maps/7VX36iDLFNnShN6D8), and improved the [Toowong Cemetery map](../index.md#toowong-cemetery-map) to make it easier to for you to find your way around the cemetery.
-- **[published books, a DVD](publications.md)** and this website.  
+- **[published books, a DVD](publications.md)**, and this website.  
 
 ![Federation Pavilion](../assets/federation-pavilion.jpg)
 
