@@ -5,7 +5,7 @@ description: List of memorial and graveside information signs in Toowong Cemeter
 
 # Graveside Information Signs
 
-Friends of Toowong Cemetery have installed 49 information signs beside memorials and graves of notable people remembered in Toowong Cemetery.
+Friends of Toowong Cemetery have installed 50 information signs beside memorials and graves of notable people remembered in Toowong Cemetery.
 
 <!--
 ![information sign](../assets/information sign.jpg){ width="32.33%"  class="full-width" }
@@ -26,7 +26,7 @@ The table below lists people described in the information signs and their locati
     - Andrew Purcell - removed, post still in place
     - Ken Hutchison - removed, post still in place
     - Peter Gaffney - removed, post still in place
-    - Robert Cribb - sign removed from the ground but located in beside grave 
+    - Robert Cribb - sign removed from the ground but located beside grave 
     - Sir Arthur Rutledge - sign removed from the ground but located beside grave
     - William Grene Power - sign removed from the ground but located beside grave
     - Dorothy Hawthorn - sign removed from the ground but located nearby
