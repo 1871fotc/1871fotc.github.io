@@ -24,16 +24,17 @@ Use the <a href="../../assets/toowong-cemetery-map-large.jpg" target="_blank" ti
     We are aware that the following signs have been damaged.
 
     - Sign unreadable/missing; post still in place:
-        - [Infant Graves](../../assets/infant-graves-information-sign.jpg)
-        - James William Wassell
-        - Andrew Purcell
-        - Ken Hutchison
-        - Peter Gaffney
+        - Peter Gaffney (7-19-23)
+        - Andrew Purcell (7-50-1)
+        - [Infant Graves](../../assets/infant-graves-information-sign.jpg) (13-3-12)
+        - [James William Wassell](../../assets/james-william-wassell-information-sign.jpg) (13-65-10)
+        - Ken Hutchison (13-82-6)
+        
     - Sign readable; post removed from ground:
-        - [Robert Cribb](../../assets/robert-cribb-information-sign.jpg)
-        - [Sir Arthur Rutledge](../assets/arthur-rutledge-information-sign.jpg)
-        - [William Grene Power](../assets/william-grene-power-information-sign.jpg)
-        - Dorothy Hawthorn 
+        - [William Grene Power](../assets/william-grene-power-information-sign.jpg) (7-45-18)
+        - [Robert Cribb](../../assets/robert-cribb-information-sign.jpg) (9-37-6)
+        - [Sir Arthur Rutledge](../assets/arthur-rutledge-information-sign.jpg) (13-49-15)
+        - Dorothy Hawthorn (13-83-1/2)
 
 <!-- also Prentice sign, Meville post,  -->
 
