@@ -11,7 +11,9 @@ Friends of Toowong Cemetery have installed 50 information signs beside memorials
 ![information sign](../assets/information sign.jpg){ width="32.33%"  class="full-width" }
 -->
 
-The table below lists people described in the information signs and their location:
+The table below lists people described in the information signs and their location.
+
+Use the <a href="../../assets/toowong-cemetery-map-large.jpg" target="_blank" title="View the map in a new tab">Toowong Cemetery map</a> to help locate the information signs.
 
 --8<-- "snippets/information-signs.html"
 
