@@ -24,16 +24,18 @@ Use the <a href="../../assets/toowong-cemetery-map-large.jpg" target="_blank" ti
     We are aware that the following signs have been damaged.
 
     - Sign unreadable/missing; post still in place:
-        - Infant Graves (Horsfall family) 
+        - [Infant Graves](../../assets/infant-graves-information-sign.jpg)
         - James William Wassell
         - Andrew Purcell
         - Ken Hutchison
         - Peter Gaffney
     - Sign readable; post removed from ground:
-        - Robert Cribb  
-        - Sir Arthur Rutledge 
-        - William Grene Power 
+        - [Robert Cribb](../../assets/robert-cribb-information-sign.jpg)
+        - [Sir Arthur Rutledge](../assets/arthur-rutledge-information-sign.jpg)
+        - [William Grene Power](../assets/william-grene-power-information-sign.jpg)
         - Dorothy Hawthorn 
+
+<!-- also Prentice sign, Meville post,  -->
 
 
 ### Download the data
