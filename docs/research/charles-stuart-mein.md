@@ -14,11 +14,9 @@ hide:
 
 ### Headstone
 
-Charles Stuart Mein's headstone was demolished in the 1970's as part of the Brisbane City Council's "Beautification Scheme". The Federation Pavilion now covers a small part of the grave.
+Charles Stuart Mein's headstone was demolished in the 1970's as part of the Brisbane City Council's "Beautification Scheme". It was behind the grave of Sir Samuel Walker Griffin. The Federation Pavilion covers a small part of the grave.
 
-<!--
-![Charles Stuart Mein's headstone](../assets/charles-stuart-mein-headstone.jpg){ width="70%" }
--->
+![Charles Stuart Mein's headstone](../assets/charles-stuart-mein-headstone-bw.jpg){ width="70%" }
 
 ### Inscription
 
