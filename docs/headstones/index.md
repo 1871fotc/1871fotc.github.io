@@ -49,11 +49,15 @@ Headstones uncovered in the **[archaeological digs](archaeological-digs.md)** ar
 - **[Headstones lost from Paddington Cemetery](lost-paddington-headstones.md)** in the 1930's 
 - Toowong Cemetery headstones destroyed and buried in the 1970's as part of the Brisbane City Council's 'Beautification Scheme'
 
+<!--
+- **[Toowong Cemetery headstones destroyed and buried in the 1970's](../assets/documents/lost-toowong-cemetery-headstones.pdf)** as part of the Brisbane City Council's 'Beautification Scheme'
+--> 
+
 ![Toowong Cemetery Archaeological Dig, 2013](../assets/images/digs/2013/fotc-2013-dig-5.jpg){ width="100%" }
 
 ## Maintaining Headstones
 
-Individual graves and headstones are owned by private families. Whilst the Brisbane City Council maintains the cemetery, [maintenance of graves is the families responsibility](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/maintenance-at-cemeteries). With the average age of graves being ~80 years old, it is often difficult to find family members to notify them that the historic headstones of their family are a risk of falling down.
+Individual graves and headstones are owned by private families. Whilst the Brisbane City Council maintains the cemetery, [maintenance of graves is the families responsibility](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/maintenance-at-cemeteries). With the average age of graves being ~80 years old, it is often difficult to find family members to notify them that the historic headstones of their family are at risk of falling down.
 
 Friends of Toowong Cemetery President, Darcy Maddock, explains to Radio Station 4BC [the dilemma of maintaining graves in Toowong Cemetery](https://www.4bc.com.au/brisbane-treasure-the-real-dilemma-in-maintaining-the-toowong-cemetery/){ rel=nofollow } .
 
