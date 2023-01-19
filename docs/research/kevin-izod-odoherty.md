@@ -10,6 +10,8 @@ hide:
 
 --8<-- "snippets/kevin-izod-odoherty.md"
 
+### Headstone
+
 ![Kevin Izod O'Doherty](../assets/kevin-izod-odoherty-headstone.jpg){ width="30%" }
 
 ### Learn More
