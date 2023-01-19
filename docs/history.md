@@ -169,9 +169,10 @@ By April 1975 the Cemetery was full with all plots sold. The Brisbane City Counc
 
 Mayors, soldiers, politicians all fell victim to the clearance. At Toowong Cemetery, headstones were demolished and buried in the canal. The [Toowong Cemetery heritage listing](https://apps.des.qld.gov.au/heritage-register/detail/?id=601773) suggests, "approximately 1,000 memorials were removed from Toowong". Intervention in 1979 saw an end to the organised vandalism. The Cemetery reopened in 1998 with approximately 450 plots for sale. 
 
---8<-- "snippets/dilapidated-graves.md"
+![Toowong Cemetery - Dilapidated and Unsightly Graves](assets/dilapidated-graves-1974.jpg){ width="69.6%" data-title="Dilapidated and Unsightly Graves at Toowong Cemetery, 1974" }  ![Letter about removing headstones from Toowong Cemetery, 1975](assets/beautification-letter-19750319.jpg){ width="28.4%" } 
 
-<!-- Photo of a Council letter? -->
+*<small>[Toowong Cemetery - Dilapidated and Unsightly Graves](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:2165/one?qu=Toowong+Cemetery+-+Dilapidated+and+Unsightly+Graves&te=ASSET&lm=ALL_ASSETS), 3 July 1974 — [Brisbane City Council](https://www.brisbane.qld.gov.au)</small>*
+
 
 ## 1978 Toowong Roundabout
 
