@@ -12,4 +12,8 @@ hide:
 
 --8<-- "snippets/charles-walter-de-vis.md"
 
+### Learn more
+
+- [Chapter 1: 1862 – 1918 (56 Years) A Fledgling Natural History Museum](https://blog.qm.qld.gov.au/2021/01/18/1862-1918-56-years-a-fledgling-natural-history-museum/) - Queensland Museum Network History
+
 --8<-- "snippets/add-to-this-story.md"
