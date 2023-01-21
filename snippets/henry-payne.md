@@ -7,5 +7,5 @@ North Quay](https://nla.gov.au/nla.obj-3071140558/view?sectionId=nla.obj-3077508
 
 <figure markdown>
   ![Insert image of Parsons & Payne mark](../assets/logo/fotc-logo.svg){ width="30%" }
-  <figcaption markdown>Insert image of Parsons & Payne mark on Thomas Ross (5-40-11) ==1903==</figcaption>
+  <figcaption markdown>Insert image of Parsons & Payne mark on Thomas Ross (5-40-11), 1903</figcaption>
 </figure>
