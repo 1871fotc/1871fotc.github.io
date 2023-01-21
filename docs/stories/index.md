@@ -49,13 +49,20 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     Women who made an impact on Queensland. 
 -->
 
-<!-- March St. Patricks Day 
+<!-- March St. Patricks Day, INTERNATIONAL Women'd day  
 
 -   :four_leaf_clover:{ .lg .middle } **[The Irish][irish]** 
   
     ---
 
     Stories about the Irish remembered in Toowong Cemetery.
+
+-   :material-face-woman-outline:{ .lg .middle } **[Notable Women][notable-women]**
+
+  
+    ---
+
+    Women who shaped Queensland
 -->
 
 <!-- April Anzac Day 
