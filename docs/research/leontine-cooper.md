@@ -1,9 +1,7 @@
 ---
 hide:
   - toc
-  - navigation
-search:
-  exclude: true  
+  - navigation  
 ---
 
 # Leontine Mary Jane Cooper 
