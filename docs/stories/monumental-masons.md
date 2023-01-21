@@ -16,7 +16,7 @@ Brisbane's early Monumental Masons sculpted many beautiful monuments and headsto
 -->
 
 
-![Edward McGregor headstone (4-16-17/18)](../assets/edward-mcgregor-headstone.jpg){ width="32.33%" } ![Thomas Bain headstone (11-77-13)](../assets/thomas-bain-headstone.jpg){ width="32.33%" } ![Thomas Joseph Byrnes headstone (7-47-5)](../assets/thomas-joseph-byrnes-headstone.jpg){ width="32.33%" } 
+![Edward McGregor headstone (4-16-17/18)](../assets/edward-mcgregor-headstone.jpg){ width="32.33%" } ![Thomas Bain headstone (11-77-13)](../assets/thomas-bain-headstone-0.5x.jpg){ width="32.33%" } ![Thomas Joseph Byrnes headstone (7-47-5)](../assets/thomas-joseph-byrnes-headstone.jpg){ width="32.33%" } 
 
 In 1909, the [Stonemasons' Trade Board stated](https://trove.nla.gov.au/newspaper/article/19575621):
 
