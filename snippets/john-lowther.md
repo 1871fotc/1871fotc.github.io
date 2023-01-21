@@ -14,6 +14,7 @@ TODO
 
 The business continued after John's death, with his eldest son, Phillip J. Lowther, operating the firm "[Phillip Lowther and Son](https://trove.nla.gov.au/newspaper/article/39008541?searchTerm=monumental)" Monumental and Building Masons at 108 Lutwyche Road. Notable works include:
 
+- the monument to [William Henry Sowray](../research/william-henry-sowray.md)
 - the [Sandgate Cenotaph](https://trove.nla.gov.au/newspaper/article/180045354?searchTerm=Bowser%20%20MONUMENTAL%20MASONS)
 - [Cross of Sacrifice at Lutwyche Cemetery](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99184003729202061)
 - [Australian-American Memorial](https://www.qldwarmemorials.com.au/memorial?id=1405) at Newstead Park, Newstead
