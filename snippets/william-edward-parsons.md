@@ -2,7 +2,7 @@
 
 William Edward Parsons was born in Staffordshire ca. 1860. He learnt stone masonry at Bristol. Ellen Simmons married William at Holy Trinity Church, Westbury on Trym, Gloucestershire on 17 June 1882. It is likely they were the William and Ellen Parsons who sailed from Plymouth to Rockhampton aboard the *Ravenscrag*, arriving on 18 April 1883.  
 
-William went into partnership with Henry Payne to form "[Parsons & Payne](https://nla.gov.au/nla.obj-3065199767/view?partId=nla.obj-3065306795#page/n685/mode/1up)" which operated between ca. ==1904==-1907. Later the ["W. E. Parsons" business operated in Makerston street](https://nla.gov.au/nla.obj-3071140558/view?partId=nla.obj-3071256443#page/n725/mode/1up/search/parsons), off Roma street.
+William went into partnership with Henry Payne to form "[Parsons & Payne](https://nla.gov.au/nla.obj-3065199767/view?partId=nla.obj-3065306795#page/n685/mode/1up)" which operated between ca. 1903-1907. Later the ["W. E. Parsons" business operated in Makerston street](https://nla.gov.au/nla.obj-3071140558/view?partId=nla.obj-3071256443#page/n725/mode/1up/search/parsons), off Roma street.
 
 <figure markdown>
   ![Insert image of W.E. Parsons mark](../assets/logo/fotc-logo.svg){ width="30%" }
