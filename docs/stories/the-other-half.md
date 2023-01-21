@@ -3,12 +3,6 @@ title: The Other Half
 description: Stories about women who made an impact on Queensland
 hide:
   - navigation
-
-robots: 
-  noindex: true
-  nofollow: true
-search:
-  exclude: true
 ---
 
 --8<-- "snippets/sem/stories/the-other-half.json"
