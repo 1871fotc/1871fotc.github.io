@@ -43,6 +43,11 @@ John Melville was born at Boreham Wood, Hertfordshire, England on 10 September 1
 
 After returning from the expedition John Melville was engaged in survey work until 1871 when he acted as chainman to George Phillips, who had been engaged to survey part of the Toowong cemetery and in 1873 he was appointed overseer of the cemetery, the position he held for 38 years. He died aged 77 on 8 March 1912.
 
+<figure markdown>
+  ![John Melville](../assets/john-melville.jpg){ width="40%" }
+  <figcaption markdown>[The Late Mr. John Melville](https://trove.nla.gov.au/newspaper/article/21912484/2405915) -  The Queenslander, 6 Apr 1912</figcaption>
+</figure>
+
 --8<-- "snippets/alexander-raff.md"
 
 --8<-- "snippets/james-cowlishaw.md"
