@@ -1,6 +1,6 @@
 ## Frank Martin Downes <small>(13‑4‑8)</small>
 
-Frank Martin Downes was [born in 1848](https://www.familyhistory.bdm.qld.gov.au/details/8519478a9dd500f066995d5b3ed0b3e9840b9c3cc8040d7b631c767b9bf2f705) to Henry Downes and his wife ==Elizabeth== Mary Ann, née Martin. Frank was apprenticed to John Petrie’s firm where Frank's father also worked. Caroline Ness married Frank in Queensland on 28 September 1869.
+Frank Martin Downes was [born in 1848](https://www.familyhistory.bdm.qld.gov.au/details/8519478a9dd500f066995d5b3ed0b3e9840b9c3cc8040d7b631c767b9bf2f705) to Henry Downes and his wife Mary Ann, née Martin. Frank was apprenticed to John Petrie’s firm where Frank's father also worked. Caroline Ness married Frank in Queensland on 28 September 1869.
 
 Frank later became the [manager at John Petrie & Son](https://trove.nla.gov.au/newspaper/article/97526386?searchTerm=MONUMENTAL) monumental works until the firm went bankrupt in 1894. The [F.M. Downes](https://trove.nla.gov.au/newspaper/article/70863391?searchTerm=DOWNES) monumental works started business in April 1894 in Wickham and Gotha Streets, Fortitude Valley.
 
