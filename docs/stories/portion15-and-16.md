@@ -43,6 +43,21 @@ The Toppin siblings, Jack, Leo and Madonna were well known child entertainers du
 
 The Burton family were hoteliers, operating some of Brisbane's landmark hotels in the 19^th^ and 20^th^ centuries.
 
+<!-- 
+
+Get names, photo, link to Matthew 13-35-10
+
+https://apps.des.qld.gov.au/heritage-register/detail/?id=600283
+Normanby Hotel
+
+The original Normanby Hotel opened in 1872. The first owner and publican, Matthew Burton, purchased land on the corner of Musgrave and Kelvin Grove Roads in 1865. In December 1871 Burton (originally a carpenter) gave notice of his intention to apply for a publican's licence for the Normanby Hotel, which was granted in January 1872. The original hotel, a two storey timber building was oriented towards Kelvin Grove Rd.
+
+Following the death of Matthew Burton in 1873, the property and lease of the hotel was transferred to his wife Elizabeth Sophia Burton, who continued to operate the hotel. 
+
+https://www.wikitree.com/wiki/Burton-1185
+
+-->
+
 --8<-- "snippets/frederick-augustus-garland.md"
 
 --8<-- "snippets/john-galligan.md"

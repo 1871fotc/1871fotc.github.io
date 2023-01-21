@@ -3,9 +3,9 @@ title: Brisbane's Early Monumental Masons
 description: Stories about Monumental Masons who crafted headstones in Toowong Cemetery
 hide:
   - navigation
-search:
-  exclude: true
 ---
+
+--8<-- "snippets/sem/stories/monumental-masons.json"
 
 # Brisbane's Early Monumental Masons
 
@@ -258,9 +258,11 @@ Bowser & Co Ltd - Quarries not Monumental Masons
 
 --8<-- "snippets/william-busby-2.md"
 
+<!--
 ![Caskey Monument (4‑17‑18)](../assets/logo/fotc-logo.svg){ width="32.33%" } ![Percy Lionel Benjamin Memorial (3-12-7/8)](../assets/logo/fotc-logo.svg){ width="32.33%" } ![Stephen Alonzo Spragg Memorial (5-15-26)](../assets/logo/fotc-logo.svg){ width="32.33%" }
 
 *<small>From left to right: Caskey Monument (4-17-18), Percy Lionel Benjamin Memorial (3-12-7/8), Stephen Alonzo Spragg Memorial (5-15-26)</small>* <br>
+-->
 
 --8<-- "snippets/john-simmonds.md"
 

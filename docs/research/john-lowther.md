@@ -4,8 +4,6 @@ description: A monumental mason in Brisbane from 1889
 hide:
   - toc
   - navigation
-search:
-  exclude: true
 ---
 
 # John Lowther

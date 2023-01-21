@@ -50,6 +50,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.indexes
+#    - navigation.footer
 #    - search.highlight
     - search.suggest
     - content.code.annotate
@@ -203,7 +204,7 @@ nav:
     - Health Professionals: stories/nurses-and-doctors.md
     - Judiciary: stories/judiciary.md
     - Mariners: stories/anchors-aweigh.md
-#    - Monumental Masons: stories/monumental-masons.md
+    - Monumental Masons: stories/monumental-masons.md
     - Performers: stories/all-the-worlds-a-stage.md 
     - Police: stories/police.md 
     - Print Media Identities: stories/printers.md

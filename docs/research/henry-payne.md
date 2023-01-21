@@ -3,8 +3,6 @@ title: Henry Payne
 hide:
   - toc
   - navigation
-search:
-  exclude: true
 ---
 
 # Henry Payne

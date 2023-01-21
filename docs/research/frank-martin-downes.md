@@ -3,8 +3,6 @@ title: Frank Martin Downes
 hide:
   - toc
   - navigation 
-search:
-  exclude: true
 ---
 
 # Frank Martin Downes

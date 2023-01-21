@@ -5,6 +5,7 @@ John Lowther was born in Hull, Yorkshire in 1852. He married Christine (née Hil
 John Lowther ran the firm of "J Lowther" (1889-1902) and then "Lowther & Sons" on Ann Street, Brisbane. John and his wife lived at “Hunbernia”, Free street, Kelvin Grove, and had five children, Phillip, Ernest, Charles, Arthur and Lottie. John Lowther died 4 April 1918 aged 66.
 
 <!--
+TODO
 <figure markdown>
   ![Insert image of J. Lowther' mark](../assets/logo/fotc-logo.svg){ width="30%" }
   <figcaption markdown>Insert image of J. Lowther' carving on tbd</figcaption>
@@ -18,11 +19,13 @@ The business continued after John's death, with his eldest son, Phillip J. Lowth
 - [Australian-American Memorial](https://www.qldwarmemorials.com.au/memorial?id=1405) at Newstead Park, Newstead
 
 
+<!--
+TODO
 <figure markdown>
   ![Insert image of P.J. Lowther & Sons' mark](../assets/logo/fotc-logo.svg){ width="30%" }
   <figcaption markdown>Insert image of P.J. Lowther & Sons' mark on James Hetch Bulter (11-40-8)</figcaption>
 </figure>
-
+-->
   
 Phillip's son, [Leslie John Lowther](https://trove.nla.gov.au/newspaper/article/50225005), was the managing director of P. J. Lowther and Son, Pty., Ltd., masonry contractors, Bowen Bridge Road. Leslie is buried in Toowong Cemetery (8‑71‑26/27).
 

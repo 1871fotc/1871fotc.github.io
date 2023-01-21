@@ -43,10 +43,14 @@ In 1888, John created [a marble drinking fountain for Women's Christian Temperan
 
 John Simmonds took on his son, John Howard Simmonds (1862-1955), <!-- born in Calton Vic. --> as an apprentice stonemason in 1880. He ran the business after his [Father's death in 1889](https://www.familyhistory.bdm.qld.gov.au/details/b26ee2454ca983d88a44de85d949647c8e514f213f0884dc188c50bb4bdc7c2c) until he retired in 1920. 
 
+
+<!--
+TODO
 <figure markdown>
   ![Insert image of John Simmonds' mark](../assets/logo/fotc-logo.svg){ width="30%" }
   <figcaption markdown>Insert image of  John Simmonds' carving on Arthur Lowe (11‑15‑16/17)</figcaption>
 </figure>
+-->
 
 J.H. Simmonds made a point of photographing the tombstones he worked on. He introduced photography to his wife, [Rose Simmonds](https://adb.anu.edu.au/biography/simmonds-rose-11691/text20893), who studied art with Godfrey Rivers at the Brisbane Technical College. [A collection of Rose Simmonds' work](https://blog.qagoma.qld.gov.au/rose-simmonds-a-nostalgia-for-queenslands-pastoral-past/) is held by the Queensland Art Gallery. [J.H. Simmonds was also a Naturalist](https://www.eoas.info/biogs/P006858b.htm) who collected fossils and botanical specimens that are now held in the Queensland Museum and Queensland Herbarium.
 

@@ -4,10 +4,14 @@ William Edward Parsons was born in Staffordshire ca. 1860. He learnt stone mason
 
 William went into partnership with Henry Payne to form "[Parsons & Payne](https://nla.gov.au/nla.obj-3065199767/view?partId=nla.obj-3065306795#page/n685/mode/1up)" which operated between ca. 1903-1907. Later the ["W. E. Parsons" business operated in Makerston street](https://nla.gov.au/nla.obj-3071140558/view?partId=nla.obj-3071256443#page/n725/mode/1up/search/parsons), off Roma street.
 
+
+<!--
+TODO
 <figure markdown>
   ![Insert image of W.E. Parsons mark](../assets/logo/fotc-logo.svg){ width="30%" }
   <figcaption markdown>Insert image of W.E. Parsons' mark. Carving and Plaque on Sarah Jane Webster (4-19-2/3)</figcaption>
 </figure>
+-->
 
 William was an Alderman for the Town of Windsor from 1905-1914, and [Mayor in 1912](https://trove.nla.gov.au/newspaper/article/175081469?searchTerm=mayor%20Windsor%20PARSONS). After a long period of ill health, [William died in hospital on 1 April 1919](https://trove.nla.gov.au/newspaper/article/192735376?searchTerm=parsons). He left behind his wife, Ellen, and two sons, Ernest and Charlie. [Ellen died in November 1923](https://trove.nla.gov.au/newspaper/article/20678107?searchTerm=Ellen%20Parsons) and is buried with her husband.
 

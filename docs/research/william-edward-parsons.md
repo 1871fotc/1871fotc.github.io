@@ -3,8 +3,6 @@ title: William Edward Parsons
 hide:
   - toc
   - navigation
-search:
-  exclude: true
 ---
 
 # William Edward Parsons

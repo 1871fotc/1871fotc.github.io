@@ -5,7 +5,10 @@ George Payne and Mary Ann (née Hill)’s eldest son, Henry Payne was born ca. 1
 After the "Parsons & Payne" partnership ended, [Henry continued business on corner Turbot street and  
 North Quay](https://nla.gov.au/nla.obj-3071140558/view?sectionId=nla.obj-3077508498&searchTerm=Pugh%27s+almanac&partId=nla.obj-3071256443#page/n725/mode/1up/search/Payne.+). When Henry died on 18 January 1944, his residence was “*Chesterton*”, Broomfield Street, Taringa.
 
+<!--
+TODO
 <figure markdown>
   ![Insert image of Parsons & Payne mark](../assets/logo/fotc-logo.svg){ width="30%" }
   <figcaption markdown>Insert image of Parsons & Payne mark on Thomas Ross (5-40-11), 1903</figcaption>
 </figure>
+-->
