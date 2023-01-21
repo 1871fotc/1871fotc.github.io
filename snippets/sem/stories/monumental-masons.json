@@ -4,11 +4,11 @@
   "@type": "Article",
   "name": "Brisbane's Early Monumental Masons",
   "headline": "Brisbane's Early Monumental Masons",
-  "description": "Stories about Monumental Masons who crafted headstones in Toowong Cemetery",
+  "description": "Stories about Monumental Masons who sculpted headstones in Toowong Cemetery",
   "keywords": [
     "Toowong Cemetery Stories"
   ],
-  "dateModified": "2023-01-10",
+  "dateModified": "2023-01-21",
   "datePublished": "2023-01-01",
   "inLanguage": "en", 
   "publisher": {
@@ -21,7 +21,7 @@
     "@id": "https://www.fotc.au/#/schema/organization/1"
   },     
   "image": [
-    "https://www.fotc.au/assets/logo/fotc-1x1.png", 
+    "https://www.fotc.au/assets/edward-mcgregor-headstone.jpg", 
     "https://www.fotc.au/assets/logo/fotc-banner-4x3.png", 
     "https://www.fotc.au/assets/images/social/stories/monumental-masons.png"
   ],
