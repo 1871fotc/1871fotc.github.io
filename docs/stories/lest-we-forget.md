@@ -17,6 +17,10 @@ Commemorated here are only a small number of the [men and women who gave their l
 
 The Cross of Sacrifice and Stone of Remembrance were unveiled on Anzac Day, 1924, by the Governor‑General, Lord Forster. The Stone of Remembrance is a solid block of Helidon sandstone weighing ten tons. The unveiling ceremony was attended by several thousand people, including relatives of soldiers killed overseas and many dignitaries. The Citizens’ Band provided music as the public laid wreaths at the Stone. So many floral tributes were deposited, that the stone was completely covered. One was even dropped from a plane circling above. The inscription THEIR NAME LIVETH FOR EVERMORE was chosen by Rudyard Kipling and is found on the Stone of Remembrance in every Commonwealth War Cemetery.
 
+![Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](../assets/unveiling-cross-of-sacrifice.jpg){ width="70%" }  
+
+*<small>[Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?dps_pid=IE1400763&change_lng=), — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
+
 ## ‘A’ Battery Memorial <small>(4‑36‑1)</small>
 
 Prior to Federation each of the Australian colonies maintained its own defence force. These forces were largely comprised of part‑time volunteers and a small number of permanent officers and men. This memorial is to the men of Queensland’s permanent force ‘A’ Battery, Queensland Artillery. All of those named on the memorial died while serving in the Battery, but only one, Driver Sydney Walker, died while on active service. Walker was serving on the 1^st^ Queensland Contingent to the South African War when he died of enteric fever at Bloemfontein. This monument was established in April 1886. A number of soldiers named on the memorial are buried nearby.
