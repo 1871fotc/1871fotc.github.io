@@ -9,7 +9,7 @@ Frank later became the [manager at John Petrie & Son](https://trove.nla.gov.au/n
   <figcaption markdown>[F.M. Downes Advertisement in Pugh's Queensland almanac and directory, 1901](https://nla.gov.au/nla.obj-3029986054/view?sectionId=nla.obj-3036927085&searchTerm=monumental+mason&partId=nla.obj-3030027520#page/n22/mode/1up).</figcaption>
 </figure>
 
-One of the most beautifully carved monuments in Toowong Cemetery is that of [Frederick Ness](https://trove.nla.gov.au/newspaper/article/3488832?searchTerm=ness%20downes) (13-4-8), the brother-in-law of F.M. Downes.
+One of the most beautifully carved monuments in Toowong Cemetery is that of [Frederick Ness](https://trove.nla.gov.au/newspaper/article/3488832?searchTerm=ness%20downes), the brother-in-law of F.M. Downes.
 
 <figure markdown>
   ![Frederick Ness headstone](../assets/frederick-ness-headstone.jpg){ width="40%" }
