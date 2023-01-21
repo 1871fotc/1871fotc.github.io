@@ -13,7 +13,7 @@ description: Discover the stories of people remembered in Toowong Cemetery
 
 The Friends of Toowong Cemetery have published **[over 550 individual stories](../research/find-a-story.md)** about people remembered at the cemetery. 
 
-Individual stories have been grouped into **over 40 themed collections** below. Stories marked with :fontawesome-solid-person-walking: are also self-guided walks.
+Individual stories have been grouped into **over 50 themed collections** below. Stories marked with :fontawesome-solid-person-walking: are also self-guided walks.
 
 ## Featured Stories
 
@@ -73,6 +73,7 @@ Individual stories have been grouped into **over 40 themed collections** below. 
 - **[Health Professionals][nurses]** - commemorating Nurses, Doctors and other health professionals 
 - **[Judiciary][judiciary]** - Early Judiciary buried in Toowong Cemetery 
 - **[Mariners][mariners]** - Anchors Aweigh!
+- **[Monumental Masons](monumental-masons.md)** - Sculpters of beautiful monuments in Toowong Cemetery
 - **[Performers][actors]** - Actors and Performers buried in Toowong Cemetery
 - **[Police][police]** - remembering Queensland Colonial Police
 - **[Print Media Identities of Early Brisbane][printers]** 
@@ -81,7 +82,6 @@ Individual stories have been grouped into **over 40 themed collections** below. 
 - **[Sporting Personalities][sporting-personalities]** 
 - **[Railway People][railway]** - A Journey from Sevastopol to Brunswick Street
 - **[Undertakers][undertakers]**
-<!-- **[Monumental Masons](monumental-masons.md)** - Men who sculpted beautiful monuments in Toowong Cemetery -->
 
 ## Military stories
 
