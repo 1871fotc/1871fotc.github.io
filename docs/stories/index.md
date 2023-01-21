@@ -19,6 +19,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
 <div class="grid cards" markdown>  
 
+<!-- January -->
 
 -   :flag_au:{ .lg .middle } **[The Federation walk][federation-walk]**
   
@@ -33,6 +34,8 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
     Read about the sculpters of Toowong Cemetery's beautiful monuments.
 
+<!--    
+
 -   :material-fire:{ .lg .middle } **[Fire! Fire!][fire-fighters]**
   
     ---
@@ -44,10 +47,73 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     ---
 
     Women who made an impact on Queensland. 
+-->
+
+<!-- March St. Patricks Day 
+
+-   :four_leaf_clover:{ .lg .middle } **[The Irish][irish]** 
+  
+    ---
+
+    Stories about the Irish remembered in Toowong Cemetery.
+-->
+
+<!-- April Anzac Day 
+
+-   :fontawesome-solid-person-military-rifle:{ .lg .middle } **[Lest We Forget][lest-we-forget]** 
+  
+    ---
+
+    Remembering the men and women who gave their lives in service to their country
+-->
+
+<!-- May Labour Day 
+
+-   :material-sheep:{ .lg .middle } **[The Great Shearers' Strike of 1891](shearers-strike.md)**
+  
+    ---
+
+    Shearers fought against wealthy squatters for better working conditions. 
 
 
+-   :fontawesome-solid-scale-unbalanced:{ .lg .middle } **[Labor Luminaries][labor-luminaries]**
+  
+    ---
 
-<!--
+    Recognising people involved in the Labor movement. 
+-->
+
+<!-- July RAN founded 
+
+-   :fontawesome-solid-anchor:{ .lg .middle } **[Lest We Forget: Naval][lest-we-forget-navy]**
+  
+    ---
+
+    Remembering members of the Royal Australian Navy who gave their lives in service to this country.
+-->
+
+<!-- August 
+
+-   :material-home-flood:{ .lg .middle } **[Toowong Identities][toowong-identities-1]**
+  
+    ---
+
+    Commemorating the proclamation of the Town of Toowong in August 1903. 
+
+-   :material-home-group:{ .lg .middle } **[More Toowong Identities][toowong-identities-2]**
+  
+    ---
+
+    More stories about the people of Town of Toowong.
+
+-   :material-home-city-outline:{ .lg .middle } **[Building Brisbane][brisbane-open-house]** 
+  
+    ---
+
+    Recalling the builders of early Brisbane.
+-->
+
+<!-- December 
 
 -   :octicons-gift-16:{ .lg .middle } **[Christmas Shopping 1877][christmas-shopping-1877]** 
   
@@ -55,14 +121,18 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
     Read the stories of Brisbane's shopkeepers who helped locals celebrate Christmas in 1877.
 
+ -->
+
+<!-- Brisbane City Council Election March 2024 
+
 -   :fontawesome-solid-building-columns:{ .lg .middle } **[Brisbane Mayors][brisbane-mayors]**
   
     ---
 
     Read about 14 Brisbane Mayors from 1859 to 1931 who are buried in Toowong Cemetery.       
 -->
-</div>
 
+</div>
 
 ## Political stories
 
