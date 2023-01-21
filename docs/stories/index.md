@@ -19,6 +19,20 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
 <div class="grid cards" markdown>  
 
+
+-   :flag_au:{ .lg .middle } **[The Federation walk][federation-walk]**
+  
+    ---
+
+    Discover Queensland's contribution to the Australian Constitution.
+
+
+-   :fontawesome-solid-monument:{ .lg .middle } **[Monumental Masons][monumental-masons]**
+  
+    ---
+
+    Read about the sculpters of Toowong Cemetery's beautiful monuments.
+
 -   :material-fire:{ .lg .middle } **[Fire! Fire!][fire-fighters]**
   
     ---
@@ -30,7 +44,11 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     ---
 
     Women who made an impact on Queensland. 
+
+
+
 <!--
+
 -   :octicons-gift-16:{ .lg .middle } **[Christmas Shopping 1877][christmas-shopping-1877]** 
   
     ---
@@ -73,7 +91,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 - **[Health Professionals][nurses]** - commemorating Nurses, Doctors and other health professionals 
 - **[Judiciary][judiciary]** - Early Judiciary buried in Toowong Cemetery 
 - **[Mariners][mariners]** - Anchors Aweigh!
-- **[Monumental Masons](monumental-masons.md)** - Sculpters of beautiful monuments in Toowong Cemetery
+- **[Monumental Masons][monumental-masons]** - Sculpters of beautiful monuments in Toowong Cemetery
 - **[Performers][actors]** - Actors and Performers buried in Toowong Cemetery
 - **[Police][police]** - remembering Queensland Colonial Police
 - **[Print Media Identities of Early Brisbane][printers]** 
@@ -168,6 +186,7 @@ Missing stories
 [artists]: artists.md
 [fire-fighters]: fire-fighters.md
 [mariners]: anchors-aweigh.md
+[monumental-masons]: monumental-masons.md
 [judiciary]: judiciary.md
 [printers]: printers.md
 [printers2]: printers-2.md
