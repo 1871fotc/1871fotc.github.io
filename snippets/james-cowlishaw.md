@@ -6,6 +6,11 @@ Cowlishaw was a director of the Brisbane Courier until 1873. He became managing 
 
 A firm Methodist, he was a practical supporter of his local church for many years. He gave unobtrusively to charity and was a member of the Advisory Committee of the Hospital for Sick Children, of which his wife was president for many years. He was a justice of the peace and sat on the bench of the Brisbane Police Court. He also helped to start Brisbane's first cricket club. In his last years he lived at his home, Montpellier, Bowen Hills, which he had completed to his own design in the 1860s. He died there on 25 July 1929 of heart failure aged 94, survived by three daughters and three sons. His wife Charlotte, née Owen, whom he had married at West Maitland about 1860, predeceased him, and has one of the cemetery’s most spectacular monuments. He left an estate worth £161,563.
 
+<figure markdown>
+  ![James Cowlishaw](../assets/james-cowlishaw.jpg){ width="40%" }
+  <figcaption markdown>[James Cowlishaw](https://trove.nla.gov.au/newspaper/article/179102065/19873693) -  The Telegraph, 11 July 1928</figcaption>
+</figure>
+
 <!--
 TODO
 
