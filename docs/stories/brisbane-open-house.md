@@ -115,12 +115,15 @@ Andrew Petrie was born in Fife, Scotland, on 25 June 1798 to Walter Petrie and M
 
 ### Notable surviving Brisbane works
 
-- [All Saints Anglican Church](https://apps.des.qld.gov.au/heritage-register/detail/?id=600168), Wickham Terrace (with Mr Polworth). 1869
+- [All Saints Anglican Church](https://apps.des.qld.gov.au/heritage-register/detail/?id=600168), Wickham Terrace 
 
 ![All Saints Anglican Church](../assets/all-saints-anglican-church-2009.jpg){ width="70%" }  
 
 *<small>[All Saints Anglican Church](https://apps.des.qld.gov.au/heritage-register/detail/?id=600168#) — The State of Queensland 2021.</small>*
 
+<!--
+https://onesearch.slq.qld.gov.au/discovery/fulldisplay?docid=alma99183732171902061&context=L&vid=61SLQ_INST:SLQ&lang=en
+-->
 
 ## Joshua Jeays <small>(13‑62‑13/14)</small>
 
