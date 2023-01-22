@@ -93,9 +93,11 @@ Our Bank details are:
 
 Please include your Surname as a reference if paying a membership subscription by direct deposit. 
 
-![Queensland National Bank. Sherwood Road, Toowong ca. 1890](../assets/queensland-national-bank-toowong-1890.jpg)
+<figure markdown>
+  ![Queensland National Bank. Sherwood Road, Toowong ca. 1890](../assets/queensland-national-bank-toowong-1890.jpg)
+  <figcaption markdown>[Shops along High Street, Toowong, Brisbane, Queensland, ca. 1890](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21256972890002061) - State Library of Queensland.</figcaption>
+</figure>
 
-*<small>[Shops along High Street, Toowong, Brisbane, Queensland, ca. 1890](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21256972890002061) - State Library of Queensland.</small>*
 
 <!--
 ![Queensland National Bank, Brisbane, ca. 1885](../assets/queensland-national-bank-brisbane-1885.jpg){ width="45%" }
