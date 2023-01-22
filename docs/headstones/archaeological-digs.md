@@ -35,3 +35,13 @@ Many headstones have been found in Toowong Cemetery Archaeological digs. **[See 
 ![Headstones discovered in Toowong Cemetery Archaeological digs](../assets/lost-and-found.jpg){ width="96%" } 
 
 *<small>Headstones discovered in Toowong Cemetery Archaeological digs</small>*
+
+## Finding Thomas Mowbray
+
+Mr. Mowbray was a [prominent police magistrate in Brisbane](https://trove.nla.gov.au/newspaper/article/82175317). His headstone was destroyed as part of the 'Beautification Scheme', and discovered in 2011 as part of the Toowong Cemetery Archaeological digs. The headstone was reinstated in its original location.
+
+![Starting the Archaeological dig in 2011](../assets/images/digs/2011/fotc-2011-dig-3.jpg){ width="96%" } 
+
+![A headstone is discovered](../assets/images/digs/2011/fotc-2011-dig-1.jpg){ width="96%" } 
+
+![The Headstone's owners are revealed](../assets/images/digs/2011/fotc-2011-dig-6.jpg){ width="50.2%" } ![Thomas, Norma Violet, and Elizabeth Barclay Mowbray's headstone in its rightful place (11-76-8)](../assets/images/digs/2011/fotc-2011-dig-8.jpg){ width="44.7%" } 
