@@ -10,4 +10,8 @@ hide:
 
 --8<-- "snippets/james-clark.md"
 
+### Learn more 
+
+- [James Clark – the Pearl King](https://newfarmhistorical.org.au/james-clark-the-pearl-king/) - New Farm and Districts Historical Society
+
 --8<-- "snippets/add-to-this-story.md"
