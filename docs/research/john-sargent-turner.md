@@ -7,7 +7,7 @@ hide:
 
 # John Sargert Turner
 
-**1826 — 29 July 1900**
+**3 December 1826 — 29 July 1900**
 
 <!-- From graveside information sign -->
 
