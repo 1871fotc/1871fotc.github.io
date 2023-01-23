@@ -9,7 +9,6 @@ hide:
 
 **1858 — 3 February 1941**
 
-
 --8<-- "snippets/thomas-welsby.md"
 
 --8<-- "snippets/add-to-this-story.md"
