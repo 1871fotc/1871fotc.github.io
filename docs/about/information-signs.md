@@ -21,34 +21,6 @@ Use the <a href="../../assets/toowong-cemetery-map-large.jpg" target="_blank" ti
 
     Unfortunately signs are often vandalised in the cemetery. **[Contact us](../contact.md)** if you find a damaged sign.
 
-
-<!--
-    We are aware that the following signs have been damaged.
-
-    - Sign unreadable/missing; post still in place:
-        - [Peter Gaffney](../../assets/peter-gaffney-information-sign.jpg) (7-19-23)
-        - [Andrew Purcell](../../assets/andrew-purcell-information-sign.jpg) (7-50-1)
-        - William Augustine O'Carroll (7-54-9)
-        - [John McDermott](../../assets/john-mcdermott-information-sign.jpg) (7-56-3)
-        - [George Prentice](../../assets/george-prentice-information-sign.jpg) (9-41-4)
-        - [Infant Graves](../../assets/infant-graves-information-sign.jpg) (13-3-12)
-        - [James William Wassell](../../assets/james-william-wassell-information-sign.jpg) (13-65-10)
-        - [Carl Adolf Feilberg](../../assets/carl-adolf-feilberg-information-sign.jpg) (13-71-15)
-        - [Ken Hutchison](../../assets/ken-hutchison-information-sign.jpg) (13-82-6)
-
-    - Sign readable; post damaged but still in ground:
-        - Finney and Isles (13-81-5/6)
-        
-    - Sign readable; post removed from ground:
-        - [William Grene Power](../assets/william-grene-power-information-sign-damage.jpg) (7-45-18)
-        - [John Melville](../../assets/john-melville-information-sign-damage.jpg) (9-10-14)
-        - [Robert Cribb](../../assets/robert-cribb-information-sign-damage.jpg) (9-37-6)
-        - [Sir Arthur Rutledge](../../assets/arthur-rutledge-information-sign-damage.jpg) (13-49-15)
-        - [Dorothy Hawthorn](../../assets/dorothy-hawthorn-information-sign-damage.jpg) (13-83-1/2)
-
- also Prentice sign, Meville post,  -->
-
-
 ### Download the data
 
 The [Toowong Cemetery Graveside Information Signs](information-signs.md) by [Friends of Toowong Cemetery Association Inc.](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You must provide attribution if you reuse this work.
