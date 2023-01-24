@@ -6,7 +6,7 @@ hide:
 
 # Kenneth Hutchison
 
-**1850 — 1902**
+**1850 — 29 May 1902**
 
 --8<-- "snippets/kenneth-hutchison.md"
 
