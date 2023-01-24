@@ -27,6 +27,11 @@ hide:
 
 --8<-- "snippets/william-henry-browne.md"
 
+<figure markdown>
+  ![Honourable William Henry Browne](../assets/william-henry-browne.jpg){ width="30%" class="full-width" }
+  <figcaption markdown>[Honourable William Henry Browne](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218188950002061) — State Library of Queensland.</figcaption>
+</figure>
+
 --8<-- "snippets/ian-chesborough-rose-macdonald.md"
 
 --8<-- "snippets/arthur-lowe.md"
