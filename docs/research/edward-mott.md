@@ -12,4 +12,9 @@ hide:
 
 --8<-- "snippets/edward-mott.md"
 
+### Learn more 
+
+- [Edward Mott, convict Queenslander](https://www.slq.qld.gov.au/research-collections/family-history/convict-queenslanders/edward-mott-convict-queenslander) - The State of Queensland
+
+
 --8<-- "snippets/add-to-this-story.md"
