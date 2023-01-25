@@ -8,7 +8,7 @@ A member of Booroodabin Divisional Board in 1893-1902 (chairman 1897-1900); Wels
 
 Welsby was elected to the Legislative Assembly in 1909 where he served until 1915. A 'club man' tall, well-built and amiable, Welsby loved history and sport. Foundation honorary tresurer (1913), president (1936-37) and vice-president (1917-36, 1937-41) of the [Historical Society of Queensland](https://queenslandhistory.org), he advocated that the government subsidise the society to collect Queensland's early records. He [bequeathed his large library to the society](https://queenslandhistory.org/welsby-library/).
 
-Welsby died aged 83 on 3^rd^ February 1941 at his New Farm home, *Amity*.
+Welsby died aged 83 on 3^rd^ February 1941 at his now heritage-listed New Farm home, *[Amity](https://apps.des.qld.gov.au/heritage-register/detail/?id=600264)*.
 
 <figure markdown>
   ![Thomas Welsby](../assets/thomas-welsby.jpg){ width="40%" }
