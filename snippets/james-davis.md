@@ -8,4 +8,4 @@ His rehabilitation into acquisitive society included reform; from his accumulate
 
 ![James Davis poses in front of his crockery store, George Street, Brisbane, ca. 1872](../assets/james-davis-duramboi.jpg){ width="40%" }  
 
-*<small>[James Davis poses in front of his crockery store, George Street, Brisbane, ca. 1872](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218687340002061) — State Library of Queensland.</small>*
+*<small>[James Davis poses in front of his crockery store, George Street, Brisbane, ca. 1872](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218687340002061) — State Library of Queensland. Cropped.</small>*
