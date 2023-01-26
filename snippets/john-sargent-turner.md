@@ -4,8 +4,7 @@ John Sargert Turner was born in Wangaroa, New Zealand in 1826, to Reverend Natha
 
 Turner was a trustee of the Lady Bowen Hospital. He was also a founding member of the Queensland Acclimatisation Society and was passionate about flowers and gardening. He died in July 1900 of heart failure.
 
-<!--
-https://en.wikipedia.org/wiki/John_Sargent_Turner
-https://trove.nla.gov.au/newspaper/article/19041416
-
--->
+<figure markdown>
+  ![Front view of the Union Bank, Brisbane, ca. 1878](../assets/union-bank-of-australia-brisbane-ca-1878.jpg){ width="70%" }
+  <figcaption markdown>[Front view of the Union Bank, Brisbane, ca. 1878](https://trove.nla.gov.au/newspaper/article/21912484/2405915) -  State Library of Queensland</figcaption>
+</figure>
