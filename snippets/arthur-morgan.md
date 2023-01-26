@@ -2,7 +2,7 @@
 
 Sir Arthur Morgan was born on 19 September 1856 at Rosenthal station, Warwick, Queensland, son of James Morgan and his wife Kate (née Barton), both Irish born. Arthur Morgan entered politics in 1885 when elected to the Warwick Municipal Council, serving as mayor in 1886-90 and 1898. 
 
-On July 1887 he was first elected to the Legislative Assembly for Warwick. He regained Warwick on 2 October 1898. In 1903 he became Premier under the Morgan-Browne coalition ministry. Morgan made good on a promise that he would introduce an electoral reform Bill to give women the vote and abolish plural voting. This was introduced to the Legislative Assembly in September 1904 but it was not until 25 January 1905 that the Election Act Amendment Act received Royal Assent. 
+On July 1887 he was first [elected to the Legislative Assembly for Warwick](https://trove.nla.gov.au/newspaper/page/1556294). He regained Warwick on 2 October 1898. In 1903 he became Premier under the Morgan-Browne coalition ministry. Morgan made good on a promise that he would introduce an electoral reform Bill to give women the vote and abolish plural voting. This was introduced to the Legislative Assembly in September 1904 but it was not until 25 January 1905 that the Election Act Amendment Act received Royal Assent. 
 
 Morgan died at his residence at Upper Paddington, on 20 December 1916 after a long illness; he was buried in Toowong Cemetery following a state funeral and service at St John's Anglican Cathedral.
 

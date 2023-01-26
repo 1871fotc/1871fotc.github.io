@@ -12,3 +12,7 @@ In 1868 he was returned for Northern Downs and held the seat until he was appoin
 ![Sir Joshua Peter Bell](../assets/joshua-peter-bell.jpg){ width="40%" }
 
 *<small>[Sir Joshua Peter Bell](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21219246370002061) - State Library of Queensland </small>*
+
+<!--
+Joshua Thomas Bel - Son https://trove.nla.gov.au/newspaper/article/19479755/1556546
+-->
