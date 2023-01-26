@@ -12,4 +12,8 @@ hide:
 
 --8<-- "snippets/george-edwards-rowe.md"
 
+### Learn more 
+
+- [Our history](https://albertstreet.church/about-us/our-history) - Albert Street Uniting Church, Wesley Mission Queensland
+
 --8<-- "snippets/add-to-this-story.md"
