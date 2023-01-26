@@ -173,7 +173,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 - **[Police][police]** - remembering Queensland Colonial Police
 - **[Print Media Identities of Early Brisbane][printers]** 
 - **[More Print Media Identities of Early Brisbane][printers2]** 
-- **[Propectors](prospectors.md)** 
+- **[Prospectors](prospectors.md)** 
 - **[Sporting Personalities][sporting-personalities]** 
 - **[Railway People][railway]** - A Journey from Sevastopol to Brunswick Street
 - **[Undertakers][undertakers]**
