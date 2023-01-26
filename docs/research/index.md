@@ -7,7 +7,7 @@ description: Free tools to help you research family or local history
 Free tools to help you research family and local history:
 
 - **[Find a grave](find-a-grave.md)** in Toowong Cemetery
-- **[Find an individual story](find-a-story.md)** in the index of the 500+ stories we've written
+- **[Find an individual story](find-a-story.md)** in the index of the 550+ stories we've written
 - **[Download our data](data.md)**
 
 ## Trove
