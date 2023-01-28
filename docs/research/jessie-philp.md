@@ -12,6 +12,11 @@ hide:
 
 --8<-- "snippets/jessie-philp-2.md"
 
+
+### Headstone
+
+![Jessie Philp headstone](../assets/jessie-philp-headstone.jpg){ width="30%" }
+
 ### Sources
 
 4: Kindly provided by descendants.
