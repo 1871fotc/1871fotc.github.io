@@ -12,11 +12,15 @@ hide:
 Brisbane's early Monumental Masons sculpted many beautiful monuments and headstones in Toowong Cemetery.
 
 <!--
-![R.R. Smellie (13-60-5/10)](../assets/robert-russell-smellie-headstone.jpg){ width="32.33%" } ![Rose Robertson (13-48-11)](../assets/rose-robertson-headstone.jpg){ width="32.33%" } ![Alexander Munn (18-54-15)](../assets/alexander-munn-headstone.jpg){ width="32.33%" ![Leslie Cooper Scarfe (11-80-1)](../assets/leslie-cooper-scarfe-headstone.jpg){ width="32.33%" }} 
+![R.R. Smellie (13-60-5/10)](../assets/robert-russell-smellie-headstone.jpg){ width="32.33%" } 
+![Rose Robertson (13-48-11)](../assets/rose-robertson-headstone.jpg){ width="32.33%" } 
+![Alexander Munn (18-54-15)](../assets/alexander-munn-headstone.jpg){ width="32.33%" }
+![Leslie Cooper Scarfe (11-80-1)](../assets/leslie-cooper-scarfe-headstone.jpg){ width="32.33%" }
+![Thomas Bain headstone (11-77-13)](../assets/thomas-bain-headstone-0.5x.jpg){ width="32.33%" } 
 -->
 
 
-![Edward McGregor headstone (4-16-17/18)](../assets/edward-mcgregor-headstone.jpg){ width="32.33%" } ![Thomas Bain headstone (11-77-13)](../assets/thomas-bain-headstone-0.5x.jpg){ width="32.33%" } ![Thomas Joseph Byrnes headstone (7-47-5)](../assets/thomas-joseph-byrnes-headstone.jpg){ width="32.33%" } 
+![Edward McGregor headstone (4-16-17/18)](../assets/edward-mcgregor-headstone.jpg){ width="32.33%" } ![Leslie Cooper Scarfe (11-80-1)](../assets/leslie-cooper-scarfe-headstone.jpg){ width="32.33%" } ![Thomas Joseph Byrnes headstone (7-47-5)](../assets/thomas-joseph-byrnes-headstone.jpg){ width="32.33%" } 
 
 In 1909, the [Stonemasons' Trade Board stated](https://trove.nla.gov.au/newspaper/article/19575621):
 

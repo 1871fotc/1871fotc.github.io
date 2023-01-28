@@ -11,4 +11,8 @@ description: Chief Justice, Premier, and Author of much of the Australian Consti
 
 --8<-- "snippets/samuel-walker-griffith.md"
 
+### Headstone 
+
+![Samuel Walker Griffith headstone](../assets/samuel-walker-griffith-headstone.jpg){ width="30%" }
+
 --8<-- "snippets/add-to-this-story.md"
