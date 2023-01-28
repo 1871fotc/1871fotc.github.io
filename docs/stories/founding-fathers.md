@@ -65,26 +65,58 @@ Griffith was born in Merthyr Tydfil, Wales and migrated to Australia as a child.
 
 In 1893 Griffith left government to become Chief Justice of Queensland and from 1903 to 1919 was the first Chief Justice of the High Court of Australia. During this period he translated Dante’s Divine Comedy from Italian, which was published by Oxford University Press in 1911. He died on 9 August 1920 at his grand home Merthyr which gave its name to a locality in New Farm. The funeral cortege was described by the Daily Mail as the largest ever seen in Brisbane.
 
-![Sir Samuel Walker Griffith in 1912-1913](../assets/samuel-walker-griffith-1913.jpg){ width="40%" }  
-
-*<small>[Sir Samuel Walker Griffith in 1912-1913](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218748680002061) — State Library of Queensland.</small>* 
+<figure markdown>
+  ![Sir Samuel Walker Griffith in 1912-1913](../assets/samuel-walker-griffith-1913.jpg){ width="40%" }  
+  <figcaption markdown>[Sir Samuel Walker Griffith in 1912-1913](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218748680002061) — State Library of Queensland.</figcaption>
+</figure>
 
 ## John Hardgrave <small>(14‑22‑2/3)</small>
 
 John Hardgrave, a local politician and lord mayor of Brisbane, was born in Wicklow, Ireland, in 1826. He arrived in Sydney in 1843 and moved to Brisbane in 1848. In 1860 he purchased 6 acres (2.4 hectares) of land in the Brisbane suburb of West End. Hardgrave Road in West End is named after him. He was in the boot trade to 1862 and was involved in local government from 1867 to 1890. He was mayor of Brisbane in 1868 and 1870, first chairman of the Woolloongabba Divisional Board, alderman for South Brisbane from 1888 to 1890, and chairman of the Waterworks Board from 1893. He died in Brisbane on 8 November 1906 and was interred in the family grave.
 
-![John Hardgrave, early resident and mayor of Brisbane, 1868-1869](../assets/john-hardgrave.jpg){ width="40%" }  
+<figure markdown>
+  ![John Hardgrave, early resident and mayor of Brisbane, 1868-1869](../assets/john-hardgrave.jpg){ width="40%" }  
+  <figcaption markdown>[John Hardgrave, early resident and mayor of Brisbane, 1868-1869](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool111232) — State Library of Queensland. Cropped.</figcaption>
+</figure>
 
-*<small>[John Hardgrave, early resident and mayor of Brisbane, 1868-1869](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool111232) — State Library of Queensland.</small>*
+## William Pettigrew <small>(13‑66‑2)</small>
 
---8<-- "snippets/william-pettigrew.md"
+[William Pettigrew](https://adb.anu.edu.au/biography/pettigrew-william-13152) born on 26 August 1825 was the son of an Ayreshire farmer. He trained as a surveyor and as such arrived aboard the *Fortitude* in January 1849. He became a sawmiller, importing the first steam‑powered sawmill in 1853. Pettigrew was elected to the Brisbane Municipal Council three times in the period 1863 – 1881, including the mayoralty in 1870–1871. There is an overlap between his municipal duties and membership of the Queensland Legislative Council from 1877–1894. 
+
+He was a member of a number of societies; including the Queensland Philosophical Society, the School of Arts Committee (along with Samuel Walker Griffith) and was a life‑member of the Queensland Acclimatisation Society. He was also a land speculator. 
+
+His wife Amelia Boughay, a fellow *Fortitude* passenger whom he had married in 18 February 1859, pre‑deceased him on 1 September 1893 and is buried here. He died on 28 October 1906 and was interred in at Bowen. William Pettigrew was a strict Presbyterian, who kept the Sabbath sacred to the extent of walking to church and banning musical instruments from worship.
+
+<figure markdown>
+  ![William Pettigrew, Brisbane, ca. 1875](../assets/william-pettigrew.jpg){ width="40%" }  
+  <figcaption markdown>[William Pettigrew, Brisbane, ca. 1875](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218159620002061) — State Library of Queensland.</figcaption>
+</figure>
 
 --8<-- "snippets/nathaniel-lade.md"
 
 <!--
-TODO
 
 ## William Perry <small>(13-70-1)</small>
+
+William Perry was one of Brisbane's earliest businessmen. He arrived in Brisbane in June 1860 and had set up a hardware store in Queen St by August of that year. He was joined in business by his brothers George and Frederick. The business thrived, and further flourished under William's sons, Herbert and George. 
+
+<figure markdown>
+  ![Perry Brother Limited](../assets/perry-brothers.jpg){ width="70%" }
+  <figcaption markdown>[Perry Brother Limited](https://trove.nla.gov.au/newspaper/page/2462839) -  The Queenslander, 2 June 1906</figcaption>
+</figure>
+
+During 1911 to 1913, Herbert and George highlighted their business by building Brisbane's then tallest building, the eight storey Perry House on the corner of Elizabeth and Albert Streets in the city.
+
+<figure markdown>
+  ![Perry Brothers premises in Elizabeth Street, Brisbane, Queensland, 1913](../assets/perry-house-1913.jpg){ width="40%" }
+  <figcaption markdown>[Perry Brothers premises in Elizabeth Street, Brisbane, Queensland, 1913](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99184004961202061) - State Library of Queensland</figcaption>
+</figure>
+
+[William Perry died from heart failure](https://trove.nla.gov.au/newspaper/article/146871483) at his home, *Folkestone*, Breakfast Creek Road, on 11 June 1891. A large concourse, including many politicians, attended the [funeral at Toowong Cemetery](https://trove.nla.gov.au/newspaper/article/172683331) the next day.
+
+-->
+
+<!--
 
 https://en.wikipedia.org/wiki/William_Perry_(Queensland_businessman)
 
@@ -96,37 +128,21 @@ https://trove.nla.gov.au/newspaper/article/19871938
 
 William Perry of Folkestone, Breakfast Creek Road. - https://onesearch.slq.qld.gov.au/discovery/fulldisplay?context=L&vid=61SLQ_INST:SLQ&search_scope=slq_digital_collections&tab=All&docid=alma99183513423802061
 
-One of Brisbane's earliest businessmen who, having arrived in Brisbane in June 1860, had set up a hardware store in Queen St by August of that year. He was joined in that venture by his brothers George and Frederick. The business thrived, and from those beginnings it further flourished under William's sons, Herbert and George. During 1911 to 1913, Herbert and George highlighted their business by building Brisbane's then tallest building, the eight storey Perry House on the corner of Elizabeth and Albert Streets in the city. - https://onesearch.slq.qld.gov.au/discovery/fulldisplay?context=L&vid=61SLQ_INST:SLQ&search_scope=slq_digital_collections&tab=All&docid=alma99184004961202061
-
-Appointed trustee - 1870 
-
 Mr William Perry, a new member of the House, 1890 - https://trove.nla.gov.au/newspaper/article/3509744?searchTerm=%22William%20Perry%22
-
-Died 11 June 1891 - https://trove.nla.gov.au/newspaper/article/146871483
- 
-Funeral 12 June 1891 - https://trove.nla.gov.au/newspaper/article/172683331
-
-The vault is situated near the top of the rising ground in the centre of the cemetery, which with its
-beautiful plantations and exquisite mortuary shrines is one of the impressive spots ot the kind in the world.
-
-<figure markdown>
-  ![John Melville](../assets/john-melville.jpg){ width="40%" }
-  <figcaption markdown>[The Late Mr. John Melville](https://trove.nla.gov.au/newspaper/article/21912484/2405915) -  The Queenslander, 6 Apr 1912</figcaption>
-</figure>
 
 -->
 
-<!--
-
-TODO 
+<!-- TODO 
 
 ## Michael Quinlan 
 
-Michael Quinlan was born in Sydney ca.1840 to parents Michael and Elizabeth (née Hampbell).
-Mr. Quinlan was a native of Sydney, and arrived in Queensland soon after Separation, where he was a manager of the large mercantile business of George Raff and Co. Later he commenced business in partnership with Mr. Donelly, of the firm of J. and G. Harris, but after Donelly retired from the firm, the business carried on under the name of Quinlan and Co. 
+Michael Quinlan was born in Sydney ca. 1840 to parents Michael and Elizabeth (née Hampbell). He arrived in Queensland soon after Separation, where he was a manager of the large mercantile business of George Raff and Co. Later he commenced business in partnership with Mr. Donelly, of the firm of J. and G. Harris, but after Donelly retired from the firm, the business carried on under the name of [Quinlan and Co.](https://trove.nla.gov.au/newspaper/article/19774778) 
 
 The deceased,  at the time of his death was little over thirty-eight years of age.
 
+After a short service at St. Stephen's Cathedral, the body was [interred at the General Cemetery, Toowong](https://trove.nla.gov.au/newspaper/article/181820308). Later he was reinterred at [Nudgee Cemetery](http://www.nudgeecemetery.com.au).
+
+<!--
 Research follows: 
 
 exhumed from 7-22-10 and reburied in Nudgee Cemetery 	E-09-03 - do not mention 
@@ -136,8 +152,6 @@ http://vmsos.catholic.net.au:8008/mapguide/nudgee/public/
 
 Not in portion book 4,9,11,12,13,14,
 
-
-B not in nsw bdm 1878 -38 = 1840
 
 D 02/07/1878 
 
@@ -151,10 +165,7 @@ latter gentleman retired from the firm, and the business has since been carried 
 
 https://trove.nla.gov.au/newspaper/article/19774778?searchTerm=Michael%20Quinlan 
 
-After a short service at St. Stephen's Cathedral, the body was interred at the General Cemetery at Toowong on Wednesday. The
-cortege was the largest seen in Brisbane since the funeral of Governor Blackall. It included over a hundred vehicles and twenty-two horse men.
 
-https://trove.nla.gov.au/newspaper/article/181820308?searchTerm=Michael%20Quinlan
 
 
 
