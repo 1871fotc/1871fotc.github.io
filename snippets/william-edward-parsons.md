@@ -14,7 +14,7 @@ TODO
 -->
 
 William was an Alderman for the Town of Windsor from 1905-1914, and [Mayor in 1912](https://trove.nla.gov.au/newspaper/article/175081469?searchTerm=mayor%20Windsor%20PARSONS). After a long period of ill health, [William died in hospital on 1 April 1919](https://trove.nla.gov.au/newspaper/article/192735376?searchTerm=parsons). He left behind his wife, Ellen, and two sons, Ernest and Charlie. [Ellen died in November 1923](https://trove.nla.gov.au/newspaper/article/20678107?searchTerm=Ellen%20Parsons) and is buried with her husband.
-
+  
 <!--
 ??? warning "Research"
 

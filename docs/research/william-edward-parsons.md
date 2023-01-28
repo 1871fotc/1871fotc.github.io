@@ -11,4 +11,8 @@ hide:
 
 --8<-- "snippets/william-edward-parsons.md"
 
+### Headstone 
+
+![William Edward Parsons headstone](../assets/william-edward-parsons-headstone.jpg){ width="30%" }
+
 --8<-- "snippets/add-to-this-story.md"

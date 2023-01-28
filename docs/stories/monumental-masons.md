@@ -20,7 +20,7 @@ Brisbane's early Monumental Masons sculpted many beautiful monuments and headsto
 -->
 
 
-![Edward McGregor headstone (4-16-17/18)](../assets/edward-mcgregor-headstone.jpg){ width="32.33%" } ![Leslie Cooper Scarfe (11-80-1)](../assets/leslie-cooper-scarfe-headstone.jpg){ width="32.33%" } ![Thomas Joseph Byrnes headstone (7-47-5)](../assets/thomas-joseph-byrnes-headstone.jpg){ width="32.33%" } 
+![Edward McGregor headstone (4-16-17/18)](../assets/edward-mcgregor-headstone.jpg){ width="32.33%" } ![Leslie Cooper Scarfe headstone (11-80-1)](../assets/leslie-cooper-scarfe-headstone.jpg){ width="32.33%" } ![Thomas Joseph Byrnes headstone (7-47-5)](../assets/thomas-joseph-byrnes-headstone.jpg){ width="32.33%" } 
 
 In 1909, the [Stonemasons' Trade Board stated](https://trove.nla.gov.au/newspaper/article/19575621):
 
@@ -232,6 +232,8 @@ In later life, George Prentice was an Alderman in the Sandgate Municipal Council
 -->
 
 --8<-- "snippets/william-edward-parsons.md"
+
+![William Edward Parsons headstone](../assets/william-edward-parsons-headstone.jpg){ width="40%" }
 
 <!--
 ## William Henry Bowser <small>(13‑2‑11)</small> 
