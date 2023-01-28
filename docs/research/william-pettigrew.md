@@ -10,4 +10,8 @@ hide:
 
 --8<-- "snippets/william-pettigrew.md"
 
+### Headstone
+
+![William Pettigrew headstone](../assets/william-pettigrew-headstone.jpg){ width="30%" }
+
 --8<-- "snippets/add-to-this-story.md"
