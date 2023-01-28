@@ -12,4 +12,8 @@ hide:
 
 --8<-- "snippets/francis-drummond-grenville-stanley.md"
 
+### Headstone 
+
+![Francis Drummond Grenville Stanley headstone](../assets/francis-drummond-grenville-stanley-headstone.jpg){ width="30%" }
+
 --8<-- "snippets/add-to-this-story.md"
