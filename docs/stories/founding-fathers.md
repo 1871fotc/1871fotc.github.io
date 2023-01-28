@@ -5,11 +5,13 @@ hide:
 
 --8<-- "snippets/sem/stories/founding-fathers.json"
 
-# Founding Fathers   
+# Founding Fathers
 
 **Members of the first Brisbane General Cemetery Trust.**
 
-The Brisbane General Cemetery Trust commenced when the first Trustees were appointed on 7 October 1870. They were John Petrie (Chairman), Samuel Walker Griffith, George Edmonstone, John Hardgrave, James Cowlishaw, William Pettigrew, Alexander Raff, Nathaniel Lade and Michael Quinlan. 
+The Brisbane General Cemetery Trust commenced when [the first Trustees were appointed on 7 October 1870][gazette-94]. They were John Petrie (Chairman), John Hardgrave, William Pettigrew, Samuel Walker Griffith, George Edmonstone, Alexander Raff, James Cowlishaw, Michael Quinlan, Nathaniel Lade and William Perry.
+
+[gazette-94]: ../assets/documents/Queensland_Gov_Gazette_10_October_1870_v11_94.pdf "Read the appointments Queensland Government Gazetter No. 94"
 
 The Trust’s first secretary was Henry James Oxley, Griffith’s brother‑in‑law, who held the position for 41 years. John Melville was appointed overseer of the cemetery by the Trustees in 1873. 
 
@@ -27,9 +29,10 @@ John Petrie was born on 15 January 1822 at Edinburgh, eldest son of Andrew Petri
 
 On 5 September 1850 Petrie married Jane Keith, daughter of Daniel McNaught of Dunbarton, Scotland. The family grew to five sons and five daughters. John Petrie was public‑spirited and held many important offices. He topped the poll in Brisbane's first municipal election in 1859 and was mayor three times by 1862 and served as an alderman until 1867. He was also an active member of the first Masonic lodge in Queensland. A staunch Presbyterian, he was an elder and worked on building St Paul's Church. John Petrie died on 8 December 1892.
 
-![Signed photograph of John Petrie](../assets/john-petrie-signed.jpg){ width="40%" }  
-
-*<small>[Signed photograph of John Petrie](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220089340002061) — State Library of Queensland.</small>* 
+<figure markdown>
+  ![Signed photograph of John Petrie](../assets/john-petrie-signed.jpg){ width="40%" }  
+  <figcaption markdown>[Signed photograph of John Petrie](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220089340002061) — State Library of Queensland.</figcaption>
+</figure>
 
 ## George Edmondstone <small>(13‑20‑5)</small>
 
@@ -77,6 +80,120 @@ John Hardgrave, a local politician and lord mayor of Brisbane, was born in Wickl
 --8<-- "snippets/william-pettigrew.md"
 
 --8<-- "snippets/nathaniel-lade.md"
+
+<!--
+TODO
+
+## William Perry <small>(13-70-1)</small>
+
+https://en.wikipedia.org/wiki/William_Perry_(Queensland_businessman)
+
+images - https://trove.nla.gov.au/newspaper/page/2462839
+story - https://trove.nla.gov.au/newspaper/article/20826756/2462847
+
+https://en.wikipedia.org/wiki/Perry_House,_Brisbane
+https://trove.nla.gov.au/newspaper/article/19871938
+
+William Perry of Folkestone, Breakfast Creek Road. - https://onesearch.slq.qld.gov.au/discovery/fulldisplay?context=L&vid=61SLQ_INST:SLQ&search_scope=slq_digital_collections&tab=All&docid=alma99183513423802061
+
+One of Brisbane's earliest businessmen who, having arrived in Brisbane in June 1860, had set up a hardware store in Queen St by August of that year. He was joined in that venture by his brothers George and Frederick. The business thrived, and from those beginnings it further flourished under William's sons, Herbert and George. During 1911 to 1913, Herbert and George highlighted their business by building Brisbane's then tallest building, the eight storey Perry House on the corner of Elizabeth and Albert Streets in the city. - https://onesearch.slq.qld.gov.au/discovery/fulldisplay?context=L&vid=61SLQ_INST:SLQ&search_scope=slq_digital_collections&tab=All&docid=alma99184004961202061
+
+Appointed trustee - 1870 
+
+Mr William Perry, a new member of the House, 1890 - https://trove.nla.gov.au/newspaper/article/3509744?searchTerm=%22William%20Perry%22
+
+Died 11 June 1891 - https://trove.nla.gov.au/newspaper/article/146871483
+ 
+Funeral 12 June 1891 - https://trove.nla.gov.au/newspaper/article/172683331
+
+The vault is situated near the top of the rising ground in the centre of the cemetery, which with its
+beautiful plantations and exquisite mortuary shrines is one of the impressive spots ot the kind in the world.
+
+<figure markdown>
+  ![John Melville](../assets/john-melville.jpg){ width="40%" }
+  <figcaption markdown>[The Late Mr. John Melville](https://trove.nla.gov.au/newspaper/article/21912484/2405915) -  The Queenslander, 6 Apr 1912</figcaption>
+</figure>
+
+-->
+
+<!--
+
+TODO 
+
+## Michael Quinlan 
+
+Michael Quinlan was born in Sydney ca.1840 to parents Michael and Elizabeth (née Hampbell).
+Mr. Quinlan was a native of Sydney, and arrived in Queensland soon after Separation, where he was a manager of the large mercantile business of George Raff and Co. Later he commenced business in partnership with Mr. Donelly, of the firm of J. and G. Harris, but after Donelly retired from the firm, the business carried on under the name of Quinlan and Co. 
+
+The deceased,  at the time of his death was little over thirty-eight years of age.
+
+Research follows: 
+
+exhumed from 7-22-10 and reburied in Nudgee Cemetery 	E-09-03 - do not mention 
+
+he was originally buried in Toowong Cemetery but later reinterred at Nudgee Cemetery
+http://vmsos.catholic.net.au:8008/mapguide/nudgee/public/
+
+Not in portion book 4,9,11,12,13,14,
+
+
+B not in nsw bdm 1878 -38 = 1840
+
+D 02/07/1878 
+
+Mother's name: Elizabeth Hampbell
+Father/parent's name: Michael Quinlan
+
+https://www.familyhistory.bdm.qld.gov.au/details/aa62e9c5f1c98ddd346ff6925c34306b1e97cd32fffda6a6110281723bb69a17
+
+Mr. Quinlan was a native of Sydney, and arrived in this colony soon after Separation, when he was appointed to the management of the large mercantile business of George Raff and Co., which he conducted for many years with great energy and success. Subsequently he commenced business on his own account in partner ship with Mr. Donelly, of the firm of J. and G. Harris, but after some time the
+latter gentleman retired from the firm, and the business has since been carried on under the name of Quinlan and Co. The deceased,  at the time of his death was little over thirty-eight years of age.
+
+https://trove.nla.gov.au/newspaper/article/19774778?searchTerm=Michael%20Quinlan 
+
+After a short service at St. Stephen's Cathedral, the body was interred at the General Cemetery at Toowong on Wednesday. The
+cortege was the largest seen in Brisbane since the funeral of Governor Blackall. It included over a hundred vehicles and twenty-two horse men.
+
+https://trove.nla.gov.au/newspaper/article/181820308?searchTerm=Michael%20Quinlan
+
+
+
+George Petrie died same week
+
+https://trove.nla.gov.au/newspaper/article/13412949
+
+Mr. Michael Quinlan, merchant, died at daylight this morning of internal hemorrhage, at the age of 39 years. He leaves a widow,
+but no children.
+
+https://trove.nla.gov.au/newspaper/article/75741111?searchTerm=Michael%20Quinlan
+
+XXXX connection 
+
+https://www.flickr.com/photos/basalamant/50310203258
+
+https://leaders.slq.qld.gov.au/inductees/castlemaine-perkins/
+
+https://adb.anu.edu.au/biography/gray-george-wilkie-6463
+
+https://freepages.rootsweb.com/~jray/genealogy/boulderson/john.htm
+
+https://en.wikipedia.org/wiki/Castlemaine_Brewery
+
+Will 
+
+https://trove.nla.gov.au/newspaper/article/122937031?searchTerm=Michael%20Quinlan
+
+Wife Kate 
+
+https://trove.nla.gov.au/newspaper/article/1374031?searchTerm=Michael%20Quinlan 
+
+
+Mr. Quinlan was a native of Sydney, and arrived in this colony soon (Qld) after Separation
+
+https://trove.nla.gov.au/newspaper/article/217700570?searchTerm=Michael%20Quinlan
+
+
+-->
 
 
 ## Acknowledgements
