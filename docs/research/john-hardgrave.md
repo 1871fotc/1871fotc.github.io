@@ -10,4 +10,8 @@ hide:
 
 --8<-- "snippets/john-hardgrave.md"
 
+### Headstone
+
+![John Hardgrave headstone](../assets/john-hardgrave-headstone.jpg){ width="30%" }
+
 --8<-- "snippets/add-to-this-story.md"
