@@ -5,11 +5,13 @@ hide:
 
 --8<-- "snippets/sem/stories/founding-fathers.json"
 
+<!-- The first Brisbane General Cemetery Trustees -->
+
 # Founding Fathers
 
 **Members of the first Brisbane General Cemetery Trust.**
 
-The Brisbane General Cemetery Trust commenced when [the first Trustees were appointed on 7 October 1870][gazette-94]. They were John Petrie (Chairman), John Hardgrave, William Pettigrew, Samuel Walker Griffith, George Edmonstone, Alexander Raff, James Cowlishaw, Michael Quinlan, Nathaniel Lade and William Perry.
+The Brisbane General Cemetery Trust commenced when [the first Trustees were appointed on 7 October 1870][gazette-94]. They were John Petrie (Chairman), John Hardgrave, William Pettigrew, George Edmonstone, Alexander Raff, James Cowlishaw, Michael Quinlan, Nathaniel Lade, William Perry, and Samuel Walker Griffith.
 
 [gazette-94]: ../assets/documents/Queensland_Gov_Gazette_10_October_1870_v11_94.pdf "Read the appointments Queensland Government Gazetter No. 94"
 
