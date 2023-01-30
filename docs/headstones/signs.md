@@ -142,6 +142,13 @@ These signs, names or acronyms can be found on headstones in Toowong Cemetery.
 
 ![William Wayte Headstone 1-29-8][1-29-8]{ width="32%" }  ![The Eye of Providence 9-16-9][eye-of-providence]{ width="32%" } [![William Thomas Birkbeck 9-16-9][9-16-9]{ width="32%" }](https://trove.nla.gov.au/newspaper/article/186543823) 
 
+<!--
+https://trove.nla.gov.au/newspaper/article/1381382?searchTerm=William%20wayte
+Albion Hotel, Sandgate road
+Albert Hotel, Albert Street
+
+-->
+
 Unlike the [Clasped Hands symbol](symbols.md#clasped-hands) showing a man and women holding hands (based on the cuffs), on some Friendly Society official's headstones you'll find two men shaking hands.
 
  ![Headstone carving with man and women holding hands](../assets/clasped-hands.jpg){ width="48%" }  ![Headstone carving with men shaking hands][20-20-35/36]{ width="48%" }  
