@@ -41,7 +41,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     ---
 
     Women who made an impact on Queensland. 
-    
+
 <!--    
 
 -   :material-fire:{ .lg .middle } **[Fire! Fire!][fire-fighters]**
@@ -126,6 +126,16 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     ---
 
     Recalling the builders of early Brisbane.
+-->
+
+<!-- October 
+
+-   :fontawesome-solid-scale-balanced:{ .lg .middle } **[Founding Fathers][founding-fathers]** 
+  
+    ---
+
+    Stories of Toowong Cemetery's first Trustees from 1870
+
 -->
 
 <!-- December 
