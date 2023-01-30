@@ -147,6 +147,15 @@ extra_javascript:
 # Plugins
 plugins:
   - search
+# - tags:
+#      tags_file: tags.md
+#      tags_allowed:
+#        - Freemasons
+#        - Ancient Order of Foresters
+#  - optimize:
+#      optimize_png: false
+#      optimize_jpg: false
+#      optimize_jpg_quality: 75
   - social
   - glightbox:
       touchNavigation: true
