@@ -1,0 +1,48 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "name": "Founding Fathers",
+  "headline": "Members of the first Brisbane General Cemetery Trust.",
+  "description": "Stories about the members of the first Brisbane General Cemetery Trust.",
+  "keywords": [
+    "Toowong Cemetery Stories", 
+    "Toowong Cemetery Trustees"
+  ],
+  "dateModified": "2023-01-30",
+  "datePublished": "2022-08-29",
+  "inLanguage": "en", 
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.fotc.au/#/schema/organization/1",
+    "name": "Friends of Toowong Cemetery Association Inc.",
+    "url": "https://www.fotc.au/"
+  },
+  "author": {
+    "@id": "https://www.fotc.au/#/schema/organization/1"
+  },   
+  "image": [
+    "https://www.fotc.au/assets/logo/fotc-1x1.png", 
+    "https://www.fotc.au/assets/logo/fotc-banner-4x3.png", 
+    "https://www.fotc.au/assets/images/social/stories/founding-fathers.png"
+  ],
+  "about": {
+    "@type": "Place",
+    "name": "Toowong Cemetery",
+    "sameAs": [
+      "https://en.wikipedia.org/wiki/Toowong_Cemetery", 
+      "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery"
+    ]
+  },
+  "mentions": [
+    {"@type": "Person","name": "John Petrie","sameAs": "https://en.wikipedia.org/wiki/John_Petrie"},
+    {"@type": "Person","name": "George Edmondstone","sameAs": "https://en.wikipedia.org/wiki/George_Edmondstone"},
+    {"@type": "Person","name": "John Hardgrave","sameAs": "https://en.wikipedia.org/wiki/John_Hardgrave"},
+    {"@type": "Person","name": "William Pettigrew","sameAs": "https://en.wikipedia.org/wiki/William_Pettigrew_(politician)"},
+    {"@type": "Person","name": "James Cowlishaw","sameAs": "https://en.wikipedia.org/wiki/James_Cowlishaw"},
+    {"@type": "Person","name": "Samuel Walker Griffith","sameAs": "https://en.wikipedia.org/wiki/Samuel_Griffith"}, 
+    {"@type": "Person","name": "Alexander Raff","sameAs": "https://en.wikipedia.org/wiki/Alexander_Raff"},
+    {"@type": "Person","name": "William Perry","sameAs": "https://en.wikipedia.org/wiki/William_Perry_(Queensland_businessman)"}
+  ]
+}
+</script>
