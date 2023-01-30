@@ -18,6 +18,10 @@ Prior to 1875, the flat area where the entrance of Toowong Cemetery now stands w
 
 [tu-wong]: https://www.toowong.au/books/ "From 'Aboriginal people of Toowong' by Arthur Beau Palmer, <br>in 'Toowong: A community's history' by West Toowong Community Association Inc."
 
+<!--
+https://trove.nla.gov.au/newspaper/article/213158447
+-->
+
 ## 1866 Toowong Cemetery land reserved
 
 The land for the cemetery was first reserved in 1866. [The reserve of 250 acres 1 rood][reserve], and an extension of 53 acres were [gazetted][gazette-93], and [Cemetery Trustees appointed][gazette-94] on 7 October 1870.
