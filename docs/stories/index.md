@@ -19,21 +19,29 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
 <div class="grid cards" markdown>  
 
-<!-- January -->
+<!-- January Australia Day
 
 -   :flag_au:{ .lg .middle } **[The Federation walk][federation-walk]**
   
     ---
 
     Discover Queensland's contribution to the Australian Constitution.
-
+-->
 
 -   :fontawesome-solid-monument:{ .lg .middle } **[Monumental Masons][monumental-masons]**
+
+
   
     ---
 
     Read about the sculpters of Toowong Cemetery's beautiful monuments.
 
+-   :material-face-woman-outline:{ .lg .middle } **[The Other Half][the-other-half]**
+  
+    ---
+
+    Women who made an impact on Queensland. 
+    
 <!--    
 
 -   :material-fire:{ .lg .middle } **[Fire! Fire!][fire-fighters]**
@@ -42,11 +50,11 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
     Fire fighters of early Brisbane.
 
--   :material-face-woman-outline:{ .lg .middle } **[The Other Half][the-other-half]**
-  
-    ---
 
-    Women who made an impact on Queensland. 
+-->
+
+<!-- February Valentine's Day Feb 14th
+
 -->
 
 <!-- March St. Patricks Day, INTERNATIONAL Women'd day  
