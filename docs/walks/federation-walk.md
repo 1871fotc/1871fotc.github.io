@@ -32,8 +32,9 @@ Despite many arguments against federation, the Federal Referendum on the 2^nd^ o
 
 ![The Federation walk map](../assets/federation-walk.jpg){ width="50%" }
 
-???+ directions "Directions" 
+???+ directions "Directions"
 
+    - :fontawesome-solid-person-walking-with-cane:{ .deep-purple } If you'd prefer not to walk up Mount Blackall, you can park your car at the end of Federation Avenue and start the walk there.
     - :fontawesome-solid-car:{ .deep-purple } If driving, park your car in Emma Miller Avenue.
     - :fontawesome-solid-person-walking:{ .deep-purple } Begin the walk behind Canon Garland Place in Emma Miller Avenue.  
     - Enter Portion 13 on the grass path to the summit between the graves of Pethebridge and Thurlow. 
