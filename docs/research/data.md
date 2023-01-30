@@ -131,7 +131,7 @@ Dynamic visualisations we are considering include:
 We are inspired by the works of others who share and create with open data, including:
 
 - [Visualising linked data from 'A biographical record of Queensland women', 1939](https://www.slq.qld.gov.au/blog/visualising-linked-data-biographical-record-queensland-women-1939) by the State Library of Queensland. This was our initial inspiration for exploring linked data.
-- [Loud Numbers](https://anchor.fm/loudnumbers/episodes/The-End-of-the-Road-e131bnl) and [Sonic Pi](https://sonic-pi.net). What could Toowong Cemetery sound like?
+- [Loud Numbers](https://www.loudnumbers.net/sonification) and [Sonic Pi](https://sonic-pi.net). What could Toowong Cemetery sound like?
 - [Family Tree Timeline](https://blog.myheritage.com/2022/03/introducing-the-family-tree-timeline/) by MyHeritage.com
 <!-- [Auckland Museum](https://www.aucklandmuseum.com/discover/collections-online/our-data) who publish the collection data in many different ways -->
 <!-- LeanIX https://youtu.be/av5FL6gJBu4?t=126 -->
