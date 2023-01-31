@@ -57,6 +57,8 @@ After returning from the expedition John Melville was engaged in survey work unt
   <figcaption markdown>[The Late Mr. John Melville](https://trove.nla.gov.au/newspaper/article/21912484/2405915) -  The Queenslander, 6 Apr 1912</figcaption>
 </figure>
 
+--8<-- "snippets/william-perry.md"
+
 --8<-- "snippets/alexander-raff.md"
 
 --8<-- "snippets/james-cowlishaw.md"
@@ -96,7 +98,6 @@ His wife Amelia Boughay, a fellow *Fortitude* passenger whom he had married in 1
 
 --8<-- "snippets/nathaniel-lade.md"
 
---8<-- "snippets/william-perry.md"
 
 <!-- TODO 
 
