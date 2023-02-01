@@ -21,9 +21,14 @@ Use the <a href="../../assets/toowong-cemetery-map-large.jpg" target="_blank" ti
 
     Unfortunately signs are often vandalised in the cemetery. **[Contact us](../contact.md)** if you find a damaged sign.
 
+    
 ### Dimensions
 
 The signs are 25cm high by 35cm wide and are printed on 2mm Stainless Steel. 
+
+<!--
+Manufactured by [Armsign](https://www.armsign.com.au)
+-->
 
 ### Download the data
 
