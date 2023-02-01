@@ -17,6 +17,8 @@ The Brisbane General Cemetery Trust commenced when [the first Trustees were appo
 
 The Trust’s first secretary was Henry James Oxley, Griffith’s brother‑in‑law, who held the position for 41 years. John Melville was appointed overseer of the cemetery by the Trustees in 1873. 
 
+<!-- https://trove.nla.gov.au/newspaper/article/23607855?searchTerm=Henry%20James%20Oxley -->
+
 On 1 August 1930, Toowong Cemetery and all others with the Brisbane City Council municipality were [placed under the management and control of the Council](https://trove.nla.gov.au/newspaper/article/188264449).
 
 <!--
