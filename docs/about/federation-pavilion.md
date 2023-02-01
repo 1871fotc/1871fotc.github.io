@@ -75,7 +75,7 @@ The Federation Pavilion commemorates the contribution of the delegates who atten
 
 > This Pavilion was erected by the Friends of Toowong Cemetery Association Inc. with the support from the Commonwealth Government. <br>
 > <br>
-> Open on the Third of March 2001 by <br>
+> Opened on the Third of March 2001 by <br>
 > <br>
 > Hon. Arch Bevis MP, Federal Minister for Brisbane <br>
 > and <br>
