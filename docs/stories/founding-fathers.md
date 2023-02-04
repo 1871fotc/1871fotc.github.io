@@ -21,6 +21,7 @@ The Trust’s first secretary was Henry James Oxley, Griffith’s brother‑in�
 
 On 1 August 1930, Toowong Cemetery and all others with the Brisbane City Council municipality were [placed under the management and control of the Council](https://trove.nla.gov.au/newspaper/article/188264449).
 
+
 <!--
 https://trove.nla.gov.au/newspaper/article/178416098
 -->
@@ -175,9 +176,8 @@ https://trove.nla.gov.au/newspaper/article/217700570?searchTerm=Michael%20Quinla
 
 -->
 
-
 ## Acknowledgements
 
-Written by [Dr. Hilda Maclean](https://www.linkedin.com/in/dr-hilda-maclean-4819a711/).
+Originally written by [Dr. Hilda Maclean](https://www.linkedin.com/in/dr-hilda-maclean-4819a711/).
 
-William Perry entry added by Friends of Toowong Cemetery members.
+"William Perry" section added by Friends of Toowong Cemetery members.
