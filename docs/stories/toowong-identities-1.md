@@ -28,7 +28,12 @@ These stories were conceived as part of commemorative activities. It features on
     Commencing at the flagpole, walk behind the Amenities Block and cross Emma Miller Avenue. Head the path which separates Portions 9 and 13. In the second row to the right, behind the large white Petrie Family grave is the grey granite obelisk of...
 -->
 
---8<-- "snippets/andrew-lang-petrie.md"
+## Andrew Lang Petrie <small>(13‑10‑7)</small>
+
+The first member of his family born in Australia in 1854, Andrew Lang Petrie relocated the family’s stonemason’s yard from the corner of Queen and Wharf Street to the Toowong Cemetery gates in 1882. The site is now occupied by Toowong Mitsubishi.
+
+--8<-- "snippets/john-petrie-and-sons-advertisement.md"
+
 
 <!--
 ??? directions "Directions" 
