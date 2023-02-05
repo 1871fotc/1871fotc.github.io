@@ -28,7 +28,7 @@ There's no need to book, just meet under the flagpole in Canon Garland Place at 
 
 ## Upcoming Guided Tours
 
-Our next tour is on **Sunday 5 February 2023** and is titled "**One year: 1923**".
+Our next tour is on **Sunday 5 March 2023** and is is all about "**Chemists**".
 
 The tour is limited to 20 people. 
 
