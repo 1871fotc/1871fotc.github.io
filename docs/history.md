@@ -126,7 +126,7 @@ Allotments on [Heussler Terrace][Heussler Terrace] (renamed Birdwood Terrace) on
 
 ![Tram passing the Toowong Cemetery with Mt Coot‑tha in the distance, Queensland, 1921](assets/tram-passing-the-toowong-cemetery-1921.jpg){ width="96%" loading=lazy data-title="Tram passing the Toowong Cemetery with Mt Coot‑tha in the distance, Queensland, 1921" }  
 
-*<small>[Tram passing the Toowong Cemetery with Mt Coot‑tha in the distance, Queensland, 1921](http://onesearch.slq.qld.gov.au/permalink/f/fhnkog/slq_digitool542430) — State Library of Queensland. Cropped. </small>*
+*<small>[Tram passing the Toowong Cemetery with Mt Coot‑tha in the distance, Queensland, 1921](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99184004960502061) — State Library of Queensland. Cropped. </small>*
 
 ## 1924 Remembering the Anzacs
 
