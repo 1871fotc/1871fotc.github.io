@@ -11,7 +11,7 @@ The oldest grave in Toowong Cemetery is of **[Governor Samuel Blackall](../resea
 
 The oldest surviving headstone in Queensland is from **15 November 1831** and can be found in Toowong Cemetery.
 
-![Pioneer Children's Graves at Toowong Cemetery](../assets/pioneer-childrens-graves-13-10-4.jpg){ width="100%" }
+![Pioneer Children's Graves at Toowong Cemetery](../assets/pioneer-childrens-graves-restored-13-10-4.jpg){ width="100%" }
 
 *<small>Pioneer Children's Graves (13-10-4), Queensland's oldest surviving headstones from the 1830's </small>*
 
