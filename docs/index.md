@@ -94,6 +94,8 @@ If you enter the main entrance, you'll find:
 - the **[Office](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#officehours)**, where Brisbane City Council staff can answer your enquiries and help locate graves and memorial sites.
 - **Toilets** - the only ones available in the cemetery and are not wheel-chair accessible.
 
+<!--  LAVATORY BUILDING - https://trove.nla.gov.au/newspaper/article/178409657?searchTerm=%22Brisbane%20general%20cemetery%22%20trustee -->
+
 <figure markdown>
   ![Canon Garland Place at Toowong Cemetery](assets/flag-pole.jpg){ class="full-width" }
   <figcaption markdown>The Stone of Remembrance, Cross of Sacrifice, and Flagpole in Canon Garland Place</figcaption>
