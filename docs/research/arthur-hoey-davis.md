@@ -32,7 +32,7 @@ hide:
 >"Steele Rudd" <br>
 >Born Drayton, Queensland. <br>
 >14^th^ November 1868 <br>
->Died Brisbane 11^th^ October 1935
+>Died Brisbane 11^th^ October 1935 <br>
 >"The Interpreter of Life on the Land" <br>
 >Erected by Australian Citizens <br>
 >Under the Auspices of <br>
