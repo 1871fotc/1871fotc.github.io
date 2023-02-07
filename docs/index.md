@@ -143,7 +143,7 @@ Some cemetery road names have recently been changed to the names of notable peop
 | Francis Forde Avenue              | Boundary Road | running parallel to Birdwood Terrace <br>closest to Frederick Street |
 | **[Peter Jackson][Jackson]** Parade        | Boundary Road | running parallel to Frederick Street <br>furthest from the main entrance |
 | Soldiers Parade                            | Boundary Road | running parallel to Frederick Street <br>closest to the main entrance    |
-| Steele Rudd Avenue                 | 4^th^ Avenue  |                                                                      |
+| **[Steele Rudd][Rudd]** Avenue      | 4^th^ Avenue  |                                                                      |
 | Walter Ralston Avenue         | 7^th^ Avenue  |                                                                      |
 | **[Emma Miller][Miller]** Avenue           | 8^th^ Avenue  | behind Canon Garland Place                                           |
 | **[Charles Heaphy][Heaphy]** Drive         | 8^th^ Avenue  | from the Shelter Shed to Emma Miller Avenue                          |
@@ -190,8 +190,7 @@ Combine your visit to Toowong Cemetery with a visit to other nearby attractions:
 <!-- [Forde]: research/francis-forde.md "Read Francis' story" -->
 [Forde]: https://adb.anu.edu.au/biography/forde-francis-michael-frank-12504 
 [Jackson]: research/peter-jackson.md 
-<!-- [Rudd]: research/arthur-hoey-davis.md "Read Steel Rudd's (Arthur Hoey Davis) story" -->
-[Rudd]: https://adb.anu.edu.au/biography/davis-arthur-hoey-5911 
+[Rudd]: research/arthur-hoey-davis.md "Read Steel Rudd's (Arthur Hoey Davis) story" 
 <!-- [Ralston]: research/walter-ralston.md "Read Walter's story" -->
 [Ralston]: https://adb.anu.edu.au/biography/ralston-walter-vardon-834
 [Miller]: research/emma-miller.md 
