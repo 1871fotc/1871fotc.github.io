@@ -20,7 +20,7 @@ Friends of Toowong Cemetery run 11 different guided walking tours each year.
 
 Tours are on the first Sunday of each month (February to December) from 10:30am to 12:00. 
 
-There's no need to book, just meet under the flagpole in Canon Garland Place at the Toowong Cemetery. There is plenty of parking available inside the cemetery. Wear a hat, enclosed shoes, and bring a water bottle.
+There's no need to book, just meet under the flagpole in Canon Garland Place at the Toowong Cemetery. There is plenty of parking available inside the cemetery.
 
 ![Canon Garland Place](assets/flag-pole.jpg){ width="98%" data-title="Guided tours start at Canon Garland Place" }
 
@@ -31,6 +31,10 @@ There's no need to book, just meet under the flagpole in Canon Garland Place at 
 Our next tour is on **Sunday 5 March 2023** and is is all about "**Chemists**".
 
 The tour is limited to 20 people. 
+
+!!! Warning "What to bring"
+
+    Wear enclosed shoes and a hat, and bring a water bottle.
 
 <!-- 
 Add it to your calendar.
