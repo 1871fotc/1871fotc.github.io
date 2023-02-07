@@ -20,6 +20,8 @@ description: Mother of the Australian Labor Party
 
 *<small>[Arthur Hoey Davis - Steele Rudd, Charles Lilley and Emma Miller statues located in King George Square in Brisbane, Australia. Artist: Artbusters Materials: Bronze Installation date: 1993](https://en.wikipedia.org/wiki/File:A._Davis,_C._Lilley_and_E._Miller_statues_in_Brisbane_01.JPG) by [Kgbo](https://commons.wikimedia.org/wiki/User:Kgbo), used under [CC BY-SA 4.0][cc-by-sa].  </small>*
 
+[cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/  "Creative Commons Attribution ShareAlike 4.0 Licence"
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/clY9640s02Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *<small>[Black Friday: When Brisbane Police Beat and Suppressed Demonstrators](https://youtu.be/clY9640s02Y) - Queensland State Archives</small>*
