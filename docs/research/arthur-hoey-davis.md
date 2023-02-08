@@ -35,7 +35,7 @@ hide:
 >Died Brisbane 11^th^ October 1935 <br>
 >"The Interpreter of Life on the Land" <br>
 >Erected by Australian Citizens <br>
->Under the Auspices of <br>
+>Under the auspices of <br>
 >Queensland Authors and Artists' Association <br>
 >1956 <br>
 
