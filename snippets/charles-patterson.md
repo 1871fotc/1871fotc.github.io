@@ -6,5 +6,4 @@ Charles Patterson was the first Mayor of the Shire of Toowong. Born in Aberdeen,
 
 
 *<small>[High Street, Toowong, Brisbane, Queensland, ca. 1917](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220078440002061) - State Library of Queensland </small>* <br>
-
 *<small>[Charles Patterson, ca. 1900](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183513931702061) -  State Library of Queensland</small>*
