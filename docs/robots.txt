@@ -7,6 +7,7 @@ Disallow: /search/*
 Disallow: /assets/calendar/*
 Disallow: /assets/guides/*
 Disallow: /assets/documents/*
+Allow: /assets/documents/toowong-cemetery-map.pdf
 Disallow: /drafts/*
 Disallow: /walks/mount-blackall-walk/
 
@@ -20,7 +21,6 @@ Disallow: /assets/fotc-qr-code.png
 Disallow: /assets/404-16x9.png
 Disallow: /assets/404.png
 Disallow: /assets/ACNC-Registered-Charity-Logo_RGB.png
-Allow: /assets/documents/toowong-cemetery-map.pdf
 Allow: /assets/toowong-cemetery-map.jpg
 Allow: /assets/pioneer-childrens-graves-13-10-4.jpg
 
