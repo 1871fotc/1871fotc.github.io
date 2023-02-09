@@ -7,7 +7,7 @@ description: Copyright, Acknowledgements, and Accessibility
 
 ## Copyright
 
-Material on this site is copyright © 1992 — 2023 Friends of Toowong Cemetery Association Inc., unless noted otherwise. 
+Material on this site is copyright © 1994 — 2023 Friends of Toowong Cemetery Association Inc., unless noted otherwise. 
 
 ## Licence 
 
