@@ -44,9 +44,9 @@ Add it to your calendar.
 
 ## Toowong Cemetery Museum
 
-The Museum is open before and after our guided tours.
+The Museum is open in conjunction with our guided tours.
 
-![Toowong Cemetery Museum](assets/museum.jpg){ width="98%" data-title="Toowong Cemetery Museum is open before and after our guided tours"}
+![Toowong Cemetery Museum](assets/museum.jpg){ width="98%" data-title="Toowong Cemetery Museum is open in conjunction with our guided tours"}
 
 *<small>The Toowong Cemetery Museum is the former Sexton's office.</small>*
 
