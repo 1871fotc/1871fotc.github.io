@@ -90,7 +90,7 @@ If you're using public transport to get here, use the **[TransLink Journey Plann
 If you enter the main entrance, you'll find: 
 
 - **Canon Garland Place** named after **[Canon David John Garland][Garland]**. The Flagpole here is the departure point for our **[guided heritage tours](guided-tours.md)**.
-- a **Museum** operated by the Friends of Toowong Cemetery, and opened before and after our guided heritage tours
+- a **Museum** operated by the Friends of Toowong Cemetery, and opened in conjunction with our guided heritage tours
 - the **[Office](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#officehours)**, where Brisbane City Council staff can answer your enquiries and help locate graves and memorial sites.
 - **Toilets** - the only ones available in the cemetery and are not wheel-chair accessible.
 
