@@ -24,7 +24,7 @@ https://trove.nla.gov.au/newspaper/article/213158447
 
 ## 1866 Toowong Cemetery land reserved
 
-The land for the cemetery was first reserved in 1866. [The reserve of 250 acres 1 rood][reserve], and an extension of 53 acres were [gazetted][gazette-93], and [Cemetery Trustees appointed][gazette-94] on 7 October 1870.
+The land for the cemetery was first reserved in 1866. [The reserve of 250 acres 1 rood][reserve], and an extension of 53 acres were [gazetted][gazette-93], and the [first Cemetery Trustees](stories/founding-fathers.md) were appointed on 7 October 1870.
 
 [gazette-93]: assets/documents/Queensland_Gov_Gazette_8_October_1870_v11_93.pdf "Read the Queensland Government Gazetter No. 93"
 [gazette-94]: assets/documents/Queensland_Gov_Gazette_10_October_1870_v11_94.pdf "Read the Queensland Government Gazetter No. 94"
