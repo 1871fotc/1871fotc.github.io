@@ -159,7 +159,7 @@ Garland, aged 75, died at Red Hill on 11 October 1939. His grave is located at P
 
 *<small>[Small children looking at wreaths laid at the memorial on Anzac Day, Toowong Cemetery, Brisbane, 1924](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21271931300002061) — State Library of Queensland. Cropped.</small>*
 
-## 1930 Brisbane General Cemetery Trust Closed
+## 1930 Brisbane General Cemetery Trust closed
 
 [Thirty Four Trustees](research/brisbane-general-cemetery-trustees.md) served the Brisbane General Cemetery Trust between 7 October 1870 and 1 August 1930, when the Brisbane City Council took over management of all cemeteries within the municipality.
 
