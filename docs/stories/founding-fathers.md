@@ -5,11 +5,9 @@ hide:
 
 --8<-- "snippets/sem/stories/founding-fathers.json"
 
-<!-- The first Brisbane General Cemetery Trustees -->
-
 # Founding Fathers
 
-**Members of the first Brisbane General Cemetery Trust.**
+**The first Brisbane General Cemetery Trustees.**
 
 The Brisbane General Cemetery Trust commenced when [the first Trustees were appointed on 7 October 1870][gazette-94]. They were John Petrie (Chairman), John Hardgrave, William Pettigrew, George Edmonstone, Alexander Raff, James Cowlishaw, Michael Quinlan, Nathaniel Lade, William Perry, and Samuel Walker Griffith.
 
@@ -20,7 +18,6 @@ The Trust’s first secretary was Henry James Oxley, Griffith’s brother‑in�
 <!-- https://trove.nla.gov.au/newspaper/article/23607855?searchTerm=Henry%20James%20Oxley -->
 
 On 1 August 1930, Toowong Cemetery and all others with the Brisbane City Council municipality were [placed under the management and control of the Council](https://trove.nla.gov.au/newspaper/article/188264449).
-
 
 <!--
 https://trove.nla.gov.au/newspaper/article/178416098
