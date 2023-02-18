@@ -159,6 +159,10 @@ Garland, aged 75, died at Red Hill on 11 October 1939. His grave is located at P
 
 *<small>[Small children looking at wreaths laid at the memorial on Anzac Day, Toowong Cemetery, Brisbane, 1924](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21271931300002061) — State Library of Queensland. Cropped.</small>*
 
+## 1930 Brisbane General Cemetery Trust Closed
+
+[Thirty Four Trustees](research/brisbane-general-cemetery-trustees.md) served the Brisbane General Cemetery Trust between 7 October 1870 and 1 August 1930, when the Brisbane City Council took over management of all cemeteries within the municipality.
+
 ## 1962 Trams Terminated
 
 [Trams in Brisbane](https://en.wikipedia.org/wiki/Trams_in_Brisbane) changed over time. In 1962 the [Paddington Tram Depot was destroyed by fire](https://trove.nla.gov.au/newspaper/article/104296116) and 65 trams were lost. The Rainworth and Toowong [tram services were withdrawn](https://youtu.be/yD8thm6MECU) and replaced with buses.
