@@ -61,7 +61,8 @@ Plan your visit to Toowong Cemetery.
 
 **[Ask Friends of Toowong Cemetery for help](../contact.md)**:
 
-  - If you're visiting outside of office hours, we can mark the side of the road with the section number to help you locate the grave.
+<!-- If you're visiting outside of office hours, we can mark the side of the road with the section number to help you locate the grave.  -->
+
   - If the grave is unmarked, we can outline the grave using a surface spray. The spray does no harm and two mowings later it will disappear.
   - If you're unable to visit, we can to take a digital photograph of a grave and email it to you.
 
