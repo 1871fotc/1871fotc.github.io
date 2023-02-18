@@ -108,7 +108,7 @@ Michael Quinlan was born in Sydney ca. 1840 to parents Michael and Elizabeth (n√
 
 Following [Michael Quinlan's death in July 1878](https://trove.nla.gov.au/newspaper/article/19774778), aged 38, his widow took control of the company and in August 1878 entered into partnership with George Wilkie Gray, the firm's principal manager, as [Quinlan, Gray & Co.](https://trove.nla.gov.au/newspaper/article/1374031?searchTerm=%22Michael%20Quinlan%22) The Castlemaine Brewery and Quinlan, Gray & Co. Brisbane Ltd went on to manufacture Queensland's famous "XXXX" beer.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-cHcOuTFU-8?start=28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-cHcOuTFU-8?start=28" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!--
 Research follows: 
