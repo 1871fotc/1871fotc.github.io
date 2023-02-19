@@ -86,7 +86,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     Women who shaped Queensland
 -->
 
-<!-- April Anzac Day 
+<!-- April Anzac Day, Easter Lutheran? 
 
 -   :fontawesome-solid-person-military-rifle:{ .lg .middle } **[Lest We Forget][lest-we-forget]** 
   
