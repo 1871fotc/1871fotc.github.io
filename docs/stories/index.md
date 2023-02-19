@@ -19,6 +19,38 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
 <div class="grid cards" markdown>  
 
+
+-   :material-face-woman-outline:{ .lg .middle } **[Notable Women][notable-women]**
+
+  
+    ---
+
+    Women who shaped Queensland
+
+-   :four_leaf_clover:{ .lg .middle } **[The Irish][irish]** 
+  
+    ---
+
+    Stories about the Irish remembered in Toowong Cemetery.
+
+<!--    
+
+-   :fontawesome-solid-monument:{ .lg .middle } **[Monumental Masons][monumental-masons]**
+
+    ---
+
+    Read about the sculpters of Toowong Cemetery's beautiful monuments.
+-->
+<!--    
+
+-   :material-fire:{ .lg .middle } **[Fire! Fire!][fire-fighters]**
+  
+    ---
+
+    Fire fighters of early Brisbane.
+
+-->
+
 <!-- January Australia Day
 
 -   :flag_au:{ .lg .middle } **[The Federation walk][federation-walk]**
@@ -28,13 +60,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     Discover Queensland's contribution to the Australian Constitution.
 -->
 
--   :fontawesome-solid-monument:{ .lg .middle } **[Monumental Masons][monumental-masons]**
-
-
-  
-    ---
-
-    Read about the sculpters of Toowong Cemetery's beautiful monuments.
+<!-- February Valentine's Day Feb 14th
 
 -   :material-face-woman-outline:{ .lg .middle } **[The Other Half][the-other-half]**
   
@@ -42,22 +68,9 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
     Women who made an impact on Queensland. 
 
-<!--    
-
--   :material-fire:{ .lg .middle } **[Fire! Fire!][fire-fighters]**
-  
-    ---
-
-    Fire fighters of early Brisbane.
-
-
 -->
 
-<!-- February Valentine's Day Feb 14th
-
--->
-
-<!-- March St. Patricks Day, INTERNATIONAL Women'd day  
+<!-- March:  International Women'd day 8 Mar 2023, St. Patricks Day, 17 Mar 2023
 
 -   :four_leaf_clover:{ .lg .middle } **[The Irish][irish]** 
   
@@ -163,7 +176,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
 - **[The Federation walk][federation-walk]** :fontawesome-solid-person-walking: - commemorating four Queensland delegates to the 1891 National Australasian Convention
 - **[Queensland Governors][governors]** - stories about some of Queensland's earliest Governors (1868 to 1919) 
-- **[Brisbane Mayors][brisbane-mayors]** - 14 Brisbane Mayors (1859 to 1931) are buried in Toowong Cemetery
+- **[Brisbane Mayors][brisbane-mayors]** - 14 stories of Brisbane Mayors (1859 to 1931) buried in Toowong Cemetery
 - **[One Adult, One Vote][suffrage]** - Queensland's own suffrage story 
 - **[Labor Luminaries][labor-luminaries]** - recognising people involved in the Labor movement 
 - **[The Great Shearers' Strike of 1891](shearers-strike.md)**
@@ -216,6 +229,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
 ## Other themed stories
 
+- **[One Year: 1923](1923.md)**
 - **[Christmas Shopping 1877][christmas-shopping-1877]** - stories about shop keepers and Christmas in 1877
 - **[The Other Half][the-other-half]** - stories about women who made an impact on Queensland
 - **[Steam](steam.md)** - stories about our steam-driven past
