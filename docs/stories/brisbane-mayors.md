@@ -200,6 +200,77 @@ These stories cover many of the early Mayors of the Town of Brisbane. The City o
 
 -->
 
+<!-- 
+Also
+
+## Leslie Gordon Corrie <small>13‑71‑13/14</small>
+
+Leslie Gordon Corrie (1859–1918) was an architect and the mayor of Brisbane, Queensland from 1902 to 1903.
+
+https://en.wikipedia.org/wiki/Leslie_Corrie
+
+## Edward Joseph Baines	<small>7‑5‑30</small>
+
+https://en.wikipedia.org/wiki/Edward_Joseph_Baines
+
+## Abram Robertson Byram <small>1‑19‑6</small>
+
+https://en.wikipedia.org/wiki/Abram_Robertson_Byram
+
+## Benjamin Harris Babbidge <small>1‑44‑9</small>
+
+https://en.wikipedia.org/wiki/Benjamin_Harris_Babbidge
+
+## George Watson <small>13‑47‑11</small>
+
+https://en.wikipedia.org/wiki/George_Watson_(mayor)
+
+## Robert Fraser <small>11‑52‑9/10</small>
+
+https://en.wikipedia.org/wiki/Robert_Fraser_(politician)
+
+
+## William Murray Thompson <small>11‑71‑15</small>
+
+https://en.wikipedia.org/wiki/William_Murray_Thompson
+
+## Charles Pakenham Buchanan <small>7‑20‑19</small>
+
+https://en.wikipedia.org/wiki/Charles_Pakenham_Buchanan
+
+## Thomas Wilson <small>8‑61‑33B/4</small>
+
+https://en.wikipedia.org/wiki/Thomas_Wilson_(Queensland_politician)
+
+## Harry Diddams <small>11‑45‑5</small>	
+
+https://en.wikipedia.org/wiki/Harry_Diddams
+
+## Henry (Harry) Doggett <small>11‑16‑3</small>
+
+https://en.wikipedia.org/wiki/Harry_Doggett
+
+## George Down <small>12‑4‑9</small> 
+
+https://en.wikipedia.org/wiki/George_Down
+
+## James Francis Maxwell <small>13‑65‑4</small> 
+
+https://en.wikipedia.org/wiki/James_Francis_Maxwell
+
+## William Alfred Jolly	<small>8‑73‑29</small> 
+
+https://en.wikipedia.org/wiki/William_Jolly
+
+-->
+
+## Brisbane Mayors buried in Toowong Cemetery
+
+28 [Brisbane Mayors](https://en.wikipedia.org/wiki/List_of_mayors_and_lord_mayors_of_Brisbane) are buried in Toowong Cemetery. 
+
+--8<-- "snippets/brisbane-mayors.html"
+
+
 ## Acknowledgements
 
 Written by [Dr. Hilda Maclean](https://www.linkedin.com/in/dr-hilda-maclean-4819a711/)
@@ -207,7 +278,7 @@ Written by [Dr. Hilda Maclean](https://www.linkedin.com/in/dr-hilda-maclean-4819
 ## Further Reading
 
 - [Brisbane's Lord Mayors](https://www.brisbane.qld.gov.au/about-council/council-information-and-rates/council-history/brisbanes-lord-mayors)
-- [List of mayors and lord mayors of Brisbane](https://en.wikipedia.org/wiki/List_of_mayors_and_lord_mayors_of_Brisbane)
+
 
 <!--
 <div class="noprint" markdown="1">
