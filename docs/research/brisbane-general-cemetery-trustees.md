@@ -1,4 +1,6 @@
 ---
+title: Brisbane General Cemetery Trustees
+description: Trustees from 1870 to 1930
 hide:
   - toc
   - navigation
@@ -19,7 +21,6 @@ The Brisbane General Cemetery Trust [ended on 1 August 1930](https://trove.nla.g
 ## Trustees
 
 --8<-- "snippets/trustees.html"
-
 
 ![Brisbane General Cemetery Board of Trustees, ca. 1920 - 1922](../assets/toowong-cemetery-trustees.jpg){ width="70%" } 
 
