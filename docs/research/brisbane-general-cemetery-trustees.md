@@ -22,6 +22,8 @@ The Brisbane General Cemetery Trust [ended on 1 August 1930](https://trove.nla.g
 
 --8<-- "snippets/trustees.html"
 
+### Board of Trustees ca. 1920-1922
+
 ![Brisbane General Cemetery Board of Trustees, ca. 1920 - 1922](../assets/toowong-cemetery-trustees.jpg){ width="70%" } 
 
 *<small>
@@ -31,6 +33,7 @@ Standing:  W. D. Grimes, John McDonald, Charles H. Harley, E. Griffith Oxley, Ed
 Seated: James William Wassell, James Stodart, George Frederick Scott <br>
 Bottom insets: J. A. Hayes, E. W. H. Fowles </small>*
 
+### Board of Trustees 1924
 
 ![Brisbane General Cemetery Board of Trustees, 1924](../assets/toowong-cemetery-trustees-1924.jpg){ width="70%" }
 
