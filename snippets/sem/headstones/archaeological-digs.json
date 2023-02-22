@@ -79,7 +79,7 @@
     },
     {
       "@type": "Event",
-      "name": "Free Toowong Cemetery Archaeological Dig",
+      "name": "Free Archaeological Dig in Toowong Cemetery",
       "location": {
         "@type": "Place",
         "address": {
@@ -102,7 +102,7 @@
       "image": "https://www.fotc.au/assets/archaeological-dig.jpg",
       "offers": {
         "@type": "Offer",
-        "url": "https://www.fotc.au/guided-tours/",
+        "url": "https://www.fotc.au/headstones/archaeological-digs/",
         "priceCurrency": "AUD",
         "price": "0",
         "availability": "https://schema.org/InStock",
