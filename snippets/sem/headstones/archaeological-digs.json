@@ -93,8 +93,8 @@
         "image": ["https://www.fotc.au/assets/archaeological-dig.jpg"],
         "name": "Toowong Cemetery Archaeological Dig"
       },
-      "startDate": "2023-05-19T23:00:00.000Z",
-      "endDate": "2023-05-20T04:00:00.000Z", 
+      "startDate": "2023-05-20T09:00:00.00+10:00",
+      "endDate": "2023-05-20T14:00.00+10:00", 
       "description": "Search for buried headstones in Toowong Cemetery and undercover Brisbane's past.",
       "eventStatus": "https://schema.org/EventScheduled",
       "isAccessibleForFree": true,
