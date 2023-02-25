@@ -8,6 +8,7 @@ Free tools to help you research family and local history:
 
 - **[Find a grave](find-a-grave.md)** in Toowong Cemetery
 - **[Find an individual story](find-a-story.md)** in the index of the 550+ stories we've written
+- **[Toowong Cemetery historic maps](historic-maps.md)** from Queensland State Archives
 - **[Download our data](data.md)**
 
 ## Trove
