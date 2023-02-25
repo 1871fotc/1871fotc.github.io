@@ -10,14 +10,14 @@ There are 34 portions in Toowong Cemetery, numbered 1 to 30 and also 2A, 7A, 15A
 ## Brisbane General Cemetery, 1909
 
 <figure markdown>
-![Brisbane General Cemetery - General Plan, 1909](../assets/historic-maps/toowong-cemetery-1909.jpg){ width="70%" } 
+![Brisbane General Cemetery - General Plan, 1909](../assets/historic-maps/toowong-cemetery-1909.jpg){ width="70%" class="full-width" } 
   <figcaption markdown>[Brisbane General Cemetery - General Plan](https://www.archivessearch.qld.gov.au/items/ITM1624111), 8 July 1909 — Queensland State Archives, Item ID ITM1624111. [Download a high resolution version](https://www.archivessearch.qld.gov.au/api/download_file/DR21355)</figcaption>
 </figure>
 
 ## Portion 1, 1909
 
 <figure markdown>
-![Brisbane General Cemetery - Portion 1 map, 1909](../assets/historic-maps/portion-1-1909.jpg){ width="70%" } 
+![Brisbane General Cemetery - Portion 1 map, 1909](../assets/historic-maps/portion-1-1909.jpg){ width="70%" class="full-width" } 
   <figcaption markdown>[Brisbane General Cemetery Plan of Portion 1 - Church of England Burial Ground](https://www.archivessearch.qld.gov.au/items/ITM1432135), 8 July 1909 — Queensland State Archives, Item ID ITM1432135. [Download a high resolution version](https://www.archivessearch.qld.gov.au/api/download_file/DR95983)</figcaption>
 </figure>
 
