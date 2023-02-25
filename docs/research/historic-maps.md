@@ -7,14 +7,14 @@ There are 34 portions in Toowong Cemetery, numbered 1 to 30 and also 2A, 7A, 15A
 - Maps of portions 2, 2a, 10, 20, 21, 22, 28, and 29 have not been digitised by Queensland State Archives.
 - There are no map records for portions 4, 19, 23, 25, 26, 27, or 29a at Queensland State Archives.
 
-## Brisbane General Cemetery map, 1909
+## Brisbane General Cemetery, 1909
 
 <figure markdown>
 ![Brisbane General Cemetery - General Plan, 1909](../assets/historic-maps/toowong-cemetery-1909.jpg){ width="70%" } 
   <figcaption markdown>[Brisbane General Cemetery - General Plan](https://www.archivessearch.qld.gov.au/items/ITM1624111), 8 July 1909 — Queensland State Archives, Item ID ITM1624111. [Download a high resolution version](https://www.archivessearch.qld.gov.au/api/download_file/DR21355)</figcaption>
 </figure>
 
-## Portion 1 map, 1909
+## Portion 1, 1909
 
 <figure markdown>
 ![Brisbane General Cemetery - Portion 1 map, 1909](../assets/historic-maps/portion-1-1909.jpg){ width="70%" } 
@@ -22,7 +22,7 @@ There are 34 portions in Toowong Cemetery, numbered 1 to 30 and also 2A, 7A, 15A
 </figure>
 
 <!-- not digitised 
-## Portion 2 and 2a map, 1909
+## Portion 2 and 2a, 1909
 
 <figure markdown>
 ![Brisbane General Cemetery - Portion 2 map, 1909](../assets/historic-maps/portion-2-1909.jpg){ width="70%" } 
@@ -30,7 +30,7 @@ There are 34 portions in Toowong Cemetery, numbered 1 to 30 and also 2A, 7A, 15A
 </figure>
 -->
  
-## Portion 3 map, 1910
+## Portion 3, 1910
 
 <figure markdown>
 ![Brisbane General Cemetery - Portion 3 map, 1910](../assets/historic-maps/portion-3-1910.jpg){ width="70%" } 
@@ -46,49 +46,49 @@ There are 34 portions in Toowong Cemetery, numbered 1 to 30 and also 2A, 7A, 15A
 </figure>
 -->
 
-## Portion 5 South map, 1909
+## Portion 5 South, 1909
 
 <figure markdown>
 ![Brisbane General Cemetery - Portion 5 - Southern Part, 1909](../assets/historic-maps/portion-5-south-1909.jpg){ width="70%" } 
   <figcaption markdown>[Brisbane General Cemetery - Plan of Portion 5 (Southern Part)](https://www.archivessearch.qld.gov.au/items/ITM1250570), 8 July 1909 — Queensland State Archives, Item ID ITM1250570. [Download a high resolution version](https://www.archivessearch.qld.gov.au/api/download_file/DR95976)</figcaption>
 </figure>
 
-## Portion 5 North map, 1909
+## Portion 5 North, 1909
 
 <figure markdown>
 ![Brisbane General Cemetery - Portion 5 - Northern Part, 1909](../assets/historic-maps/portion-5-north-1909.jpg){ width="70%" } 
   <figcaption markdown>[Brisbane General Cemetery - Plan of Portion 5 (Northern Part)](https://www.archivessearch.qld.gov.au/items/ITM1432137), 8 July 1909 — Queensland State Archives, Item ID ITM1432137. [Download a high resolution version](https://www.archivessearch.qld.gov.au/api/download_file/DR95985)</figcaption>
 </figure>
 
-## Portion 6 map, 1910
+## Portion 6, 1910
 
 <figure markdown>
 ![Brisbane General Cemetery - Portion 6, 1910](../assets/historic-maps/portion-6-1910.jpg){ width="70%" } 
   <figcaption markdown>[Brisbane General Cemetery - Plan of Portion 6](https://www.archivessearch.qld.gov.au/items/ITM1250571), 18 March 1910 — Queensland State Archives, Item ID ITM1250571. [Download a high resolution version](https://www.archivessearch.qld.gov.au/api/download_file/DR95977)</figcaption>
 </figure>
 
-## Portion 7 map, 1909
+## Portion 7, 1909
 
 <figure markdown>
 ![Brisbane General Cemetery - Portion 7, 1909](../assets/historic-maps/portion-7-1909.jpg){ width="70%" } 
   <figcaption markdown>[Brisbane General Cemetery - Plan of Portion 7 - Roman Catholic Burial Ground](https://www.archivessearch.qld.gov.au/items/ITM1432140), 8 July 1909 — Queensland State Archives, Item ID ITM1432140. [Download a high resolution version](https://www.archivessearch.qld.gov.au/api/download_file/DR95988)</figcaption>
 </figure>
 
-## Portion 7a North West map, ca. 1909
+## Portion 7a North West, ca. 1909
 
 <figure markdown>
 ![Brisbane General Cemetery - Portion 7a, ca. 1909](../assets/historic-maps/portion-7a-1909.jpg){ width="70%" } 
   <figcaption markdown>[Brisbane General Cemetery - Portion 7A (North-Western Part)](https://www.archivessearch.qld.gov.au/items/ITM1432141), ca. 1909 — Queensland State Archives, Item ID ITM1432141. [Download a high resolution version](https://www.archivessearch.qld.gov.au/api/download_file/DR95990)</figcaption>
 </figure>
 
-## Portion 8 map, 1911
+## Portion 8, 1911
 
 <figure markdown>
 ![Brisbane General Cemetery - Portion 8, 1911](../assets/historic-maps/portion-8-1911.jpg){ width="70%" } 
   <figcaption markdown>[Brisbane General Cemetery - Plan of Portion 8](https://www.archivessearch.qld.gov.au/items/ITM1432141), 20 February 1911 — Queensland State Archives, Item ID ITM1432141. [Download a high resolution version](https://www.archivessearch.qld.gov.au/api/download_file/DR95991)</figcaption>
 </figure>
 
-## Portion 9 maps, 1909
+## Portion 9, 1909
 
 <figure markdown>
 ![Brisbane General Cemetery - Portion 9, 1909](../assets/historic-maps/portion-9-1909.jpg){ width="70%" } 
@@ -109,14 +109,14 @@ There are 34 portions in Toowong Cemetery, numbered 1 to 30 and also 2A, 7A, 15A
 </figure>
 -->
 
-## Portion 11 map, ca. 1909
+## Portion 11, ca. 1909
 
 <figure markdown>
 ![Brisbane General Cemetery - Portion 11, ca. 1909](../assets/historic-maps/portion-11-1909.jpg){ width="70%" } 
   <figcaption markdown>[Brisbane General Cemetery - Shows area near Governor Blackall's Monument](https://www.archivessearch.qld.gov.au/items/ITM1250575), ca. 1909 — Queensland State Archives, Item ID ITM1250575. [Download a high resolution version](https://www.archivessearch.qld.gov.au/api/download_file/DR95981)</figcaption>
 </figure>
 
-## Portion 12 map, 1909
+## Portion 12, 1909
 
 <figure markdown>
 ![Brisbane General Cemetery - Portion 12, 1909](../assets/historic-maps/portion-12-1909.jpg){ width="70%" } 
@@ -133,42 +133,42 @@ There are 34 portions in Toowong Cemetery, numbered 1 to 30 and also 2A, 7A, 15A
   <figcaption markdown>[Brisbane General Cemetery - Shows area near Governor Blackall's Monument](https://www.archivessearch.qld.gov.au/items/ITM1250576), 28 October 1909 — Queensland State Archives, Item ID ITM1250576. [Download a high resolution version](https://www.archivessearch.qld.gov.au/api/download_file/DR95982)</figcaption>
 </figure>
 
-## Portion 13 map, 1909
+## Portion 13, 1909
 
 <figure markdown>
 ![Brisbane General Cemetery - Portion 13, 1909](../assets/historic-maps/portion-13-1909.jpg){ width="70%" } 
   <figcaption markdown>[Brisbane General Cemetery - Plan of Portion 13](https://www.archivessearch.qld.gov.au/items/ITM1250573), 25 October 1909 — Queensland State Archives, Item ID ITM1250573. [Download a high resolution version](https://www.archivessearch.qld.gov.au/api/download_file/DR95979)</figcaption>
 </figure>
 
-## Portion 14 map, 1909
+## Portion 14, 1909
 
 <figure markdown>
 ![Brisbane General Cemetery - Portion 14, 1909](../assets/historic-maps/portion-14-1909.jpg){ width="70%" } 
   <figcaption markdown>[Brisbane General Cemetery - Plan of Portion 14](https://www.archivessearch.qld.gov.au/items/ITM1432145), 25 October 1909 — Queensland State Archives, Item ID ITM1432145. [Download a high resolution version](https://www.archivessearch.qld.gov.au/api/download_file/DR95995)</figcaption>
 </figure>
 
-## Portion 15 map, 1910
+## Portion 15, 1910
 
 <figure markdown>
 ![Brisbane General Cemetery - Portion 15, 1910](../assets/historic-maps/portion-15-1910.jpg){ width="70%" } 
   <figcaption markdown>[Brisbane General Cemetery - Plan of Portion 15 - Roman Catholic Burial Ground](https://www.archivessearch.qld.gov.au/items/ITM1432146), 5 December 1910 — Queensland State Archives, Item ID ITM1432146. [Download a high resolution version](https://www.archivessearch.qld.gov.au/api/download_file/DR95997)</figcaption>
 </figure>
 
-## Portion 15a map, ca. 1909
+## Portion 15a, ca. 1909
 
 <figure markdown>
 ![Brisbane General Cemetery - Portion 15a, ca. 1909](../assets/historic-maps/portion-15a-1909.jpg){ width="70%" } 
   <figcaption markdown>[Brisbane General Cemetery - Plan of Portion 15a](https://www.archivessearch.qld.gov.au/items/ITM1432147), ca. 1909 — Queensland State Archives, Item ID ITM1432147. [Download a high resolution version](https://www.archivessearch.qld.gov.au/api/download_file/DR95998)</figcaption>
 </figure>
 
-## Portions 16 and 17 map, 1912
+## Portions 16 and 17, 1912
 
 <figure markdown>
 ![Brisbane General Cemetery - Portions 16 and 17, 1912](../assets/historic-maps/portion-16-17-1912.jpg){ width="70%" } 
   <figcaption markdown>[Brisbane General Cemetery - Plan of Portions 16 & 17](https://www.archivessearch.qld.gov.au/items/ITM1432148), 27 May 1912 — Queensland State Archives, Item ID ITM1432148. [Download a high resolution version](https://www.archivessearch.qld.gov.au/api/download_file/DR95999)</figcaption>
 </figure>
 
-## Portion 18 map, ca. 1909
+## Portion 18, ca. 1909
 
 <figure markdown>
 ![Brisbane General Cemetery - Portion 18, ca. 1909](../assets/historic-maps/portion-18-1909.jpg){ width="70%" } 
@@ -213,7 +213,7 @@ There are 34 portions in Toowong Cemetery, numbered 1 to 30 and also 2A, 7A, 15A
 
 <!-- Portion 23 not archived --> 
 
-## Portion 24 map, ca. 1909
+## Portion 24, ca. 1909
 
 <figure markdown>
 ![Brisbane General Cemetery - Portion 24, ca. 1909](../assets/historic-maps/portion-24-1909.jpg){ width="70%" } 
@@ -242,7 +242,7 @@ There are 34 portions in Toowong Cemetery, numbered 1 to 30 and also 2A, 7A, 15A
 
 <!-- Portion 29a not archived --> 
 
-## Portion 30 map, 1938
+## Portion 30, 1938
 
 <figure markdown>
 ![Brisbane General Cemetery - Portion 30, 1938](../assets/historic-maps/portion-30-1938.jpg){ width="70%" } 
