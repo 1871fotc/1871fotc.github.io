@@ -4,8 +4,8 @@ On this page you'll find historic maps of Toowong Cemetery that may help your re
 
 There are 34 portions in Toowong Cemetery, numbered 1 to 30 and also 2A, 7A, 15A, 29A. Not all portions have a historic map:
 
-- Portions 2, 2a, 10, 20, 21, 22, 28, and 29 have not been digitised by Queensland State Archives.
-- There are no records of portions 4, 19, 23, 25, 26, 27, or 29a at Queensland State Archives.
+- Maps of portions 2, 2a, 10, 20, 21, 22, 28, and 29 have not been digitised by Queensland State Archives.
+- There are no map records for portions 4, 19, 23, 25, 26, 27, or 29a at Queensland State Archives.
 
 ## Brisbane General Cemetery map, 1909
 
