@@ -113,7 +113,6 @@ The Paddington Memorial commemorates people originally buried in the North Brisb
 
 >***Lang Park evolved into an iconic inner-city sports ground, with a major redevelopment of the stadium from 2001 to 2003. This resulted in the necessary excavation of sections of the former burial grounds that would be disturbed by construction. A methodical archaeological investigation was undertaken, and the fragmentary remains of 394 unidentified individuals were exhumed from the Episopalian (Anglican), Roman Catholic, and Presbyterian cemeteries. The remains were interred in this memorial in July 2003.***
 
-
 ## 1921 New Neighbours
 
 Allotments on [Heussler Terrace][Heussler Terrace] (renamed Birdwood Terrace) on the North boundary of the cemetery were sold by auction in 1921. "*Convenient to the Toowong Tram Line*" was a selling point. The Toowong Tram stopped near the main cemetery gates.
