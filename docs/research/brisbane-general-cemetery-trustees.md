@@ -37,6 +37,10 @@ Bottom insets: J. A. Hayes, E. W. H. Fowles </small>*
 
 ![Brisbane General Cemetery Board of Trustees, 1924](../assets/toowong-cemetery-trustees-1924.jpg){ width="70%" }
 
+<!--
+J. G. Cribb https://trove.nla.gov.au/newspaper/article/181815751 
+-->
+
 ## Secretaries: 
 
 - Arthur Rawlin 1 October 1870 to 1 July 1875
