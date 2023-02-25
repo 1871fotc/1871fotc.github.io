@@ -15,7 +15,12 @@
 /source-documents
 /source-images
 /portion-book
+/docs/assets/historic-maps/hi-res
 
 # Draft pages
 
 /drafts
+
+# Templates
+
+/snippets/sem/templates
