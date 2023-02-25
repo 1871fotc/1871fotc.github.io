@@ -156,7 +156,7 @@ plugins:
 #      optimize_png: false
 #      optimize_jpg: false
 #      optimize_jpg_quality: 75
-#  - social
+  - social
   - glightbox:
       touchNavigation: true
       loop: false
@@ -280,7 +280,7 @@ nav:
     - Find a Grave: research/find-a-grave.md  
     - Find a Story: research/find-a-story.md
 #    - Paddington Cemetery: research/paddington-cemetery.md
-#    - Historic Maps: research/historic-maps.md
+    - Historic Maps: research/historic-maps.md
     - Data: research/data.md
   - About Us: 
     - About Us: about/index.md
