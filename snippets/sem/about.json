@@ -35,7 +35,7 @@
         {"@type": "Place","name": "Paddington Cemetery","sameAs": "https://en.wikipedia.org/wiki/North_Brisbane_Burial_Ground"}, 
         {"@type": "Organization","name": "ACNC","sameAs": "https://en.wikipedia.org/wiki/Australian_Charities_and_Not-for-profits_Commission"}
       ],
-      "dateModified": "2022-09-18",
+      "dateModified": "2023-03-04",
       "datePublished": "2022-08-29",
       "description": "Learn what Friends of Toowong Cemetery do, what we've done, what we're working on, and how you can join in",
       "author": {"@id": "https://www.fotc.au/#/schema/organization/1"},
