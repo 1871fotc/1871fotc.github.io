@@ -5,9 +5,15 @@ hide:
 
 # Toowong Cemetery Street Signs
 
-Some cemetery road names have recently been changed to the names of notable people buried nearby. Not all maps and signs in the cemetery have been updated to reflect these changes.
+Some Toowong Cemetery street signs need replacement or repair:
 
-The table below is our recommendation for Street Sign improvements in Toowong Cemetery.
+- some signs have not been updated to reflect street name changes.
+- some signs are unreadable due to weathering.
+- some signs have been bent by vandals. Often these signs are on low posts.
+  
+New signs could be added to make wayfinding in the cemetery easier.
+
+The table below is our prioritised recommendations for Street Sign improvements in Toowong Cemetery.
 
 | Intersection                    | Current Sign            | Recommendation                         | Priority | 
 | :--                             | :--                     | :--                                    | :--      |
@@ -70,9 +76,9 @@ The table below is our recommendation for Street Sign improvements in Toowong Ce
 
 Priorities: 
 
-1. Sign is wrong 
-2. Sign is unreadable or damaged
-3. Sign is readable but damaged
-4. New sign to help significantly with way finding
-5. New sign to help with way finding
-6. Sign is readable but in old format
+1. Sign has the wrong street name. 
+2. Sign is unreadable and/or damaged. 
+3. Sign is readable but damaged.
+4. New sign to help significantly with way finding.
+5. New sign to help with way finding.
+6. Sign is readable but in old format.
