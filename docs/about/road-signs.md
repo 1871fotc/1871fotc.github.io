@@ -72,8 +72,6 @@ The table below is our prioritised recommendations for road sign improvements in
 | Federation & Walter Brown       | Federation Avenue       |                                        | n/a |
 | Entrance & Soldiers Parade      | Soldiers Parade         |                                        | n/a |
 
-
-
 Priorities: 
 
 1. Sign has the wrong road name. 
@@ -82,3 +80,13 @@ Priorities:
 4. New sign to help significantly with way finding.
 5. New sign to help with way finding.
 6. Sign is readable but in old format.
+
+## Renaming Roads 
+
+As there is only one 10^th^ Avenue sign and it is unreadable, there is an opportunity to rename the road after someone notable buried nearby. Candidates include: 
+
+- Woulfe Avenue -  [Susan Woulfe](../research/sarah-woulfe.md) - founder of Woulfe and Son, tailors. Closest to the road. <!-- https://trove.nla.gov.au/newspaper/article/21766493 https://trove.nla.gov.au/newspaper/article/178970640  https://trove.nla.gov.au/newspaper/article/183346808  -->
+- Sheehy Avenue -  [Kathleen Sheehy](../research/kathleen-eileen-sheehy.md) -  first Head Teacher of the Dutton Park Opportunity School.
+- Galloway Avenue - [William Galloway](../research/william-macnaughton-galloway.md) - Brisbane Mayor 1889 and founder of the Breakfast Creek Hotel.
+
+We should avoid road names that already exist in Toowong or nearby suburbs.
