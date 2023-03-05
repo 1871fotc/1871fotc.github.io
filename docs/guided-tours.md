@@ -1,5 +1,5 @@
 ---
-description: Friends of Toowong Cemetery run 10 different guided tours each year
+description: Friends of Toowong Cemetery run 11 different guided tours each year
 search:
   boost: 2
 ---
@@ -28,7 +28,7 @@ There's no need to book, just meet under the flagpole in Canon Garland Place at 
 
 ## Upcoming Guided Tours
 
-Our next tour is on **Sunday 5 March 2023** and is is all about "**Chemists**".
+Our next tour is on **Sunday 2 April 2023**.
 
 The tour is limited to 20 people. 
 
