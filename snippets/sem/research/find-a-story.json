@@ -43,7 +43,7 @@
          "contactPoint":{
             "@type":"ContactPoint",
             "contactType": "customer service",
-            "email": "mailto:inquiries@fotc.org.au"
+            "email": "mailto:inquiries@fotc.au"
          } 
       },
       "distribution":[{

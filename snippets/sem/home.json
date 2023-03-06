@@ -22,7 +22,7 @@
     "knowsAbout": {
         "@id": "https://www.fotc.au/#/schema/place/1"
       },
-    "email": "mailto:inquiries@fotc.org.au",
+    "email": "mailto:inquiries@fotc.au",
     "telephone": "0439998053",
     "address": {
       "@type": "PostalAddress",
