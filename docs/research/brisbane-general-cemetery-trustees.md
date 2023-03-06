@@ -22,6 +22,8 @@ The Brisbane General Cemetery Trust [ended on 1 August 1930](https://trove.nla.g
 
 --8<-- "snippets/trustees.html"
 
+
+
 ### Board of Trustees ca. 1920-1922
 
 ![Brisbane General Cemetery Board of Trustees, ca. 1920 - 1922](../assets/toowong-cemetery-trustees.jpg){ width="70%" } 
@@ -41,13 +43,25 @@ Bottom insets: J. A. Hayes, E. W. H. Fowles </small>*
 J. G. Cribb https://trove.nla.gov.au/newspaper/article/181815751 
 -->
 
-## Secretaries: 
+### Download the Trustee data
+
+The [Brisbane General Cemetery Trustees](brisbane-general-cemetery-trustees.md) by [Friends of Toowong Cemetery Association Inc.](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You must provide attribution if you reuse this work.
+
+Download the Brisbane General Cemetery Trustees as a Comma Separated Value file (.csv)
+
+[Download the data][data]{ .md-button .md-button--primary download}
+
+[data]: ../../assets/data/brisbane-general-cemetery-trustees.csv
+
+## Secretaries
 
 - Arthur Rawlin 1 October 1870 to 1 July 1875
 - [Henry J. Oxley](https://trove.nla.gov.au/newspaper/article/20100152) 1 July 1875 to 30 July 1916 (41 years)
 - [E. Griffith Oxley](https://trove.nla.gov.au/newspaper/article/219019639?searchTerm=%22Brisbane%20general%20cemetery%22%20trustee), acting secretary from 11 March 1907 and [appointed 19 September 1910](https://trove.nla.gov.au/newspaper/article/178416098) until the dissolution of the Trust.
 
-## Overseers: 
+## Overseers
+
 - John Melville, [1 January 1874](https://trove.nla.gov.au/newspaper/article/182983867) to 8 March 1912 
 - T. H. Brown 22 April 1912 to 25 May 1916
 - J. L. Melville 20 June 1916 to 1 August 1930, successor to his father
+
