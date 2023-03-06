@@ -78,7 +78,7 @@ Where additional information has been discovered, it has been added to the table
 
 The [Paddington Cemetery Reserved Area Headstones](lost-paddington-headstones.md) by [Friends of Toowong Cemetery Association Inc.](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You must provide attribution if you reuse this work.
 
-Download the Paddington Cemetery Reserved Area Headstones as a Comma Separated Value file</a> (.csv)
+Download the Paddington Cemetery Reserved Area Headstones as a Comma Separated Value file (.csv)
 
 <!--
 Download the Paddington Cemetery Reserved Area Headstones as a <a href="../../assets/data/lost-paddington-cemetery-headstones.csv" download>Comma Separated Value file</a> (.csv)
