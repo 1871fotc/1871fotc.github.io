@@ -6,9 +6,7 @@ hide:
   - navigation
 ---
 
-<!--
---8<-- "snippets/sem/stories/founding-fathers.json"
--->
+--8<-- "snippets/sem/stories/brisbane-general-cemetery-trustees.json"
 
 # Brisbane General Cemetery Trustees
 
