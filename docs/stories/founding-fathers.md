@@ -104,3 +104,7 @@ His wife Amelia Boughay, a fellow *Fortitude* passenger whom he had married in 1
 ## Acknowledgements
 
 Originally written by [Dr. Hilda Maclean](https://www.linkedin.com/in/dr-hilda-maclean-4819a711/). "William Perry" and "Michael Quinlan" stories added later.
+
+## Learn more
+
+Discover [all 34 Trustees of the Brisbane General Cemetery Trust](../research/brisbane-general-cemetery-trustees.md).
