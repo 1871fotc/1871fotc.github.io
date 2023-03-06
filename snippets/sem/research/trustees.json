@@ -1,0 +1,59 @@
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org/",
+  "@graph":[
+    {
+      "@type": "Organization",
+      "@id": "https://www.fotc.au/#/schema/organization/1",
+      "name": "Friends of Toowong Cemetery Association Inc.",
+      "url": "https://www.fotc.au/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.fotc.au/#/schema/website/1",
+      "name": "Friends of Toowong Cemetery",
+      "url": "https://www.fotc.au/",
+      "publisher": {
+          "@id": "https://www.fotc.au/#/schema/organization/1"
+      }
+    },  
+    {
+      "@type": "WebPage",
+      "@id": "https://www.fotc.au/research/brisbane-general-cemetery-trustees/",
+      "url": "https://www.fotc.au/research/brisbane-general-cemetery-trustees/",
+      "name": "Brisbane General Cemetery Trustees",
+      "isPartOf": {
+          "@id": "https://www.fotc.au/#/schema/website/1"
+      }
+    },
+    {  
+      "@type":"Dataset",
+      "name":"Brisbane General Cemetery Trustees",
+      "description":"People who served as Trustees for the Brisbane General Cemetery Trust",
+      "url":"https://www.fotc.au/research/brisbane-general-cemetery-trustees/", 
+      "alternateName": "Brisbane General Cemetery Trustees",
+      "license" : "https://creativecommons.org/licenses/by/4.0/",
+      "isAccessibleForFree" : true,
+      "creator":{
+         "@type":"Organization",
+         "url": "https://www.fotc.au/",
+         "name": "Friends of Toowong Cemetery Association Inc.",
+         "logo": "https://www.fotc.au/assets/fotc.png",
+         "contactPoint":{
+            "@type":"ContactPoint",
+            "contactType": "customer service",
+            "email": "mailto:inquiries@fotc.au"
+         } 
+      },
+      "distribution":[{
+            "@type":"DataDownload",
+            "encodingFormat":"CSV",
+            "contentUrl":"https://www.fotc.au/assets/data/brisbane-general-cemetery-trustees.csv"
+         }
+      ],
+      "temporalCoverage" : "1870-1930",
+      "spatialCoverage": "Toowong Cemetery, Brisbane, Queensland, Australia"
+    }
+  ]
+}  
+</script>
