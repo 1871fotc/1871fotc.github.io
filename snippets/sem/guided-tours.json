@@ -86,8 +86,8 @@
         "image": ["https://www.fotc.au/assets/flag-pole.jpg"],
         "name": "Toowong Cemetery"
       },
-      "startDate": "2023-04-02T00:30:00.000Z",
-      "endDate": "2023-04-02T02:00:00.000Z",
+      "startDate": "2023-05-07T00:30:00.000Z",
+      "endDate": "2023-05-07T02:00:00.000Z",
       "description": "Free Guided Tour of Toowong Cemetery visiting graves and telling stories of the past.",
       "eventStatus": "https://schema.org/EventScheduled",
       "isAccessibleForFree": true,
