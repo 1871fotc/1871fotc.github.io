@@ -11,4 +11,8 @@ hide:
 
 --8<-- "snippets/lillian-leitch.md"
 
+### Headstone
+
+![Lillian Leitch's headstone](../assets/lillian-leitch-headstone.jpg){ width="70%" } 
+
 --8<-- "snippets/add-to-this-story.md"
