@@ -103,7 +103,7 @@
         {"@type": "Thing","name": "Headstone","sameAs": "https://en.wikipedia.org/wiki/Headstone"}, 
         {"@type": "Organization","name": "Brisbane City Council","sameAs": "https://en.wikipedia.org/wiki/City_of_Brisbane"}
       ],
-      "dateModified": "2023-03-04",
+      "dateModified": "2023-03-11",
       "datePublished": "2022-08-29",
       "author": {
           "@id": "https://www.fotc.au/#/schema/organization/1"

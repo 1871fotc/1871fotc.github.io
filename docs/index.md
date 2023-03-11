@@ -127,9 +127,9 @@ There are 34 Portions in Toowong Cemetery, numbered 1 to 30 and also 2A, 7A, 15A
 
 !!! warning "Cemetery Road Warnings"
 
-    - **Walter Hill Drive is one way** uphill from Emma Miller Avenue to Dr. Lilian Cooper Drive. 
-    - **William Brown Avenue is one way** downhill from Dr. Lilian Cooper Drive to Emma Miller Avenue.
-    - **5^th^ Avenue is very steep** from Steele Rudd Avenue up to Francis Forde Avenue near the corner of Frederick St and Birdwood Tce. 5^th^ Avenue is not shown on Google Maps.
+    - **Walter Hill Drive is one way uphill** from Emma Miller Avenue to Dr. Lilian Cooper Drive. 
+    - **William Brown Avenue is one way downhill** from Dr. Lilian Cooper Drive to Emma Miller Avenue.
+    - **5^th^ Avenue is very steep** from Steele Rudd Avenue up to Francis Forde Avenue near the corner of Frederick St and Birdwood Tce. 
 
 ### Road Name Changes
 
@@ -140,11 +140,11 @@ Some cemetery road names have recently been changed to the names of notable peop
 | **[Walter Hill][Walter Hill]** Drive       | Boundary Road | running parallel to Mt Coot‑tha Road                                 |
 | **[Dr Lilian Cooper][Cooper]** Drive       | Boundary Road | running parallel to Richer Street                                    |
 | Pride of Erin Drive                        | Boundary Road | running parallel to Birdwood Terrace                                 |
-| Francis Forde Avenue              | Boundary Road | running parallel to Birdwood Terrace <br>closest to Frederick Street |
+| Francis Forde Avenue                       | Boundary Road | running parallel to Birdwood Terrace <br>closest to Frederick Street |
 | **[Peter Jackson][Jackson]** Parade        | Boundary Road | running parallel to Frederick Street <br>furthest from the main entrance |
 | Soldiers Parade                            | Boundary Road | running parallel to Frederick Street <br>closest to the main entrance    |
-| **[Steele Rudd][Rudd]** Avenue      | 4^th^ Avenue  |                                                                      |
-| Walter Ralston Avenue         | 7^th^ Avenue  |                                                                      |
+| **[Steele Rudd][Rudd]** Avenue             | 4^th^ Avenue  |                                                                      |
+| Walter Ralston Avenue                      | 7^th^ Avenue  |                                                                      |
 | **[Emma Miller][Miller]** Avenue           | 8^th^ Avenue  | behind Canon Garland Place                                           |
 | **[Charles Heaphy][Heaphy]** Drive         | 8^th^ Avenue  | from the Shelter Shed to Emma Miller Avenue                          |
 | **[Pat Hill][Pat Hill]** Drive             | 8^th^ Avenue  | from the Richer Street end to the Shelter Shed                       |
