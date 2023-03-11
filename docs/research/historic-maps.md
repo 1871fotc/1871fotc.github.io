@@ -104,7 +104,7 @@ There are 34 portions in Toowong Cemetery, numbered 1 to 30 and also 2A, 7A, 15A
 
 <figure markdown>
 ![Brisbane General Cemetery - Portion 10, ca. 1909](../assets/historic-maps/portion-10-1909.jpg){ width="70%" } 
-  <figcaption markdown>[Brisbane General Cemetery - Portion 10](https://www.archivessearch.qld.gov.au/items/ITM1624112), ca. 1909 — Queensland State Archives, Item ID ITM1624112 [Download a high resolution version](../assets/historic-maps/portion-10-1909-hi-res.jpeg) </figcaption> <!-- change this link to QSA when they publish the digital representation -->
+  <figcaption markdown>[Brisbane General Cemetery - Portion 10](https://www.archivessearch.qld.gov.au/items/ITM1624112), ca. 1909 — Queensland State Archives, Item ID ITM1624112. [Download a high resolution version](../assets/historic-maps/portion-10-1909-hi-res.jpg) </figcaption> <!-- change this link to QSA when they publish the digital representation -->
 </figure>
 
 ## Portion 11, ca. 1909
