@@ -21,14 +21,13 @@ There are 34 portions in Toowong Cemetery, numbered 1 to 30 and also 2A, 7A, 15A
   <figcaption markdown>[Brisbane General Cemetery Plan of Portion 1 - Church of England Burial Ground](https://www.archivessearch.qld.gov.au/items/ITM1432135), 8 July 1909 — Queensland State Archives, Item ID ITM1432135. [Download a high resolution version](https://www.archivessearch.qld.gov.au/api/download_file/DR95983)</figcaption>
 </figure>
 
-<!-- not digitised 
 ## Portion 2 and 2a, 1909
 
 <figure markdown>
 ![Brisbane General Cemetery - Portion 2 map, 1909](../assets/historic-maps/portion-2-1909.jpg){ width="70%" } 
-  <figcaption markdown>[Brisbane General Cemetery - Portion 2 and 2A plan.](https://www.archivessearch.qld.gov.au/items/ITM1624114), 26 November 1909 — Queensland State Archives, Item ID ITM1624114. [Download a high resolution version](../assets/historic-maps/portion-2-1909-hi-res.jpeg)</figcaption>
+  <figcaption markdown>[Brisbane General Cemetery - Portion 2 and 2A plan.](https://www.archivessearch.qld.gov.au/items/ITM1624114), 26 November 1909 — Queensland State Archives, Item ID ITM1624114. [Download a high resolution version](https://www.archivessearch.qld.gov.au/api/download_file/DR140858)</figcaption>
 </figure>
--->
+
  
 ## Portion 3, 1910
 
@@ -100,14 +99,13 @@ There are 34 portions in Toowong Cemetery, numbered 1 to 30 and also 2A, 7A, 15A
   <figcaption markdown>[Brisbane General Cemetery - Plan of Portion 9 (Annotated)](https://www.archivessearch.qld.gov.au/items/ITM1432143), 28 October 1909 — Queensland State Archives, Item ID ITM1432143. [Download a high resolution version](https://www.archivessearch.qld.gov.au/api/download_file/DR95992)</figcaption>
 </figure>
 
-<!-- not digitised 
+
 ## Portion 10 map, ca. 1909
 
 <figure markdown>
 ![Brisbane General Cemetery - Portion 10, ca. 1909](../assets/historic-maps/portion-10-1909.jpg){ width="70%" } 
-  <figcaption markdown>[Brisbane General Cemetery - Portion 10](https://www.archivessearch.qld.gov.au/items/ITM1624112), ca. 1909 — Queensland State Archives, Item Representation ID ####. [Download a high resolution version](../assets/historic-maps/portion-10-1909-hi-res.jpeg)</figcaption>
+  <figcaption markdown>[Brisbane General Cemetery - Portion 10](https://www.archivessearch.qld.gov.au/items/ITM1624112), ca. 1909 — Queensland State Archives, Item ID ITM1624112 [Download a high resolution version](../assets/historic-maps/portion-10-1909-hi-res.jpeg) </figcaption> <!-- change this link to QSA when they publish the digital representation -->
 </figure>
--->
 
 ## Portion 11, ca. 1909
 
