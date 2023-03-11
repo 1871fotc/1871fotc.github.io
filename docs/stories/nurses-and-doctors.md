@@ -90,6 +90,8 @@ Dr Cooper commenced private practise in Brisbane in 1891 at The Mansions, in Geo
 
 --8<-- "snippets/lillian-leitch.md"
 
+![Lillian Leitch's headstone](../assets/lillian-leitch-headstone.jpg){ width="70%" } 
+
 --8<-- "snippets/isabella-jane-mason.md"
 
 --8<-- "snippets/lilian-gertrude-ramsay.md"
