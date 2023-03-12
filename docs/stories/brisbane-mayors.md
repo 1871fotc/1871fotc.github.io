@@ -270,6 +270,15 @@ https://en.wikipedia.org/wiki/William_Jolly
 
 --8<-- "snippets/brisbane-mayors.html"
 
+### Download the data
+
+[Brisbane Mayors buried in Toowong Cemetery](brisbane-mayors.md) by [Friends of Toowong Cemetery Association Inc.](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You must provide attribution if you reuse this work.
+
+Download the Brisbane Mayors buried in Toowong Cemetery data as a Comma Separated Value file (.csv)
+
+[Download the data][data]{ .md-button .md-button--primary download}
+
+[data]: ../../assets/data/brisbane-mayors-buried-in-toowong-cemetery.csv
 
 ## Acknowledgements
 
