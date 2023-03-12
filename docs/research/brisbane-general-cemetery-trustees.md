@@ -43,7 +43,7 @@ J. G. Cribb https://trove.nla.gov.au/newspaper/article/181815751
 
 ### Download the Trustee data
 
-The [Brisbane General Cemetery Trustees](brisbane-general-cemetery-trustees.md) by [Friends of Toowong Cemetery Association Inc.](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You must provide attribution if you reuse this work.
+[Brisbane General Cemetery Trustees](brisbane-general-cemetery-trustees.md) by [Friends of Toowong Cemetery Association Inc.](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You must provide attribution if you reuse this work.
 
 Download the Brisbane General Cemetery Trustees as a Comma Separated Value file (.csv)
 
