@@ -1,6 +1,6 @@
 ## Captain John Burke <small>(7‑19‑1)</small>
 
-[John](https://adb.anu.edu.au/biography/burke-john-5429) was born at Kinsale, Cork the son of fisherman Denis Burke and his wife Ellen. He was a seaman on ships to the USA until the outbreak of the Civil War when he returned to Ireland and signed on with the crew of the *Erin Go Bragh* which arrived in Brisbane in August 1862. He deserted and worked as a pilot for the Australian Steam Navigation Company sailing the *Queensland* and the *Telegraph*. He married Alicia Swords from the *Erin Go Bragh*, and settled on the Logan River. 
+[John](https://adb.anu.edu.au/biography/burke-john-5429) was born at Kinsale, Cork the son of fisherman Denis Burke and his wife Ellen. He was a seaman on ships to the USA until the outbreak of the Civil War when he returned to Ireland and signed on with the crew of the *Erin Go Bragh* which arrived in Brisbane in August 1862. He deserted and worked as a pilot for the Australian Steam Navigation Company sailing the *Queensland* and the *Telegraph*. He married Elicia Swords from the *Erin Go Bragh*, and settled on the Logan River. 
 
 He held a Masters Licence and worked on bay and river ships commanding the *Fanny* on the Albert and Logan rivers. He established the John Burke Shipping Line in 1887 and bought the *Louisa* and traded from Ipswich to Logan and later on Moreton Bay. 
 
