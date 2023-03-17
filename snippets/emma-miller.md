@@ -1,6 +1,5 @@
 
 ## Emma Miller <small>(13‑6‑5/6)</small>
-<!--   include using   --8<-- "snippets/emma-miller.md"   -->
 
 [Miller](https://adb.anu.edu.au/biography/miller-emma-7583) was born Emma Holmes in Chesterfield, Derbyshire, in June 1839. 
 
