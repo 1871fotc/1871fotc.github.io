@@ -1,6 +1,6 @@
 ## Robert Cribb <small>(9‑37‑6)</small>
 
-Robert came to the Colony of Queensland aboard the *Fortitude* in January 1849. He bought land in 1852 and built Lang Farm which stretched from the hilly part of Indooroopilly Road towards Jack Cook Park and down to the River. He cleared the pine trees and vines growing along Toowong Creek, growing oranges, cabbages, grapes, mulberries and olives. Land Farm was bought by Richard Gailey, who built his mansion *Glen Olive* on the riverbank. Robert was appointed to the first Toowong Shire Council in 1880. He died on 16 April 1893 aged 88.
+Robert came to the Colony of Queensland aboard the *Fortitude* in January 1849. He bought land in 1852 and built Lang Farm which stretched from the hilly part of Indooroopilly Road towards Jack Cook Park and down to the River. He cleared the pine trees and vines growing along Toowong Creek, growing oranges, cabbages, grapes, mulberries and olives. Lang Farm was bought by Richard Gailey, who built his mansion *Glen Olive* on the riverbank. Robert was appointed to the first Toowong Shire Council in 1880. He died on 16 April 1893 aged 88.
 
 ![Robert Cribb](../assets/robert-cribb.jpg){ width="25.4%" }  ![Houses submerged in the 1893 flood waters at Toowong, Brisbane, Queensland](../assets/glen-olive-1893-flood.jpg){ width="68%" }
 
