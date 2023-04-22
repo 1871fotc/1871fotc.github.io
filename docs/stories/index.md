@@ -19,10 +19,9 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
 <div class="grid cards" markdown>  
 
-
+<!--
 -   :material-face-woman-outline:{ .lg .middle } **[Notable Women][notable-women]**
 
-  
     ---
 
     Women who shaped Queensland
@@ -33,6 +32,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
     Stories about the Irish remembered in Toowong Cemetery.
 
+-->
 <!--    
 
 -   :fontawesome-solid-monument:{ .lg .middle } **[Monumental Masons][monumental-masons]**
@@ -86,14 +86,19 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     Women who shaped Queensland
 -->
 
-<!-- April Anzac Day, Easter Lutheran? 
+<!-- April Anzac Day, Easter Lutheran? -->
 
 -   :fontawesome-solid-person-military-rifle:{ .lg .middle } **[Lest We Forget][lest-we-forget]** 
   
     ---
 
     Remembering the men and women who gave their lives in service to their country
--->
+
+-   :fontawesome-solid-anchor:{ .lg .middle } **[Lest We Forget: Naval][lest-we-forget-navy]**
+  
+    ---
+
+    Remembering members of the Royal Australian Navy who gave their lives in service to this country.
 
 <!-- May Labour Day 
 
