@@ -100,7 +100,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
     Remembering members of the Royal Australian Navy who gave their lives in service to this country.
 
-<!-- May Labour Day 
+<!-- May Labour Day -->
 
 -   :material-sheep:{ .lg .middle } **[The Great Shearers' Strike of 1891](shearers-strike.md)**
   
@@ -114,7 +114,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     ---
 
     Recognising people involved in the Labor movement. 
--->
+<!-- -->
 
 <!-- July RAN founded 
 
