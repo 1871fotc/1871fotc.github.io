@@ -28,13 +28,12 @@ There's no need to book, just meet under the flagpole in Canon Garland Place at 
 
 ## Upcoming Guided Tours
 
-Our next tour is on **Sunday 7 May 2023**. The tour is limited to 20 people. 
+Our next tour is on **Sunday 7 May 2023** and is titled "**It’s a long way to Tipperary**". The tour is limited to 20 people. 
 
 !!! Warning "What to bring"
 
     Wear enclosed shoes and a hat, and bring a water bottle.
 
-Our April Guided Tour has been cancelled due to [Tour de Brisbane](https://tourdebrisbane.org/roads/) road closures making the cemetery inaccessible between 6am - 1pm.
 
 <!-- 
 Add it to your calendar.
