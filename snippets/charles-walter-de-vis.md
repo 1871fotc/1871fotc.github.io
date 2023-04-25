@@ -5,7 +5,6 @@ Born in Birmingham England on 9 May 1829, [Charles de Vis](https://adb.anu.edu.a
 <!--
 ![Exhibition Hall, Brisbane, ca. 1897](../assets/exhibition-hall-1897.jpg){ width="70.6%" } ![Charles Walter de Vis (1829–1915)](../assets/charles-walter-de-vis.jpg){ width="26.5%" } 
 
-
 *<small>[Exhibition Hall, Brisbane, ca. 1897](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21219199540002061). Originally built as an Exhibition Hall and Concert Hall, the building is located on the site of an earlier building which burned down in 1888. In the late 1890s the Exhibition Hall was converted to accommodate the Queensland Museum which transferred to the building in 1899. State Library of Queensland. Cropped.</small>*<br>
 *<small>[Charles Walter de Vis (1829–1915)](https://en.wikipedia.org/wiki/File:Charles_Walter_de_Vis_(1829–1915).jpg) from Memoirs of the Queensland Museum, Vol. 5, 10 July 1916.</small>*
 -->
