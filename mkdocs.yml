@@ -43,7 +43,7 @@ theme:
   custom_dir: overrides
   features:
 # instant and announce seem to conflict with was this page helpful. Pick one. Works on Material for Mkdocs - look there. 
-    - announce.dismiss
+#    - announce.dismiss
     - navigation.instant
     - navigation.tracking
     - navigation.top
