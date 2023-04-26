@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 1
+  boost: 2
 title: Archaeological Digs
 description: Get your hands dirty and uncover stories from Brisbane's past 
 ---
@@ -15,13 +15,9 @@ Friends of Toowong Cemetery, in conjunction with [The University of Queensland S
   <iframe src="https://www.youtube.com/embed/hgCx4OW69cY" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div> 
 
-<!--
 ## Toowong Cemetery Archaeological Dig 2023 
 
-Our next Archaeological Dig is open to the public on **Saturday 20 May 2023 from 9am to 2pm**. Enter Toowong Cemetery at the Richer Street entrance and follow the signs to the dig. Wear enclosed shoes, sunscreen and a hat, and bring something to drink.
-
-Our dig is offered to schools on Thursday 18 - Friday 19 May 2023.
--->
+Our next Archaeological Dig is open to the public on **Saturday 20 May 2023** from **9am to 2pm**. Enter Toowong Cemetery at the Richer Street entrance and follow the signs to the dig. Wear enclosed shoes, sunscreen and a hat, and bring something to drink.
 
 ## Where did the buried headstones come from?
 
