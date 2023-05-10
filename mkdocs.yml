@@ -156,7 +156,7 @@ plugins:
 #      optimize_png: false
 #      optimize_jpg: false
 #      optimize_jpg_quality: 75
-  - social
+#  - social
   - glightbox:
       touchNavigation: true
       loop: false
