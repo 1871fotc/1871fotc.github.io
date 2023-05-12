@@ -26,15 +26,15 @@ Use the <a href="../../assets/toowong-cemetery-map-large.jpg" target="_blank" ti
 
 The signs are 25cm high by 35cm wide and are printed on 2mm Stainless Steel.
 
-- The [Friends of Toowong Cemetery logo](../../assets/fotc-gates.jpg) is in the bottom left corner.
+- The [Friends of Toowong Cemetery logo](../assets/fotc-gates.jpg) is in the bottom left corner.
 - The grave location is in the bottom right corner. 
 - An image, if available, is on the right of the text and masked in an oval.
 - The right edge of the text should follow the curve of the oval image.
 - The rounded rectangle border is inset ~10mm from the edge of the sign.
 
-![Example Information Sign with image](../../assets/anthony-musgrave-information-sign.jpg){ width="70%" }
+![Example Information Sign with image](../assets/anthony-musgrave-information-sign.jpg){ width="70%" }
 
-![Example Information Sign](../../assets/joseph-darragh-information-sign.jpg){ width="70%" }
+![Example Information Sign](../assets/joseph-darragh-information-sign.jpg){ width="70%" }
 
 <!--
 Manufactured by [Armsign](https://www.armsign.com.au)
@@ -48,7 +48,7 @@ Download the Toowong Cemetery Graveside Information Signs as a Comma Separated V
 
 [Download the data][data]{ .md-button .md-button--primary download}
 
-[data]: ../../assets/data/information-signs.csv
+[data]: ../assets/data/information-signs.csv
 
 
 !!! warning "Excel interprets some grave locations as dates"
