@@ -157,6 +157,7 @@ plugins:
 #      optimize_jpg: false
 #      optimize_jpg_quality: 75
   - social
+    cards_layout: default/variant
   - glightbox:
       touchNavigation: true
       loop: false
