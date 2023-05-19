@@ -19,6 +19,8 @@ Friends of Toowong Cemetery, in conjunction with [The University of Queensland S
 
 Our next Archaeological Dig is open to the public on **Saturday 20 May 2023** from **9am to 2pm**. Enter Toowong Cemetery at the Richer Street entrance and follow the signs to the dig. Wear enclosed shoes, protective gloves, sunscreen and a hat, and bring something to drink.
 
+![Toowong Cemetery Archaeological Dig 2023](../assets/images/digs/2023/dig-2023.jpg){ width="96%" } 
+
 ## Where did the buried headstones come from?
 
 The headstones discovered in Toowong Cemetery Archaeological digs are believed to come from two sources: 
