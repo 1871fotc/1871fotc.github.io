@@ -38,7 +38,7 @@
       "name": "Toowong Cemetery Archaeological digs",
       "headline": "Toowong Cemetery Archaeological digs uncover lost headstones",
       "keywords": ["Archaeological digs", "Toowong Cemetery"],
-      "dateModified": "2023-02-22",
+      "dateModified": "2023-05-20",
       "datePublished": "2022-08-29",
       "inLanguage": "en",
       "author": {
@@ -76,46 +76,6 @@
       "isPartOf": {
         "@id": "https://www.fotc.au/#/article/archaeological-digs/"
       }
-    },
-    {
-      "@type": "Event",
-      "name": "Free Archaeological Dig in Toowong Cemetery",
-      "location": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "Richer St",
-          "addressCountry": "Australia",
-          "addressRegion": "Queensland",
-          "addressLocality": "Toowong",
-          "telephone": "0439998053"
-        },
-        "image": ["https://www.fotc.au/assets/archaeological-dig.jpg"],
-        "name": "Toowong Cemetery Archaeological Dig"
-      },
-      "startDate": "2023-05-20T09:00:00.00+10:00",
-      "endDate": "2023-05-20T14:00.00+10:00", 
-      "description": "Search for buried headstones in Toowong Cemetery and undercover Brisbane's past.",
-      "eventStatus": "https://schema.org/EventScheduled",
-      "isAccessibleForFree": true,
-      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-      "image": "https://www.fotc.au/assets/archaeological-dig.jpg",
-      "offers": {
-        "@type": "Offer",
-        "url": "https://www.fotc.au/headstones/archaeological-digs/",
-        "priceCurrency": "AUD",
-        "price": "0",
-        "availability": "https://schema.org/InStock",
-        "validFrom": "2023-02-23T12:00"
-      },
-      "performer": {
-        "@id": "https://www.fotc.au/#/schema/organization/1"
-      },
-      "organizer": {
-        "@id": "https://www.fotc.au/#/schema/organization/1"
-      },
-      "maximumAttendeeCapacity": "40",
-      "inLanguage": "EN"
     }
   ]
 }
