@@ -1,0 +1,123 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph":[
+    {
+      "@type": "Organization",
+      "@id": "https://www.fotc.au/#/schema/organization/1",
+      "name": "Friends of Toowong Cemetery Association Inc.",
+      "url": "https://www.fotc.au/"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.fotc.au/#/schema/place/1",
+      "name": "Toowong Cemetery",
+      "sameAs": ["https://www.wikidata.org/wiki/Q7824339", "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery", "https://en.wikipedia.org/wiki/Toowong_Cemetery"]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.fotc.au/#/schema/website/1",
+      "name": "Friends of Toowong Cemetery",
+      "url": "https://www.fotc.au/",
+      "publisher": {
+          "@id": "https://www.fotc.au/#/schema/organization/1"
+      }
+    },  
+    {
+      "@type": "WebPage",
+      "@id": "https://www.fotc.au/headstones/archaeological-digs/",
+      "url": "https://www.fotc.au/headstones/archaeological-digs/",
+      "name": "Toowong Cemetery Archaeological digs",
+      "isPartOf": {
+          "@id": "https://www.fotc.au/#/schema/website/1"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.fotc.au/#/article/archaeological-digs/",
+      "name": "Toowong Cemetery Archaeological digs",
+      "headline": "Toowong Cemetery Archaeological digs uncover lost headstones",
+      "keywords": ["Archaeological digs", "Toowong Cemetery"],
+      "dateModified": "2023-02-22",
+      "datePublished": "2022-08-29",
+      "inLanguage": "en",
+      "author": {
+          "@id": "https://www.fotc.au/#/schema/organization/1"
+        },  
+      "publisher": {
+          "@id": "https://www.fotc.au/#/schema/organization/1"
+        },
+      "isPartOf": {
+        "@id": "https://www.fotc.au/headstones/archaeological-digs/"
+        },  
+      "image": ["https://www.fotc.au/assets/assets/archaeological-dig.jpg", "https://www.fotc.au/assets/logo/fotc-banner-4x3.png", "https://www.fotc.au/assets/images/social/headstones/archaeological-digs.png"],
+      "about": {
+          "@id": "https://www.fotc.au/#/schema/place/1"
+      },
+      "mentions": [
+        {"@type": "Place","name": "Brisbane","sameAs": "https://en.wikipedia.org/wiki/Brisbane"}, 
+        {"@type": "Place","name": "Paddington Cemetery","sameAs": "https://en.wikipedia.org/wiki/North_Brisbane_Burial_Ground"},
+        {"@type": "Place","name": "Toowong Cemetery","sameAs": "https://en.wikipedia.org/wiki/Toowong_Cemetery"}, 
+        {"@type": "Organization","name": "Brisbane City Council","sameAs": "https://en.wikipedia.org/wiki/City_of_Brisbane"}, 
+        {"@type": "Organization","name": "University of Queensland","sameAs": "https://en.wikipedia.org/wiki/University_of_Queensland"}, 
+        {"@type": "Thing","name": "Archaeological","sameAs": "https://en.wikipedia.org/wiki/Archaeology"}
+      ]  
+    },
+    {
+      "@type": "VideoObject",
+      "name": "National Archaeology Week - Toowong Cemetery",
+      "description": "Archaeologists from the University of Queensland along with the Friends of Toowong Cemetery continue excavations begun in 2006 to uncover buried monuments.",
+      "thumbnailUrl": [
+        "https://i.ytimg.com/vi/hgCx4OW69cY/hqdefault.jpg"
+       ],
+      "uploadDate": "24 May 2007",
+      "duration": "PT3M27S",
+      "contentUrl": "https://youtu.be/hgCx4OW69cY",
+      "isPartOf": {
+        "@id": "https://www.fotc.au/#/article/archaeological-digs/"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "Free Archaeological Dig in Toowong Cemetery",
+      "location": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Richer St",
+          "addressCountry": "Australia",
+          "addressRegion": "Queensland",
+          "addressLocality": "Toowong",
+          "telephone": "0439998053"
+        },
+        "image": ["https://www.fotc.au/assets/archaeological-dig.jpg"],
+        "name": "Toowong Cemetery Archaeological Dig"
+      },
+      "startDate": "2023-05-20T09:00:00.00+10:00",
+      "endDate": "2023-05-20T14:00.00+10:00", 
+      "description": "Search for buried headstones in Toowong Cemetery and undercover Brisbane's past.",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "isAccessibleForFree": true,
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "image": "https://www.fotc.au/assets/archaeological-dig.jpg",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.fotc.au/headstones/archaeological-digs/",
+        "priceCurrency": "AUD",
+        "price": "0",
+        "availability": "https://schema.org/InStock",
+        "validFrom": "2023-02-23T12:00"
+      },
+      "performer": {
+        "@id": "https://www.fotc.au/#/schema/organization/1"
+      },
+      "organizer": {
+        "@id": "https://www.fotc.au/#/schema/organization/1"
+      },
+      "maximumAttendeeCapacity": "40",
+      "inLanguage": "EN"
+    }
+  ]
+}
+</script>
+
