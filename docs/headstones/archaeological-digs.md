@@ -17,7 +17,7 @@ Friends of Toowong Cemetery, in conjunction with [The University of Queensland S
 
 ## Toowong Cemetery Archaeological Dig 2023 
 
-Our 2023 Archaeological Dig uncovered more of Brisbane's history finding headstones from the North Brisbane Burial Grounds. Now we start our research to discover the stories of the people whose headstones we found.
+Our 2023 Archaeological Dig uncovered more of Brisbane's history finding headstones from the North Brisbane Burial Grounds. 
 
 ![Toowong Cemetery Archaeological Dig 2023](../assets/images/digs/2023/dig-2023.jpg){ width="96%" } 
 
