@@ -21,6 +21,9 @@ Our 2023 Archaeological Dig uncovered more of Brisbane's history finding headsto
 
 ![Toowong Cemetery Archaeological Dig 2023](../assets/images/digs/2023/dig-2023.jpg){ width="96%" } 
 
+![Toowong Cemetery Archaeological Dig Finds 2023](../assets/images/digs/2023/dig-finds-2023.jpg){ width="96%" } 
+
+
 ## Where did the buried headstones come from?
 
 The headstones discovered in Toowong Cemetery Archaeological digs are believed to come from two sources: 
