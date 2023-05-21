@@ -23,7 +23,7 @@ George-street, to the Episcopalian section in the North Brisbane Burial Grounds.
 
 ### Headstone  
 
-![William Frederick Robinson headstone](../assets/william-frederick-robinson-headstone.jpg){ width="30%" }
+![William Frederick Robinson headstone](../assets/william-frederick-robinson-headstone.jpg){ width="30%"  class="full-width" }
 
 *<small>William Frederick Robinson's headstone discovered in a Toowong Cemetery Archaeological Dig, 2023.</small>*
 
