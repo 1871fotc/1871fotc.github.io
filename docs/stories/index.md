@@ -19,13 +19,14 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
 <div class="grid cards" markdown>  
 
-<!--
+
 -   :material-face-woman-outline:{ .lg .middle } **[Notable Women][notable-women]**
 
     ---
 
     Women who shaped Queensland
 
+<!--
 -   :four_leaf_clover:{ .lg .middle } **[The Irish][irish]** 
   
     ---
@@ -33,14 +34,14 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     Stories about the Irish remembered in Toowong Cemetery.
 
 -->
-<!--    
+  
 
 -   :fontawesome-solid-monument:{ .lg .middle } **[Monumental Masons][monumental-masons]**
 
     ---
 
     Read about the sculpters of Toowong Cemetery's beautiful monuments.
--->
+
 <!--    
 
 -   :material-fire:{ .lg .middle } **[Fire! Fire!][fire-fighters]**
@@ -86,7 +87,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     Women who shaped Queensland
 -->
 
-<!-- April Anzac Day, Easter Lutheran? -->
+<!-- April Anzac Day, Easter Lutheran? 
 
 -   :fontawesome-solid-person-military-rifle:{ .lg .middle } **[Lest We Forget][lest-we-forget]** 
   
@@ -99,8 +100,8 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     ---
 
     Remembering members of the Royal Australian Navy who gave their lives in service to this country.
-
-<!-- May Labour Day -->
+-->
+<!-- May Labour Day 
 
 -   :material-sheep:{ .lg .middle } **[The Great Shearers' Strike of 1891](shearers-strike.md)**
   
@@ -114,7 +115,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     ---
 
     Recognising people involved in the Labor movement. 
-<!-- -->
+-->
 
 <!-- July RAN founded 
 
