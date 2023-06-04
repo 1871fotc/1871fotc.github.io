@@ -28,7 +28,7 @@ There's no need to book, just meet under the flagpole in Canon Garland Place at 
 
 ## Upcoming Guided Tours
 
-Our next tour, **Feeding a Colony**, is on **Sunday 4 June 2023**. The tour is limited to 20 people. 
+Our next tour is on **Sunday 2 July 2023**. The tour is limited to 20 people. 
 
 !!! Warning "What to bring"
 
