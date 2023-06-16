@@ -135,8 +135,6 @@ On 5 September 1850 Petrie married Jane Keith, daughter of Daniel McNaught of Du
         - Ann Hill second burial in TC 1871
 -->
 
---8<-- 
-
 ## George Prentice <small>(9‑41‑1)</small>
 
 In 1864, George Prentice & Son operated [a stone yard in Charlotte Street](https://trove.nla.gov.au/newspaper/article/1264492?searchTerm=prentice), Brisbane. They executed "every description of monumental work", and supplied "hearthstones, window sills, steps, coping, and paving". The business may have been impacted by the March 1864 flood.
