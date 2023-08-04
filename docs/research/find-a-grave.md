@@ -14,7 +14,7 @@ Heritage‑listed Toowong Cemetery is the largest cemetery in Queensland. It can
 
 ## Search for a person's grave
 
-Use the Brisbane City Council **[Memorial search](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search)** to look up a person's name and find their location in Toowong Cemetery.
+Use the Brisbane City Council **[Memorial search](https://brisbane.discovereverafter.com)** to look up a person's name and find their location in Toowong Cemetery.
 
 Note the plot location which will be 3 numbers in the format, *Portion* - *Section/#/Grave*. 
 
