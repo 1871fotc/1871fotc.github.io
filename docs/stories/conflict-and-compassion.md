@@ -62,7 +62,7 @@ Compiled and presented by Darcy Maddock
 
 ## Sources
 
-- [Grave Location Search](https://graves.brisbane.qld.gov.au) - Brisbane City Council
+- [Memorial search](https://brisbane.discovereverafter.com) - Brisbane City Council
 - [Trove](https://trove.nla.gov.au) - National Library of Australia
 - [National Archives Service Records WW1 and Boer War](https://www.naa.gov.au/explore-collection/defence-and-war-service-records) - Commonwealth of Australia
 - [Australian War Graves](https://www.dva.gov.au/wargraves) - Commonwealth of Australia

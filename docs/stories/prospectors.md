@@ -66,7 +66,7 @@ He was the president and secretary Amalgamated Miners Association of Croydon and
 
 ## Sources
 
-- [Cemetery Search](https://graves.brisbane.qld.gov.au/) - Brisbane City Council  
+- [Memorial Search](https://brisbane.discovereverafter.com/) - Brisbane City Council  
 - [Family History Research](https://www.qld.gov.au/law/births-deaths-marriages-and-divorces/family-history-research) - The State of Queensland
 - [Queensland Parliament: Former Members](https://www.parliament.qld.gov.au/Members/Former-Members) - Queensland Parliament website
 - [Trove](https://trove.nla.gov.au) - National Library of Australia

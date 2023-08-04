@@ -89,7 +89,7 @@ Compiled and presented by Lyn Maddock
 - [Wesley Mission Brisbane](https://www.wmq.org.au) 
 - Smith, F.R., [The Church on the Square](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:23307/one), Uniting Church Print Shop, Brisbane, pp.82-83.
 - [Trove](https://trove.nla.gov.au) - National Library of Australia
-- [Grave Location Search](https://graves.brisbane.qld.gov.au) - Brisbane City Council
+- [Memorial search](https://brisbane.discovereverafter.com) - Brisbane City Council
 - Richard Broome, [Jackson, Peter (1861-1901)](https://adb.anu.edu.au/biography/jackson-peter-6814), Australian Dictionary of Biography, National Centre of Biography, Australian National - University, 
 - Don Wilkey, [Spragg, Alonzo Stephen (Lonnie) (1879-1904)](https://adb.anu.edu.au/biography/spragg-alonzo-stephen-lonnie-8609), Australian Dictionary of Biography, National Centre of Biography, Australian National University, 
 - [Padd Paddo Paddington: An Oral And Visual History Of Early Paddington: Living Memories From The Heart Of Brisbane](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:130801/one), Red Hill Paddington Community Centre (Inc) and the Paddington History Group, 1999

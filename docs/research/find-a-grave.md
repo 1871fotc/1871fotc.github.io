@@ -14,14 +14,16 @@ Heritage‑listed Toowong Cemetery is the largest cemetery in Queensland. It can
 
 ## Search for a person's grave
 
-Use the Brisbane City Council **[Grave location search](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search)** to look up a person's name and find their location in Toowong Cemetery.
+Use the Brisbane City Council **[Memorial search](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search)** to look up a person's name and find their location in Toowong Cemetery.
 
-Note the location which will be 3 numbers in the format, *Portion*-*Section*-*Grave*. For example, Peter Jackson's grave is located at Portion 5, Section 28, Grave 1, or 5-28-1.
+Note the plot location which will be 3 numbers in the format, *Portion* - *Section/#/Grave*. 
+
+For example, Peter Jackson's grave is located at 5&nbsp;-&nbsp;28/#/1 or Portion 5, Section 28, Grave 1. We simplify this format to 5-28-1.
 
 <figure markdown>
-  ![BCC Grave Location Search result for Peter Jackson](../assets/BCC-grave-location-search-results.png
-){ width="100%" data-title="BCC Grave Location Search result for Peter Jackson" data-description="Go to https://graves.brisbane.qld.gov.au; Choose Toowong Cemetery as the Cemetery Name, Enter the other details you know; Click the Details link and the grave location is displayed."}
-  <figcaption markdown>BCC Grave Location Search result for Peter Jackson</figcaption>
+  ![BCC Memorial search result for Peter Jackson](../assets/peter-jackson-memorial-search-result.jpg
+){ width="100%" data-title="BCC Memorial search result for Peter Jackson" data-description="Go to https://brisbane.discovereverafter.com; Choose Toowong Cemetery as the Cemetery Name, Enter the other details you know; Click the Details link and the grave location is displayed."}
+  <figcaption markdown>BCC Memorial search result for Peter Jackson</figcaption>
 </figure>
 
 
@@ -90,7 +92,7 @@ Markers can be seen on, or embedded into, graves. A Marker represents a person b
 
 To map a marker to a grave, you need to look up old portion books. For example, Portion 1, Section 1, Grave 38 in the Portion Book page below, maps to Marker ZI 735, which is annotated with the name *"Gale"*. 
 
-Searching for *"Gale"* in the Brisbane City Council **[Grave location search](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search)** you find, by looking at each entry for *"Gale"*, Ruby Mary Gale, who was buried in 1-1-38 on 24 November 1924. You'll also find Ada Florence Morgan buried in 1-1-38 on 11 November 1878 - perhaps this is the B 663 crossed out in the Portion Book. 
+Searching for *"Gale"* in the Brisbane City Council **[Memorial search](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search)** you find, by looking at each entry for *"Gale"*, Ruby Mary Gale, who was buried in 1-1-38 on 24 November 1924. You'll also find Ada Florence Morgan buried in 1-1-38 on 11 November 1878 - perhaps this is the B 663 crossed out in the Portion Book. 
 
 Only the surname is recorded in the Portion Book so you can't link a marker to a specific person, although you may be able to imply a link by the order the markers are recorded and the date of each person's death. 
 

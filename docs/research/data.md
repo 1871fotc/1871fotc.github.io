@@ -29,7 +29,7 @@ Where practical, we link to authoritative data sources, rather than duplicate da
 
 ### Brisbane City Council data
 
-- **[Graves and Human Remains](https://graves.brisbane.qld.gov.au)** - who is buried in which grave and associated dates
+- **[Graves and Human Remains](https://brisbane.discovereverafter.com)** - who is buried in which grave and associated dates
 - **Cemetery Location data**:
     - [Cemetery boundary](https://www.spatial-data.brisbane.qld.gov.au/datasets/d9879ce7dce842ce8d5d3b50e3b702bf_0/explore?location=-27.476664%2C152.985658%2C16.53) is available as  open data
     - Portion and Section boundaries 

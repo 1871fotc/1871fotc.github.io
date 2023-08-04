@@ -4,7 +4,7 @@ In 1846 he left for the Portuguese colony of Azores, where he was employed as tu
 
 John Rendall and Amelia Hewitt were married by the Chaplain of the British Protestant Church, City of Ponta Delgarda, Island of St. Michael, on the 13^th^ of June 1849.
 
-One year later, also in Ponto Delgarda, Amelia's mother married for the second time to a Portuguese, Emmanuel Inez Rodrigues[^1]. When she was widowed again, Mary emigrated to join her daughter, who by this time was in Brisbane. Mary arrived on the 7^th^ of January 1877. She had been there only seven years when she died in 1883. As well as Amelia, she had a surviving son, Joseph, and a deceased girl from each of her marriages.
+One year later, also in Ponto Delgarda, Amelia's mother married for the second time to a Portuguese, Emmanuel Inez Rodrigues. When she was widowed again, Mary emigrated to join her daughter, who by this time was in Brisbane. Mary arrived on the 7^th^ of January 1877. She had been there only seven years when she died in 1883. As well as Amelia, she had a surviving son, Joseph, and a deceased girl from each of her marriages.
 
 Meanwhile, back in the Azores, John and Amelia had two sons, Joseph Hewitt, born on the 24^th^ of April 1859 and Henry Hewitt, born on the 15^th^ of September 1851. (All their children were given the name 'Hewitt'.)
 
@@ -51,4 +51,3 @@ Amelia lived to the ripe old age of 93, spry to the last, and living to see the 
 
 This story was contributed by Ruth Inglis.
 
-[^1]: Mary Ann Rodrigues is recorded as 'Mary Ann Rodriques' in the [Brisbane City Council Cemeteries Search](https://graves.brisbane.qld.gov.au)

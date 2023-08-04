@@ -55,7 +55,7 @@ The table below lists the 139 human remains and 106[^1] headstones that were mov
 
     - Sources: 
         - [List of remains and memorials removed to the Brisbane General Cemetery (Toowong)](https://www.brisbane.qld.gov.au/sites/default/files/Cemeteries_Visiting_our_Cemeteries_List_of_memorials_now_standing_on_the_reserved_area_at_Paddington.pdf), Appendix No.4 in Volume 2 of the 1914 Parliamentary papers. 
-        - Toowong Cemetery locations are sourced from Brisbane City Council's [Cemeteries Search](https://graves.brisbane.qld.gov.au).
+        - Toowong Cemetery locations are sourced from Brisbane City Council's [Cemeteries Search](https://brisbane.discovereverafter.com).
     - People and Headstones have been given a unique identifier.
     - Extra name information from the Cemeteries Search is shown in *italics*.
     - 'n/a' means no entry was found in the Cemeteries Search or it is not possible determine a correct entry from those available

@@ -45,7 +45,7 @@ Compiled and presented by Darcy Maddock
 ## Sources
 
 - [Army – World War I: 1914–18](https://www.naa.gov.au/explore-collection/defence-and-war-service-records/army-world-war-i-1914-18) - Commonwealth of Australia (National Archives of Australia)
-- [Grave Location Search](https://graves.brisbane.qld.gov.au) - Brisbane City Council
+- [Memorial search](https://brisbane.discovereverafter.com) - Brisbane City Council
 - [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
 - [Trove](https://trove.nla.gov.au) - National Library of Australia
 - [Explore People](https://vwma.org.au/explore/people) - Virtual War Memorial Australia
