@@ -44,11 +44,11 @@
         {
           "@type": "HowToStep",
           "name": "Search for a person's grave",
-          "url": "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search",
+          "url": "https://brisbane.discovereverafter.com",
           "text": "Use the Brisbane City Council Memorial search to look up a person's name and find their location in Toowong Cemetery.
       
                   Note the location which will 3 numbers in the format, Portion-Section-Grave. For example, Peter Jackson's grave is located at Portion 5, Section 28, Grave 1 or 5-28-1.",
-          "image": "https://www.fotc.au/assets/BCC-grave-location-search-results.png"
+          "image": "https://www.fotc.au/assets/peter-jackson-memorial-search-result.jpg"
         },
         {
           "@type": "HowToStep",
