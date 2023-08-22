@@ -68,13 +68,17 @@ Friends of Toowong Cemetery meet at **[Mt Coot‑tha Botanical Gardens Auditoriu
 
 ![Mt Coot‑tha Botanical Gardens Auditorium](../assets/auditorium.jpg)
 
+**[Contact Us](../contact.md)** if you'd like to apply to join. Applications are subject Management Committee approval.
+
+<!--
+
 Apply to join in, complete the **[Application form](https://forms.gle/iwFKCnpNYRTSeHLb8)** and pay the annual membership subscription (includes GST):
 
 - $11 Individuals
 - $5.50 Students and Pensioners
 
 [Apply to Join Friends of Toowong Cemetery](https://forms.gle/iwFKCnpNYRTSeHLb8){ .md-button .md-button--primary }
-
+-->
 ## Important information
 
 The Friends of Toowong Cemetery Association Inc. is a:
@@ -85,13 +89,16 @@ The Friends of Toowong Cemetery Association Inc. is a:
 
 ![ACNC Registered Charity Logo](../assets/ACNC-Registered-Charity-Logo_RGB.png){ width="25%" .off-glb } 
 
+
 Our Bank details are: 
 
 - Branch: **NAB Toowong**
 - BSB: **084-424** 
 - Account Number: **67-601-3012**
 
+<!--
 Please include your Surname as a reference if paying a membership subscription by direct deposit. 
+--> 
 
 <figure markdown>
   ![Queensland National Bank. Sherwood Road, Toowong ca. 1890](../assets/queensland-national-bank-toowong-1890.jpg)
