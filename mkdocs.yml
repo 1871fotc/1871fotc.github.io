@@ -46,6 +46,7 @@ theme:
 #    - announce.dismiss
     - navigation.instant
     - navigation.instant.prefetch
+    - navigation.instant.progress
     - navigation.tracking
     - navigation.top
     - navigation.tabs
