@@ -257,7 +257,7 @@ On 24 July 2011, 140 years after Governor Blackall was buried, a **[re-enactment
 Today, the Friends of Toowong Cemetery and the Brisbane City Council work together to maintain and improve Toowong Cemetery. Together we have delivered improvements including:
 
 - The **[Federation Pavilion](about/federation-pavilion.md)**
-- **[Renaming the Cemetery Roads](/#maps)** after notable people buried nearby
+- **[Renaming the Cemetery Roads](index.md#toowong-cemetery-map)** after notable people buried nearby
 - Reusing the old Sexton's office as the **[Toowong Cemetery Museum](guided-tours.md)**
 - The Paddington Memorial and **[Headstone Symbology](headstones/symbols.md)** display
 

@@ -25,11 +25,11 @@ Heritage‑listed Toowong Cemetery is the largest cemetery in Queensland. The fi
 
 On this site you'll find information about:
 
-- **[Toowong Cemetery's history](history.md)** and the **[stories of people remembered here](stories/)**.
+- **[Toowong Cemetery's history](history.md)** and the **[stories of people remembered here](stories/index.md)**.
 - **[how to find a grave in Toowong Cemetery](research/find-a-grave.md)** and a **[Toowong Cemetery map](index.md#toowong-cemetery-map)**.
-- **[headstones](headstones/)** including **[Queensland's oldest headstones](headstones/queenslands-oldest-headstones.md)**, and our **[archaeological digs](headstones/archaeological-digs.md)**.
+- **[headstones](headstones/index.md)** including **[Queensland's oldest headstones](headstones/queenslands-oldest-headstones.md)**, and our **[archaeological digs](headstones/archaeological-digs.md)**.
 - **[research resources](research/index.md)** including an **[index of people in our stories](research/find-a-story.md)**.
-- **[Friends of Toowong Cemetery](about/)** - what we do, what we've done, and how to join in.
+- **[Friends of Toowong Cemetery](about/index.md)** - what we do, what we've done, and how to join in.
  
 The cemetery is maintained by the **[Brisbane City Council](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery)**.
 
@@ -37,7 +37,7 @@ The cemetery is maintained by the **[Brisbane City Council](https://www.brisbane
 
 At Toowong Cemetery you can:
 
-- take a **[self-guided walk](walks/)** and explore the stories of people who shaped our local history.
+- take a **[self-guided walk](walks/index.md)** and explore the stories of people who shaped our local history.
 - join us on one of our regular **[guided heritage tours](guided-tours.md)**.
 - discover the meaning of **[headstone symbols](headstones/symbols.md)** at the Symbolism display.
 

@@ -70,7 +70,7 @@ Plan your visit to Toowong Cemetery.
 
 ## Visit the grave
 
-  - **[Travel to Toowong Cemetery](../../#visit-toowong-cemetery)**.
+  - **[Travel to Toowong Cemetery](../index.md#visit-toowong-cemetery)**.
   - When you arrive, **[ask the Toowong Cemetery Office to help find the grave](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#locatinggravesandashesmemorialsites)**.
 
 

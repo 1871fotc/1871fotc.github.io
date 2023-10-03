@@ -45,7 +45,7 @@ Each walk has a map, directions, and stories about people remembered in Toowong 
 
 <div class="grid cards" markdown>  
 
--   :fontawesome-solid-person-walking:{ .lg .middle } **[The Federation Walk](federation-walk)** 
+-   :fontawesome-solid-person-walking:{ .lg .middle } **[The Federation Walk](federation-walk.md)** 
   
     ---
 
