@@ -8,7 +8,7 @@ hide:
 
 # Joseph Darragh
 
-**1828 — 1902**
+**1827 — 1902**
 
 --8<-- "snippets/joseph-darragh.md"
 
