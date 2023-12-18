@@ -60,8 +60,7 @@ With the **150^th^ Anniversary** of the opening of Toowong Cemetery on **Saturda
 
 ## Join in
 
-https://www.timeanddate.com/calendar/custom.html?year=2024&y2=2026&months=36&country=29&typ=3&display=3&df=1
-Friends of Toowong Cemetery meet at **[Mt Coot‑tha Botanical Gardens Auditorium](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/botanic-gardens-in-brisbane/brisbane-botanic-gardens-mt-Coot-tha)** on the **[last Wednesday of the month]()** (except December) from 6pm to 7pm.
+Friends of Toowong Cemetery meet at **[Mt Coot‑tha Botanical Gardens Auditorium](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/botanic-gardens-in-brisbane/brisbane-botanic-gardens-mt-Coot-tha)** on the **[last Wednesday of the month](https://www.timeanddate.com/calendar/custom.html?year=2024&y2=2026&months=36&country=29&typ=3&display=3&df=1)** (except December) from 6pm to 7pm.
 
 <!--
 :fontawesome-regular-calendar-plus: **[Add the 2022 meetings to your Calendar](../assets/calendar/meetings-2022.ics)**
