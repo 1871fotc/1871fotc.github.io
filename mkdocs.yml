@@ -4,7 +4,7 @@ site_url: https://www.fotc.au
 site_author: Friends of Toowong Cemetery Association Inc.
 site_description: >-
   Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.
-copyright: © 1994 — 2023 Friends of Toowong Cemetery Association Inc., unless noted otherwise. 
+copyright: © 1994 — 2024 Friends of Toowong Cemetery Association Inc., unless noted otherwise. 
 
 # Watch these extra directories for changes 
 watch:
@@ -127,9 +127,12 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+#  - pymdownx.emoji:
+#      emoji_index: !!python/name:materialx.emoji.twemoji
+#      emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.betterem:
       smart_enable: all
   - pymdownx.caret
