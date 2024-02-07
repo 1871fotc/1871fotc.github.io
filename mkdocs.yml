@@ -57,6 +57,7 @@ theme:
     - search.suggest
     - content.code.annotate
     - content.tooltips
+    - content.footnote.tooltips    
     - toc.follow
 
 # Customization
