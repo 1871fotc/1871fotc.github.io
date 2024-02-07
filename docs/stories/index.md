@@ -19,30 +19,29 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
 <div class="grid cards" markdown>  
 
-
+<!--
 -   :material-face-woman-outline:{ .lg .middle } **[Notable Women][notable-women]**
 
     ---
 
     Women who shaped Queensland
-
+-->
 <!--
--   :four_leaf_clover:{ .lg .middle } **[The Irish][irish]** 
+-   :four_leaf_clover:{ .lg .middle } **[The Irish][irish]**
   
     ---
 
     Stories about the Irish remembered in Toowong Cemetery.
-
 -->
-  
+<!--  
 
 -   :fontawesome-solid-monument:{ .lg .middle } **[Monumental Masons][monumental-masons]**
 
     ---
 
     Read about the sculpters of Toowong Cemetery's beautiful monuments.
-
-<!--    
+-->
+<!--   
 
 -   :material-fire:{ .lg .middle } **[Fire! Fire!][fire-fighters]**
   
@@ -61,7 +60,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     Discover Queensland's contribution to the Australian Constitution.
 -->
 
-<!-- February Valentine's Day Feb 14th
+<!-- February Valentine's Day Feb 14th -->
 
 -   :material-face-woman-outline:{ .lg .middle } **[The Other Half][the-other-half]**
   
@@ -69,7 +68,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
     Women who made an impact on Queensland. 
 
--->
+
 
 <!-- March:  International Women'd day 8 Mar 2023, St. Patricks Day, 17 Mar 2023
 
@@ -167,14 +166,14 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
  -->
 
-<!-- Brisbane City Council Election March 2024 
+<!-- Brisbane City Council Election March 2024 -->
 
 -   :fontawesome-solid-building-columns:{ .lg .middle } **[Brisbane Mayors][brisbane-mayors]**
   
     ---
 
     Read about 14 Brisbane Mayors from 1859 to 1931 who are buried in Toowong Cemetery.       
--->
+
 
 </div>
 
