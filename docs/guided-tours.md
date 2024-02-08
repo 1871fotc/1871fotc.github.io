@@ -28,7 +28,7 @@ There's no need to book, just meet under the flagpole in Canon Garland Place at 
 
 ## Upcoming Guided Tours
 
-Our next tour is on **Sunday 3 March 2024**. The tour is limited to 20 people. 
+Our next tour, **Caution! Horses**, is on **Sunday 3 March 2024**. The tour is limited to 20 people. 
 
 !!! Warning "What to bring"
 
