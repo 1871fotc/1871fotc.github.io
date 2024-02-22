@@ -1,6 +1,6 @@
 ## Peter Jackson <small>(5‑28‑1)</small>
 
-Peter Jackson was born on 3 July 1861 and was Australian Heavyweight Champion 1886-1888. One of the legendary Boxers and probably the most famous sportsperson buried in Brisbane. World Heavyweight Champion John L. Sulliva refused to fight Jackson because of his colour. Jackson fought a 61 round draw with James J Corbett in San Francisco on 21 May 1891. James (Gentleman Jim) Corbett later went on to beat John Sullivan for the Heavyweight Championship.
+Peter Jackson was born on 3 July 1861 and was Australian Heavyweight Champion 1886-1888. One of the legendary Boxers and probably the most famous sportsperson buried in Brisbane. World Heavyweight Champion John L. Sullivan refused to fight Jackson because of his colour. Jackson fought a 61 round draw with James J Corbett in San Francisco on 21 May 1891. James (Gentleman Jim) Corbett later went on to beat John Sullivan for the Heavyweight Championship.
 
 Year later Corbett wrote that Peter Jackson was one of the greatest fighters he had even seen. Jackson defeated Australia's Frank Slavin in London on 30 May 1892 in what is still regarded as one of the greatest fights ever seen in England. Sadly Peter Jackson died in Roma on 13 July 1901 of Tuberculosis. Roma locals wanted to bury him there but it was proposed that it would be more befitting for him to be buried in Toowong Cemetery.
 
