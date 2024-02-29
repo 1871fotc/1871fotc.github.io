@@ -26,6 +26,9 @@ For example, Peter Jackson's grave is located at 5&nbsp;-&nbsp;28/#/1 or Portion
   <figcaption markdown>BCC Memorial search result for Peter Jackson</figcaption>
 </figure>
 
+!!! Warning
+
+    The new BCC Memorial search is new and has some data quality issues, especially with locations shown on the aerial map. Note the plot location number and use the map below. If you find data issues, please report them to BCC.
 
 ## Locate the grave on the map
 
