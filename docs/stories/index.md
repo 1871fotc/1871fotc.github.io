@@ -62,7 +62,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
 -->
 
-<!-- March:  International Women'd day 8 Mar 2023, St. Patricks Day, 17 Mar 2023 -->
+<!-- March:  International Women'd day 8 Mar 2023, St. Patricks Day, 17 Mar 2023 
 
 -   :four_leaf_clover:{ .lg .middle } **[The Irish][irish]** 
   
@@ -77,8 +77,8 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
     Women who shaped Queensland
 
-
-<!-- April Anzac Day, Easter Lutheran? 
+-->
+<!-- April Anzac Day, Easter Lutheran? -->
 
 -   :fontawesome-solid-person-military-rifle:{ .lg .middle } **[Lest We Forget][lest-we-forget]** 
   
@@ -91,8 +91,9 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     ---
 
     Remembering members of the Royal Australian Navy who gave their lives in service to this country.
--->
-<!-- May Labour Day 
+
+
+<!-- May Labour Day -->
 
 -   :material-sheep:{ .lg .middle } **[The Great Shearers' Strike of 1891](shearers-strike.md)**
   
@@ -106,9 +107,8 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     ---
 
     Recognising people involved in the Labor movement. 
--->
 
-<!-- July RAN founded 
+<!--    -- July RAN founded 
 
 -   :fontawesome-solid-anchor:{ .lg .middle } **[Lest We Forget: Naval][lest-we-forget-navy]**
   
@@ -158,7 +158,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
  -->
 
-<!-- Brisbane City Council Election March 2024 -->
+<!-- Brisbane City Council Election March 2024 
 
 -   :fontawesome-solid-building-columns:{ .lg .middle } **[Brisbane Mayors][brisbane-mayors]**
   
@@ -173,7 +173,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
     Read about the sculpters of Toowong Cemetery's beautiful monuments.
 
-
+-->
 
 </div>
 
