@@ -27,7 +27,7 @@ You can contact us via:
 
 - Email: **[inquiries@fotc.au](mailto:inquiries@fotc.au)**
 - Phone: **[0439998053](tel:0439998053)**
-- Facebook: **[@1871fotc](https://www.facebook.com/1871fotc/)**
+<!-- Facebook: **[@1871fotc](https://www.facebook.com/1871fotc/)** -->
 
 <!--
 - Twitter: **[@1871fotc](https://twitter.com/1871fotc)**
