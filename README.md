@@ -1,3 +1,5 @@
+[![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
+
 # Friends of Toowong Cemetery website
 
 The Friend of Toowong Cemetery site `fotc.au` replaces `https://fotc.org.au/`.
