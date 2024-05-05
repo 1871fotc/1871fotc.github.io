@@ -61,7 +61,7 @@ Gunner Webster has the dubious distinction of being the only fatality of the ‘
 
 ## Further Reading
 
-- Nunan, P. *[Tragedy in Moreton Bay, Wartime: Official Magazine of the Australian War Memorial](https://www.awm.gov.au/wartime).* [Issue 34](https://www.awm.gov.au/shop/item/1328272734), 2006. p.55-57
+- Nunan, P. Tragedy in Moreton Bay, Wartime: Official Magazine of the Australian War Memorial. Issue 34, 2006. p.55-57
 - Thompson, P. and Macklin, R. *The Battle of Brisbane: Australian and Yanks at War.* Sydney, ABC Books, 2000.
 
 ## Acknowledgements
