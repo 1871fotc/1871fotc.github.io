@@ -34,7 +34,7 @@
       "description": "Volunteers guide you on a different heritage tour each month",
       "mainEntityOfPage": "https://www.fotc.au/guided-tours/",
       "keywords": "Toowong Cemetery Guided Tours",
-      "dateModified": "2024-04-14",
+      "dateModified": "2024-05-06",
       "datePublished": "2022-08-29",
       "author": {
           "@id": "https://www.fotc.au/#/schema/organization/1"
@@ -86,8 +86,8 @@
         "image": ["https://www.fotc.au/assets/flag-pole.jpg"],
         "name": "Toowong Cemetery"
       },
-      "startDate": "2024-05-05T00:30:00.000Z",
-      "endDate": "2024-05-05T02:00:00.000Z",
+      "startDate": "2024-06-02T00:30:00.000Z",
+      "endDate": "2024-06-02T02:00:00.000Z",
       "description": "Free Guided Tour of Toowong Cemetery visiting graves and telling stories of the past.",
       "eventStatus": "https://schema.org/EventScheduled",
       "isAccessibleForFree": true,
@@ -99,7 +99,7 @@
         "priceCurrency": "AUD",
         "price": "0",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2024-04-14T12:00"
+        "validFrom": "2024-05-05T12:00"
       },
       "performer": {
         "@id": "https://www.fotc.au/#/schema/organization/1"
