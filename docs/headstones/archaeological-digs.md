@@ -39,7 +39,11 @@ Archaeologist [Dr. Jon Prangell](https://social-science.uq.edu.au/profile/138/jo
 
 ## Headstones uncovered in Toowong Cemetery
 
-Many headstones have been found in Toowong Cemetery Archaeological digs. **[See photos of our discoveries](https://www.facebook.com/pg/1871fotc/photos/?ref=page_internal)** on Facebook.
+Many headstones have been found in Toowong Cemetery Archaeological digs. 
+
+<!--
+**[See photos of our discoveries](https://www.facebook.com/pg/1871fotc/photos/?ref=page_internal)** on Facebook.
+-->
 
 ![Headstones discovered in Toowong Cemetery Archaeological digs](../assets/lost-and-found.jpg){ width="96%" } 
 
