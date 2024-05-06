@@ -37,17 +37,17 @@ Archaeologist [Dr. Jon Prangell](https://social-science.uq.edu.au/profile/138/jo
 
 <iframe src="https://omny.fm/shows/4bc-weekends-with-spencer-howson/archaeologists-unearth-forgotten-headstones-in-too/embed" width="96%" height="180" allow="autoplay; clipboard-write" frameborder="0" title="Archaeologists unearth  forgotten headstones in Toowong"></iframe>
 
+<!--
 ## Headstones uncovered in Toowong Cemetery
 
 Many headstones have been found in Toowong Cemetery Archaeological digs. 
 
-<!--
 **[See photos of our discoveries](https://www.facebook.com/pg/1871fotc/photos/?ref=page_internal)** on Facebook.
--->
 
 ![Headstones discovered in Toowong Cemetery Archaeological digs](../assets/lost-and-found.jpg){ width="96%" } 
 
 *<small>Headstones discovered in Toowong Cemetery Archaeological digs</small>*
+-->
 
 ## Finding Thomas Mowbray
 
