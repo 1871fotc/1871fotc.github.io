@@ -28,7 +28,7 @@ There's no need to book, just meet under the flagpole in Canon Garland Place at 
 
 ## Upcoming Guided Tours
 
-Our next tour is on **Sunday 2 June 2024** is tittled **Sheriffs and Police Magistrates**. The tour is limited to 20 people. 
+Our next tour is on **Sunday 2 June 2024** is titled **Sheriffs and Police Magistrates**. The tour is limited to 20 people. 
 
 !!! Warning "What to bring"
 
