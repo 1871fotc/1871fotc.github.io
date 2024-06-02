@@ -6,8 +6,8 @@ description: Get your hands dirty and uncover stories from Brisbane's past
 ---
 <!-- 
 --8<-- "snippets/sem/headstones/archaeological-digs-with-event.json"
---8<-- "snippets/sem/headstones/archaeological-digs.json"
 -->
+--8<-- "snippets/sem/headstones/archaeological-digs.json"
 
 # Toowong Cemetery Archaeological Digs
 
