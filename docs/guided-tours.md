@@ -28,11 +28,12 @@ There's no need to book, just meet under the flagpole in Canon Garland Place at 
 
 ## Upcoming Guided Tours
 
-Our next tour is on **Sunday 6 October 2024**. The tour is limited to 20 people. 
+Our next tour is on **Sunday 6 October 2024** and is titled, "**Scandalous**". The tour is limited to 20 people. 
 
 !!! Warning "What to bring"
 
-    Wear enclosed shoes and a hat, and bring a water bottle.
+    Wear enclosed shoes, a hat and sunscrean or bring an umbrella (it's getting hot!), and don't forget a bottle of water. 
+    Some tours include steep hills and a walking stick or walking poles may be helpful.
 
 
 <!-- 
