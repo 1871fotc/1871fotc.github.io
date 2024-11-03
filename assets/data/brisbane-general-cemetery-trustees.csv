@@ -1,0 +1,35 @@
+Given Names,Last Name,Trustee Start Date,Trustee End Date,Reason,Chairman Start Date,Chairman End Date,Successor
+John,Petrie,1870-10-07,1892-12-08,Died,1870,1892-12-08,Andrew Lang Petrie
+William,Pettigrew,1870-10-07,1904,Resigned,1893,1904,James Stodart
+John,Hardgrave,1870-10-07,1906-11-08,Died,1904,1906-11-08,J. W. Wassell
+Michael,Quinlan,1870-10-07,1878-07-02,Died,,,Thomas Bunton
+George,Edmondstone,1870-10-07,1883-02-23,Died,,,Richard George Petty
+William,Perry,1870-10-07,1891-06-11,Died,,,John George Cribb
+Samuel Walker,Griffith,1870-10-07,1893,Resigned,,,Frederick Shaw
+Nathaniel,Lade,1870-10-07,1895-07-17,Died,,,
+Alexander,Raff,1870-10-07,1904-04-11,Resigned,,,J. MacDonald
+James,Cowlishaw,1870-10-07,1929-07-13,Resigned,,,
+Coleman,Davis,1873,"After 1881-03-15, Before 1881-06-28",Resigned,,,George Myers
+Thomas,Bunton,1878-08-03,1907-10-12,Died,,,John Aloysius Hayes
+George,Myers,1881-07-30,1920-05-13,Died,1906,1919-02-25,E. M. Myers
+Richard George,Petty,1883-04-20,1899-09-25,Died,,,William Douglas Grimes
+Andrew Lang,Petrie,1893-01-20,1928-04-01,Died,,,John George Petrie
+John George,Cribb,1893-03-06,1905-06-10,Died,,,
+Frederick,Shaw,1893-12-09,1897,Resigned,,,William Thorne
+Moses,Ward,1895-09-25,1914-09-21,Died,,,Edwin Wesley Howard Fowles
+William,Thorne,1897-07-01,1916-10-11,Died,,,
+William Douglas,Grimes,1900-02-23,1930-08-01,Trust closed,1922,1930-08-01,
+John,MacDonald,1904-07-16,Before 1928-04-07,Died,,,Mure H. Robertson
+James,Stodart,1907-01-18,1922-06-20,Died,1919-02-25,1922-06-20,Robert Mackay Stodart
+James William,Wassell,1907-01-18,"After 1924-04-25, Before 1926-01-12",Died,,,
+John Aloysius,Hayes,1907-11-16,1930-08-01,Trust closed,,,
+Edwin Wesley Howard,Fowles,1914-12-11,1930-08-01,Trust closed,,,
+Charles Henry,Harley,1915-12-10,1930-08-01,Trust closed,,,
+George Frederick,Scott,Before 1919-11-08,1923-09-28,Died,,,W. R. Scott
+Edward Myer,Myers,1920-07-09,1926-04-01,Died,,,E. R. Isaacs
+Robert Mackay,Stodart,1922-07-08,1930-08-01,Trust closed,,,
+W. R.,Scott,1923-11-17,1930-08-01,Trust closed,,,
+E. R.,Isaacs,"After 1922, Before 1927-07-25",1930-08-01,Trust closed,,,
+John George,Petrie,"After 1922, Before 1928-07-11",1930-08-01,Trust closed,,,
+J. G.,Warren,"After 1922, Before 1928-07-11",1930-08-01,Trust closed,,,
+Mure H.,Robertson,1928-04-07,1930-08-01,Trust closed,,,
