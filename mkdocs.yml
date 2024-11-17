@@ -67,9 +67,9 @@ extra:
     - icon: fontawesome/solid/envelope
       link: mailto:inquiries@fotc.au
       name: Email us
-    - icon: fontawesome/brands/bluesky
-      link: https://bsky.app/profile/fotc.au
-      name: Bluesky
+#    - icon: fontawesome/brands/bluesky
+#      link: https://bsky.app/profile/fotc.au
+#      name: Bluesky
 #    - icon: fontawesome/brands/facebook
 #      link: https://www.facebook.com/1871fotc/
 #      name: Facebook @1871fotc
