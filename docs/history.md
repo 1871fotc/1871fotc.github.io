@@ -139,7 +139,7 @@ In 1916 Garland initiated a trust to receive money raised from the sale of silk,
 
 On the morning of Anzac Day 1920, the first since his return from war service, Garland visited "Soldiers' Corner" at Toowong Cemetery and found friends and families of the deceased paying their respects. Noting people of all religions were present, he asked all to observe a minutes' silence rather than offer up prayers during an impromptu commemoration service. 
 
-Under the guidance of Garland the Anzac Day service at Toowong Cemetery grew in size and significance as did the badge-selling campaign which supported the Lady Mayoress's committee. The campaign's success helped fund the establishment of the "Cross of Sacrifice" and "The Stone of Rememberance" which were erected and unveiled in 1924 near the entrance to Toowong Cemetery immediately adjacent to Canon Garland Place. Anzac Day commemorations in Brisbane where held here until the Anzac Memorial - Shrine of Rememberance - in Anzac Square, was completed in 1930.
+Under the guidance of Garland the Anzac Day service at Toowong Cemetery grew in size and significance as did the badge-selling campaign which supported the Lady Mayoress's committee. The campaign's success helped fund the establishment of the "Cross of Sacrifice" and "The Stone of Remembrance" which were erected and unveiled in 1924 near the entrance to Toowong Cemetery immediately adjacent to Canon Garland Place. Anzac Day commemorations in Brisbane where held here until the Anzac Memorial - Shrine of Remembrance - in Anzac Square, was completed in 1930.
 
 Garland, aged 75, died at Red Hill on 11 October 1939. His grave is located at Portion 1, Section 50A, Grave 9, overlooking "Soldiers' Corner".
 
