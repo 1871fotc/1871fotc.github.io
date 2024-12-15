@@ -32,7 +32,7 @@ They had six children, including three born in Queensland. The extended family a
     ![](../assets/404.png){ width="15%" }
 -->
 
-## Francis Emma Inving <small>(2A‑28‑19)</small>
+## Francis Emma Irving <small>(2A‑28‑19)</small>
 
 Frances Emma Irving was born in Queensland on 12 December 1883 to Maxwell Henry Williatt Irving and Mary Jane (née Gielis). Work as a schoolteacher, transferred Fanny from Ayr State School to Ravenswood State School in May 1906. Another transfer in March 1910 moved Fanny to Harlaxton State School, Toowoomba.
 
