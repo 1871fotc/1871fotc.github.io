@@ -46,7 +46,7 @@ Born in Brisbane 2 August 1849 to Michael Power and Anna Marie Connolly. Virgil 
 
 ## The Honourable George Rogers Harding <small>(1‑82‑15)</small>
 
-Born Taunton. Somerset England on 3 December 1838 to Rev. George Rogers Harding and Elizabeth Winter. In 1861 he was admitted as a barrister at Lincoln's Inn, London. With his wife, Elizabeth and family he migrated to Brisbane where he was admitted as a barrister of the Supreme Court of Queensland in 1866. InJuly 1879 he became Senior Puisne Judge. Many books held in the Queensland Supreme Court Library today were collected when he was chairman of the Library Committee. He died in his chambers on 31 August 1895.
+Born Taunton. Somerset England on 3 December 1838 to Rev. George Rogers Harding and Elizabeth Winter. In 1861 he was admitted as a barrister at Lincoln's Inn, London. With his wife, Elizabeth and family he migrated to Brisbane where he was admitted as a barrister of the Supreme Court of Queensland in 1866. In July 1879 he became Senior Puisne Judge. Many books held in the Queensland Supreme Court Library today were collected when he was chairman of the Library Committee. He died in his chambers on 31 August 1895.
 
 <figure markdown>
   ![Justice George Rogers Harding, 1879](../assets/george-rogers-harding-1879.jpg){ width=40% class="full-width" }
