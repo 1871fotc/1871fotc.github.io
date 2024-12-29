@@ -10,7 +10,7 @@ hide:
 
 --8<-- "snippets/walter-john-morley.md"
 
-![Walter John Morley](../assets/walter-john-morley.png){ width="55%" }
+![Walter John Morley](../assets/walter-john-morley.png){ width="25%" }
 
 *<small>[Walter John Morley](http://nla.gov.au/nla.news-article97898558)</small>*
 
