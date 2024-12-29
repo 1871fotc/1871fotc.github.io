@@ -88,7 +88,7 @@ We acknowledge Aboriginal and Torres Strait Islander peoples and their continuin
 
 ## Accessibility
 
-We try a make this website accessible to everyone. If anything on this site is inaccessible to you, or you are experiencing problems accessing content, please use the buttons below, or links in the footer anywhere on the site to [contact us](../contact.md).
+We try a make this website accessible to everyone. If anything on this site is inaccessible to you, or you are experiencing problems accessing content, please [contact us](../contact.md).
 
 <!--
 ## Your consent 
