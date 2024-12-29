@@ -12,6 +12,6 @@ hide:
 
 ### Learn more
 
-- [Obituary](http://nla.gov.au/nla.news-article169442880). (1937, December 27). Daily Mercury (Mackay, Qld. : 1906 - 1954), p. 7.  
+- [WELL-KNOWN JOURNALIST DIES](http://nla.gov.au/nla.news-article97898558) (1937, December 26). Sunday Mail (Brisbane, Qld. : 1926 - 1954), p. 6. 
 
 --8<-- "snippets/add-to-this-story.md"
