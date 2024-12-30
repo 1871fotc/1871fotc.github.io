@@ -79,6 +79,14 @@ Thomas took a deep interest in the work and welfare of the Toowong Presbyterian 
 
 [William John Dunstan](https://adb.anu.edu.au/biography/dunstan-william-john-6060) was born on 13 October 1873 at Eldorado, near Beechworth, Victoria, son of Ralph Henry Dunstan, a Cornish farmer, and his Irish wife Bridget (née Morrissey). He was a shearer, trade union official, and Labor member of the Queensland Legislative Council from 1920 to 1922, when the Council was abolished. A serious street accident in 1926 permanently affected his health, and he died on 13 September 1930.
 
+<!--
+![William John Dunstan](../assets/william-john-dunstan.png)
+-->
+
+![William John Dunstan](../assets/william-john-dunstan-awu-executive-1922.png){ width="70%" }  
+
+*<small>[AWU Executive](http://nla.gov.au/nla.news-article184236615) W.J. Dunstan seated in the front row, second on the left. — THE ONE BIG UNION IDEAL (1922, October 28). Daily Standard (Brisbane, Qld. : 1912 - 1936), p. 8.</small>*
+
 
 ## Rev Theodore Osborne <small>(6‑27‑17)</small>
 
