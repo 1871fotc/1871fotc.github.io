@@ -67,7 +67,7 @@ April 1999
 
 --- 
 
---8<-- "snippets/jessie-massey.md"
+--8<-- "snippets/jessie-massy.md"
 
 ---
 

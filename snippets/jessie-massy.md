@@ -1,4 +1,4 @@
-## Jessie Massey <small>(18‑116‑8)</small>
+## Jessie Massy <small>(18‑116‑8)</small>
 
 <!-- 5 March 1874 - 27 May 1923 -->
 
