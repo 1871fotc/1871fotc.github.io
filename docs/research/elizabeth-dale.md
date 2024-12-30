@@ -6,7 +6,7 @@ hide:
 
 # Elizabeth Dale
 
-**1865 — 31 January 1905**
+**1865 — 1 February 1905**
 
 --8<-- "snippets/elizabeth-dale.md"
 
