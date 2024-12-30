@@ -4,10 +4,6 @@ Walter was born at Foulmire, England in 1852, moving to Queensland in 1858 with 
 
 Walter was a foundation member and life member of both the Queensland Lawn Tennis Association and Royal Queensland Yacht Club. He also assisted in the formation of the Graceville Bowling Club and remained a member of that club until he died on 24 December 1937 aged 85 years at which time he was believed to be the oldest contributing journalist in the Commonwealth.
 
-![Walter John Morley](../assets/walter-john-morley.png){ width="25%" }
-
-*<small>[Walter John Morley](http://nla.gov.au/nla.news-article97898558)</small>*
-
 <figure markdown>
   ![Walter John Morley](../assets/walter-john-morley.png){ width=25% class="full-width" }
   <figcaption markdown>[Walter John Morley](http://nla.gov.au/nla.news-article97898558).</figcaption>
