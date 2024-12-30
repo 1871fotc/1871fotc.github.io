@@ -20,7 +20,7 @@ In the meantime the firm acquired *Emu Plains*, a run adjoining the original *So
 
 That year Glenville Massy retired from North Queensland and took up residence at *Glenville*, on the corner of Milton Road and Hobbs Street, Auchenflower. The house, described as one of the most fashionable of its time, is no longer standing. Glenville spent his days amid comforts which vividly contrast with the frequent privations - such as scarcity of water and lack of food for days at a time - and the many other hardships incidental to a life in the Peninsula.
 
-He married Jessie, daughter of James Hall-Scott, a pioneer of the Bowen district in 1897. Jessie's story is told elsewhere in this book. Glenville died on the 25^th^ of March 1939 at his beloved Auchenflower home.
+He married Jessie, daughter of James Hall-Scott, a pioneer of the Bowen district in 1897. [Jessie's story](../research/jessie-massey.md) is told elsewhere. Glenville died on the 25^th^ of March 1939 at his beloved Auchenflower home.
 
 
 ![Panorama of a large Queenslander house on the corner of Milton Road and Hobbs Street, Auchenflower. ca. 1920](../assets/glenville-auchenflower.jpg)
