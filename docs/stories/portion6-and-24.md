@@ -84,7 +84,7 @@ Thomas took a deep interest in the work and welfare of the Toowong Presbyterian 
 
 Theodore Osborne was born in the State of New Jersey USA in 1837. He studied law before leaving the US during the American Civil War and arrived in Sydney penniless and friendless after the ship on which he was a passenger was wrecked off Rarotonga in 1864. 
 
-He became a school teacher until he was persuaded to join the church by the Rev Dr J D Lang. After qualifying he was appointed to various Presbyterian parishes in NSW. He retired to Lismore and passed away while undergoing medical treatment in Brisbane on 18 November 1940.
+He became a school teacher until he was persuaded to join the church by the Rev Dr J D Lang. After qualifying he was appointed to various Presbyterian parishes in NSW. He retired to Lismore and passed away while undergoing medical treatment in Brisbane on 18 November 1914.
 
 
 ## Acknowledgements
