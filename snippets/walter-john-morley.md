@@ -7,3 +7,8 @@ Walter was a foundation member and life member of both the Queensland Lawn Tenni
 ![Walter John Morley](../assets/walter-john-morley.png){ width="25%" }
 
 *<small>[Walter John Morley](http://nla.gov.au/nla.news-article97898558)</small>*
+
+<figure markdown>
+  ![Walter John Morley](../assets/walter-john-morley.png){ width=25% class="full-width" }
+  <figcaption markdown>[Walter John Morley](http://nla.gov.au/nla.news-article97898558).</figcaption>
+</figure>
