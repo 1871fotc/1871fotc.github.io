@@ -12,6 +12,6 @@ hide:
 
 ![James Forsyth Thallon's headstone](../assets/james-forsyth-thallon-headstone.jpeg){ width="42%" }    
 
-*<small>[James Forsyth Thallon's headstone] </small>* <nd </small>*  
+*<small>James Forsyth Thallon's headstone</small>*  
 
 --8<-- "snippets/add-to-this-story.md"
