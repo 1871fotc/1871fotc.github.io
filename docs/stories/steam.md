@@ -56,6 +56,11 @@ The steamship *Gothenberg* contracted for the Adelaide to Port Darwin run in 187
 
 --8<-- "snippets/james-trackson.md"
 
+<figure markdown>
+  ![Mr & Mrs Trackson in the steam Locomobile](../assets/james-trackson-locomobile.jpeg){ width="49%" class="full-width" }
+  <figcaption markdown>[Mr & Mrs Trackson in the steam Locomobile.](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1dejkfd/alma99183853678302061) — State Library of Queensland.</figcaption>
+</figure>
+
 ## Acknowledgements
 
 Compiled and presented by Lyn Maddock
