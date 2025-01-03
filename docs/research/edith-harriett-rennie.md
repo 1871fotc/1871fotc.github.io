@@ -3,6 +3,8 @@ title: Edith Harriett Rennie
 hide:
   - toc
   - navigation 
+search:
+  boost: 2  
 ---
 
 # Edith Harriett Rennie
