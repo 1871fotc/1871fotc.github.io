@@ -1,6 +1,6 @@
 ## Agnes Helen (Nell) Storie 
 
-**[30-36-31](https://brisbane.discovereverafter.com/profile/31712578 "Go to Memorial Information :octicons-link-external-16:" )**
+**[30-36-31](https://brisbane.discovereverafter.com/profile/31712578 "Go to Brisbane City Council Memorial Information" )**
 
 A former Bardon resident, Nell worked with the St Lukes Nursing Service. She was born in Mullumbimby, NSW in 1905 to William and Agnes Bassett. She married Victor Storie in Brisbane on 16 December 1930 and had three children. Nell died on 8 October 1990.
 
