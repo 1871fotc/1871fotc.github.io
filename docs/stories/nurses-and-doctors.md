@@ -17,7 +17,9 @@ At Toowong Cemetery are many health professionals; nurses, doctors, dispensers a
 ![In their caring hands self-guided walk map](../assets/in-their-caring-hands-map.png)
 -->
 
-## Mary Elizabeth Weedon and Annie Griffiths <small>(4‑3‑20)</small>
+## Mary Elizabeth Weedon and Annie Griffiths 
+
+**[4-3-20](https://brisbane.discovereverafter.com/profile/31791584 "Go to Memorial Information" )** 
 
 Mary Weedon, who trained at London’s Charing Cross Hospital, was the first head nurse of the Brisbane Hospital, holding the position for five years from 1885. She was the Vice‑President of the Australasian Trained Nurses’ Association (ATNA), Queensland Branch from 1904 to 1905 and a councillor from 1905 to 1906. 
 
