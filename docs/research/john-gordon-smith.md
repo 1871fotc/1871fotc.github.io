@@ -10,9 +10,16 @@ hide:
 
 --8<-- "snippets/john-gordon-smith.md"
 
-<!--
-![John Gordon Smith](../assets/john-gordon-smith.jpg)
--->
+
+![John Gordon Smith](../assets/john-gordon-smith.png){ width=33% }
+
+*<small>[John Gordon Smith](http://nla.gov.au/nla.news-article70815303), 1905</small>*
+
+# Headstone
+
+![John Gordon Smith's headstone](../assets/john-gordon-smith-headstone.jpg){ width=33% }
+
+
 
 ### Learn more
 
