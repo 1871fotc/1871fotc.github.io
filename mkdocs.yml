@@ -154,8 +154,9 @@ extra_javascript:
   - javascripts/tablesort.js
   
 # Plugins
-- search:
-    separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|\-(?!\d)|&[lg]t;'
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|\-(?!\d)|&[lg]t;'
 #    separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
 # - tags:
 #      tags_file: tags.md
