@@ -4,6 +4,8 @@ description: Staff Nurse with the Australian Infantry Force
 hide:
   - toc
   - navigation 
+search:
+  boost: 2  
 ---
 
 # Nina Robertson McDonald
