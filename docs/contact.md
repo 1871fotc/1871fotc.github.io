@@ -2,7 +2,7 @@
 title: Contact Us
 description: Contact Friends of Toowong Cemetery
 search:
-  boost: 2  
+  boost: 3 
 ---
 
 <!-- -8- "snippets/sem/contact.json" TODO or NOT NEEDED -->

@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 2
+  boost: 3
 title: Archaeological Digs
 description: Get your hands dirty and uncover stories from Brisbane's past 
 ---

@@ -2,7 +2,7 @@
 title: How to find a grave in Toowong Cemetery
 description: Find a grave in Toowong Cemetery in 5 steps
 search:
-  boost: 2
+  boost: 4
 ---
 
 --8<-- "snippets/sem/research/find-a-grave.json"

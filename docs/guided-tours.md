@@ -1,7 +1,7 @@
 ---
 description: Friends of Toowong Cemetery run 11 different guided tours each year
 search:
-  boost: 2
+  boost: 3
 ---
 
 --8<-- "snippets/sem/guided-tours.json"
