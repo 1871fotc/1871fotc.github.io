@@ -156,8 +156,9 @@ extra_javascript:
 # Plugins
 plugins:
   - search:
-      separator: '[\s\,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|\-(?!\d)|&[lg]t;'
-# FAIL remove - separator     separator: '[\s\,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+      separator: '[\s,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+# FAIL remove - separator + versioning separator: '[\s\,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|\-(?!\d)|&[lg]t;'
+# FAIL remove - separator separator: '[\s\,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
 # orginal      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
 # - tags:
 #      tags_file: tags.md
