@@ -204,7 +204,7 @@ The Toowong Cemetery Museum, located over the open drain, was formerly the Sexto
 You can visit the Museum as part of our **[Toowong Cemetery Guided Tours](guided-tours.md)**
 
 
-## 1994 Friends of Toowong Cemetery formed 
+## 1992 Friends of Toowong Cemetery formed 
 
 Cr. Judy Magub was the first President of the Friends of Toowong Cemetery. Judy was the councillor for the Toowong ward since it was formed in 1994 until she retired in 2007.
 
