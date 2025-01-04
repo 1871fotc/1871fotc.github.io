@@ -1,4 +1,4 @@
-## George Loesch, and Frederick Losch <small>(7‑49‑12)</small>
+## George Loesch, and Frederick Losch <small>[(7‑49‑12)](https://brisbane.discovereverafter.com/profile/31711499 "Go to Memorial Information" )</small>
 
 <!-- Why the different surnames? -->
 

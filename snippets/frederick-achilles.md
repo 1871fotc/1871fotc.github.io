@@ -1,4 +1,4 @@
-## Frederick Achilles <small>(18‑62‑1)</small>
+## Frederick Achilles <small>[(18‑62‑1)](https://brisbane.discovereverafter.com/profile/31970500 "Go to Memorial Information" )</small>
 
 Frederick Ernest Achilles was a son of Frederick August Achilles and Annie (née Schutter). Fred was employed with Otto Nagel by the Maryborough Prospecting Company to thoroughly search the Burnett district for minerals.
 

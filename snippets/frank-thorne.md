@@ -1,4 +1,4 @@
-## Frank Thorne <small>(21‑20‑16)</small>
+## Frank Thorne <small>[(21‑20‑16)](https://brisbane.discovereverafter.com/profile/31704353 "Go to Memorial Information" )</small>
 
 Born at Gawler South Australia in 1883. He apprenticed as a Jockey, weighing at that time 6st 9lb. As a recreation Thorn used to indulge in sparring, and later learnt the leads and stops from ex-heavyweight champion Bill Doherty, and from the famous Frank Dooley. Subsequently Thorn drifted to [Kalgoorlie](https://trove.nla.gov.au/newspaper/article/95278367), where he took to the boxing profession. His first contest was a bare knuckle, fight-to-a-finish affair with Alf. M'Coy in 1898, which he won in 32 rounds. He then had a remarkable run of success, winning some 35 bouts, including 25 through the agency of a knock-out, until he lost on points to Tom Dunn at Kalgoorlie. 
 

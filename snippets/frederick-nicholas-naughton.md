@@ -1,4 +1,4 @@
-## Private Frederick Nicholas Naughton <small>(10‑39‑12)</small>
+## Private Frederick Nicholas Naughton <small>[(10‑39‑12)](https://brisbane.discovereverafter.com/profile/31833694 "Go to Memorial Information" )</small>
 
 Service number: 1205. 11^th^ Light Horse 14/15 Star
 

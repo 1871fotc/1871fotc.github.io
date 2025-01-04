@@ -1,4 +1,4 @@
-## Frank Martin Downes <small>(13‑4‑8)</small>
+## Frank Martin Downes <small>[(13‑4‑8)](https://brisbane.discovereverafter.com/profile/31774736 "Go to Memorial Information" )</small>
 
 Frank Martin Downes was [born in 1848](https://www.familyhistory.bdm.qld.gov.au/details/8519478a9dd500f066995d5b3ed0b3e9840b9c3cc8040d7b631c767b9bf2f705) to Henry Downes and his wife Mary Ann, née Martin. Frank was apprenticed to John Petrie’s firm where Frank's father also worked. Caroline Ness married Frank in Queensland on 28 September 1869.
 

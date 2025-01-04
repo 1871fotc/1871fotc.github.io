@@ -1,4 +1,4 @@
-## Sergeant Frank Morgan Jones <small>(10‑40‑17)</small>
+## Sergeant Frank Morgan Jones <small>[(10‑40‑17)](https://brisbane.discovereverafter.com/profile/32025145 "Go to Memorial Information" )</small>
 
 Service number: 352 Australian Mining Corps
 

@@ -1,4 +1,4 @@
-## Francis (Frank) McDonnell <small>(7A‑17‑23)</small> 
+## Francis (Frank) McDonnell <small>[(7A‑17‑23)](https://brisbane.discovereverafter.com/profile/32035597 "Go to Memorial Information" )</small> 
 
 McDonnell was born in 1863 at Ennis, Co. Clare to farmer James McDonnell and Elizabeth Bradish. His father died when he was seven and he went to work in a factory before being educated by the Christian Brothers at Ennis. In 1879, he was employed by Gallagher Bros. of Ballina, Sligo; a fellow employee being T. C. Beirne. 
 

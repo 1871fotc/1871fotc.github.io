@@ -1,4 +1,4 @@
-## Private Frank Goodwin <small>(10‑43‑26)</small>
+## Private Frank Goodwin <small>[(10‑43‑26)](https://brisbane.discovereverafter.com/profile/31967212 "Go to Memorial Information" )</small>
 
 Service number: 5832. 25^th^ Australian Infantry Battalion, Australian Imperial Force
 

@@ -1,4 +1,4 @@
-## Francis Drummond Grenville Stanley <small>(9‑32‑6)</small>
+## Francis Drummond Grenville Stanley <small>[(9‑32‑6)](https://brisbane.discovereverafter.com/profile/31810061 "Go to Memorial Information" )</small>
 
 A noted colonial architect, F.D.G. Stanley designed many of Toowong’s grand houses, including *Sidney House*, demolished to make way for the ABC Studios, *Ardencraig*, which stood on Golding St and *Easton Gray* (1869) the residence of Sir Arthur Palmer. He also designed the heritage-listed [St Thomas Anglican Church](https://apps.des.qld.gov.au/heritage-register/detail/?id=600336) on High Street, Toowong.
 
