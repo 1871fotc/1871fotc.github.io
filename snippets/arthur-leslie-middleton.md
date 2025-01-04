@@ -1,4 +1,4 @@
-## Sergeant Arthur Leslie Middleton <small>(10‑43‑12)</small>
+## Sergeant Arthur Leslie Middleton <small>[(10‑43‑12)](https://brisbane.discovereverafter.com/profile/32011243 "Go to Memorial Information" )</small>
 
 Service number: 7437. 42^nd^ Battalion. Australian Imperial Force
 

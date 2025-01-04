@@ -1,4 +1,4 @@
-## Arthur Hoey Davis <small>(29A‑47‑4)</small>
+## Arthur Hoey Davis <small>[(29A‑47‑4)](https://brisbane.discovereverafter.com/profile/31994865 "Go to Memorial Information" )</small>
 
 Arthur Hoey Davis, born at Drayton near Toowoomba in 1868, was one of Queensland's literary greats and arguably the best remembered and best loved of the Queensland writers of yesteryear. He adopted the pseudonym 'Steele Rudd'. In 1895 *The Bulletin* published his ‘Starting the Selection’, a short story based on his father's experience, in which Rudd introduces the characters in his legendary family, and sets the pattern for further adventures. 
 

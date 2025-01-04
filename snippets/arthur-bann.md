@@ -1,4 +1,4 @@
-## Driver Arthur Bann <small>(10‑40‑18)</small>
+## Driver Arthur Bann <small>[(10‑40‑18)](https://brisbane.discovereverafter.com/profile/31720595 "Go to Memorial Information" )</small>
 
 Service number: 5990. 9^th^ Battalion.
 

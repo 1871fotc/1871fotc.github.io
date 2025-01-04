@@ -1,4 +1,4 @@
-## Sir Augustus Charles Gregory <small>(14‑22‑14)</small>
+## Sir Augustus Charles Gregory <small>[(14‑22‑14)](https://brisbane.discovereverafter.com/profile/32039409 "Go to Memorial Information" )</small>
 
 The well‑known explorer [Gregory](https://adb.anu.edu.au/biography/gregory-sir-augustus-charles-3663) became the first President of the Toowong Shire Council in 1881. With his brother, Francis, Augustus was attached to the survey department of Western Australia and later joined the Survey Department in Queensland rising to the position of Surveyor General in 1859.
 

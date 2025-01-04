@@ -1,4 +1,4 @@
-## Hon. Sir Arthur Hunter Palmer K.C.M.G. <small>(13‑88‑7)</small>
+## Hon. Sir Arthur Hunter Palmer K.C.M.G. <small>[(13‑88‑7)](https://brisbane.discovereverafter.com/profile/31996425 "Go to Memorial Information" )</small>
 
 Administrator:
 

@@ -1,4 +1,4 @@
-## Sir Anthony Musgrave G.C.M.G. <small>(14‑23‑7)</small>
+## Sir Anthony Musgrave G.C.M.G. <small>[(14‑23‑7)](https://brisbane.discovereverafter.com/profile/32018561 "Go to Memorial Information" )</small>
 
 Governor – 6 November 1883 to 9 October 1888
 

@@ -1,4 +1,4 @@
-## Alois Wilhelm Leitner <small>(8‑40‑16A)</small> 
+## Alois Wilhelm Leitner <small>[(8‑40‑16A)](https://brisbane.discovereverafter.com/profile/31895967 "Go to Memorial Information" )</small> 
 
 <!-- 1878‑1931 -->
 

@@ -1,4 +1,4 @@
-## Anne Devoy <small>(7‑7‑34)</small>
+## Anne Devoy <small>[(7‑7‑34)](https://brisbane.discovereverafter.com/profile/31904641 "Go to Memorial Information" )</small>
 
 <!-- https://trove.nla.gov.au/newspaper/article/19550487?searchTerm=anne%20Devoy -->
 

@@ -1,4 +1,4 @@
-## Alma Adlington <small>(7‑114‑5)</small>
+## Alma Adlington <small>[(7‑114‑5)](https://brisbane.discovereverafter.com/profile/31820609 "Go to Memorial Information" )</small>
 
 Alma Adlington was born in Rotherhithe, near London in 1856, the son of a boat builder. He described himself as a cabinet maker at the time of his marriage to Mary Gascoyne at Bromley, Kent in January 1883. With their infant son, the Adlingtons arrived in Brisbane in December 1884. Two more children followed. Alma worked as a cabinet maker and upholster, his projects including the hangings behind the high altar of St Stephen’s Cathedral. He also patented in 1890, a combined horse-drawn carriage and hearse in which the coffin was stowed under the floor. 
 

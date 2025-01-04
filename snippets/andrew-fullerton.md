@@ -1,4 +1,4 @@
-## Andrew Fullerton <small>(2A‑11‑19)</small>
+## Andrew Fullerton <small>[(2A‑11‑19)](https://brisbane.discovereverafter.com/profile/31735082 "Go to Memorial Information" )</small>
 
 After free settlement began in 1842, Ipswich developed as an important regional centre because of its location at the head of navigation of the Brisbane and Bremer Rivers and at the junction of routes to the Brisbane Valley and the Darling Downs.
 

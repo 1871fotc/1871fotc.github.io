@@ -1,4 +1,4 @@
-## Sir Arthur Morgan <small>(12‑15‑12)</small>
+## Sir Arthur Morgan <small>[(12‑15‑12)](https://brisbane.discovereverafter.com/profile/31776483 "Go to Memorial Information" )</small>
 
 Sir Arthur Morgan was born on 19 September 1856 at Rosenthal station, Warwick, Queensland, son of James Morgan and his wife Kate (née Barton), both Irish born. Arthur Morgan entered politics in 1885 when elected to the Warwick Municipal Council, serving as mayor in 1886-90 and 1898. 
 

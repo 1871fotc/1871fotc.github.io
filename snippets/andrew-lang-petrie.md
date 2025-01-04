@@ -1,4 +1,4 @@
-## Andrew Lang Petrie <small>(13‑10‑7)</small>
+## Andrew Lang Petrie <small>[(13‑10‑7)](https://brisbane.discovereverafter.com/profile/31981437 "Go to Memorial Information" )</small>
 
 Named after his grandfather, Andrew Lang Petrie was the eldest son of John Petrie. He was born 25 June 1854 in his father’s house at Petrie Bight. He was one of the first students enrolled at the Brisbane Normal School. 
 
