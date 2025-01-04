@@ -1,5 +1,5 @@
 
-## Emma Miller <small>(13‑6‑5/6)</small>
+## Emma Miller <small>[(13‑6‑5/6)](https://brisbane.discovereverafter.com/profile/31795910 "Go to Memorial Information" )</small>
 
 [Miller](https://adb.anu.edu.au/biography/miller-emma-7583) was born Emma Holmes in Chesterfield, Derbyshire, in June 1839. 
 
