@@ -1,4 +1,4 @@
-## Mary Hogan <small>(22‑16‑18)</small>
+## Mary Hogan <small>[(22‑16‑18)](https://brisbane.discovereverafter.com/profile/31974132 "Go to Memorial Information" )</small>
 
 Mary Hogan (née Wells) was born in 1923 in Euroa, Victoria and completed her education at Star of the Sea Convent, Melbourne before training as a nurse at Wangaratta Base Hospital. Mary next completed her midwifery training before marrying John Hogan in Brisbane in 1949 and having four children. She worked in various Brisbane hospitals including St. Helen's and Mt. Olivet, and then trained as a Maternal and Child Welfare Sister. 
 
