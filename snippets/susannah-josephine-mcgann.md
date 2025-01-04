@@ -1,4 +1,4 @@
-## Susannah Josephine McGann <small>(15‑31‑16)</small>
+## Susannah Josephine McGann <small>[(15‑31‑16)](https://brisbane.discovereverafter.com/profile/31764686 "Go to Memorial Information" )</small>
 
 Sister Susannah McGann, daughter of John and Susannah McGann, was a member of the New Zealand Army Nursing Service. She had trained in Maryborough, obtaining both General Nursing and Obstetric Certificates. Susannah was on the staff of the Diamantina Hospital in 1908 and was on the ANTA register in 1923. She died on 10 June 1925 aged 46.
 

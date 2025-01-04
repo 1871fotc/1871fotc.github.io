@@ -1,4 +1,4 @@
-## Gertrude Daly <small>(7A‑171‑1)</small>
+## Gertrude Daly <small>[(7A‑171‑1)](https://brisbane.discovereverafter.com/profile/31856304 "Go to Memorial Information" )</small>
 
 Miss Daly worked mainly as a ‘Children’s Nurse’ at the Hospital for Sick Children (HSC), Herston. She was appointed as a registered nurse at the HSC on 22 July 192?. While at the Brisbane Hospital in 1926 she was appointed a sister on 28 September 1926. In October 1926 she returned to the HSC and was appointed a senior sister there on 1 July 1928. 
 
