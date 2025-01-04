@@ -1,4 +1,4 @@
-## Sir Samuel Walker Griffith KCMG, QC, MLA <small>(12‑11‑6/7)</small> 
+## Sir Samuel Walker Griffith KCMG, QC, MLA <small>[(12‑11‑6/7)](https://brisbane.discovereverafter.com/profile/31688994 "Go to Memorial Information" )</small> 
 
 ![Sir Samuel Walker Griffith, 1886](../assets/samuel-walker-griffith-1886.jpg){ width="40%" }
 
