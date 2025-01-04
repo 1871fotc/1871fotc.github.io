@@ -1,4 +1,4 @@
-## Agnes Susan MacLean <small>(5‑107‑19)</small>
+## Agnes Susan MacLean <small>[(5‑107‑19)](https://brisbane.discovereverafter.com/profile/31822212 "Go to Memorial Information" )</small>
 
 7 June 1826 - 20 January 1911
 

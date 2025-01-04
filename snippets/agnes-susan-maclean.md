@@ -1,4 +1,4 @@
-## Agnes Susan MacLean <small>(5‑107‑19)</small>
+## Agnes Susan MacLean <small>[(5‑107‑19)](https://brisbane.discovereverafter.com/profile/31822212 "Go to Memorial Information" )</small>
 
 Susannah Agnes Kable, as she was christened, was the grand-daughter of First Fleet convicts Henry Kable and Susannah Holmes and Second Fleet marine William Charlton and convict Mary Gittos. Born in Bathurst, Susannah was the eldest of six children. Susannah's father, William Nathaniel Kable, died when she was eleven. Her mother, Elizabeth, remarried and with her new husband, Matthew Smith Finley, had another five children.
 
