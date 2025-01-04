@@ -1,4 +1,4 @@
-## Elsie Muriel Jones <small>[10‑45‑24](https://brisbane.discovereverafter.com/profile/31996993 "Go to Memorial Information" )</small>
+## Elsie Muriel Jones <small>[(10‑45‑24)](https://brisbane.discovereverafter.com/profile/31996993 "Go to Memorial Information" )</small>
 
 Elsie Jones was known by her maiden name, Sister King, when she nursed for the Australian Imperial Force (AIF). She subsequently married and had a son and a daughter. She was [awarded the Order of the British Empire - Member (Civil)](https://www.womenaustralia.info/exhib/honours/1938.html) in 1938. Elsie died on the 17 May 1942 aged 53.
 

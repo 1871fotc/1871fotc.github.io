@@ -3,8 +3,6 @@ title: Agnes Helen Storie
 hide:
   - toc
   - navigation 
-search:
-  boost: 2
 ---
 
 # Agnes Helen Storie

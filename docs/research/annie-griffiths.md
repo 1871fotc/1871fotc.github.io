@@ -3,8 +3,6 @@ title: Annie Griffiths
 hide:
   - toc
   - navigation 
-search:
-  boost: 2  
 ---
 
 # Annie Griffiths

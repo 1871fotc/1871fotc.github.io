@@ -3,9 +3,7 @@ title: Mary Elizabeth Weedon
 description: The first head nurse of the Brisbane Hospital
 hide:
   - toc
-  - navigation 
-search:
-  boost: 2  
+  - navigation   
 ---
 
 # Mary Elizabeth Weedon

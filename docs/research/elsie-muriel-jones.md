@@ -4,8 +4,6 @@ description: Elsie Jones aka Sister King awarded the Order of the British Empire
 hide:
   - toc
   - navigation 
-search:
-  boost: 2  
 ---
 
 # Elsie Muriel Jones
