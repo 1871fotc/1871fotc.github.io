@@ -1,4 +1,4 @@
-## Victor Cyril Button <small>(10‑53‑14)</small>
+## Victor Cyril Button <small>[(10‑53‑14)](https://brisbane.discovereverafter.com/profile/31702971 "Go to Memorial Information" )</small>
 
 H.1870
 

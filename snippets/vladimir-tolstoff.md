@@ -1,4 +1,4 @@
-## Ataman Vladimir Tolstoff <small>(8‑64‑8)</small> 
+## Ataman Vladimir Tolstoff <small>[(8‑64‑8)](https://brisbane.discovereverafter.com/profile/32042428 "Go to Memorial Information" )</small> 
 
 <!-- 1882‑1956 -->
  
