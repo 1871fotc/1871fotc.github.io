@@ -1,5 +1,5 @@
 
-## Eliza Jeanettie Sheldon <!-- 1885‑1974 --> and Edwin Arthur Vincent Sheldon <small>(7‑95‑13/14)</small> <!-- 1895‑1945 -->
+## Eliza Jeanettie Sheldon <!-- 1885‑1974 --> and Edwin Arthur Vincent Sheldon <small>[(7‑95‑13/14)](https://brisbane.discovereverafter.com/profile/31723218 "Go to Memorial Information" )</small> <!-- 1895‑1945 -->
 
 [Jeanettie Sheldon](https://adb.anu.edu.au/biography/sheldon-eliza-jeanettie-11673), was born on 24 May 1885 in Williamstown, Victoria, the eldest of five children of English‑born parents Edwin Arthur Sheldon and his second wife Phoebe Emily, née Fisher. By 1890 the family had settled in Brisbane, where Edwin ran a jewellery business at Fortitude Valley. Vincent was born on 3 July 1895 in South Brisbane, the youngest of the five children.
 

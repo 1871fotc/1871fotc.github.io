@@ -1,5 +1,5 @@
 
-## Elizabeth Dale <small>(1‑148‑29)</small>
+## Elizabeth Dale <small>[(1‑148‑29)](https://brisbane.discovereverafter.com/profile/31894232 "Go to Memorial Information" )</small>
 
 Prior to 1905, the creek which runs through the Cemetery had been dammed to provide water for flowers and grapes which were grown in Portion 10 and sold to Cemetery visitors. Taps were being installed but before the dam could be emptied it claimed the life of Elizabeth Dale. 
 

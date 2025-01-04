@@ -1,4 +1,4 @@
-## Ernest Eglinton <small>(2A‑31‑22)</small> 
+## Ernest Eglinton <small>[(2A‑31‑22)](https://brisbane.discovereverafter.com/profile/31838283 "Go to Memorial Information" )</small> 
 
 The death of Ernest Eglinton, ex‑police magistrate, occurred on 1 October 1921. He was born in Berkshire, England in 1848 and came to Australia in 1870 with his father, the Rev. William Eglinton, who had charge of a number of Australian parishes. Eglinton became part owner of a station, and in the early 1870s, with the intention of forming another station; he set out with his younger brother from Mitchell Downs towards Cooper's Creek with a mob of cattle, travelling over unknown country for many months. 
 

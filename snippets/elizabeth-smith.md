@@ -1,4 +1,4 @@
-## Elizabeth Smith <small>(13‑6‑21)</small>
+## Elizabeth Smith <small>[(13‑6‑21)](https://brisbane.discovereverafter.com/profile/31827859 "Go to Memorial Information" )</small>
 
 <!-- 1829 - 6 May 1901 -->
 

@@ -1,4 +1,4 @@
-## Edward Vincent Pollock <small>(5‑62‑12)</small>
+## Edward Vincent Pollock <small>[(5‑62‑12)](https://brisbane.discovereverafter.com/profile/32002252 "Go to Memorial Information" )</small>
 
 Edward Pollock was born in Ireland on 12 June 1851. He was Fleet Paymaster and Secretary to the Naval Commandant of the Commonwealth Naval Force in Brisbane. Tragically, Fleet Paymaster Pollock died on 16 October 1911 from injuries he received through falling from a tram at East Brisbane. 
 

@@ -1,4 +1,4 @@
-## Elizabeth Jane Kingsbury <small>(12‑42‑12/13)</small>
+## Elizabeth Jane Kingsbury <small>[(12‑42‑12/13)](https://brisbane.discovereverafter.com/profile/31677877 "Go to Memorial Information" )</small>
 
 Mrs. John James Kingsbury was a Victorian, a daughter of Mr. David Ham. She was possessed of unusual gifts, a fine presence, a wide, clear outlook, and eloquence that gave her a great advantage in pleading the cause in which she was interested. She came by force of her gifts prominently when any movement especially concerning the welfare of women and children was involved. She had a keen sense of humour, and her speeches were characterised by humour and brilliance. She was in demand whenever a new project was started for the betterment of the State, and although her invariable answer was, *“I’m working to the pin of my collar,”* still there was always fitted in either another pin or an extra little stretch was given to the collar. 
 

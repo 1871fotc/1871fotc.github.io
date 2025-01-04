@@ -1,4 +1,4 @@
-## Elizabeth Edwards <small>(14‑23‑14)</small>
+## Elizabeth Edwards <small>[(14‑23‑14)](https://brisbane.discovereverafter.com/profile/31698453 "Go to Memorial Information" )</small>
 
 Elizabeth Munro Edwards (née Gibson) was born in Scotland on 11 May 1840 and came to Australia with her parents, Thomas Gibson and Christina Thompson in 1864. Three years later she married Richard Edwards who subsequently became the member for Oxley division in Federal Parliament. 
 
