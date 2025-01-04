@@ -1,4 +1,4 @@
-## "Sali" Mendelsohn <small>(3‑6‑7)</small>
+## "Sali" Mendelsohn <small>[(3‑6‑7)](https://brisbane.discovereverafter.com/profile/31811054 "Go to Memorial Information" )</small>
 
 "Sali" was his nickname. His correct name was Bezalel Saul Mendelsohn. He died in 1897 and his sons had his name inscribed as 
 

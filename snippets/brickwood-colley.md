@@ -1,4 +1,4 @@
-## Brickwood Colley <small>(2‑51‑2)</small>
+## Brickwood Colley <small>[(2‑51‑2)](https://brisbane.discovereverafter.com/profile/32034530 "Go to Memorial Information" )</small>
  
 "Brickie", as he was known by all, was in the second half of the 1800s as well known in Australia as any of our top jockeys today. In a period when travel to Sydney and Melbourne was measured in weeks rather than day, he rode with success in all three states. He was 47 when he died of a heart attack in the Post Office Hotel, Queen Street here in Brisbane in 1896. He had only arrived back from Sydney the previous week. He is one of only three jockeys that have had poems written about them; others being Willie Stone and Fred Archer, who is buried down south.
 
