@@ -1,5 +1,5 @@
 
-## Alfred John Raymond <small>(9‑32‑8)</small>
+## Alfred John Raymond <small>[(9‑32‑8)](https://brisbane.discovereverafter.com/profile/31739904 "Go to Memorial Information" )</small>
 
 Alfred was born in Clifton, Bristol son of Henry George Raymond and Mary Ann Hewland. Alfred, like his father, was a carpenter. Alfred was a deeply devout man throughout his life and an active lay worker in the Congregational Church. In 1878, Alfred married Elizabeth Paul and they had two sons. In 1885–86, Alfred was a carpenter and living on Stanley Street, South Brisbane beside the river. Shortly after their arrival in Brisbane, their baby son Leslie died on 4 April 1884 and then exactly two years later Elizabeth died. They are buried nearby. 
 

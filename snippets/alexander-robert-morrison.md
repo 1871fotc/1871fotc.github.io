@@ -1,4 +1,4 @@
-## Alexander Robert Morrison <small>(10‑76‑16)</small>
+## Alexander Robert Morrison <small>[(10‑76‑16)](https://brisbane.discovereverafter.com/profile/31899485 "Go to Memorial Information" )</small>
 
 Service number: 3680. Australian Imperial Force
 

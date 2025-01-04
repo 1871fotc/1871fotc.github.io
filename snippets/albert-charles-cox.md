@@ -1,4 +1,4 @@
-## Albert Charles Cox <small>(20‑23‑1/2)</small>
+## Albert Charles Cox <small>[(20‑23‑1/2)](https://brisbane.discovereverafter.com/profile/31835964 "Go to Memorial Information" )</small>
 
 Albert "Bert" Cox born 8 December 1892, joined the Australian Imperial Force in May 1916, holding the rank of 2^nd^ Lieutenant at the end of World War One. Prior to the war he was an electrical engineer. In August 1918 he received a gunshot wound to his left cheek and was sent to hospital in England for treatment. By the time he left hospital, the war was over. His wound required further treatment and he did not leave England until October 1919 and was not discharged from the Australian Imperial Force until March 1921. 
 

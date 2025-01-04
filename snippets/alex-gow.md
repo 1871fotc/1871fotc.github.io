@@ -1,4 +1,4 @@
-## Alex Gow <small>(13‑59‑3/4)</small>
+## Alex Gow <small>[(13‑59‑3/4)](https://brisbane.discovereverafter.com/profile/31769934 "Go to Memorial Information" )</small>
 
 Alexander Gow was born in Fife, Scotland, on 19 October 1861 son of James Gow and Christian Philp. In 1865, he arrived in Brisbane where his father operated a grocery store. Alex Gow trained as a compositor and worked in the printing trade. On 24 March 1884 at her parents’ home in New Farm, he married Mary Inglis Mathewson. There were seven children from the marriage. 
 

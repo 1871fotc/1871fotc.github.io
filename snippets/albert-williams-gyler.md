@@ -1,4 +1,4 @@
-## Private Albert Williams Gyler <small>(2‑41‑65)</small>
+## Private Albert Williams Gyler <small>[(2‑41‑65)](https://brisbane.discovereverafter.com/profile/31993782 "Go to Memorial Information" )</small>
 
 3^rd^ Depot Battalion
 

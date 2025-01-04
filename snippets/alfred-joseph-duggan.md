@@ -1,4 +1,4 @@
-## Alfred Joseph Duggan <small>(7‑52‑5)</small>
+## Alfred Joseph Duggan <small>[(7‑52‑5)](https://brisbane.discovereverafter.com/profile/31676525 "Go to Memorial Information" )</small>
 
 Alfred Joseph Duggan was an assistant to Mr. Trouton, a chemist. The Chemist shop was on the [corner of George and Queen street](https://trove.nla.gov.au/newspaper/article/173512329?searchTerm=Trouton%20chemist), Brisbane, and was a "*[Direct Importer of Pure Drugs and Chemicals](https://trove.nla.gov.au/newspaper/article/3618576?searchTerm=Trouton%20chemist)"*. 
 

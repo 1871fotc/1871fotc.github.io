@@ -1,4 +1,4 @@
-## Alexander Raff <small>(13‑79‑1)</small>
+## Alexander Raff <small>[(13‑79‑1)](https://brisbane.discovereverafter.com/profile/31745105 "Go to Memorial Information" )</small>
 
 Alexander Raff was born in Forres, Elginshire, Scotland in July 1820, the third son of James and Margaret Raff. Alexander arrived in New South Wales in 1845, following his eldest brother, George who had arrived in 1841. After first settling in Victoria pursuing pastoral interests, Alexander arrived in Brisbane, aboard the schooner Souvenir on 9 April 1851.
 

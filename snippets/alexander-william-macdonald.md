@@ -1,4 +1,4 @@
-## Alexander William MacDonald <small>(10‑80‑18)</small>
+## Alexander William MacDonald <small>[(10‑80‑18)](https://brisbane.discovereverafter.com/profile/31989510 "Go to Memorial Information" )</small>
 
 Service number: 4484. Australian Imperial Force 
 
