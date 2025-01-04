@@ -1,4 +1,4 @@
-## Nicholas Frederick Peut <small>(13‑44‑13)</small>
+## Nicholas Frederick Peut <small>[(13‑44‑13)](https://brisbane.discovereverafter.com/profile/31700789 "Go to Memorial Information" )</small>
 
 Nicholas Peut (1856-1892) was appointed to the Brisbane Fire Brigade as resident foreman of No 2 station located at Stanley Street, South Brisbane in 1883. He became Superintendent at South Brisbane in January 1888 and continued in that role with the inception of permanent Fire Brigades with full time staff in Brisbane in 1889. [He was fatally injured](https://trove.nla.gov.au/newspaper/article/3552275) on 5 December 1892.
 

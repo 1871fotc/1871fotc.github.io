@@ -1,4 +1,4 @@
-## Sapper Norman Kinamond Harvey <small>(2‑47‑38)</small>
+## Sapper Norman Kinamond Harvey <small>[(2‑47‑38)](https://brisbane.discovereverafter.com/profile/31753392 "Go to Memorial Information" )</small>
 
 Service Number: 4439. 2^nd^ Division Signals Company 
 
