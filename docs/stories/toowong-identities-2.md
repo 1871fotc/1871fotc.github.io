@@ -24,7 +24,7 @@ On 19 August 1903, the Shire of Toowong was proclaimed a town. At the time, the 
     From the flag pole head to the rear of the ‘Temple of Peace’, near the front gate. Behind the temple is the Temple is the grave of...
 -->
 
---8<-- "snippets/edmund-curd.md"
+--8<-- "snippets/edward-curd.md"
 
 <!--
 ??? directions "Directions" 

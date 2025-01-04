@@ -1,4 +1,4 @@
-## Edmund Macdonnell <small>(1‑87‑15/16)</small>
+## Edmund Macdonnell <small>[(1‑87‑15/16)](https://brisbane.discovereverafter.com/profile/31995459 "Go to Memorial Information" )</small>
 
 Irish immigrant, Edmund Macdonnell (1826-1897) was born in Dublin where his father was a jeweller and fine scientific instrument maker. Edmund learned the trade before leaving for Sydney where relatives of his wife, Mary née Flavelle had a jewellery business. The following year Edmund was sent north to open a Brisbane branch of the business in Queen Street. 
 

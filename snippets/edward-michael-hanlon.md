@@ -1,4 +1,4 @@
 
-## Edward Michael Hanlon <small>(7A‑38‑19/21)</small>
+## Edward Michael Hanlon <small>[(7A‑38‑19/21)](https://brisbane.discovereverafter.com/profile/31679910 "Go to Memorial Information" )</small>
 
 [Hanlon](https://adb.anu.edu.au/biography/hanlon-edward-michael-ned-10411) was born on 1 October 1887 in Brisbane, son of Michael and Mary Ann Byrne. He was educated Petrie Terrace State School and the Brisbane Technical College before joining the Queensland Railways in 1908. After 1912, he became a grocer and was active in the Shop Assistants’ Union. Hanlon served in the 9^th^ Battalion Australian Imperial Force from 1915 to 1919. Hanlon married Elizabeth Carver in 1922. He fathered a son and three daughters. He was an MLA for Ithaca from May 1926 until his death on 15 January 1952. Hanlon was Minister for Health from 1935 to 1944 and Premier and Chief Secretary from 1946 to 1952. [His statue](https://monumentaustralia.org.au/themes/people/government---state/display/91593-edward-hanlon) overlooks the old Royal Women’s Hospital and the multi-level Ned Hanlon Building.

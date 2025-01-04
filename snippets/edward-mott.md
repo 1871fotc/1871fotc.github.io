@@ -1,4 +1,4 @@
-## Edward Mott <small>(7‑44‑22)</small>
+## Edward Mott <small>[(7‑44‑22)](https://brisbane.discovereverafter.com/profile/31763628 "Go to Memorial Information" )</small>
 
 Edward Mott was born in Gloucestershire, England. ca. 1807. He was convicted on the 18^th^ of January 1828 at Gloucester City Assizes for stealing a gun and was sentenced seven years transportation. He arrived in New South Wales on 8 September 1828 aboard the Countess of Harcourt. Edward was sent to Moreton Bay in June 1832 and his ticket‑of‑leave was issued on 9^th^ February 1844. 
 

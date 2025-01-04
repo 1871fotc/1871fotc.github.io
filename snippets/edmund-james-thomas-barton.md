@@ -1,4 +1,4 @@
-## Edmund James Thomas Barton <small>(11‑24‑16)</small>
+## Edmund James Thomas Barton <small>[(11‑24‑16)](https://brisbane.discovereverafter.com/profile/31817730 "Go to Memorial Information" )</small>
 
 Edmund Barton was born in Chelsea England in 1854 and came to Queensland with his parents in 1862. In 1868 he entered the service of the Brisbane Newspaper Co Ltd as an apprentice compositor on both the *Brisbane Courier* and *Queenslander* but seven years later, shortly after completing his indenture, he transferred to the literary staff where his ability as a shorthand writer brought him speedy recognition. With Mr W J Morley, he was responsible for the *Courier's* Parliamentary reports. 
 
