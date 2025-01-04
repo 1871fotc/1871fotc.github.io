@@ -1,4 +1,4 @@
-## Dr Lilian Cooper <small>(8‑69‑13/14)</small>
+## Dr Lilian Cooper <small>[(8‑69‑13/14)](https://brisbane.discovereverafter.com/profile/31754769 "Go to Memorial Information" )</small>
 
 [Lilian Violet Cooper](https://adb.anu.edu.au/biography/cooper-lilian-violet-5770/text9781) was born on 11 August 1861 at Chatham, Kent, England. Her father, Henry was a captain in the Royal Marines who was married to Elizabeth. Lilian knew when she was young she wanted to be a doctor and began dedicating herself to medicine, entering the London School of Medicine for Women in 1886. After passing examinations at the Royal College of Physicians, Edinburgh, the Royal College of Surgeons, Edinburgh, and the Faculty of Physicians and Surgeons, Glasgow, she received a licence to practice in 1890.
 

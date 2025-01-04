@@ -58,7 +58,7 @@ Mary and her friend, Annie Griffiths, shared a house called *Garton* in Terrace 
 
 --8<-- "snippets/mary-jane-brown.md"
 
-## Nora Halford and Catherine Fitzgerald <small>(7A‑102‑23A)</small>
+## Nora Halford and Catherine Fitzgerald <small>[(7A‑102‑23A)](https://brisbane.discovereverafter.com/profile/31752979 "Go to Memorial Information" )</small>
 
 --8<-- "snippets/nora-halford-and-catherine-fitzgerald.md"
 
@@ -78,7 +78,7 @@ Mary and her friend, Annie Griffiths, shared a house called *Garton* in Terrace 
 
 --8<-- "snippets/katherine-glasson-taylor.md"
 
-## Lilian Violet Cooper and Mary Josephine Bedford <small>(8‑69‑13/14)</small>
+## Lilian Violet Cooper and Mary Josephine Bedford <small>[(8‑69‑13/14)](https://brisbane.discovereverafter.com/profile/31754769 "Go to Memorial Information" )</small>
 
 Dr Lilian Cooper was the first woman to practise medicine in Queensland. She studied medicine at the London School of Medicine for Women and obtained an MD from Durham. While studying there, Lilian met and shared lodgings with Mary Bedford who was to become her lifelong companion. 
 
