@@ -1,5 +1,5 @@
 
-## Isaac Walter Jenner <small>(5‑43‑16)</small>
+## Isaac Walter Jenner <small>[(5‑43‑16)](https://brisbane.discovereverafter.com/profile/31751308 "Go to Memorial Information" )</small>
 
 <!-- TODO  Walter Isaac Jenner in Extraordinary Stories -->
 

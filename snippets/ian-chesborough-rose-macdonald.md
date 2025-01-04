@@ -1,4 +1,4 @@
-## Commander: Ian Chesborough Rose MacDonald <small>(11‑52‑12)</small>
+## Commander: Ian Chesborough Rose MacDonald <small>[(11‑52‑12)](https://brisbane.discovereverafter.com/profile/31909810 "Go to Memorial Information" )</small>
 
 Born to Alexander Chesborough Rose MacDonald and Nancy Armitage in Hamilton Brisbane. Married Gertrude Courtney Dix, St George’s, Hanover Square, London April 1927. Midshipman on *H.M.S. Agincourt* 1917.
 
