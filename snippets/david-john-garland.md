@@ -1,4 +1,4 @@
-## David John Garland <small>(1-50A-9)</small>
+## David John Garland <small>[(1-50A-9)](https://brisbane.discovereverafter.com/profile/31912139 "Go to Memorial Information" )</small>
 
 Born in Dublin, Ireland, in 1864, David John Garland was a Church of England missionary and chaplain to Western Australia's Boer War contingent before coming to Queensland.
 

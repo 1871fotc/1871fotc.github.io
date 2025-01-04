@@ -1,4 +1,4 @@
-## Dorothy Hawthorn <small>(13‑83‑1/2)</small>
+## Dorothy Hawthorn <small>[(13‑83‑1/2)](https://brisbane.discovereverafter.com/profile/31665596 "Go to Memorial Information" )</small>
 
 Dorothy Hawthorn's many achievements and contributions to the community and well documented on her grave. Also buried here are her father, Arthur George Hawthorn, a Federal Cabinet Minister, and her grandparents, Alexander and Ann Stewart, foundation members of the St. Andrews Church, Brisbane.
 

@@ -1,4 +1,4 @@
-## David Gordon Rattray <small>(10‑39‑16)</small>
+## David Gordon Rattray <small>[(10‑39‑16)](https://brisbane.discovereverafter.com/profile/31840725 "Go to Memorial Information" )</small>
 
 Service number: 2492. 47^th^ Battalion.
 

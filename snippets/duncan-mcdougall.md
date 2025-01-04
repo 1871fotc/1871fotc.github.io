@@ -1,4 +1,4 @@
-## Duncan McDougall <small>(10‑76‑48)</small>
+## Duncan McDougall <small>[(10‑76‑48)](https://brisbane.discovereverafter.com/profile/31977708 "Go to Memorial Information" )</small>
 
 Service number: 936. Australian Imperial Force 
 

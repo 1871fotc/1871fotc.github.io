@@ -1,4 +1,4 @@
-## Daniel George Bloomfield <small>(5‑101‑11)</small>
+## Daniel George Bloomfield <small>[(5‑101‑11)](https://brisbane.discovereverafter.com/profile/31797538 "Go to Memorial Information" )</small>
 
 Daniel Bloomfield (1858-1915) was, for many years, a well known bandmaster and popular cornet soloist in Brisbane. His in career in music began at the age of ten as a drummer in the Royal Marines in England. He settled in Brisbane in 1883 and soon became deeply involved in the local music scene as a performer and conducting various local bands, including the Naval Brigade Band, for many years. 
 
