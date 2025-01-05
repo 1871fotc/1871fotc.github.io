@@ -1,4 +1,4 @@
-## John Lowther <small>(12‑5‑3/4)</small>
+## John Lowther <small>[(12‑5‑3/4)](https://brisbane.discovereverafter.com/profile/31837211 "Go to Memorial Information" )</small>
 
 John Lowther was born in Hull, Yorkshire in 1852. He married Christine (née Hillen) in 1876 July and they sailed aboard the *Stirlingshire* from Glasgow to Townsville, arriving on 7 November 1882.
 

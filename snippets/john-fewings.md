@@ -1,4 +1,4 @@
-## John Fewings <small>(9‑30‑22/23)</small>
+## John Fewings <small>[(9‑30‑22/23)](https://brisbane.discovereverafter.com/profile/31850771 "Go to Memorial Information" )</small>
 
 Fewings’ memoirs *[Arcadian Simplicity](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:168205/one)*, written in 1892, described life in Toowong from the 1860s. He lived at *Karslake*, on Sherwood Road, near *Dovercourt*. He was [headmaster of the Petrie Terrace School](https://trove.nla.gov.au/newspaper/article/186576465) for nearly 30 years before moving to the headship of the Fortitude Valley School, which he held until his retirement in 1903.
 

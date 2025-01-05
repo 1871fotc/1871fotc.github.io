@@ -1,4 +1,4 @@
-## Justin Fox Greenlaw Foxton <small>(1‑114‑7/8)</small>
+## Justin Fox Greenlaw Foxton <small>[(1‑114‑7/8)](https://brisbane.discovereverafter.com/profile/31801980 "Go to Memorial Information" )</small>
 
 Justin Fox Greenlaw Foxton, was born on 24 September 1849 in Melbourne, son of Captain John Greenlaw Foxton and his wife Isabel Elizabeth, née Potts. In 1864 he moved to Queensland where he was articled to James Malbon Thompson in Ipswich and admitted to the Bar in 1871. 
 

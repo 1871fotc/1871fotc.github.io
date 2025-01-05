@@ -1,4 +1,4 @@
-## John Simmonds <small>(4‑3‑27)</small>
+## John Simmonds <small>[(4‑3‑27)](https://brisbane.discovereverafter.com/profile/31967227 "Go to Memorial Information" )</small>
 
 <!-- ca. 1829 - 23-01-1889 -->
 

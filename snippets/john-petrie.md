@@ -1,4 +1,4 @@
-## John Petrie <small>(13‑5‑3)</small>
+## John Petrie <small>[(13‑5‑3)](https://brisbane.discovereverafter.com/profile/31752300 "Go to Memorial Information" )</small>
 
 [John Petrie](https://adb.anu.edu.au/biography/petrie-john-4394) was born on 15 January 1822 at Edinburgh, eldest son of Andrew Petrie and his wife Mary, née Cuthbertson. He arrived in Sydney with his family in 1831 and was educated at Reverend John Dunmore Lang's school. In 1837, he arrived aboard the *James Watt*, the first steamer to enter Moreton Bay, where his father had been appointed clerk of works, and accompanied him on explorations to the Bunya Mountains and Maroochy River. The family stayed on in the Moreton Bay District after the penal settlement closed. After learning the ropes in the family building and contracting business John assumed responsibility for its management after his father's blindness in 1848 forced him to retire. John became sole proprietor and the firm was changed from Petrie & Son to John Petrie. 
 

@@ -1,4 +1,4 @@
-## Dr John Shirley <small>(20‑25‑6)</small>
+## Dr John Shirley <small>[(20‑25‑6)](https://brisbane.discovereverafter.com/profile/31737807 "Go to Memorial Information" )</small>
 
 Also from Dorset was Dr John Shirley who was born in Dorchester on 11 August 1849 to Sergeant John Shirley of the Grenadier Guards and Una (née Turner). John Shirley graduated with a Bachelor of Science from London University then trained as a teacher. 
 

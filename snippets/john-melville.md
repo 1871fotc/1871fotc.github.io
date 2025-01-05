@@ -1,4 +1,4 @@
-## John Melville <small>(9‑10‑4)</small>
+## John Melville <small>[(9‑10‑14)](https://brisbane.discovereverafter.com/profile/31863313 "Go to Memorial Information" )</small>
 
 John Melville, the first overseer, devoted most of his life to Toowong Cemetery. He was born in Hertfordshire in 1834 and in 1848 came to Queensland with his parents under the guidance of Dr John Dunmore Lang aboard the *Fortitude*. In 1851 when the gold diggings broke out in Victoria, Melville went, to try his luck but returned to Brisbane at Christmas 1854 to visit his family. He then met Augustus Gregory and was [asked to join his Great Northern exploration party](https://trove.nla.gov.au/newspaper/article/21912007) for the purpose of exploring the Victoria and Albert Rivers, an invitation which he accepted. 
 

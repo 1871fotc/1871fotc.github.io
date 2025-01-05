@@ -1,4 +1,4 @@
-## John Sinclair <small>(9‑40‑5)</small>
+## John Sinclair <small>[(9‑40‑5)](https://brisbane.discovereverafter.com/profile/31818778 "Go to Memorial Information" )</small>
 
 John Sinclair was born in Lanarkshire, Scotland on 8 December 1827, the son of John Sinclair and Jane Smith. He married Jane Kelman in Brisbane on 11 August 1857. They had six children four of whom died in infancy. His wife Jane died in Brisbane on 11 February 1872. On 14 January 1888 in Brisbane, John Sinclair remarried to Constance Isabel Georgina Geoghegan. However, Constance died at their home, Delholm, Kangaroo Point on 21 May 1893. 
 
