@@ -36,7 +36,7 @@ hide:
 
 --8<-- "snippets/francis-beattie.md"
 
-## Thomas Proe <small>(13‑35‑9)</small>
+## Thomas Proe <small>[(13‑35‑9)](https://brisbane.discovereverafter.com/profile/32010529 "Go to Memorial Information" )</small>
 
 Alderman Thomas Proe (1852-1922) was the Brisbane Municipal Council representative on the Metropolitan Fire Brigade Board at the time of a [fire in the warehouse of S Hoffnung & Co Ltd in 1902](https://trove.nla.gov.au/newspaper/article/183137726). He served as Mayor twice, firstly of Brisbane Municipal Council in 1901 and then of Brisbane City Council in 1905.
 
@@ -59,7 +59,7 @@ Alderman Thomas Proe (1852-1922) was the Brisbane Municipal Council representati
 
 --8<-- "snippets/mary-mayne.md"
 
-## James Thomas Mooney <small>(7‑45‑10)</small>
+## James Thomas Mooney <small>[(7‑45‑10)](https://brisbane.discovereverafter.com/profile/31766574 "Go to Memorial Information" )</small>
 
 On 23 March 1877 a fire broke out at the premises of William Hughes, a grocer and wine and spirit merchant in Refuge Row. Superintendent Beattie with several members of [the City Volunteer Fire Brigade attended the fire](https://trove.nla.gov.au/newspaper/article/169510018). The fire was contained but not before one of the firemen, James Thomas Mooney (1855-1877) suffered burns which [resulted in his death](https://trove.nla.gov.au/newspaper/article/181784650) two days later.
 
@@ -70,7 +70,7 @@ On 23 March 1877 a fire broke out at the premises of William Hughes, a grocer an
 </figure>
 -->
 
-## Walter Thorpe Olding <small>(5‑42‑7)</small>
+## Walter Thorpe Olding <small>[(5‑42‑7)](https://brisbane.discovereverafter.com/profile/31976177 "Go to Memorial Information" )</small>
 
 Walter Thorpe Olding (1888-1912) was born in Queensland. When fire broke out in a new building at the corner of Mary and Edward Streets, Brisbane on 30 April 1912, Walter was one of a party of sailors from the *HMAS Gayundah* who came to assist. [He was killed by falling masonry](https://trove.nla.gov.au/newspaper/page/21126876) from the burning building. [He was accorded a Naval funeral](https://trove.nla.gov.au/newspaper/article/190562675). The officers and men of the *Gayundah* erected a memorial over his grave.
 
@@ -81,7 +81,7 @@ Walter Thorpe Olding (1888-1912) was born in Queensland. When fire broke out in 
 
 --8<-- "snippets/john-deazeley.md"
 
-## William Henry Sowray <small>(1‑50A‑1)</small>
+## William Henry Sowray <small>[(1‑50A‑1)](https://brisbane.discovereverafter.com/profile/31718296 "Go to Memorial Information" )</small>
 
 William Sowray (1851-1912) was born in Staveley, in Derbyshire. William, a blacksmith by trade, was employed by the Railway Department and was vice-president of the Queensland Railway Union. He was also a member of the Ithaca Volunteer Fire Brigade for 23 years and was a superintendent at that organisation. On 1 December 1912 William was walking along Elizabeth Street, Paddington when he collapsed and died in
 the street.

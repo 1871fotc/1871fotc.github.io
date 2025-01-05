@@ -25,7 +25,7 @@ https://trove.nla.gov.au/newspaper/article/178416098
 
 --8<-- "snippets/toowong-cemetery-map.md"
 
-## John Petrie <small>(13‑5‑3)</small>
+## John Petrie <small>[(13‑5‑3)](https://brisbane.discovereverafter.com/profile/31752300 "Go to Memorial Information" )</small>
 
 John Petrie was born on 15 January 1822 at Edinburgh, eldest son of Andrew Petrie and his wife Mary, née Cuthbertson. He arrived in Sydney with his family in 1831 and was educated at Reverend John Dunmore Lang's school. In 1837, he arrived aboard the *James Watt*, the first steamer to enter Moreton Bay, where his father had been appointed clerk of works, and accompanied him on explorations to the Bunya Mountains and Maroochy River. The family stayed on in the Moreton Bay District after the penal settlement closed. After learning the ropes in the family building and contracting business John assumed responsibility for its management after his father's blindness in 1848 forced him to retire. John became sole proprietor and the firm was changed from Petrie & Son to John Petrie. 
 
@@ -36,7 +36,7 @@ On 5 September 1850 Petrie married Jane Keith, daughter of Daniel McNaught of Du
   <figcaption markdown>[Signed photograph of John Petrie](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220089340002061) — State Library of Queensland.</figcaption>
 </figure>
 
-## George Edmondstone <small>(13‑20‑5)</small>
+## George Edmondstone <small>[(13‑20‑5)](https://brisbane.discovereverafter.com/profile/32031000 "Go to Memorial Information" )</small>
 
 George Edmondstone was born in Edinburgh, Scotland, on 4 May 1809 son of William Edmondstone and Alexandrina Farquhar. In 1832, he arrived in New South Wales and had businesses in Sydney and Maitland. On 10 July 1837 in Sydney he married Alexis Watson Tilleray. In 1840 he purchased Normanby Plains Station in Queensland. He sold this in 1842 and was one of the early free settlers in Brisbane, working as a butcher. He was an alderman in Brisbane 1859-66 and the mayor 1863-64. In the Queensland Legislative Assembly he represented East Moreton in 1860-67, Brisbane in 1869-73 and Wickham in 1873-77. He retired from business because of a heart complaint and died at his home in Breakfast Creek on 23 February 1883.
 
@@ -46,7 +46,7 @@ George Edmondstone was born in Edinburgh, Scotland, on 4 May 1809 son of William
 *<small>[Alderman George Edmonstone](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/results?qu=Alderman+George+Edmonstone&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS) — Brisbane City Council.</small>*
 
 
-## John Melville <small>(9‑10‑14)</small>
+## John Melville <small>[(9‑10‑14)](https://brisbane.discovereverafter.com/profile/31863313 "Go to Memorial Information" )</small>
 
 John Melville was born at Boreham Wood, Hertfordshire, England on 10 September 1834 and in 1848 came with his parents to Moreton Bay in January 1849 aboard the *Fortitude*. In 1851 when the gold diggings broke out in Victoria, John Melville went, to try his luck but returned to Brisbane at Christmas 1854 to visit his family. He then met the Augustus Charles Gregory and was asked to join his Great Northern exploration party for the purpose of exploring the Victoria and Albert Rivers, an invitation which he accepted. They left Brisbane in August 1855. He was the last surviving member of this expedition.
 
@@ -63,7 +63,7 @@ After returning from the expedition John Melville was engaged in survey work unt
 
 --8<-- "snippets/james-cowlishaw.md"
 
-## Sir Samuel Walker Griffith <small>(12‑11‑6/7)</small>
+## Sir Samuel Walker Griffith <small>[(12‑11‑6/7)](https://brisbane.discovereverafter.com/profile/31688994 "Go to Memorial Information" )</small>
 
 Griffith was born in Merthyr Tydfil, Wales and migrated to Australia as a child. He graduated from Sydney University in 1862 with Honours in maths and classics and commenced practising law in Brisbane. Griffith, considered by many a Liberal, was elected to the Legislative Assembly in 1872. He was Attorney General and twice premier of Queensland. Griffith was a delegate at the Intercolonial Convention 1883. Subsequently, Griffith was Vice‑President of the National Australasian Convention of 1891 and Chairman of the Drafting Committee which prepared the draft constitution. Griffith was president of the Queensland Federation League from 1898. He was knighted in 1886.
 
@@ -74,7 +74,7 @@ In 1893 Griffith left government to become Chief Justice of Queensland and from 
   <figcaption markdown>[Sir Samuel Walker Griffith in 1912-1913](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218748680002061) — State Library of Queensland.</figcaption>
 </figure>
 
-## John Hardgrave <small>(14‑22‑2/3)</small>
+## John Hardgrave <small>[(14‑22‑2/3)](https://brisbane.discovereverafter.com/profile/31751117 "Go to Memorial Information" )</small>
 
 John Hardgrave, a local politician and lord mayor of Brisbane, was born in Wicklow, Ireland, in 1826. He arrived in Sydney in 1843 and moved to Brisbane in 1848. In 1860 he purchased 6 acres (2.4 hectares) of land in the Brisbane suburb of West End. Hardgrave Road in West End is named after him. He was in the boot trade to 1862 and was involved in local government from 1867 to 1890. He was mayor of Brisbane in 1868 and 1870, first chairman of the Woolloongabba Divisional Board, alderman for South Brisbane from 1888 to 1890, and chairman of the Waterworks Board from 1893. He died in Brisbane on 8 November 1906 and was interred in the family grave.
 
@@ -83,7 +83,7 @@ John Hardgrave, a local politician and lord mayor of Brisbane, was born in Wickl
   <figcaption markdown>[John Hardgrave, early resident and mayor of Brisbane, 1868-1869](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool111232) — State Library of Queensland. Cropped.</figcaption>
 </figure>
 
-## William Pettigrew <small>(13‑66‑2)</small>
+## William Pettigrew <small>[(13‑66‑2)](https://brisbane.discovereverafter.com/profile/31990291 "Go to Memorial Information" )</small>
 
 [William Pettigrew](https://adb.anu.edu.au/biography/pettigrew-william-13152) born on 26 August 1825 was the son of an Ayreshire farmer. He trained as a surveyor and as such arrived aboard the *Fortitude* in January 1849. He became a sawmiller, importing the first steam‑powered sawmill in 1853. Pettigrew was elected to the Brisbane Municipal Council three times in the period 1863 – 1881, including the mayoralty in 1870–1871. There is an overlap between his municipal duties and membership of the Queensland Legislative Council from 1877–1894. 
 
