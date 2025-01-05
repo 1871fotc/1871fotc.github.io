@@ -82,7 +82,7 @@ icon: fontawesome/solid/person-walking
     
     ![William Neal Gillies headstone](../assets/william-neal-gillies-headstone.jpg){ width="15%" } 
 
-## William Neil Gillies <small>(18‑106‑20)</small>  
+## William Neil Gillies <small>[(18‑106‑20)](https://brisbane.discovereverafter.com/profile/31798777 "Go to Memorial Information" )</small>  
 
 1868‑1928
 
@@ -107,7 +107,7 @@ For those travelling between Cairns and Atherton, you may find yourself travelli
     ![William Forgan Smith](../assets/william-forgan-smith-headstone.jpg){ width="20%" }  
 
 
-## William Forgan Smith <small>8‑25‑20/21</small> 
+## William Forgan Smith <small>[8‑25‑20/21](https://brisbane.discovereverafter.com/profile/31724331 "Go to Memorial Information" )</small> 
 
 1887‑1953
 
@@ -131,7 +131,7 @@ After his time as Premier he took over the chairmanship of the Central Sugar Can
 
 
 
-## Sir Manuel Richard Hornibrook <small>(18‑116‑18)</small> 
+## Sir Manuel Richard Hornibrook <small>[(18‑116‑18)](https://brisbane.discovereverafter.com/profile/31664174 "Go to Memorial Information" )</small> 
 
 1893‑1970
 
@@ -214,7 +214,7 @@ https://vimeo.com/176117452
     
     ![Frederic Charles Urquhart's headstone](../assets/frederic-charles-urquhart-headstone.jpg){ width="15%" }
 
-## Frederic Charles Urquhart <small>(25‑31‑8)</small>
+## Frederic Charles Urquhart <small>[(25‑31‑8)](https://brisbane.discovereverafter.com/profile/31984774 "Go to Memorial Information" )</small>
 
 <!-- 1858‑1935  -->
 

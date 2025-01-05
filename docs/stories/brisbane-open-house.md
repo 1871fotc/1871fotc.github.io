@@ -24,7 +24,9 @@ Introduction
     ![](../assets/404.png){ width="15%" }
 -->
 
-## Andrew Petrie <small>(13‑5‑5)</small>
+## Andrew Petrie <small>[(13‑5‑5)](https://brisbane.discovereverafter.com/profile/31678021 "Go to Memorial Information" )</small>
+
+<!-- WRONG? No burial record -->
 
 Andrew Petrie was born in Fife, Scotland, on 25 June 1798 to Walter Petrie and Margaret (née Hutchison). Mary Cuthbertson married Andrew in Edinburgh 1821. In 1831 the family arrived in Sydney aboard the *Stirling Castle*. In 1837, Andrew, as clerk of works, arrived in Moreton Bay with his family aboard the *James Watt*. Sandy blight robbed Andrew of his eyesight in 1848, but he kept control of his business. Andrew died on 20 February 1872.
 
@@ -125,7 +127,7 @@ Andrew Petrie was born in Fife, Scotland, on 25 June 1798 to Walter Petrie and M
 https://onesearch.slq.qld.gov.au/discovery/fulldisplay?docid=alma99183732171902061&context=L&vid=61SLQ_INST:SLQ&lang=en
 -->
 
-## Joshua Jeays <small>(13‑62‑13/14)</small>
+## Joshua Jeays <small>[(13‑62‑13/14)](https://brisbane.discovereverafter.com/profile/31912083 "Go to Memorial Information" )</small>
 
 Joshua Jeays was born in Bardon, Leicester in 1812. Sarah Edwyn married Joshua in Marylebone, Middlesex on 10 June 1839. The family of six arrived in Moreton Bay on 26 February 1853 aboard the *Agricola*. Joshua served as an Alderman between 1859 and 1867 and was Brisbane's fourth mayor in 1864. Joshua died at his North Quay residence on Friday 11 March 1881 aged 69 years.
 

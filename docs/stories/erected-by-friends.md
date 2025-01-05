@@ -43,7 +43,7 @@ hide:
 --8<-- "snippets/william-henry-sowray.md"
 
 
-## Peter Jackson <small>(5‑28‑1)</small>
+## Peter Jackson <small>[(5‑28‑1)](https://brisbane.discovereverafter.com/profile/31848065 "Go to Memorial Information" )</small>
 
 Peter was born on 3 July 1861 at Christiansted, St Croix in what was then the Danish West Indies. He was the son of Peter Jackson, a warehouseman and his wife, and grandson of a freed slave who had been owned by a planter with the surname of Jackson. 
 
