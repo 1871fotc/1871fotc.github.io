@@ -1,4 +1,4 @@
-## Alfred Cannon <small>(4‑1‑21/22)</small> and Joseph Cripps <small>(4‑28‑6)</small>
+## Alfred Cannon <small>[(4‑1‑21/22)](https://brisbane.discovereverafter.com/profile/31706690 "Go to Memorial Information" )</small> and Joseph Cripps <small>[(4‑28‑6)](https://brisbane.discovereverafter.com/profile/31693943 "Go to Memorial Information" )</small>
 
 Cannon and Cripps was formed in 1887 by Alfred Cannon and his brother-in-law Joseph Cripps. 
 

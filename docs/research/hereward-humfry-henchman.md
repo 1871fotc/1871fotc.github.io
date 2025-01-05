@@ -1,19 +1,19 @@
 ---
-title: Hereward Humfy Henchman
+title: Hereward Humfry Henchman
 hide:
   - toc
   - navigation 
 ---
 
-# Hereward Humfy Henchman
+# Hereward Humfry Henchman
 
 **29 November 1874 — 25 April 1939**
 
---8<-- "snippets/hereward-humfy-henchman.md"
+--8<-- "snippets/hereward-humfry-henchman.md"
 
 <!-- 
 
---8<-- "snippets/headstone/hereward-humfy-henchman-headstone.md"
+--8<-- "snippets/headstone/hereward-humfry-henchman-headstone.md"
 
 ### Learn more 
 -->

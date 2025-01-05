@@ -1,4 +1,4 @@
-## Sir Horace Tozer <small>(12‑11‑8)</small>
+## Sir Horace Tozer <small>[(12‑11‑8)](https://brisbane.discovereverafter.com/profile/31764994 "Go to Memorial Information" )</small>
 
 Sir Horace Tozer was born on 23 April 1844 at Port Macquarie, New South Wales, son of Horatio Thomas Norris Tozer, chemist, and his wife Charlotte Winifred Amelia (née Croft). He was articled to James Malbon Thompson in Brisbane in 1862 and admitted as a solicitor of the Supreme Court of Queensland on 7 December 1867. 
 

@@ -1,4 +1,4 @@
-## Hercules Smith <small>(5‑40‑9)</small>
+## Hercules Smith <small>[(5‑40‑9)](https://brisbane.discovereverafter.com/profile/31843646 "Go to Memorial Information" )</small>
 
 Hercules was the second principal of the Toowong State School, a position he held for 27 years from January 1882 until retirement in March 1909.
 

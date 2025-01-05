@@ -1,5 +1,5 @@
 
-## Henry William Mobsby <small>(5‑61‑11)</small>
+## Henry William Mobsby <small>[(5‑61‑11)](https://brisbane.discovereverafter.com/profile/31993668 "Go to Memorial Information" )</small>
 
 Mosby was an artist, photographer and motion picture pioneer. He was born on 17 August 1860 at Hove, Sussex, son of William Mobsby, watchman, and his wife Sarah, née Humphrys. Henry trained in art, design, chemistry and commercial practice at the School of Arts, Brighton, and in London. In 1883 he accompanied artist Isaac Jenner to Queensland. Mobsby married Jenner's eldest daughter Mary Ellen on 10 September 1884 in Brisbane, and for some years taught decorative art at Brisbane Technical College. 
 

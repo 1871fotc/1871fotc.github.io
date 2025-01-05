@@ -1,4 +1,4 @@
-## Hugh Mosman <small>(13‑88‑3)</small>
+## Hugh Mosman <small>[(13‑88‑3)](https://brisbane.discovereverafter.com/profile/31865567 "Go to Memorial Information" )</small>
 
 Hugh Mosman was born on 11 February 1843 to Archibald Mosman and Harriet (née Farquharson). Hugh headed to Queensland in 1860, attracted by the pastoral boom. Hugh turned to prospecting in the Ravenswood area when the economy declined. Hugh's Aboriginal servant, young Jupiter Mosman, is credited with the gold discovery at the place Hugh subsequently named Charters Towers. 
 

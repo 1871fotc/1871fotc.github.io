@@ -14,7 +14,7 @@ hide:
 
 --8<-- "snippets/daniel-george-bloomfield.md"
 
---8<-- "snippets/hereward-humfy-henchman.md"
+--8<-- "snippets/hereward-humfry-henchman.md"
 
 ## The Harding Family <small>(5‑101‑30)</small>
 
