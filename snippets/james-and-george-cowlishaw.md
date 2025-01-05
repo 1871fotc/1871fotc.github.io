@@ -1,4 +1,4 @@
-## James and George Cowlishaw <small>(11‑14‑7/7A)</small>
+## James and George Cowlishaw <small>[(11‑14‑7/7A)](https://brisbane.discovereverafter.com/profile/31907506 "Go to Memorial Information" )</small>
 
 James was an architect, newspaper proprietor, director and politician. He was born on 19 December 1834 in Sydney when Sydney was just a village. His brother George was born on 21 April 1841. They were the sons of Thomas Cowlishaw, architect and Maria Evans. James arrived in Brisbane in 1861 and commenced his profession here as an architect. James designed some of the finest buildings of the period including Brisbane Grammar School. He was a director of the  *Brisbane Courier* until 1873 and became managing director of the *Brisbane Telegraph* in 1878 and chairman of the Telegraph Newspaper Co from December 1879 to May 1885. 
 

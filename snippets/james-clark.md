@@ -1,4 +1,4 @@
-## James Clark <small>(14‑22‑12)</small>
+## James Clark <small>[(14‑22‑12)](https://brisbane.discovereverafter.com/profile/31913691 "Go to Memorial Information" )</small>
 
 [James Clark](https://adb.anu.edu.au/biography/clark-james-5664) "The Pearl King" (1857-1933) was born on the Hunter River in NSW. When he was three, he came to Brisbane with his mother and siblings, following the death of his father Adam. After a rudimentary education, he began work as a plasterers' boy at James Campbell & Co. 
 

@@ -1,8 +1,8 @@
-## James Campbell <small>(12‑15‑4)</small>
+## James Campbell <small>[(12‑15‑4)](https://brisbane.discovereverafter.com/profile/31874552 "Go to Memorial Information" )</small>
 
 4 November 1838 - 13 September 1925
 
-## Sarah Ann Campbell <small>(12‑15‑4)</small>
+## Sarah Ann Campbell <small>[(12‑15‑4)](https://brisbane.discovereverafter.com/profile/31966495 "Go to Memorial Information" )</small>
 
 March 1845 - 20 July 1935
 

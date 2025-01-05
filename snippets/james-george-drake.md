@@ -1,4 +1,4 @@
-## James George Drake <small>(18‑136‑3)</small>
+## James George Drake <small>[(18‑136‑3)](https://brisbane.discovereverafter.com/profile/32001980 "Go to Memorial Information" )</small>
 
 James was born on 26 April 1850 in London. He arrived in Brisbane on 14 January 1874. He became a journalist working on regional newspapers as well as the Brisbane Telegraph and the *Brisbane Courier* and, briefly, the *Melbourne Argus*. A competent shorthand writer, later president of the Queensland Shorthand Writers' Association, James was on the parliamentary reporting staff from 1876-1882. He studied law in his spare time and was called to the bar in 1882. Long a radical, his objection to Asian immigration into Queensland led him into association with William Lane. He became a shareholder, writer and joint editor of Lane's weekly *Boomerang* in 1887. 
 

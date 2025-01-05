@@ -1,4 +1,4 @@
-## James Porter Fry <small>(8‑31‑31/32)</small>
+## James Porter Fry <small>[(8‑31‑31/32)](https://brisbane.discovereverafter.com/profile/31884317 "Go to Memorial Information" )</small>
 
 James Porter Fry was born in West End, South Brisbane on 10 March 1880, to Charles Fry and Caroline (née Davies). James was educated at West End State School. James joined the Queensland Rifles in July 1897.
 

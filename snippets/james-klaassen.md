@@ -1,4 +1,4 @@
-## James Klaassen <small>(7A‑138‑21/22)</small>
+## James Klaassen <small>[(7A‑138‑21/22)](https://brisbane.discovereverafter.com/profile/31817872 "Go to Memorial Information" )</small>
 
 <!-- circa 1873 - 13 March 1925 -->
 

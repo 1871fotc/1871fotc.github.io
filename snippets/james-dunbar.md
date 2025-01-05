@@ -1,4 +1,4 @@
-## James Dunbar <small>(1‑8‑14)</small>
+## James Dunbar <small>[(1‑8‑14)](https://brisbane.discovereverafter.com/profile/31891245 "Go to Memorial Information" )</small>
 
 James Dunbar (ca. 1837-1920) was appointed station keeper at the Central Fire Station in Edward Street in 1867 and was [the oldest known fireman in Brisbane](https://trove.nla.gov.au/newspaper/article/179640595) when he died at the age of 83 on 22 November 1920. His service spanned the period from when hand drawn fire appliances were used to the introduction of motor fire trucks.
 

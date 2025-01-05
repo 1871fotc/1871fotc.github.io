@@ -1,4 +1,4 @@
-## James McWhirter <small>(18‑98‑3/7)</small> 
+## James McWhirter <small>[(18‑98‑3/7)](https://brisbane.discovereverafter.com/profile/31758987 "Go to Memorial Information" )</small> 
 
 <!-- 1878‑1919 -->
 

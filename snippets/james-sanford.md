@@ -1,4 +1,4 @@
-## Private James Sanford M.M. <small>(2A‑24‑1/2)</small>
+## Private James Sanford M.M. <small>[(2A‑24‑1/2)](https://brisbane.discovereverafter.com/profile/31811933 "Go to Memorial Information" )</small>
 
 Service Number: 5753. 9^th^ Battalion 
 

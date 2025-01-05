@@ -1,4 +1,4 @@
-## James Cowlishaw <small>(11‑41‑7A)</small>
+## James Cowlishaw <small>[(11‑41‑7A)](https://brisbane.discovereverafter.com/profile/31677939 "Go to Memorial Information" )</small>
 
 James Cowlishaw’s association with the Toowong Cemetery [spanned 59 years](https://trove.nla.gov.au/newspaper/article/179102065) from the inception of the trust. He was an architect, newspaper proprietor, director and politician. James was born on 19 December 1834 in Sydney, the eldest son of Thomas Cowlishaw, architect, and his wife Maria, née Evans. Educated at St James's Grammar School, Sydney, he tried a number of jobs before studying architecture. About 1860 Cowlishaw came to Brisbane where designed the Commercial Bank of Sydney in Queen Street, the Boys' Grammar School as well as important houses, such as Bishopsbourne. He designed a store for Alexander Raff's brother's company, George Raff and Co. in 1862 and two years later, additions to Raff's Wharf.
 

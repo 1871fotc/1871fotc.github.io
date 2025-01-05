@@ -1,4 +1,4 @@
-## James William Wassell <small>(13‑65‑10)</small>
+## James William Wassell <small>[(13‑65‑10)](https://brisbane.discovereverafter.com/profile/32007122 "Go to Memorial Information" )</small>
 
 James William Wassell was the son of Joseph Wassell and Jane (née Chandler). His father was one of the inner pilots of Portsmouth Harbour. James was born on 10 February 1841 at Fareham, just outside of Portsmouth.
 
