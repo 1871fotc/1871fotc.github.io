@@ -1,4 +1,4 @@
-## Henry Bloomfield Gough <small>(2‑44‑21)</small>
+## Henry Bloomfield Gough <small>[(2‑44‑21)](https://brisbane.discovereverafter.com/profile/31836965 "Go to Memorial Information" )</small>
 
 <!--
 https://trove.nla.gov.au/newspaper/article/79737096

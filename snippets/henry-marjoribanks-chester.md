@@ -1,4 +1,4 @@
-## Henry Marjoribanks Chester <small>(7‑59‑11)</small>  
+## Henry Marjoribanks Chester <small>[(7‑59‑11)](https://brisbane.discovereverafter.com/profile/32024067 "Go to Memorial Information" )</small>  
 
 Chester was born in London in 1832, where he was educated. He entered the service of the Indian navy in 1849, and remained an officer in it until its abolition in 1862 when he migrated to Queensland. He entered the public service in January 1866. At first in the Lands Department he was responsible for surveying the town sites of Charleville and Cunnamulla, and then became government land agent at Gladstone in 1867 and Gympie in 1868. In January 1869 he was appointed police magistrate at Somerset, on the northern tip of Cape York Peninsula, but resigned in August 1870 and left the service for five years. From 1875 to 1903 Chester served continually as a police magistrate. He was often appointed to remote and difficult communities in north Queensland. 
 

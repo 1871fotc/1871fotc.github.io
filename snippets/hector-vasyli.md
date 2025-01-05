@@ -1,4 +1,4 @@
-## Hector Vasyli <small>(10‑38‑24)</small>
+## Hector Vasyli <small>[(10‑38‑24)](https://brisbane.discovereverafter.com/profile/32008103 "Go to Memorial Information" )</small>
 
 On Sunday 9 June 1918 a procession of returned servicemen conveyed by motor vehicle left the military hospital at Kangaroo Point headed for Queen Street. About sixty cars made up the motorcade; they were provided and driven by local residents. Four or five young boys had gathered near the southern end of Victoria Bridge. One of these boys was eleven year‑old, Hector Vasyli. His family owned an oyster saloon on Melbourne Street, South Brisbane. Young Hector was very patriotic and known to save up his money to buy presents and throw them to the returned servicemen as they passed by on parade. On the day in question he was doing just that when the tragedy unfolded.
 
