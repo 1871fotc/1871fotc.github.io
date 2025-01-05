@@ -1,4 +1,4 @@
-## Peter Morgan <small>(1‑88‑4)</small>
+## Peter Morgan <small>[(1‑88‑4)](https://brisbane.discovereverafter.com/profile/31838029 "Go to Memorial Information" )</small>
 
 Peter was an extremely capable rider. According to those who knew him he was as good as George Moore, Neville Sellwood, Russ Maddock and Digger McGrowdie. All Queenslanders like him. He was well regarded by all in the racing game. He had one failing though and that was his lack of confidence in himself. There were many occasions when he rode a horse trackwork and prepared it for a major race but declined to ride the horse in a major event for fear of making a mistake. He never faltered in minor events but would rather sit on the fence when it came to the big races. That is not to say he did not ride in some big races and with success. 
 

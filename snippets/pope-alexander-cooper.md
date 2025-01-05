@@ -1,4 +1,4 @@
-## Sir Pope Alexander Cooper <small>(13‑37‑1)</small>
+## Sir Pope Alexander Cooper <small>[(13‑37‑1)](https://brisbane.discovereverafter.com/profile/31799132 "Go to Memorial Information" )</small>
 
 Deputy Governor for short periods in 1917 to 1919
 

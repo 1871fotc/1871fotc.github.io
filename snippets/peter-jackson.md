@@ -1,4 +1,4 @@
-## Peter Jackson <small>(5‑28‑1)</small>
+## Peter Jackson <small>[(5‑28‑1)](https://brisbane.discovereverafter.com/profile/31848065 "Go to Memorial Information" )</small>
 
 Peter Jackson was born on 3 July 1861 and was Australian Heavyweight Champion 1886-1888. One of the legendary Boxers and probably the most famous sportsperson buried in Brisbane. World Heavyweight Champion John L. Sullivan refused to fight Jackson because of his colour. Jackson fought a 61 round draw with James J Corbett in San Francisco on 21 May 1891. James (Gentleman Jim) Corbett later went on to beat John Sullivan for the Heavyweight Championship.
 
