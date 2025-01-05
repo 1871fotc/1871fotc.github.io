@@ -1,4 +1,4 @@
-## Robert James Simpson <small>(20‑19‑30)</small>
+## Robert James Simpson <small>[(20‑19‑30)](https://brisbane.discovereverafter.com/profile/31731837 "Go to Memorial Information" )</small>
 
 The *Daily Standard* reported a *["Seaman's fatal immersion"](https://trove.nla.gov.au/newspaper/article/179405429?searchTerm=%22Robert%20Simpson%22)* on Wednesday 29 May 1918. 
 

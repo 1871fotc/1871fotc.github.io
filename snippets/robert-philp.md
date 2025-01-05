@@ -1,4 +1,4 @@
-## Sir Robert Philp <small>(14‑23‑10)</small>
+## Sir Robert Philp <small>[(14‑23‑10)](https://brisbane.discovereverafter.com/profile/31724868 "Go to Memorial Information" )</small>
 
 Sir Robert Philp was born on 28 December 1851 at Glasgow, Scotland, son of John Philp, lime kiln operator, and his wife Mary Ann (née Wylie). The family settled in Brisbane in 1862. After leaving school, young Robert joined the business of Sir James Burns at the northern goldfields port of Townsville in 1874, becoming a partner in the business in 1876. The Burns Philp partership flourished. 
 

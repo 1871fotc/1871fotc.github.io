@@ -1,4 +1,4 @@
-## Robert Orton <small>(5‑66‑4)</small>
+## Robert Orton <small>[(5‑66‑4)](https://brisbane.discovereverafter.com/profile/31973092 "Go to Memorial Information" )</small>
 
 Orton served with the 9^th^ Lancers for twelve years including service in the second Afghanistan War from 1878 to 1880. He resigned from the army in 1885 and worked briefly for Queensland railways before making his application to be a police constable in October that year. He was stationed at South Brisbane in October 1899 when he wrote a letter seeking permission to join A Company, 1^st^ Queensland Mounted Infantry. Some of the officers he had served under in Afghanistan were at the Boer War and he was keen to join them. He was granted six months leave without pay. So he was one of ‘the first of the first’ Queenslanders to go to the Boer War. 
 
