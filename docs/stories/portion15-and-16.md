@@ -29,7 +29,7 @@ Richard Belford died on 28 April 1865 and was interred in the North Brisbane Bur
 
 --8<-- "snippets/james-edwin-ramsbotham.md"
 
-## Toppin Family <small>(15‑16‑40/41)</small>
+## Toppin Family <small>[(15‑16‑40/41)](https://brisbane.discovereverafter.com/profile/31907767 "Go to Memorial Information" )</small>
 
 The Toppin siblings, Jack, Leo and Madonna were well known child entertainers during WWI and afterward. Leo became manager of some well known Brisbane theatrical venues in the years leading up to WW2.
 
@@ -39,7 +39,7 @@ The Toppin siblings, Jack, Leo and Madonna were well known child entertainers du
 
 --8<-- "snippets/hugh-glackin.md"
 
-## Burton Family <small>(15‑22‑11/12)</small>
+## Burton Family <small>[(15‑22‑11/12)](https://brisbane.discovereverafter.com/profile/31678973 "Go to Memorial Information" )</small>
 
 The Burton family were hoteliers, operating some of Brisbane's landmark hotels in the 19^th^ and 20^th^ centuries.
 

@@ -22,7 +22,7 @@ hide:
 
 --8<-- "snippets/arthur-hunter-palmer.md"
 
-## Rt. Hon. Sir Samuel Walker Griffith <small>(12‑11‑6/7)</small>
+## Rt. Hon. Sir Samuel Walker Griffith <small>[(12‑11‑6/7)]](https://brisbane.discovereverafter.com/profile/31688994 "Go to Memorial Information" )</small>
 
 Lieutenant Governor - 21 December 1901 to 24 March 1902
 
@@ -39,7 +39,7 @@ On 16 March 1917 Griffith suffered a stroke while on the bench and was temporari
 *<small>[Sir Samuel Walker Griffith and family](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218185350002061) - State Library of Queensland </small>*
 
 
-## Hon. Sir Arthur Morgan <small>(12‑15‑12)</small>
+## Hon. Sir Arthur Morgan <small>[(12‑15‑12)](https://brisbane.discovereverafter.com/profile/31776483 "Go to Memorial Information" )</small>
 
 Lieutenant Governor:
 

@@ -22,7 +22,7 @@ hide:
 --8<-- "snippets/jessie-philp-2.md"
 
 
-## Emma Miller <small>(13‑6‑5/6)</small>
+## Emma Miller <small>[(13‑6‑5/6)](https://brisbane.discovereverafter.com/profile/31795910 "Go to Memorial Information" )</small>
 
 Emma was born Emma Holmes in Chesterfield, Derbyshire, in June 1839. On 15 September 1857 at Chesterfield Register Office she married Jabez Mycroft Silcock, a bookkeeper with whom she had eloped. He died in 1870 leaving her with four small children to support. Emma was a gentlemen’s shirtmaker and she began to take in piecework, working twelve hours per day, six days per week. 
 

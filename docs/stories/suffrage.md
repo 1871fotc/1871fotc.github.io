@@ -30,7 +30,7 @@ hide:
 
 --8<-- "snippets/justin-fox-greenlaw-foxton.md"
 
-## Emma Miller <small>(13‑6‑5/6)</small>
+## Emma Miller <small>[(13‑6‑5/6)](https://brisbane.discovereverafter.com/profile/31795910 "Go to Memorial Information" )</small>
 
 Emma was born in June 1839 in Chesterfield, Derbyshire. Her parents were Daniel Holmes a Chartist, and Martha (née Hollingworth). Emma arrived in Brisbane in 1879. She led the campaign for women's suffrage in Queensland as well as being at the forefront of the struggle for better working conditions for women workers. She was a foundation member of the Australian Labor Party. She campaigned tirelessly for freedom from conscription. Emma was president of the Women's Equal Franchise Association for the whole period of its existence, from 1894 to 1905 when white women in Queensland won the right to vote in state elections. Emma Miller died of cancer on 22 January 1917, two days after making her last speech to the Toowoomba Anti‑conscription League.
 

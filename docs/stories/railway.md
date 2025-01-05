@@ -44,7 +44,7 @@ hide:
 
 --8<-- "snippets/john-adamson.md"
 
-## Michael Joseph Devitt <small>(15‑29‑6)</small>
+## Michael Joseph Devitt <small>[(15‑29‑6)](https://brisbane.discovereverafter.com/profile/31902992 "Go to Memorial Information" )</small>
 
 Michael Joseph Devitt was born in 1892 in Warwick Queensland to Irish-born parents, Michael Joseph Devitt, a tailor and Catherine née Stokes. He managed railway refreshment rooms at a number of Queensland localities including Babinda, Ipswich, Helidon, Roma Street, Brisbane Exhibition, Bethania and Bundaberg where he and his staff were commended for their excellent service. He was president of the Bundaberg branch of the Australian Railways Union and served on the State council of the Union. He died on 23 May 1932 at the age of 39.
 

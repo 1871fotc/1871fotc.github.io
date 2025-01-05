@@ -15,7 +15,7 @@ hide:
 
 --8<-- "snippets/jane-pittard.md"
 
-## Thomas Dowse <small>(13‑58‑22)</small>
+## Thomas Dowse <small>[(13‑58‑22)](https://brisbane.discovereverafter.com/profile/31704444 "Go to Memorial Information" )</small>
 
 Thomas Dowse was born at Hackney, London. Aged 15, he was accused of theft by his mother, tried at Middlesex on 16 September 1824, convicted and sentenced to life imprisonment. He was transported to New South Wales in the *Florentia* which arrived in January 1828. At St John's, Parramatta, in 19 November 1832 he married Ann Kelly. Only three of their seven children survived infancy. In 1836, Dowse was granted a ticket‑of‑leave and a conditional pardon in 1839. When the Moreton Bay District was opened for free settlement he decided to go there to see what opportunity awaited a man who was in good health and not afraid of hard work. 
 
@@ -27,7 +27,7 @@ A widower at 47, in Brisbane in 1856 he married Sarah Ann Fairfax; they had thre
 
 *<small>[Thomas Dowse](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218687340002061) Brisbane Town Clerk 1862-1868 — State Library of Queensland.</small>*
 
-## Agnes Susan Maclean <small>(5‑107‑19)</small>
+## Agnes Susan Maclean <small>[(5‑107‑19)](https://brisbane.discovereverafter.com/profile/31822212 "Go to Memorial Information" )</small>
 
 Agnes Susan Maclean was christened Susannah Agnes Kable, the grand‑daughter of First Fleet Convicts Henry Kable and Susannah Holmes and Second Fleet Marine William Charlton and Convict Mary Gittos. Born in Windsor, NSW; Susannah was the eldest of 6 children. Susannah's father William Nathaniel Kable died when she was 11. 
 
@@ -39,7 +39,7 @@ Agnes Susannah, as she was now known, claimed the right to vote in 1905, in her 
 
 --8<-- "snippets/edward-mott.md"
 
-## Kevin Izod O’Doherty <small>(7‑58‑27)</small>
+## Kevin Izod O’Doherty <small>[(7‑58‑27)](https://brisbane.discovereverafter.com/profile/31910142 "Go to Memorial Information" )</small>
 
 Kevin O’Doherty was born in Dublin, son of solicitor William Dougherty and Anne McEvoy. He studied at the Catholic School of Medicine in 1844. He was convicted as a ‘Young Irelander’ and transported to Sydney in 1848 on the Mt Stewart Elphinstone and then on the Emma to Tasmania with fellow conspirators where he served time at Port Arthur. After five years he was given a conditional pardon (not allowed to return to Ireland) and went to Paris before marrying, in London, in 1855 writer Mary Eva Kelly of Galway (Eva of The Nation). In 1856 O’Doherty received a full pardon and went to Dublin to get his Medical Degree from 1857 to 1859.
 

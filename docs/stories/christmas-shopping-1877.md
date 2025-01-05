@@ -24,7 +24,7 @@ hide:
 
 --8<-- "snippets/francis-ramsay.md"
 
-## Richard Symes Warry <small>(13‑49‑22)</small>
+## Richard Symes Warry <small>[(13‑49‑22)](https://brisbane.discovereverafter.com/profile/31827143 "Go to Memorial Information" )</small>
 
 Another of Brisbane's earliest Queen Street shopkeepers was the grocer Richard Warry who was also Mayor of Brisbane 1866-1867. He was born in Somerset, England in 1829, the son of Thomas Warry and his wife Maria (née Symes). Richard married Mary Lydia Pratten on 25 January 1851 in Brisbane. He died on 12 March 1891 at his residence *Timsbury*, Samford Road, Enoggera aged 62, after a long and painful illness. In 1877 his grocery store was situated opposite the Brisbane GPO.
 
@@ -41,7 +41,7 @@ Another of Brisbane's earliest Queen Street shopkeepers was the grocer Richard W
 
 --8<-- "snippets/john-anderson-kenion.md"
 
-## Thomas Finney <small>(13‑81‑6)</small>
+## Thomas Finney <small>[(13‑81‑6)](https://brisbane.discovereverafter.com/profile/31851115 "Go to Memorial Information" )</small>
 
 The merchant and politician, Thomas Finney was born on 10 January 1837 at *Currakeen House*, Tuam, Galway, Ireland, son of Thomas Finney and his wife Eliza, née Cornwall. In 1862 he arrived in Brisbane on the *Flying Cloud* with his friend, James Isles with whom he went into business as Finney Isles & Co two years later. [Thomas died on 16 December 1903](https://adb.anu.edu.au/biography/finney-thomas-3518) at his home, *Sidney House*, Toowong.
 
