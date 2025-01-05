@@ -1,4 +1,4 @@
-## William Robert Black <small>(8‑43‑33/34)</small> 
+## William Robert Black <small>[(8‑43‑33/34)](https://brisbane.discovereverafter.com/profile/31696692 "Go to Memorial Information" )</small> 
 
 <!-- 1859‑1930 -->
 

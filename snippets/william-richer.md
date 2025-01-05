@@ -1,4 +1,4 @@
-## William Richer <small>(11‑7‑28)</small>
+## William Richer <small>[(11‑7‑28)](https://brisbane.discovereverafter.com/profile/32038857 "Go to Memorial Information" )</small>
 
 William, a member of the Jireh Baptist Church, Fortitude Valley, was the first minister of the Toowong Baptist Church and was elected to the Toowong Shire Council in 1881. He designed and constructed the Baptist Church on the corner of Jephson Street and Sylvan Road and later became President of the Baptist Union.
 

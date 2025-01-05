@@ -1,4 +1,4 @@
-## William Pettigrew <small>(13‑66‑2)</small>
+## William Pettigrew <small>[(13‑66‑2)](https://brisbane.discovereverafter.com/profile/31990291 "Go to Memorial Information" )</small>
 
 [William Pettigrew](https://adb.anu.edu.au/biography/pettigrew-william-13152) born on 26 August 1825 was the son of an Ayreshire farmer. He trained as a surveyor and as such arrived aboard the *Fortitude* in January 1849. He became a sawmiller, importing the first steam‑powered sawmill in 1853. Pettigrew was elected to the Brisbane Municipal Council three times in the period 1863 – 1881, including the mayoralty in 1870–1871. There is an overlap between his municipal duties and membership of the Queensland Legislative Council from 1877–1894. 
 

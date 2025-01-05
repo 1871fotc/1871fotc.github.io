@@ -1,4 +1,4 @@
-## William Perry <small>(13‑70‑1)</small>
+## William Perry <small>[(13‑70‑1)](https://brisbane.discovereverafter.com/profile/32023147 "Go to Memorial Information" )</small>
 
 William Perry was one of Brisbane's earliest businessmen. He arrived in Brisbane in June 1860 and had set up a hardware store in Queen St by August of that year. He was joined in business by his brothers George and Frederick. The business thrived, and further flourished under William's sons, Herbert and George. 
 

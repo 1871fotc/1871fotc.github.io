@@ -1,4 +1,4 @@
-## William Robert Colledge <small>(4‑15‑9/10)</small>
+## William Robert Colledge <small>[(4‑15‑9/10)](https://brisbane.discovereverafter.com/profile/31750756 "Go to Memorial Information" )</small>
 
 William was born about 1842 in Gateshead, Durham, England, the son of a coal miner. He became a pharmaceutical chemist in the seaside town of Newbigginin Northumberland before migrating to Australia with his mother and sister in 1884. He registered to practise as a pharmacist in Brisbane in the same year. 
 

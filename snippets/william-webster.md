@@ -1,4 +1,4 @@
-## William Webster <small>(1‑37-6)</small>
+## William Webster <small>[(1‑37-6)](https://brisbane.discovereverafter.com/profile/31970828 "Go to Memorial Information" )</small>
 
 A Scottish merchant, William died at his home *Arley*, Toowong, aged 66 in 1895. William purchased *Arley*, opposite the railway station after its previous owner, bank manager Alexander Archer, drowned in the *Quetta* shipwreck in 1890.
 

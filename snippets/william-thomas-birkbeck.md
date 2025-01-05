@@ -1,4 +1,4 @@
-## William Thomas Birkbeck <small>(9‑16‑8/9)</small>
+## William Thomas Birkbeck <small>[(9‑16‑8/9)](https://brisbane.discovereverafter.com/profile/31799979 "Go to Memorial Information" )</small>
 
 William was born in St Pancras, Middlesex to George Henry Birkbeck, mechanical engineer, and Elizabeth (née Christmas) on 30 January 1848. William sailed to Brisbane aboard the *Young Australia*, arriving on 13 July 1869. Kate Jackson married William in Brisbane on 2 March 1876. 
 

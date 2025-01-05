@@ -1,4 +1,4 @@
-## William Walter Brown <small>(18‑25‑47B)</small>
+## William Walter Brown <small>[(18‑25‑47B)](https://brisbane.discovereverafter.com/profile/31652021 "Go to Memorial Information" )</small>
 
 William Walter Brown, Lance Corporal 4799109, was born on 12 November 1911 in Bilsthorpe Road, Southwell, in the County of Nottinghamshire to Walter Brown (Farm Labourer - Retired) and Kate Dowman. Bill was the eldest boy and Anne, Edward, Wilford, Mary, Victor followed. All the boys joined the Army in the Second World War.
 
