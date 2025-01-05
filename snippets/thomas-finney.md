@@ -1,4 +1,4 @@
-## Thomas Finney <small>(13‑81‑6)</small>
+## Thomas Finney <small>[(13‑81‑6)](https://brisbane.discovereverafter.com/profile/31851115 "Go to Memorial Information" )</small>
 
 [Thomas Finney](https://adb.anu.edu.au/biography/finney-thomas-3518) and his family lived in *Sidney House* (on the site of the former ABC Studios in Toowong) from 1882, one of the grandest houses in Toowong, surrounded by gardens and an orchard. He is buried next to his business partner James Isles with whom he [established Finney Isles & Co.](https://trove.nla.gov.au/newspaper/article/182631732) in 1864.
 

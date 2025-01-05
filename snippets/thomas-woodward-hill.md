@@ -1,4 +1,4 @@
-##  Thomas Woodward Hill <small>(13‑42‑22)</small>
+##  Thomas Woodward Hill <small>[(13‑42‑22)](https://brisbane.discovereverafter.com/profile/31789099 "Go to Memorial Information" )</small>
 
 Thomas Woodward Hill, born in Bedford, England on 31 December 1816 to Joseph Hill (printer) & Susanna (née Woodward), was already a compositor when he embarked for Australia aboard the *Mary* in 1839. He worked on newspapers in Sydney, Melbourne and Nelson, New Zealand, before arriving in Queensland on 23 December 1859. Thomas became father to three children when he married widow Agnes Caroline Rains in the Wharf Street Baptist Church, Brisbane on 29 November 1861.
 

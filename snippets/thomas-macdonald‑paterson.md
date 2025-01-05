@@ -1,6 +1,6 @@
-## Thomas Macdonald‑Paterson MLC <small>(12‑53-10)</small> 
+## Thomas Macdonald Paterson MLC <small>[(12‑53-10)](https://brisbane.discovereverafter.com/profile/31731616 "Go to Memorial Information" )</small> 
 
-![Thomas Macdonald‑Paterson](../assets/thomas-macdonald‑paterson.jpg){ width="40%" } 
+![Thomas Macdonald Paterson](../assets/thomas-macdonald‑paterson.jpg){ width="40%" } 
 
 *<small>[Politician Thomas MacDonald Paterson, 1885](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218125040002061) - State Library of Queensland</small>*
 

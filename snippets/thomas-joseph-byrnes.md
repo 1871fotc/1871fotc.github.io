@@ -1,4 +1,4 @@
-## Thomas Joseph Byrnes <small>(7‑47‑5)</small>
+## Thomas Joseph Byrnes <small>[(7‑47‑5)](https://brisbane.discovereverafter.com/profile/31779965 "Go to Memorial Information" )</small>
 
 Byrnes was born in Brisbane in 1860 the son of Patrick Byrnes and Anna Tighe from Sligo. The family had settled first in Bowen. Byrnes was educated at Brisbane Grammar and Melbourne University. Byrnes taught at Xavier College, Kew, Melbourne from 1882‑83 before being admitted to the Victoria Bar in 1884. He established a legal firm in Brisbane 1885 and became a Supreme Court barrister in due course. 
 

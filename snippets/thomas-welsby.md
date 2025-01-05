@@ -1,4 +1,4 @@
-## Thomas Welsby <small>(13‑9‑1)</small>
+## Thomas Welsby <small>[(13‑9‑1)](https://brisbane.discovereverafter.com/profile/31711863 "Go to Memorial Information" )</small>
 
 <!-- From graveside information sign -->
 

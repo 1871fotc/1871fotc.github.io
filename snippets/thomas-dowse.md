@@ -1,4 +1,4 @@
-## Thomas Dowse <small>(13‑58‑22)</small>
+## Thomas Dowse <small>[(13‑58‑22)](https://brisbane.discovereverafter.com/profile/31704444 "Go to Memorial Information" )</small>
 
 In September 1824 15-year-old Thomas was tried for theft at the Old Bailey and sentenced to death, later commuted to transportation for life. Initially incarcerated on the prison hulks *Bellerophon* and *Euryalus*, he embarked on the convict ship *Florentia* bringing him to Port Jackson arriving in January 1828. He served eight years before receiving a ticket of leave in 1836 and a conditional pardon in 1839. 
 

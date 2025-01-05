@@ -1,4 +1,4 @@
-## Thomas Joseph Ryan <small>(7A‑3A‑1)</small>  
+## Thomas Joseph Ryan <small>[(7A‑3A‑1)](https://brisbane.discovereverafter.com/profile/31834057 "Go to Memorial Information" )</small>  
 
 Ryan was born in 1875 at Boothapool near Port Fairy (also known as Belfast), the son of Timothy Joseph Ryan and Jane Cullen. The family arrived from Ireland in 1860. Ryan began his education at Melbourne University and studied law while teaching classics at Church Grammar, Launceston, Tasmania. He obtained his degree in 1899. 
 

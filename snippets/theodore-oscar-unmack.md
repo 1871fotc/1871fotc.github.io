@@ -1,4 +1,4 @@
-## Theodore Oscar Unmack <small>(13‑4‑12)</small>
+## Theodore Oscar Unmack <small>[(13‑4‑12)](https://brisbane.discovereverafter.com/profile/31756830 "Go to Memorial Information" )</small>
 
 German‑born Theodore Unmack (21 November 1835 ‑ 17 September 1919) arrived in Brisbane in 1860. He chaired a meeting at St. Andreas Lutheran Church in 1865 during a difficult time in the congregation. His first wife was Robina Bryce the daughter of John Bryce Glassford and Margaret Forsyth. She died on 10 September 1874 aged 39. The couple’s eldest son, Herbert Theodore died in Hamburg on 30 July 1869 aged 8 years and 8 months. 
 

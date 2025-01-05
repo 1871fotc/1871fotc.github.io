@@ -1,4 +1,4 @@
-## Private Thomas Morell <small>(10‑39‑15)</small>
+## Private Thomas Morell <small>[(10‑39‑15)](https://brisbane.discovereverafter.com/profile/?? "Go to Memorial Information" )</small>
 
 Service number: 3980. 26^th^ Battalion
 
