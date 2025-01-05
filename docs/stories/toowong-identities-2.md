@@ -32,7 +32,9 @@ On 19 August 1903, the Shire of Toowong was proclaimed a town. At the time, the 
     Walk to the Caskey monument and turn left. You should come across the polished red granite grave of the McGregor‑Lowndes family...
 --> 
 
-## Victor and Jean McGregor‑Lowndes <small>(4‑16‑20/21)</small>
+## Victor and Jean McGregor‑Lowndes <small>[(4‑16‑20/21)](https://brisbane.discovereverafter.com/profile/31974659 "Go to Memorial Information" )</small>
+
+<!-- WRONG? not in burial entry -->
 
 Born in 1884, Victor was a Justice of the Peace and a Mason. He died at his home, *Craig‑Royston*, Toowong on 21 July 1951. His wife, Jean, was also a JP and a prominent citizen, honoured as a Member of the British Empire. Jean died in June 1976, aged 89.
 
@@ -43,7 +45,7 @@ Born in 1884, Victor was a Justice of the Peace and a Mason. He died at his home
     Return to the road and walk along it until you reach a tap on the right hand side. Nearby are...
 -->
 
-## Mary Elizabeth Weedon and Annie Griffiths <small>(4‑3‑20)</small>
+## Mary Elizabeth Weedon and Annie Griffiths <small>[(4‑3‑20)](https://brisbane.discovereverafter.com/profile/31791584 "Go to Memorial Information" )</small>
 
 Mary Weedon was the [first head nurse of the Brisbane Hospital](https://trove.nla.gov.au/newspaper/article/172695991), holding the position for five years from 1885. Mary and her friend, Annie Griffiths, shared a house called *Garton* in Terrace Street, Toowong for many years. They were also members of the congregation of St Thomas Anglican Church. They died within eighteen months of each other; Mary in March 1942 and [Annie in July 1943](https://trove.nla.gov.au/newspaper/article/42015824?searchTerm=Griffiths). 
 
@@ -64,7 +66,7 @@ Mary Weedon was the [first head nurse of the Brisbane Hospital](https://trove.nl
     Continue along the road until you come to the Jewish Section. All of these headstones face west. Three rows in is the grave of...
 -->
 
-## Sali Mendelsohn <small>(3‑6‑7)</small>
+## Sali Mendelsohn <small>[(3‑6‑7)](https://brisbane.discovereverafter.com/profile/31811054 "Go to Memorial Information" )</small>
 
 In 1890, Sali published his most enduring ballad *The Drover* otherwise known as *[Brisbane Ladies](https://en.wikipedia.org/wiki/Brisbane_Ladies)* which features the line, *"Farewell and adieu to the girls of Toowong"*. The ballad is about the drovers returning west to their cattle stations having sold their at market. The route taken passed through Toowong on the way to Moggill Road.^2^
 
@@ -74,7 +76,7 @@ In 1890, Sali published his most enduring ballad *The Drover* otherwise known as
     Continue along the road until you reach the shed. Turn left and proceed until you reach a fork in the road. Taking the right branch, 1^st^ Avenue, pass eight double rows of graves on the left until you come to...
 -->
 
-## Harriet and William Johnson <small>(1‑36‑2)</small>
+## Harriet and William Johnson <small>[(1‑36‑2)](https://brisbane.discovereverafter.com/profile/31964049 "Go to Memorial Information" )</small>
 
 The Johnsons lived in a house called *Castle Rawe*, Toowong. Harriet died in 1914, aged 63. Her husband, William, outlived her by twenty‑five years, dying aged 79.
 
@@ -92,7 +94,7 @@ The Johnsons lived in a house called *Castle Rawe*, Toowong. Harriet died in 191
     Continue up 1^st^ Avenue until you reach a tap on the left. This is immediately adjacent to...
 -->
 
-## Walter Horatio Wilson <small>(1‑84‑22)</small> and Walter Frederick Wilson <small>(1‑85‑8)</small>
+## Walter Horatio Wilson <small>[(1‑84‑22)](https://brisbane.discovereverafter.com/profile/32038647 "Go to Memorial Information" )</small> and Walter Frederick Wilson <small>[(1‑85‑8)](https://brisbane.discovereverafter.com/profile/32035747 "Go to Memorial Information" )</small>
 
 W. H. Wilson was a member of the Queensland Legislative Council, Minister of Justice, Secretary of Public Instruction, and Postmaster‑General in a varied political career. He was a founding member of the Anglican Church in Toowong in 1866 and found time to be elected to the Toowong Shire Council in 1884. He was also a Companion of the Order of St Michael and St George. He died at his Toowong home, *Sherwood Grove*, in February 1902, aged 62. 
 
@@ -121,7 +123,7 @@ Walter F. Wilson, Master of Arts, was elected to the Toowong Shire Council in 18
     Proceed down 2^nd^ Avenue until you come to a tap on the right. On the left, close to the road is the grave of ...
 -->
 
-## Robert and Maria Johnstone <small>(5‑36‑15/16)</small>
+## Robert and Maria Johnstone <small>[(5‑36‑15/16)](https://brisbane.discovereverafter.com/profile/31772151 "Go to Memorial Information" )</small>
 
 Born in Tasmania in 1843, Robert was educated in Scotland before coming to Queensland in 1865 to work in the cattle industry. In 1868, he switched to sugar growing, managing plantations in the Cardwell region. Appointed sub‑inspector of native police in 1871, Robert’s patrols took him into unexplored areas. In 1873, he accompanied G. E. Dalrymple to explore the northern coastline to Cooktown. The Johnstone River is named after him.^3^ He married Maria who bore nine children. Robert’s police duties took him to Winton, Bundaberg, Maryborough and Beenleigh before settling at *Serenata*, Toowong. Robert died in January 1905, aged 63 and Maria died aged 76 in September 1923.
 

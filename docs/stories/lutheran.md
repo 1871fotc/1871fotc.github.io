@@ -22,11 +22,11 @@ These stories represent a small number Lutherans who participated in the sacrame
 
 --8<-- "snippets/theodore-oscar-unmack.md"
 
-## Ernst Otto and Regula Albertina Maier <small>(13‑15‑5)</small>
+## Ernst Otto and Regula Albertina Maier <small>[(13‑15‑5)](https://brisbane.discovereverafter.com/profile/31867539 "Go to Memorial Information" )</small>
 
 --8<-- "snippets/ernst-otto-and-regula-albertina-maier.md"
 
-## Gentner Family <small>(13‑20‑3)</small>
+## Gentner Family <small>[(13‑20‑3)](https://brisbane.discovereverafter.com/profile/31826728 "Go to Memorial Information" )</small>
 
 Friedericke Wilhelmine Gentner (née Gross) was born 16 July 1864 and died 7 October 1901. Her husband, Johann Frederick Gentner, who was a builder died on 2 December 1905 aged 71. The couple had nine children between 1868 and 1887. Johann had previously been married to Katharina Christina Maier, who had borne him six children before dying in May 1867. 
 
@@ -34,15 +34,15 @@ Many members of the family are buried in the enclosure including son, Thomas Gen
 
 <!-- TODO get grave photo -->
 
-## Carl Franz Alexander and Caroline Friedericke Alwine Schirmeister <small>(13‑25‑6)</small>
+## Carl Franz Alexander and Caroline Friedericke Alwine Schirmeister <small>[(13‑25‑6)](https://brisbane.discovereverafter.com/profile/31671947 "Go to Memorial Information" )</small>
 
 --8<-- "snippets/carl-franz-alexander-and-caroline-friedericke-alwine-schirmeister.md"
 
-## Ernst and Pauline Eschenhagen <small>(9‑15‑5)</small>
+## Ernst and Pauline Eschenhagen <small>[(9‑15‑5)](https://brisbane.discovereverafter.com/profile/31676596 "Go to Memorial Information" )</small>
 
 --8<-- "snippets/ernst-and-pauline-eschenhagen.md"
 
-## Johann Christian and Sophia Esther Heussler <small>(13‑64‑11)</small>
+## Johann Christian and Sophia Esther Heussler <small>[(13‑64‑11)](https://brisbane.discovereverafter.com/profile/31960242 "Go to Memorial Information" )</small>
 
 --8<-- "snippets/johann-christian-and-sophia-esther-heussler.md"
 
