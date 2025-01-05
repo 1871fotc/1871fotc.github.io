@@ -1,4 +1,4 @@
-## Molyneux Henry Dickinson Nepean <small>(1‑158‑5)</small>
+## Molyneux Henry Dickinson Nepean <small>[(1‑158‑5)](https://brisbane.discovereverafter.com/profile/31760674 "Go to Memorial Information" )</small>
 
 Molyneux Nepean was born on 19 April 1846, a twin and fifth son of Rev Canon Evan Nepean, later Canon of Westminster and Private Chaplain to Queen Victoria. His mother, Ann Jenner-Fust was the daughter of Sir Herbert Jenner Fust, Dean of the Arches. His grandfather, Sir Evan Nepean, 1^st^ Baronet, as Under-Secretary of State in the Home Office in Britain was involved in the arrangements for the dispatch of the First Fleet and administration of the newly established penal colony in NSW. 
 

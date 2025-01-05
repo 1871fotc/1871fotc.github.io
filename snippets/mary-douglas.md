@@ -1,4 +1,4 @@
-## Mary Douglas <small>(9‑34‑5)</small>
+## Mary Douglas <small>[(9‑34‑5)](https://brisbane.discovereverafter.com/profile/31688955 "Go to Memorial Information" )</small>
 
 Born Mary Ann Simpson, ca. 1828, she was the third daughter of the Reverend William West Simpson M.A., a Church of England minister, who immigrated to New South Wales in 1840. In November 1848, aged twenty‑one she married Henry Callander, the eldest son of Randall W. Callander of Stirlingshire, Scotland. In 1852 Callander died aged 31 and Mary married William Howe and bore a daughter, Mary West Howe, in 1857. This second union ended with Howe’s death, and it was as twice‑widowed in Sydney, that she met and married the distinguished bachelor, John Douglas, in 1861. Douglas was the nephew of the Marquis of Queensbury, a former pupil of Rugby School, and graduate of Durham University. He represented Camden, NSW at the time.
 

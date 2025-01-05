@@ -1,4 +1,9 @@
-## Mary Craig Atkinson <small>(1‑49‑16)</small>
+## Mary Craig Atkinson <small>[(1‑49‑16)](https://brisbane.discovereverafter.com/profile/31887544 "Go to Memorial Information" )</small>
+
+<!--
+WRONG? 
+Why Craig, headstone says Ann
+-->
 
 <!-- circa 1848 - 7 October 1893 -->
 

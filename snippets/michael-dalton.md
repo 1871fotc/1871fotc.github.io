@@ -1,4 +1,4 @@
-## Private Michael Dalton <small>(10‑39‑24)</small>
+## Private Michael Dalton <small>[(10‑39‑24)](https://brisbane.discovereverafter.com/profile/31728165 "Go to Memorial Information" )</small>
 
 Service number: 5818. Oxley Regiment and 9^th^ Battalion.
 

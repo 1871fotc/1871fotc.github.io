@@ -1,4 +1,4 @@
-## Maud Voller Affleck <small>(8‑49‑14)</small>
+## Maud Voller Affleck <small>[(8‑49‑14)](https://brisbane.discovereverafter.com/profile/31693514 "Go to Memorial Information" )</small>
 
 <!-- 2 June 1874 - 26 September 1965 -->
 

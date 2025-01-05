@@ -1,4 +1,4 @@
-## Mary Harriett Griffith <small>(13‑77‑12)</small>
+## Mary Harriett Griffith <small>[(13‑77‑12)](https://brisbane.discovereverafter.com/profile/32008020 "Go to Memorial Information" )</small>
 
 Mary Harriett Griffith was born on 4 November 1849 at Portishead, Somerset, England. She was the older sister of Sir Samuel Walker Griffith who was Colonial Secretary, Queensland Premier from 1883 to 1888, Chief Justice of the High Court of Australia and a principal author of the Constitution of Australia.
 

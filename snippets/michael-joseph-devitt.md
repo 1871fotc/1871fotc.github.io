@@ -1,4 +1,4 @@
-## Michael Joseph Devitt <small>(15‑29‑6)</small>  
+## Michael Joseph Devitt <small>[(15‑29‑6)](https://brisbane.discovereverafter.com/profile/31902992 "Go to Memorial Information" )</small>  
 
 Born 1859 at Ennistymon in County Clare the first born of a very large family. He, his parents Thomas and Bridget and most of his siblings migrated to Australia. Out of the 12 children one stayed in Ireland 2 died as babies, one went to Ohio in the USA and one to NSW and the remainder came to Queensland. 
 

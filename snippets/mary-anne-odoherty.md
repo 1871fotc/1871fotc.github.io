@@ -1,4 +1,4 @@
-## Mary ‘Eva’ O’Doherty <small>(7‑58‑27)</small>
+## Mary ‘Eva’ O’Doherty <small>[(7‑58‑27)](https://brisbane.discovereverafter.com/profile/31718687 "Go to Memorial Information" )</small>
 
 Mary Anne Kelly (better known as ‘*Eva of The Nation*') was born in Headford, County Galway, at the home of her maternal grandparents, on 15 February 1830, the daughter of a wealthy gentleman-farmer Edward Kelly of Killeen near Portumna who had nationalist sympathies. At the age of twelve, Mary Kelly sent her first verse to Charles Gavan Duffy, founder of The Nation newspaper when it started in Dublin in 1842. The poem expressed her feelings towards the British who governed the whole of Ireland at that time. Mary Kelly later adopted the pen name of ‘Eva’. 
 
