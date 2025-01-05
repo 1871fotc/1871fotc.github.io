@@ -1,4 +1,4 @@
-## Charles Siemon <small>(12‑21‑5)</small>
+## Charles Siemon <small>[(12‑21‑5)](https://brisbane.discovereverafter.com/profile/31858425 "Go to Memorial Information" )</small>
 
 The Siemon family, which included six children, lived at *Ravensfield* on Coronation Drive and ran a dairy farm, grazing their cows on land near the Regatta Hotel until the 1930s. In 1904, the Charles bought *[Milton House](https://apps.des.qld.gov.au/heritage-register/detail/?id=600253)* which they subsequently sold to the Presbyterian Church. Charles owned extensive warehouses, factories and businesses in Brisbane and was a Toowong Town Councillor.
 

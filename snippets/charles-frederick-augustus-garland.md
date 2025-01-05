@@ -1,4 +1,4 @@
-## Charles Frederick Augustus Garland <small>(15‑11‑26/27)</small>
+## Charles Frederick Augustus Garland <small>[(15‑11‑26/27)](https://brisbane.discovereverafter.com/profile/31813648 "Go to Memorial Information" )</small>
 
 Born in Roma Qld in 1862, Charles Garland was apprenticed a [printer's devil](https://en.wikipedia.org/wiki/Printer%27s_devil) to the proprietor of the *Western Star* and *Roma Advertiser*. He later obtained a position on the composing staff of the *Brisbane Courier* where [he served for 52 years](https://trove.nla.gov.au/newspaper/article/184073877).
 

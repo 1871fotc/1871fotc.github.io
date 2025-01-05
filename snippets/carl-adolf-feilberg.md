@@ -1,4 +1,4 @@
-## Carl Adolf Feilberg <small>(13‑71‑15)</small>
+## Carl Adolf Feilberg <small>[(13‑71‑15)](https://brisbane.discovereverafter.com/profile/31849362 "Go to Memorial Information" )</small>
 
 Carl was born in Copenhagen, Denmark on 21 August 1844. Following the early death of his parents, he was placed in foster care with Danish relatives who were living in Scotland. He received his formal education in Scotland and England finalising with a year at a college in France. Suffering from tuberculosis, he was advised to migrate to Australia, arriving in Sydney in 1867. 
 

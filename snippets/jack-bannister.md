@@ -1,4 +1,4 @@
-## Private Jack Bannister <small>(2A‑25A‑18/19)</small>
+## Private Jack Bannister <small>[(2A‑25A‑18/19)](https://brisbane.discovereverafter.com/profile/31749284 "Go to Memorial Information" )</small>
 
 Service Number: 3782. 49^th^ Battalion
 

@@ -1,4 +1,4 @@
-## Major Charles Heaphy, VC <small>(1‑5‑34)</small>
+## Major Charles Heaphy, VC <small>[(1‑5‑34)](https://brisbane.discovereverafter.com/profile/31674427 "Go to Memorial Information" )</small>
 
 Heaphy, born ca. 1822 in London, was an artist and surveyor who explored New Zealand in the 1840s. He landed in New Zealand in 1839 as a draughtsman for the New Zealand Company. He settled in Auckland in 1848 and later joined the local militia, the Auckland Rifle Volunteers. He was awarded the Victoria Cross for rescuing a wounded soldier under fire in the Māori Wars on 11 February 1864 at the Mangapiko River. Heaphy himself was hit in three places by musket balls while assisting the wounded man, with whom he had stayed all day. He was the first soldier of an irregular unit to be awarded the Victoria Cross. 
 

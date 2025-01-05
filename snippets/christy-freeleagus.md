@@ -1,4 +1,4 @@
-## Christy Freeleagus <small>(18‑187‑21)</small> 
+## Christy Freeleagus <small>[(18‑187‑21)](https://brisbane.discovereverafter.com/profile/31902600 "Go to Memorial Information" )</small> 
 
 <!-- 1889‑1957 -->
 

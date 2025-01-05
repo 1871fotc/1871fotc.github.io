@@ -1,4 +1,4 @@
-## Charles Foggitt <small>(8‑15‑13/14)</small> 
+## Charles Foggitt <small>[(8‑15‑13/14)](https://brisbane.discovereverafter.com/profile/31759658 "Go to Memorial Information" )</small> 
 
 <!-- 1864‑1926 -->
 

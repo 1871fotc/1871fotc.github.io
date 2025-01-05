@@ -1,4 +1,4 @@
-## Charles Walter de Vis <small>(16‑22‑18)</small>
+## Charles Walter de Vis <small>[(16‑22‑18)](https://brisbane.discovereverafter.com/profile/31866283 "Go to Memorial Information" )</small>
 
 Born in Birmingham England on 9 May 1829, [Charles de Vis](https://adb.anu.edu.au/biography/de-vis-charles-walter-3406) was a clergyman and then museum curator before immigrating to Queensland in 1870. He became curator of the Queensland Museum in 1882 and director of that institution in 1901 adding much to the extent of the collections, their classification and display. Due to the poor economic environment in 1904, de Vis was ordered to retire, but stayed on as a consulting scientist. [Charles died aged 87](https://trove.nla.gov.au/newspaper/article/190555246) on 30 April 1915.
 

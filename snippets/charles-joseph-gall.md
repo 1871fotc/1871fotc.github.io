@@ -1,4 +1,4 @@
-## Charles Joseph Gall <small>(14‑15‑11/12/13)</small>
+## Charles Joseph Gall <small>[(14‑15‑11/12/13)](https://brisbane.discovereverafter.com/profile/32018586 "Go to Memorial Information" )</small>
 
 Born in Hampstead ca. 1835, Charles Joseph Gall was a son of Thomas Gall. Elizabeth Long married Charles in Sydney in 1862. Their son, born in Sydney on 15 December 1862 died the same day. The couple had three daughters; Eva, Gertrude & Elizabeth (Lilly).
 
