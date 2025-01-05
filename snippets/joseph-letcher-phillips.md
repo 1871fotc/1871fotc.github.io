@@ -1,4 +1,4 @@
-## Joseph Letcher Phillips <small>(10‑8‑12)</small>
+## Joseph Letcher Phillips <small>[(10‑8‑12)](https://brisbane.discovereverafter.com/profile/31877869 "Go to Memorial Information" )</small>
 
 Joseph Phillips was born in St Agnes Cornwall in 1849. He was a graduate of the Royal Academy of Music in London. He migrated to Australia In 1904 with his teenage children. He conducted the Blackstone and Ipswich Cambrian Choir in 1904/05 leading this choir to victory in the 1905 Austral Festival in Toowoomba and also conducted the Brisbane Philharmonic Society's inaugural concert when they performed Faust in the Exhibition Concert Hall (the old Museum building on Gregory Terrace) in Brisbane. 
 

@@ -1,4 +1,4 @@
-## Joseph Needham Scrope Shrapnel <small>(1‑68‑14/15)</small>
+## Joseph Needham Scrope Shrapnel <small>[(1‑68‑14/15)](https://brisbane.discovereverafter.com/profile/31736542 "Go to Memorial Information" )</small>
 
 <!-- circa 1838 - 25 July 1885 -->
 

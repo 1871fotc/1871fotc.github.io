@@ -1,4 +1,4 @@
-## Hon. Joshua Peter Bell <small>(13‑84‑8)</small>
+## Hon. Joshua Peter Bell <small>[(13‑84‑8)](https://brisbane.discovereverafter.com/profile/31748805 "Go to Memorial Information" )</small>
 
 Administrator – 19 March 1880 to 22 November 1880
 

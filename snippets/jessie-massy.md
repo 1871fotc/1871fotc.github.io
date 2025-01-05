@@ -1,4 +1,4 @@
-## Jessie Massy <small>(18‑116‑8)</small>
+## Jessie Massy <small>[(18‑116‑8)](https://brisbane.discovereverafter.com/profile/31817033 "Go to Memorial Information" )</small>
 
 <!-- 5 March 1874 - 27 May 1923 -->
 

@@ -1,4 +1,4 @@
-## Joseph McNamara <small>(10‑71‑26A)</small>
+## Joseph McNamara <small>[(10‑71‑26A)](https://brisbane.discovereverafter.com/profile/31687969 "Go to Memorial Information" )</small>
 
 Q875  <!-- What is this number -->
 

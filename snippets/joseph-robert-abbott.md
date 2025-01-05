@@ -1,4 +1,4 @@
-## Joseph Robert Abbott <small>(10‑80‑45)</small>
+## Joseph Robert Abbott <small>[(10‑80‑45)](https://brisbane.discovereverafter.com/profile/31964205 "Go to Memorial Information" )</small>
 
 5227 / Q54752
 

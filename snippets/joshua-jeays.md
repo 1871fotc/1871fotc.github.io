@@ -1,5 +1,5 @@
 
-## Joshua Jeays <small>(13‑62‑13)</small>
+## Joshua Jeays <small>[(13‑62‑13)](https://brisbane.discovereverafter.com/profile/31912083 "Go to Memorial Information" )</small>
 
 The third Mayor of Brisbane, Joshua Jeays died on the 11 March 1881 aged 69. He was born in Leicestershire, 1812. He married Sarah Edwyn in 1838 in Marylebone, Middlesex. They and their three children immigrated to Moreton Bay in 1853. His daughter Sarah Jane married in 1858 in Brisbane to Sir Charles Lilley, who became Premier of Queensland. 
 

@@ -1,4 +1,4 @@
-## Sir Robert and Jessie Philp <small>(14‑23‑10)</small>
+## Sir Robert and Jessie Philp <small>[(14‑23‑10)](https://brisbane.discovereverafter.com/profile/31848758 "Go to Memorial Information" )</small>
 
 Jessie Philp, née Campbell was buried here in 1890. She was a 34‑year‑old politician’s wife and mother of seven. Her youngest child was just two weeks old when Jessie, weakened from recent childbirth, succumbed to the scarlet fever for which she was nursing two older children. Apart from her children, she was survived by her husband Robert (the Member for Townsville) and her parents and siblings. 
 

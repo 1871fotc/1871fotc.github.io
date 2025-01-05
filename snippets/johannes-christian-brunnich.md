@@ -1,4 +1,4 @@
-## Johannes Christian Brünnich <small>(4‑10‑32)</small>
+## Johannes Christian Brünnich <small>[(4‑10‑32)](https://brisbane.discovereverafter.com/profile/31716635 "Go to Memorial Information" )</small>
 
 Johannes Brünnich was born on 11 September 1861 in Görz, Austria‑Hungary (now Gorizia, Italy), the son of a Lutheran minister and mathematician. He studied chemistry in Switzerland, worked in Bohemia, Russia and Georgia. He migrated to Queensland in 1885. Rev. Schirmeister officiated at his marriage to Catherine (Kate) Terry on 22 April 1886, the daughter of a Brisbane watchmaker. 
 

@@ -1,4 +1,4 @@
-## Joseph William Sutton <small>(13‑7‑13/14)</small>
+## Joseph William Sutton <small>[(13‑7‑13/14)](https://brisbane.discovereverafter.com/profile/31724093 "Go to Memorial Information" )</small>
 
 Joseph, who established the shipbuilding firm J W Sutton & Co at Kangaroo Point , was recognised as one of the leading engineers of his day. Early vessels built by J W Sutton & Co include the iron steamer, *Lady Musgrave*, the iron paddle steamer, *Maid of Sker*, and the first ferry boat used on the Brisbane River, the *Transit*. The home of Joseph and his wife, Mary was one of the first private residences in Brisbane to be lit up by electricity. Joseph died on 21 February 1914. 
 

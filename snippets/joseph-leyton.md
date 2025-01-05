@@ -1,4 +1,4 @@
-## Private Joseph Leyton <small>(10‑41‑18)</small>
+## Private Joseph Leyton <small>[(10‑41‑18)](https://brisbane.discovereverafter.com/profile/31984794 "Go to Memorial Information" )</small>
 
 Service number: 3851. 49^th^ Battalion.
 

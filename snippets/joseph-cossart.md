@@ -1,4 +1,4 @@
-## Joseph Cossart <small>(13‑18‑16)</small>
+## Joseph Cossart <small>[(13‑18‑16)](https://brisbane.discovereverafter.com/profile/31768582 "Go to Memorial Information" )</small>
 
 Joseph Cossart was born on 14 November 1843 (± 3 years) in County Antrim, Ireland to Henry Cossart and Mary (née Walker). The family sailed from London to Moreton Bay aboard the *Flying Cloud*, arriving on 19 February 1864. The family settled in the Perseverance Creek district. 
 

@@ -1,4 +1,4 @@
-## Joseph Darragh <small>(7‑27‑11)</small> 
+## Joseph Darragh <small>[(7‑27‑11)](https://brisbane.discovereverafter.com/profile/31910013 "Go to Memorial Information" )</small> 
 
 Born 1827 in Tyrone, the son of Joseph and Ann (1803‑1883), Darragh arrived in Sydney on 29 April 1850 with his wife, Eliza Graham. They moved to Brisbane where he was a butcher at Kangaroo Point from 1853 to 1902. Darragh Street was named for the family before 1874, and when he died, Darragh was ‘of Independent Means’. 
 
