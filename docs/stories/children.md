@@ -14,11 +14,11 @@ Brisbane’s infant mortality rate in the latter half of the 19^th^ century equa
 --8<-- "snippets/toowong-cemetery-map.md"
 
 
-## Horsfall Family <small>(13‑3‑12)</small>
+## Horsfall Family <small>[(13‑3‑12)](https://brisbane.discovereverafter.com/profile/31897365 "Go to Memorial Information" )</small>
 
 Ann Elizabeth Horsfall died on 2 September 1863 aged seven. Her siblings Thomas Lambert, Harry, Sarah and Rose had all died in infancy. They were the children of George and Ann Horsfall (née Tatlow) both from Coventry, England.
 
-## Peter McCauley <small>(13‑10‑4)</small>
+## Peter McCauley <small>[(13‑10‑4)](https://brisbane.discovereverafter.com/profile/31709797 "Go to Memorial Information" )</small>
 
 Peter McCauley was the son of a private in H .M. 17^th^ Regiment of Foot. He was accidentally drowned in January 1832 aged 5 years and 8 months. Peter and two other children were originally interred in the North Quay Cemetery and then re‑interred at Toowong in October 1881.
  
@@ -32,13 +32,13 @@ Peter McCauley was the son of a private in H .M. 17^th^ Regiment of Foot. He was
 > Shall humbly hope thro’ an Almighty Grace  <br>
 > One day to fold thee in sweet embrace. <br>
 
-## Hiron Family <small>(13‑20‑9)</small>
+## Hiron Family <small>[(13‑20‑9)](https://brisbane.discovereverafter.com/profile/31683782 "Go to Memorial Information" )</small>
 
 George and Mary Ann Hiron (née Prosser) lost a number of their children in childhood. Amelia Ann, George, George Edward James, Albert Edwin and Daisy Evelyn all died in infancy. Agnes Elizabeth died in September 1875 aged 11 years. Yet another George died in December 1901 aged 15 years. Following the custom of the day, names were recycled until a child lived long enough for a name to ‘stick’.
 
 --8<-- "snippets/edward-hobbs.md"
 
-## Gow Family <small>(13‑64‑19)</small>
+## Gow Family <small>[(13‑64‑19)](https://brisbane.discovereverafter.com/profile/31891660 "Go to Memorial Information" )</small>
 
 Five children were lost by James Gow and his wife Christina Philp between 1864 and 1882. None had reached the age of five. The family lived in Harcourt Street in Fortitude Valley. 
 
@@ -53,13 +53,13 @@ Five children were lost by James Gow and his wife Christina Philp between 1864 a
 > These happy babes have found <br> 
 > Their everlasting rest. <br>
 
-## Bruce and Ina Euphemia Wallace <small>(9‑46‑9)</small>
+## Bruce and Ina Euphemia Wallace <small>[(9‑46‑9)](https://brisbane.discovereverafter.com/profile/31738641 "Go to Memorial Information" )</small>
 
 --8<-- "snippets/bruce-and-ina-euphemia-wallace.md"
 
 --8<-- "snippets/hector-vasyli.md"
 
-## Doris Gilbert <small>(10‑28‑7)</small>
+## Doris Gilbert <small>[(10‑28‑7)](https://brisbane.discovereverafter.com/profile/31753198 "Go to Memorial Information" )</small>
 
 Doris Eliza was the daughter of William Carrington Gilbert and his wife May née Lord. She was eight years old when she died on 21 February 1913.
 
