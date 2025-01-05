@@ -1,4 +1,4 @@
-## Patrick Mayne <small>(7‑49‑9)</small> 
+## Patrick Mayne <small>[(7‑49‑9)](https://brisbane.discovereverafter.com/profile/31851652 "Go to Memorial Information" )</small> 
 
 <!--
 The large white monument to this family and the story of how Mayne gained his wealth is the subject of a book by Rosamond Siemon, *The Mayne Inheritance*. 
