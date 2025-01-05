@@ -1,4 +1,4 @@
-## Leontine Mary Jane Cooper <small>(2A‑29‑11)</small>
+## Leontine Mary Jane Cooper <small>[(2A‑29‑11)](https://brisbane.discovereverafter.com/profile/31791931 "Go to Memorial Information" )</small>
 
 Leontine Cooper was Queensland's most significant writer addressing the rights of white women during the women's suffrage movement in Queensland. Born in England in 1837, daughter of a French merchant father and English mother, she arrived in Brisbane with her husband in 1871. A schoolteacher during the 1870's, she was to become a prominent Brisbane literary figure over the next two decades. 
 
