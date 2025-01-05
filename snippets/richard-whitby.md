@@ -1,4 +1,4 @@
-## Private Richard Whitby <small>(10‑39‑14)</small>
+## Private Richard Whitby <small>[(10‑39‑14)](https://brisbane.discovereverafter.com/profile/31759200 "Go to Memorial Information" )</small>
 
 Service number: 2001, 1344, 7795, 630. 2^nd^ Brabants, Natal Mounted Police, Australian Light Horse 9^th^ Battalion
 

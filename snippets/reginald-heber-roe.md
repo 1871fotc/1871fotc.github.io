@@ -1,4 +1,4 @@
-## Reginald Heber Roe <small>(20‑25‑5A)</small>
+## Reginald Heber Roe <small>[(20‑25‑5A)](https://brisbane.discovereverafter.com/profile/31961876 "Go to Memorial Information" )</small>
 
 Reginald was the first vice-chancellor of the University of Queensland, holding this position from 1910-1916. He was born on 3 August 1850 in Blandford Forum, Dorset, the youngest of 10 children to John Banister Roe Esq, a linen draper and button manufacturer turned wine merchant and Mary Ann née Allies, a school mistress at a school for young ladies. The family may hay fallen on hard times as Reginald was educated at Chris's Hospital, London, at that time a school for orphans and children of indigent gentleman. His father may have died in 1869 while Reginald was head boy at the school.
 

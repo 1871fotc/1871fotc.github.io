@@ -1,4 +1,4 @@
-## Richard Symes Warry <small>(13‑49‑22)</small>
+## Richard Symes Warry <small>[(13‑49‑22)](https://brisbane.discovereverafter.com/profile/31827143 "Go to Memorial Information" )</small>
 
 Richard Symes Warry was born about 1829 in England, son of Thomas Warry and Maria Symes. On 25 January 1851 in Brisbane, Richard Symes Warry married Mary Lydia Pratten. They had fourteen children, a number of whom died young. He died 12 March 1891 at his residence in Enoggera, aged 62 years. 
 

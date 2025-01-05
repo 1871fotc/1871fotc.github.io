@@ -1,4 +1,4 @@
-## Richard Belford <small>(15‑11‑6)</small>
+## Richard Belford <small>[(15‑11‑6)](https://brisbane.discovereverafter.com/profile/31780035 "Go to Memorial Information" )</small>
 
 For many years Richard was connected with the colonial press in NSW, Victoria and Queensland. He was a native of Newtown, Limavady, in the county of Londonderry, Northern Ireland and came to NSW in 1838 with his parents, Richard (Snr) and Ann (née Linton). 
 

@@ -1,4 +1,4 @@
-## Randal MacDonnell <small>(7‑20‑10)</small> 
+## Randal MacDonnell <small>[(7‑20‑10)](https://brisbane.discovereverafter.com/profile/31855547 "Go to Memorial Information" )</small> 
 
 MacDonnell was born in 1830 in Dublin, son of Thomas MacDonnell, an army officer, and his wife Frances Corry. He arrived in Sydney 1853 on the *Telegraph*. He was a teacher at National Schools in Sydney before establishing his own school at Paddington, Sydney in 1854. 
 

@@ -1,4 +1,4 @@
-## Richard George Petty <small>(14‑22‑13)</small>
+## Richard George Petty <small>[(14‑22‑13)](https://brisbane.discovereverafter.com/profile/32021520 "Go to Memorial Information" )</small>
 
 Richard Petty, born in 1836, was a native of Yorkshire and came to Queensland in the ship *Whirlwind* in 1862. His parents were Richard Petty and Margaret (née Crier). He went into business with William Grimes in 1863 operating a Clothing and Drapery Store at the top end of Queen Street. By 1877 they had moved to larger premises further down Queen Street, between Albert & Edward Streets. Richard died on 24 September 1899 at his residence *Coodra* on Gregory Terrace.
 

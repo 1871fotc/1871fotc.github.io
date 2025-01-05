@@ -1,4 +1,4 @@
-## Richard Langler Drew <small>(5‑43‑22)</small>
+## Richard Langler Drew <small>[(5‑43‑22)](https://brisbane.discovereverafter.com/profile/31729520 "Go to Memorial Information" )</small>
 
 Described by contemporary J. B. Fewings as *“the father of Toowong”*, Richard bought large blocks of land bordering Toowong Creek in 1861. He ascertained from the local Aborigines that Toowong was a suitable name for the area and posted the first sign as such. He and his wife Anne were founding members of the Anglican Church. In 1866, he donated part of his land in Curlew Street to build the first St Thomas Anglican Church.
 
