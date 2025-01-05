@@ -20,7 +20,7 @@ hide:
 
 --8<-- "snippets/kenneth-hutchison.md"
 
-## Sir Samuel Walker Griffith <small>(12‑11‑6/7)</small>
+## Sir Samuel Walker Griffith <small>[(12‑11‑6/7)](https://brisbane.discovereverafter.com/profile/31688994 "Go to Memorial Information" )</small>
 
 Welsh-born Sir Samuel Walker Griffith (1845-1920) was Premier of Queensland during the Shearers' Strike. A brilliant and hard-working lawyer, he prepared the first draft of the Australian Constitution in 1891 and was absent from Queensland for the first three months of the strike attending meetings in Hobart and Sydney, the latter for the first National Australasian Convention. 
 
@@ -30,7 +30,7 @@ He was Chief Justice of the Queensland Supreme Court from 1893 until 1903 when h
 
 *<small>[Sir Samuel Walker Griffith, 1889](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220189370002061) -  State Library of Queensland</small>*
 
-## Sir Horace Tozer <small>(12‑11‑8)</small>
+## Sir Horace Tozer <small>[(12‑11‑8)](https://brisbane.discovereverafter.com/profile/31764994 "Go to Memorial Information" )</small>
 
 Sir Horace Tozer (1844-1916) was born in Port Macquarie, NSW where his father, Horatio Thomas Norris Tozer was a chemist. Horace Tozer was admitted as a solicitor of the Supreme Court of Queensland in December 1867 and established a law practice at Gympie before entering politics. 
 
@@ -44,7 +44,7 @@ He was elected to the Legislative Assembly as the member for Wide Bay in 1888. F
 
 --8<-- "snippets/edwyn-mitford-lilley.md"
 
-## John Ahern <small>(7‑51‑4)</small>
+## John Ahern <small>[(7‑51‑4)](https://brisbane.discovereverafter.com/profile/31882618 "Go to Memorial Information" )</small>
 
 Inspector John Ahern (1840-1893) came to Queensland from his native Ireland and joined the Police Force in September 1864. Ahern was sent to Springsure in October and promoted to Senior Constable/Acting Sergeant in July 1868. He became Inspector of Slaughterhouses in the Mitchell district in February 1870 and received the substantial reward of £15 in September 1872 for ‘energetic perseverance in suppressing cattle-stealers in the Barcoo and Walgett districts’. 
 
@@ -59,7 +59,7 @@ Ahern was promoted to Senior Sergeant in January 1874 and Sub-Inspector 2^nd^ cl
 --8<-- "snippets/george-rogers-harding.md"
 
 
-## Emma Miller <small>(13‑6‑5/6)</small>
+## Emma Miller <small>[(13‑6‑5/6)](https://brisbane.discovereverafter.com/profile/31795910 "Go to Memorial Information" )</small>
 
 Emma Miller (1839-1917) was known as a pioneer of the trade union movement and the Labour Party in Queensland. She championed equal pay and equal opportunity for women and in 1890 helped to form a female workers’ union, mainly of tailoresses. In 1891 she gave evidence to the royal commission into shops, factories and workshops and marched with shearers’ strike prisoners when they were released.
 

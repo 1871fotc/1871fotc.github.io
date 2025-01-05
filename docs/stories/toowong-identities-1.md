@@ -28,7 +28,7 @@ These stories were conceived as part of commemorative activities. It features on
     Commencing at the flagpole, walk behind the Amenities Block and cross Emma Miller Avenue. Head the path which separates Portions 9 and 13. In the second row to the right, behind the large white Petrie Family grave is the grey granite obelisk of...
 -->
 
-## Andrew Lang Petrie <small>(13‑10‑7)</small>
+## Andrew Lang Petrie <small>[(13‑10‑7)](https://brisbane.discovereverafter.com/profile/31981437 "Go to Memorial Information" )</small>
 
 The first member of his family born in Australia in 1854, Andrew Lang Petrie relocated the family’s stonemason’s yard from the corner of Queen and Wharf Street to the Toowong Cemetery gates in 1882. The site is now occupied by Toowong Mitsubishi.
 
@@ -49,7 +49,7 @@ The first member of his family born in Australia in 1854, Andrew Lang Petrie rel
     Proceed one section further up and to the left a few graves in is the ornate white marble monument of the...
 -->
 
-## Munce Family <small>(9‑43‑11)</small>
+## Munce Family <small>[(9‑43‑11)](https://brisbane.discovereverafter.com/profile/31982449 "Go to Memorial Information" )</small>
 
 Irishman William John Munce died at his Toowong home *Caltura* in 1892 aged 77. *Caltura*, believed to be located at 82 Jephson Street, was named after the Ceylonese birthplace of his wife, Elizabeth who died at Sandgate in 1901. One of their daughters, Ada Kate, never married and died at *Cultura* in 1944 aged 78.
 
@@ -155,7 +155,7 @@ Irishman William John Munce died at his Toowong home *Caltura* in 1892 aged 77. 
     Head one section back towards the Blackall Monument and one section down the slope. The Watson Family headstone has been laid down. 
 -->
 
-## Archibald Watson <small>(12‑13-2)</small>
+## Archibald Watson <small>[(12‑13-2)](https://brisbane.discovereverafter.com/profile/31734740 "Go to Memorial Information" )</small>
 
 Archibald was the Chairman of the Toowong Fire Brigade, which had built a [fire station in Jephson Street in 1919](https://heritage.brisbane.qld.gov.au/heritage-places/1703). He was the last Mayor of Toowong in 1925 and went on to serve as an Alderman on the Brisbane City Council between 1926 and 1931. He was Deputy Mayor from 1926 to 1931 and was Lord Mayor from February to May 1931.
 
