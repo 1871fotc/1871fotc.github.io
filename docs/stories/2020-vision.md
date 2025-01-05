@@ -42,7 +42,7 @@ hide:
 
 --8<-- "snippets/james-porter-fry.md"
 
---8<-- "snippets/constance-campbell.md"
+--8<-- "snippets/constance-campbell-stuart.md"
 
 --8<-- "snippets/charles-joseph-gall.md"
 

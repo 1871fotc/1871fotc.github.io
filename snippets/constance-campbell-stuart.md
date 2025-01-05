@@ -1,4 +1,4 @@
-## Constance Campbell <small>[(8‑19‑16)](https://brisbane.discovereverafter.com/profile/31757317 "Go to Memorial Information" )</small>
+## Constance Campbell Stuart<small>[(8‑19‑16)](https://brisbane.discovereverafter.com/profile/31757317 "Go to Memorial Information" )</small>
 
 Constance Campbell Petrie was born in Brisbane on 16 December 1872 to Thomas Petrie and Elizabeth (née Campbell). A series of reminiscences based on Tom Petrie's life first appeared in *The Queenslander*, followed by a book, first printed in 1904, called *[Tom Petrie's reminiscences of early Queensland](http://onesearch.slq.qld.gov.au/permalink/f/6ia4ku/slq_alma21136083760002061)*.
 
