@@ -11,7 +11,7 @@ hide:
 
 --8<-- "snippets/toowong-cemetery-map.md"
 
-## Jonas and Mary Malouf <small>(5‑26‑2/3)</small>
+## Jonas and Mary Malouf <small>[(5‑26‑2/3)](https://brisbane.discovereverafter.com/profile/31730620 "Go to Memorial Information" )</small>
 
 Jonas Malouf and his wife, Mary (née Hadad) were both born in the town of Zahlah in what is now Lebanon but was still part of Palestine at the time. Jonas was born in December 1849 and Mary in 1869. In 1889, together with their sons and Jonans's two brothers, they fled their native country to escape the political troubles of the time. They came to Queensland where they [founded a successful drapery and general store at Ipswich](https://trove.nla.gov.au/newspaper/article/188745751). They later settled at Gatton where they continued to carry on in business. 
 
@@ -22,7 +22,7 @@ Jonas d. 	11-01-1940 https://trove.nla.gov.au/newspaper/article/40873705?searchT
 Mary d. ca. 04-01-1930
 -->
 
-## Alfred Wall and Alfred George Curtis Wall <small>(5‑27‑16)</small>
+## Alfred Wall and Alfred George Curtis Wall <small>[(5‑27‑18)](https://brisbane.discovereverafter.com/profile/31763251 "Go to Memorial Information" )</small>
 
 Alfred Wall was born in England before migrating to Queensland in the ship *Young Australia* in 1866. He spent head several years as head teacher at Bowen State School and in 1899 became head teacher at Milton State School until his retirement in 1917.
 
@@ -34,7 +34,7 @@ His son, [Alfred George Curtis Wall](http://onesearch.slq.qld.gov.au/permalink/f
 
 --8<-- "snippets/john-theophillus-symons-bird.md"
 
-## Angus McDonald, Robert Alexander McDonald and Stanley Angus McDonald <small>(5‑30‑1/2)</small>
+## Angus McDonald, Robert Alexander McDonald and Stanley Angus McDonald <small>[(5‑30‑1/2)](https://brisbane.discovereverafter.com/profile/31719050 "Go to Memorial Information" )</small>
 
 Angus McDonald who was born in Ayr, Scotland, came to Queensland with his parents at the age of 10. He lived in Ipswich and Harrisville before retiring to Brisbane. His son, Robert Alexander McDonald was the chief Clerk of Prisons in the Queensland Prison Department. [He disappeared in August 1913](https://trove.nla.gov.au/newspaper/article/79111444) and his body was not found for three months. Another son, [Stanley died on *RMS Celtic*](https://trove.nla.gov.au/newspaper/article/220493577) in 1918.
 
@@ -42,7 +42,7 @@ Angus McDonald who was born in Ayr, Scotland, came to Queensland with his parent
 
 --8<-- "snippets/elizabeth-powell.md"
 
-## Edmond Filmer Craven and Caroline Craven <small>(5‑32‑7)</small>
+## Edmond Filmer Craven and Caroline Craven <small>[(5‑32‑7)](https://brisbane.discovereverafter.com/profile/31966486 "Go to Memorial Information" )</small>
 
 Edmond Filmer Craven was the son of Fulwar William Craven and Louisa Orde of Brockhampton Park, Gloucestershire and was a descendent of the Earls of Craven. He was appointed to the Queensland public service in 1881, and later became police magistrate at Aramac, followed by a posting at Gayndah. He subsequently held similar appointments at various country centres including Muttaburra, Eidsvold where he was also the mining warden, and Roma, where he remained until he retired in September 1906. His wife Caroline ran a guest house at Shorncliffe after his death on 4 August 1910.
 
@@ -55,13 +55,13 @@ Edmond Filmer Craven was the son of Fulwar William Craven and Louisa Orde of Bro
 --8<-- "snippets/robert-arthur-johnstone.md"
 
 
-## Susan Boyce, Ellen Victoria Board, Ann Ellen Boyce, Stuart Leslie Board <small>(5‑38‑9)</small>
+## Susan Boyce, Ellen Victoria Board, Ann Ellen Boyce, Stuart Leslie Board <small>[(5‑38‑9)](https://brisbane.discovereverafter.com/profile/31825802 "Go to Memorial Information" )</small>
 
 There are no actual burials in this grave. These headstones were originally on graves in the North Brisbane Burial Ground and were later moved to this site. 
 
 Susan Boyce was the wife of Brisbane's first Town Clerk, William Martin Boyce. Their daughter, Ellen Victoria Board died in Melbourne and was memorialised on her mother's headstone.
 
-## Alfred John Potier, Reginald Alfred Maines Potier, and Lewis William Potier <small>(5‑39‑20)</small>
+## Alfred John Potier, Reginald Alfred Maines Potier, and Lewis William Potier <small>[(5‑39‑20)](https://brisbane.discovereverafter.com/profile/31960789 "Go to Memorial Information" )</small>
 
 Alfred John Potier was born on 16 October 1842 in Southwark Surrey England. In 1862 he married Emma Purvis. Alfred, Emma and their first child migrated to Queensland in the mid-1860s. In 1869 Alfred was one of the original gold prospectors of the Chatsworth Reef just outside Gympie. In partnership with Ernest H Webb, trading as Webb Brothers and Potier, he carried on a business as merchants and commission agents and also operated a bone mill at Breakfast Creek. 
 
