@@ -1,4 +1,4 @@
-## Kevin Izod O’Doherty <small>(7‑58‑27)</small> 
+## Kevin Izod O’Doherty <small>[(7‑58‑27)](https://brisbane.discovereverafter.com/profile/31910142 "Go to Memorial Information" )</small> 
 
 O’Doherty was born in Dublin, son of solicitor William Dougherty and Anne McEvoy. He studied at the Catholic School of Medicine in 1844. He was convicted as a ‘Young Irelander’ and transported to Sydney in 1848 on the Mt Stewart Elphinstone and then on the Emma to Tasmania with fellow conspirators. After five years he was given a conditional pardon (not allowed to return to Ireland and went to Paris before marrying, in London, in 1855 writer Mary Eva Kelly of Galway (Eva of The Nation). Kevin and Mary are the subject of the book by Ross and Heather Patrick, *Exiles Undaunted*. In 1856 O’Doherty received a full pardon and went to Dublin to get his Medical Degree from 1857 to 1859.
 

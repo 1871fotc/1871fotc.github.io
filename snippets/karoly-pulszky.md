@@ -1,4 +1,4 @@
-## Karoly (Charles) Pulszky <small>(5‑2‑3)</small>
+## Karoly (Charles) Pulszky <small>[(5‑2‑3)](https://brisbane.discovereverafter.com/profile/https://brisbane.discovereverafter.com/profile/32019781 "Go to Memorial Information" )</small>
 
 Charles was born in London on 10 November 1854, the son of politician and revolutionary Ferenc Pulsky, a member of a prominent Hungarian family. He was an urbane art collector who founded the Budapest Museum of Fine Arts. He married famous Ibsen‑exponent, actress Emilia Márkus. 
 

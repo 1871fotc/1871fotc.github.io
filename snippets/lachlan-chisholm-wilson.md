@@ -1,4 +1,4 @@
-## Lachlan Chisholm Wilson <small>(8‑9‑1/2)</small> 
+## Lachlan Chisholm Wilson <small>[(8‑9‑1/2)](https://brisbane.discovereverafter.com/profile/31672459 "Go to Memorial Information" )</small> 
 
 <!-- 1871‑1947 -->
 

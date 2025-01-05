@@ -1,4 +1,4 @@
-## Kathleen Eileen Sheehy <small>(7A‑135‑12)</small>
+## Kathleen Eileen Sheehy <small>[(7A‑135‑12)](https://brisbane.discovereverafter.com/profile/31742370 "Go to Memorial Information" )</small>
 
 Kathleen Eileen Sheehy was born on 4 November 1892 at Gympie, the second of six children of Irish-born parents. She was the sister of Sir Joseph Sheehy KBE who served as Senior Puisne Judge of the Queensland Supreme Court and Administrator of the State of Queensland for three months in 1969 and Sir Christopher Sheehy, dairy industry administrator and public servant.
 
