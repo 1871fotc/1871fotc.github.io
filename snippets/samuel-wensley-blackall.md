@@ -1,4 +1,4 @@
-## Colonel Samuel Wensley Blackall <small>(Mount Blackall)</small>
+## Colonel Samuel Wensley Blackall <small>[(Mount Blackall)](https://brisbane.discovereverafter.com/profile/32026682 "Go to Memorial Information" )</small>
 
 Governor - 14 August 1868 to 2 January 1871
 

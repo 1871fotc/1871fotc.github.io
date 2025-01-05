@@ -1,4 +1,4 @@
-## Silvester Diggles <small>(13‑6‑10/11)</small>
+## Silvester Diggles <small>[(13‑6‑10/11)](https://brisbane.discovereverafter.com/profile/31834617 "Go to Memorial Information" )</small>
 
 <!-- circa 1817 - 21 March 1880 -->
 

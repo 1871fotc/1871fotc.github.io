@@ -1,4 +1,4 @@
-## Sarah Woulfe <small>(7A‑74‑15/16)</small>
+## Sarah Woulfe <small>[(7A‑74‑15/16)](https://brisbane.discovereverafter.com/profile/31853012 "Go to Memorial Information" )</small>
 
 Sarah Mahoney, born in Ballybunion, Kerry, Ireland, ca. 1863, was a daughter of Michael Mahoney and Mary (née Wallace). Sarah trained as seamstress. Patrick Joseph Woulfe married Sarah on 13 January 1878. The family of four sailed from Glasgow To Brisbane between 27 June and 23 August 1884, aboard the *Mount Lebanon*. 
 

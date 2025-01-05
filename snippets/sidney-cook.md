@@ -1,4 +1,4 @@
-## Sidney Cook <small>(4‑35‑14)</small>
+## Sidney Cook <small>[(4‑35‑14)](https://brisbane.discovereverafter.com/profile/31799328 "Go to Memorial Information" )</small>
 
 Ex‑Salvation Army Limelight cameraman, Sid Cook, worked extensively with [Henry Mobsby](#henry-william-mobsby-5-61-11). The Limelight Department formed Australia's first registered film production company producing commissioned work for external agencies. Sidney Cook, was the second camera operator. The Royal Visit to Australasia in mid‑1901 included some of Sidney Cook's first camerawork, his coverage of the future King George the Fifth ‑ laying the foundation stone of the Boer War monument in Ballarat on the 13th of May 1901. Sid Cook also filmed the Royal Couple's departure for Brisbane. They had been scheduled to go by sea, but an outbreak of bubonic plague in the Port of Brisbane changed their plans. 
 

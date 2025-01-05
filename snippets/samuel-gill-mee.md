@@ -1,4 +1,4 @@
-## Samuel Gill Mee <small>(4‑12‑30)</small> 
+## Samuel Gill Mee <small>[(4‑12‑30)](https://brisbane.discovereverafter.com/profile/31861622 "Go to Memorial Information" )</small> 
 
 Samuel was born in Wellingborough, Northamptonshire in 1819 where he learned his trade as a compositor. He arrived in Sydney in September 1852. He was seized with gold fever but soon found he was unsuited for life as a gold digger. He returned to the newspaper trade in Bathurst and Sydney, followed by a stint as a shepherd on a station property. 
 

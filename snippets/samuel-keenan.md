@@ -1,4 +1,4 @@
-## Samuel Keenan <small>(2‑48‑7)</small>
+## Samuel Keenan <small>[(2‑48‑7)](https://brisbane.discovereverafter.com/profile/31692521 "Go to Memorial Information" )</small>
 
 New York‑born Samuel Keenan, was an original member of the all African‑American minstrel troupe who toured extensively throughout New Zealand, Australia with the Original Georgia Minstrels, beginning 1877 through to mid 1880s and were managed by Charles B. Hicks. The Georgia Minstrels performed to packed houses around the colonies (Victoria, NSW, South Australia, Tasmania and Queensland) in halls and in legitimate theatres including Gaiety, Tivoli, St Georges Hall and Theatre Royal. They always drew loud applause, laughter and calls for encores. 
 
