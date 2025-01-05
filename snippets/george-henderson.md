@@ -1,4 +1,4 @@
-## George Henderson <small>(8‑13‑26)</small> 
+## George Henderson <small>[(8‑13‑26)](https://brisbane.discovereverafter.com/profile/31732032 "Go to Memorial Information" )</small> 
 
 <!-- 1859‑1936 -->
 

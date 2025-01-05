@@ -1,4 +1,4 @@
-## George Hansford <small>(10‑17‑30/31)</small>
+## George Hansford <small>[(10‑17‑30/31)](https://brisbane.discovereverafter.com/profile/31739503 "Go to Memorial Information" )</small>
 
 George was born on Christmas Day 1840 at St Helier, Jersey to John Hansford and Julia (née Goillon). He was baptised on 10 January 1841. Jane Blackmore Hue married George in St Saviours, Jersey on 18 August 1864. 
 

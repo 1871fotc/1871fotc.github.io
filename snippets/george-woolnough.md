@@ -1,4 +1,4 @@
-## Rev. George Woolnough <small>(11‑16‑16)</small>
+## Rev. George Woolnough <small>[(11‑16‑16)](https://brisbane.discovereverafter.com/profile/31754228 "Go to Memorial Information" )</small>
 
 George was born in Erriswell, Suffolk, England on 17 August 1834. He arrived in Tasmania in 1855. He took his BA and MA at Sydney University. In 1861 he married Maria, the eldest daughter of Thomas Cowlishaw and Maria Evans in Sydney. He became an ordained minister of the Methodist Church. In 1883 he retired from the ministry and joined with Henry Parkes (later Sir Henry), James Greenwood and others in advocating the establishment of free and secular education in State schools in New South Wales. 
 

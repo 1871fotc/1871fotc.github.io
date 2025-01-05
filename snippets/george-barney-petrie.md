@@ -1,4 +1,4 @@
-## George Barney Petrie <small>(13‑5‑3)</small>
+## George Barney Petrie <small>[(13‑5‑3)](https://brisbane.discovereverafter.com/profile/32016158 "Go to Memorial Information" )</small>
 
 George Barney Petrie was born in 1839 at the Moreton Bay settlement, the youngest son of Andrew Petrie and his wife Mary, née Cuthbertson. His family arrived in Sydney in 1831 and in 1837 his father was appointed clerk of works at Moreton Bay penal settlement. The family stayed on in the district after it closed. 
 

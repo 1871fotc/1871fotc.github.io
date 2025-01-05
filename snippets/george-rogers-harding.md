@@ -1,4 +1,4 @@
-## The Honourable George Rogers Harding <small>(1‑82‑15)</small>
+## The Honourable George Rogers Harding <small>[(1‑82‑15)](https://brisbane.discovereverafter.com/profile/31757389 "Go to Memorial Information" )</small>
 
 George Rogers Harding (1838-1895) was born at Taunton, Somerset, England, the only son of George Rogers Harding, LL.B., vicar of Gittisham, Devon, and his wife Elizabeth, née Winter. He was called to the Bar in London in 1861. On arrival in Brisbane with his wife in 1866, he was immediately admitted to the Bar, the first equity counsel in the colony. 
 

@@ -1,4 +1,4 @@
-## George Vowles <small>(2‑49‑35)</small>
+## George Vowles <small>[(2‑49‑35)](https://brisbane.discovereverafter.com/profile/31705117 "Go to Memorial Information" )</small>
 
 Vowles, born ca. 1846 in Ipswich, claimed to be the first Queensland‑born soldier to serve overseas for the Empire. As a seventeen year old, he participated in the Invasion of Waikato which was a campaign during the middle stages of the New Zealand Wars, fought in the North Island from July 1863 to April 1864. The conflict was between the military forces of the Colonial Government and a federation of rebel Māori tribes known as the Kingitanga Movement. 
 

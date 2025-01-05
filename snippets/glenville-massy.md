@@ -1,4 +1,4 @@
-## Glenville Massy <small>(18‑116‑8)</small>
+## Glenville Massy <small>[(18‑116‑8)](https://brisbane.discovereverafter.com/profile/31847849 "Go to Memorial Information" )</small>
 
 <!-- 13 May 1863 - 25 March 1939 -->
 

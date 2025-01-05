@@ -1,4 +1,4 @@
-## George Sillett <small>(5‑65‑9)</small>
+## George Sillett <small>[(5‑65‑9)](https://brisbane.discovereverafter.com/profile/32020521 "Go to Memorial Information" )</small>
 
 George Sillett was born in Durham in the north of England in 1866. He arrived in Brisbane in December 1885. A little under a year later he married Durham lass, Margaret Ann Gill at All Saint’s Church of England, Ann Street. At the time, George Sillett was managing Petrie’s Undertaking Establishment at 550 Queen Street. 
 

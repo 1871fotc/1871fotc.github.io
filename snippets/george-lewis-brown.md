@@ -1,4 +1,4 @@
-## Driver George Lewis Brown <small>(2‑44‑26/27/28)</small>
+## Driver George Lewis Brown <small>[(2‑44‑26/27/28)](https://brisbane.discovereverafter.com/profile/31999696 "Go to Memorial Information" )</small>
 
 Service Number: 27. 1^st^ Light Horse Brigade 
 

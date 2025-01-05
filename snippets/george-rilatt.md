@@ -1,4 +1,4 @@
-## George Rilatt <small>(13‑33‑12)</small>
+## George Rilatt <small>[(13‑33‑12)](https://brisbane.discovereverafter.com/profile/31903167 "Go to Memorial Information" )</small>
 
 Born in 1844 in Lincolnshire, England, Rilatt came to Queensland aged twenty. He was the dedicated janitor of Brisbane Boys' Grammar School for 51 years from 1872 until his death in 1924, aged 80.
 

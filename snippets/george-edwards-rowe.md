@@ -1,4 +1,4 @@
-## Rev Dr George Edwards Rowe <small>(10‑48‑4)</small>
+## Rev Dr George Edwards Rowe <small>[(10‑48‑4)](https://brisbane.discovereverafter.com/profile/31825740 "Go to Memorial Information" )</small>
 
 [George Edwards Rowe](https://vwma.org.au/explore/people/310401) was born in Redruth, Cornwall on 26 August 1858. He trained for the ministry in the Wesleyan Theological College at Richmond in southwest London. He arrived in South Australia in 1881 where he won great popularity as a pastor and preacher and was an advocate for social and economic reform. He was appointed to the position of Superintendent of Wesley Church in Perth in the early 1890's, a position which carried with it chairmanship of the whole colony of W.A. 
 
