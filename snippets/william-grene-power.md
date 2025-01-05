@@ -1,4 +1,4 @@
-## William Grene Power <small>(7‑45‑18)</small> 
+## William Grene Power <small>[(7‑45‑18)](https://brisbane.discovereverafter.com/profile/32040706 "Go to Memorial Information" )</small> 
 
 Born 1835 at Clonmel, Tipperary the son of Edward Power and Mary Ann Grene, Power was educated at Carlow by the Christian Brothers. Power arrived in Victoria in 1857 and was a miner and brewer on the goldfields at Bendigo and Ballarat. He served as Mayor of Jamiestown in 1866. 
 

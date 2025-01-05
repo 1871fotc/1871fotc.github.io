@@ -1,4 +1,4 @@
-## William Francis Faine <small>(13‑12‑1)</small>
+## William Francis Faine <small>[(13‑12‑1)](https://brisbane.discovereverafter.com/profile/31849527 "Go to Memorial Information" )</small>
 
 Guernsey born William Francis Faine was a son of George Faine and Elizabeth (née Cripps). At 16 years of age, William arrived in Melbourne and headed to the Ballarat and Bendigo goldfields. 
 

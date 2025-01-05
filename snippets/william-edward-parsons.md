@@ -1,4 +1,4 @@
-## William Edward Parsons <small>(6‑3‑1)</small>
+## William Edward Parsons <small>[(6‑3‑1)](https://brisbane.discovereverafter.com/profile/31825437 "Go to Memorial Information" )</small>
 
 William Edward Parsons was born in Staffordshire ca. 1860. He learnt stone masonry at Bristol. Ellen Simmons married William at Holy Trinity Church, Westbury on Trym, Gloucestershire on 17 June 1882. It is likely they were the William and Ellen Parsons who sailed from Plymouth to Rockhampton aboard the *Ravenscrag*, arriving on 18 April 1883.  
 

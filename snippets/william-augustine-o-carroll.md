@@ -1,4 +1,4 @@
-## William Augustine O'Carroll <small>(7‑54‑9)</small>
+## William Augustine O'Carroll <small>[(7‑54‑9)](https://brisbane.discovereverafter.com/profile/31821699 "Go to Memorial Information" )</small>
 
 William was born ca. 1831 in Cork, Ireland, the son of William O'Carroll, a sea captain. He brought his family to Brisbane in 1862 on the ship *Chatsworth* and was offered a job at the *Queensland Daily Guardian* after writing a series of letters to the editor of that newspaper. He rose to the position of editor of the *Guardian* before it was absorbed into the *Courier* in 1868. During his career he edited other newspapers including the *Brisbane Courier* and the *Observer* until [his death on 16 May 1885](https://trove.nla.gov.au/newspaper/article/83676398) from complications from a cold.
 

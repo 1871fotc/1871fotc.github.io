@@ -1,4 +1,4 @@
-## William Augustine O’Carroll <small>(7‑54‑9)</small>  
+## William Augustine O’Carroll <small>[(7‑54‑9)](https://brisbane.discovereverafter.com/profile/31821699 "Go to Memorial Information" )</small>  
 
 Born 1831 at the family bakery in Patrick Street, Cork, O’Carroll was the son of a cargo ship’s Captain. He was a ‘Young Irelander’ in 1848 and joined the Fenians in 1858. He contributed to the Irish People, a Nationalist journal and became its editor. After the failure of the ‘St Patrick Plot’ of 1861, he fled Ireland with a price on his head. 
 

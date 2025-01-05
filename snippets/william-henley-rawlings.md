@@ -1,4 +1,4 @@
-## William Henley Rawlings <small>(11‑51‑1)</small>
+## William Henley Rawlings <small>[(11‑51‑1)](https://brisbane.discovereverafter.com/profile/31996686 "Go to Memorial Information" )</small>
 
 William Henry Rawlings was born in Bristol, England on 28 February 1848 to William Rawlings and Margaret Eliza (née Edwards). Billy headed to sea, earning a master mariner's certificate before immigrating to Sydney in 1869. Billy's seafaring then turned to New Zealand's west coast until 1874 when he went mining in Parkes and Urana, New South Wales. 
 

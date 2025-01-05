@@ -1,4 +1,4 @@
-## William Busby <small>(4‑3‑22)</small>
+## William Busby <small>[(4‑3‑22)](https://brisbane.discovereverafter.com/profile/31684792 "Go to Memorial Information" )</small>
 
 William and his wife Annie departed Plymouth aboard the *Mhari Bhan* on 29 August 1882 and [arrived in Brisbane 29 November 1882](http://www.dragongenealogy.com/blog/2011/11/tombstone-tuesday-william-busby-stonemason-of-toowong/). William worked as an Inspector of Works until he [controversially lost his job for using obscene language](https://trove.nla.gov.au/newspaper/article/3521969?searchTerm=INSPECTOR%20Busby). 
 

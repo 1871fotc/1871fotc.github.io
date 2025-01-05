@@ -1,4 +1,4 @@
-## William James Affleck <small>(8‑49‑14)</small>
+## William James Affleck <small>[(8‑49‑14)](https://brisbane.discovereverafter.com/profile/31987851 "Go to Memorial Information" )</small>
 
 <!-- 22 June 1868 - 16 September 1932 -->
 

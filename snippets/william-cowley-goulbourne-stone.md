@@ -1,4 +1,4 @@
-## William Cowley Goulbourne Stone <small>(7‑77‑11)</small>
+## William Cowley Goulbourne Stone <small>[(7‑77‑11)](https://brisbane.discovereverafter.com/profile/31709485 "Go to Memorial Information" )</small>
 
 "Willie" was making a name for himself when he was killed riding a horse home from Eagle Farm after morning trackwork. He was leading one horse whilst riding another. A common sight even today around Doomben. [He crossed Hamilton Road and his horse shied](https://trove.nla.gov.au/newspaper/article/173494864).
 

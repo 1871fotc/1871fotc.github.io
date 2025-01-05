@@ -1,4 +1,4 @@
-## William Henry Warman <small>(2A‑25‑27/28)</small>
+## William Henry Warman <small>[(2A‑25‑27/28)](https://brisbane.discovereverafter.com/profile/32044127 "Go to Memorial Information" )</small>
 
 William was a compositor who worked on various newspapers and at the Queensland Government Printing Office. The name 'the father of Australian compositors' was bestowed on him by the Queensland Government Printer in 1909 on his 80^th^ birthday when he was still an employee of that Office. He had left the printing trade in 1864 to take up the licence for a hotel in Petrie Terrace which he named the Caxton, after the first English printer, [William Caxton](https://en.wikipedia.org/wiki/William_Caxton). He also gave the name Caxton to the street where the hotel was located. He returned to his old trade in 1893 and died at his home in Petrie Terrace on 31 October 1912.
 

@@ -1,4 +1,4 @@
-## William Henry Sowray <small>(1‑50A‑1)</small>
+## William Henry Sowray <small>[(1‑50A‑1)](https://brisbane.discovereverafter.com/profile/31718296 "Go to Memorial Information" )</small>
 
 William Sowray was born in Staveley, in Derbyshire in England on 22 February 1851. William, a blacksmith by trade, was employed by the Railway Department and was vice-president of the Queensland Railway Union. He was also a member of the Ithaca Volunteer Fire Brigade for 23 years and was a superintendent at that organisation. 
 

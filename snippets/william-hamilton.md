@@ -1,4 +1,4 @@
-## William Hamilton <small>(9‑4‑2)</small>
+## William Hamilton <small>[(9‑4‑2)](https://brisbane.discovereverafter.com/profile/31990959 "Go to Memorial Information" )</small>
 
 William Hamilton was born in Melbourne in 1858, the son of a goldminer, George Hamilton, and his wife Mary Ann, née Richardson. By 1875 he was an itinerant bushworker in New South Wales before coming to Queensland as a shearer in 1882. He became famous as the 'ringer' of many a western shearing shed. After a stint goldmining in North Queensland and WA, he returned to shearing in 1888 in Queensland. 
 

@@ -1,4 +1,4 @@
-## William Ernest Schleusener <small>(18‑192‑2)</small>
+## William Ernest Schleusener <small>[(18‑192‑2)](https://brisbane.discovereverafter.com/profile/31757236 "Go to Memorial Information" )</small>
 
 <!-- 1881 - November 1924 -->
 

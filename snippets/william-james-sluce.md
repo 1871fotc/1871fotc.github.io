@@ -1,4 +1,4 @@
-## William James Sluce <small>(2‑6‑21)</small>
+## William James Sluce <small>[(2‑6‑21)](https://brisbane.discovereverafter.com/profile/32021212 "Go to Memorial Information" )</small>
 
 A son of William Sluce and Mary Ann (née French), William James Sluce was born on 25 March 1832, in Bethnal Green, Middlesex.
 Susannah Cox married William in Hackney, London between July and September 1854. 

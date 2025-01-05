@@ -1,4 +1,4 @@
-## William Collin <small>(12‑56‑22)</small>
+## William Collin <small>[(12‑56‑22)](https://brisbane.discovereverafter.com/profile/31701016 "Go to Memorial Information" )</small>
 
 William, a master mariner, was born on 30 August 1834 at Great Wakering, Essex, the ninth of thirteen children of John Collin, a Suffolk farmer and his wife Sarah, née Viner. After only a basic education, fourteen‑year‑old William was working in the coastal coal trade and later on barges in the Thames. He left for Australia via Panama in 1854. Surviving a shipwreck 800 km off the Queensland coast, he eventually arrived in Sydney, via Calcutta! 
 

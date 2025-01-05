@@ -1,4 +1,4 @@
-## William Harold Ryan <small>(7A‑116‑44)</small>  
+## William Harold Ryan <small>[(7A‑116‑44)](https://brisbane.discovereverafter.com/profile/31707881 "Go to Memorial Information" )</small>  
 
 1873 ‑ 1954
 

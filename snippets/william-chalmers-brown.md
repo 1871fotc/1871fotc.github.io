@@ -1,4 +1,4 @@
-## William Chalmers Brown <small>(9‑31‑7)</small>
+## William Chalmers Brown <small>[(9‑31‑7)](https://brisbane.discovereverafter.com/profile/31707730 "Go to Memorial Information" )</small>
 
 William was born in Croydon, England 1841 to Alexander Brown and Margaret (née Chalmers). In 1879 William arrived in Normanton aboard the ketch *Dawn*. In 1882 William ran the pastoral station Croydon with his brother, Alexander. In 1885 William officially notified authorities of gold and a rush commenced. 
 
