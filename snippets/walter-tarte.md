@@ -1,4 +1,4 @@
-## Walter Tarte <small>(10‑75‑58)</small>
+## Walter Tarte <small>[(10‑75‑58)](https://brisbane.discovereverafter.com/profile/31977139 "Go to Memorial Information" )</small>
 
 Service number: 5481. Australian Imperial Force 
 

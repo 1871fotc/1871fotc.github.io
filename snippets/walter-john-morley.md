@@ -1,4 +1,4 @@
-## Walter John Morley <small>(12‑13‑13/14)</small>
+## Walter John Morley <small>[(12‑13‑13/14)](https://brisbane.discovereverafter.com/profile/31899342 "Go to Memorial Information" )</small>
 
 Walter was born at Foulmire, England in 1852, moving to Queensland in 1858 with his parents. On leaving school he joined the literary staff of the *Brisbane Courier* and remained with the company for 35 years including 15 years as editor of the Evening Observer. In 1900 he was appointed editor of the *Queensland Government Mining Journal*. 
 

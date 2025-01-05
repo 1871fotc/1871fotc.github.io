@@ -1,4 +1,4 @@
-## Walter Barrett <small>(1‑31‑7/8)</small>
+## Walter Barrett <small>[(1‑31‑7/8)](https://brisbane.discovereverafter.com/profile/31807730 "Go to Memorial Information" )</small>
 
 Walter Barrett was born in July 1833 in Taunton, Somerset, son of a veterinary surgeon. He married Matilda Webber on 30 March 1864 and set sail for Australia. He established his undertaking business in 1875 and bought a tiny six and a half perches block two doors down from the Hotel Orient which was designated the number 550 Queen Street. 
 
