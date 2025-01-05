@@ -1,4 +1,4 @@
-## John and Mary Ann Ogle <small>(1‑113‑3/4)</small>
+## John and Mary Ann Ogle <small>[(1‑113‑3/4)](https://brisbane.discovereverafter.com/profile/31862088 "Go to Memorial Information" )</small>
 
 John, a son of John Ogle and Isabella (née Swan), was born in Northumberland, England ca. 1824. Mary Ann Scott, a daughter of Robert Scott and Mary (née Frater), was born ca. 1823.
 

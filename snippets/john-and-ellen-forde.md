@@ -1,4 +1,4 @@
-## John and Ellen Forde <small>(15‑19‑27/28)</small>
+## John and Ellen Forde <small>[(15‑19‑27/28)](https://brisbane.discovereverafter.com/profile/31678678 "Go to Memorial Information" )</small>
 
 Irish immigrants, John and Ellen Forde were the parents of [Francis Michael Forde](https://adb.anu.edu.au/biography/forde-francis-michael-frank-12504) better known as Frank Forde, the 15^th^ Prime Minister of Australia.
 

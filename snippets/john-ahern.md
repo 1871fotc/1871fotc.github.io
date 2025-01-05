@@ -1,4 +1,4 @@
-## John Ahern <small>(7‑51‑4)</small>  
+## John Ahern <small>[(7‑51‑4)](https://brisbane.discovereverafter.com/profile/31882618 "Go to Memorial Information" )</small>  
 
 Ahern was born at Donickmore, County Cork, Ireland in 1840, a son of Denis Ahern and Honoria O’Mahoney. He was a farmer prior to joining the Queensland Police Force in September 1864. Ahern was sent to Springsure in October and promoted to Senior Constable/Acting Sergeant in July 1868. He became Inspector of Slaughterhouses in the Mitchell district in February 1870 and received the substantial reward of £15 in September 1872 for *‘energetic perseverance in suppressing cattle‑stealers in the Barcoo and Walgett districts’*. 
 

@@ -1,4 +1,4 @@
-## John Edward Maidens <small>(18‑79‑13)</small>
+## John Edward Maidens <small>[(18‑79‑13)](https://brisbane.discovereverafter.com/profile/31879174 "Go to Memorial Information" )</small>
 
 John Edward Maidens was born in NSW on 3 February 1874 to Elijah Maidens and Sophia (née Medhurst). As a young man Jack was one of three who discovered the Kanowna Goldfield, Western Australia, in 1893. In 1898 Mabel Mary Lipton married John in St Paul's Cathedral, Melbourne. 
 

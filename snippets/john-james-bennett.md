@@ -1,4 +1,4 @@
-## Private John James Bennett <small>(2‑43‑13)</small>
+## Private John James Bennett <small>[(2‑43‑13)](https://brisbane.discovereverafter.com/profile/31811600 "Go to Memorial Information" )</small>
 
 Service Number: 2327. 49^th^ Battalion 
 

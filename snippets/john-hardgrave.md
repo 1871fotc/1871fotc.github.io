@@ -1,5 +1,5 @@
 
-## John Hardgrave <small>(14‑22‑2/3)</small>
+## John Hardgrave <small>[(14‑22‑2/3)](https://brisbane.discovereverafter.com/profile/31751117 "Go to Memorial Information" )</small>
 
 John Hardgrave, a local politician and Mayor of Brisbane, was born in Wicklow, Ireland, in 1826. He arrived in Sydney in 1843 and moved to Brisbane in 1848. In 1860 he purchased 6 acres (2.4 hectares) of land in the Brisbane suburb of West End. [Hardgrave Road is named after him](https://trove.nla.gov.au/newspaper/article/23152541). 
 

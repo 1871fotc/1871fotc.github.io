@@ -1,4 +1,4 @@
-## Captain John Burke <small>(7‑19‑1)</small>
+## Captain John Burke <small>[(7‑19‑1)](https://brisbane.discovereverafter.com/profile/31882678 "Go to Memorial Information" )</small>
 
 [John](https://adb.anu.edu.au/biography/burke-john-5429) was born at Kinsale, Cork the son of fisherman Denis Burke and his wife Ellen. He was a seaman on ships to the USA until the outbreak of the Civil War when he returned to Ireland and signed on with the crew of the *Erin Go Bragh* which arrived in Brisbane in August 1862. He deserted and worked as a pilot for the Australian Steam Navigation Company sailing the *Queensland* and the *Telegraph*. He married Elicia Swords from the *Erin Go Bragh*, and settled on the Logan River. 
 

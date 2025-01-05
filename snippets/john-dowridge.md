@@ -1,4 +1,4 @@
-## John (Jack) Dowridge <small>(5‑28‑14)</small>
+## John (Jack) Dowridge <small>[(5‑28‑14)](https://brisbane.discovereverafter.com/profile/32005312 "Go to Memorial Information" )</small>
 
 Mr Jack Dowridge, one of the pioneers of boxing in Brisbane, and familiarly known as the "Black Diamond," He was born in Barbados Island in 1848, but at the age of 12 years he drifted to London. It was here that he first picked up the rudiments of boxing. The arena attracted him, and he secured employment with Nat Langham, the retired champion of England, who was then keeping the Mitre Tavern, in St. Martin's Lane. In the year 1862 this tavern was a rendezvous of all the great fistic exponents of that time, such as Joe Cross, Boie Brotties, Jim Mace, Tom King, Coburn, Bob Travers, Ned Donnelly, Professor Johns, Bat Mullins, Heenan, Jerry and Billy Ox. It was here that Jack Dowridge made the acquaintance of Tom Sayers, whom Langham first defeated, and in whose favour he subsequently retired. "Jack" became one of Langham's best pupils, and developed the straight style of the old school of boxing. 
 

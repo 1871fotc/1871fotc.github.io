@@ -1,4 +1,4 @@
-## Private John Crilly <small>(10‑41‑20)</small>
+## Private John Crilly <small>[(10‑41‑20)](https://brisbane.discovereverafter.com/profile/31753096 "Go to Memorial Information" )</small>
 
 Service number: 5079. 1^st^ Tunnel Company. Australian Imperial Force. 
 

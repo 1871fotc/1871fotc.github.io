@@ -1,4 +1,4 @@
-## Dr John Henry Griffin <small>(2A‑23‑5)</small>
+## Dr John Henry Griffin <small>[(2A‑23‑5)](https://brisbane.discovereverafter.com/profile/31703476 "Go to Memorial Information" )</small>
 
 Irish-born, Dr Griffin was the son of John Griffin, a leading Dublin broker, and Florence (née McCooke). After qualifying in multiple fields of medicine in Brussels, London and Ireland, he arrived in Brisbane ca. 1889 and soon became well known for his professional skill and his general popularity. 
 

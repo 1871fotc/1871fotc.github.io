@@ -1,5 +1,5 @@
 
-## John Daniel Heal <small>(13‑40‑9)</small>
+## John Daniel Heal <small>[(13‑40‑9)](https://brisbane.discovereverafter.com/profile/31860523 "Go to Memorial Information" )</small>
 
 John Daniel Heal was born near Bradford‑on‑Avon, England on 18 January 1825. He was the son of Ambrose Heal, mason and Elizabeth Smith. He emigrated from England to Brisbane in mid 1856. He married at least twice and had at least eight children, many of whom died in childhood. In Brisbane, John Heal worked at his trade as a stone mason. 
 

@@ -1,3 +1,3 @@
-## John Gordon Smith <small>(11‑53‑5/6)</small>
+## John Gordon Smith <small>[(11‑53‑5/6)](https://brisbane.discovereverafter.com/profile/31845305 "Go to Memorial Information" )</small>
 
 Smith was born in 1863 in Aberdeenshire, Scotland, son William Smith and Christina Duncan. He married Annie Coles in Brisbane in 1884 and had a son and four daughters. In a varied career, he was a publican in Maryborough, and around 1900 operated a night coffee stall in Queen Street. Smith was known as the ‘Democratic Pieman’. He was also a grand master of the Ancient Order of Foresters and President of the British Associated Friendly Society Dispensaries. Smith was a Member of the Legislative Council from 1920 until [his death in Brisbane](https://trove.nla.gov.au/newspaper/article/190573100) on the 19 June 1921.

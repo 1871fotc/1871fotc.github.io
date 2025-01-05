@@ -1,4 +1,4 @@
-## John Donaldson MLA <small>(12‑47‑13)</small>
+## John Donaldson MLA <small>[(12‑47‑13)](https://brisbane.discovereverafter.com/profile/31841292 "Go to Memorial Information" )</small>
 
 ![John Donaldson, Queensland Minister for Public Instruction, 1889](../assets/john-donaldson.jpg){ width="40%" } 
 

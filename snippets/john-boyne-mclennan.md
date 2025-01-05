@@ -1,4 +1,4 @@
-## John Boyne McLennan <small>(13‑58‑3)</small>
+## John Boyne McLennan <small>[(13‑58‑3)](https://brisbane.discovereverafter.com/profile/31890803 "Go to Memorial Information" )</small>
 
 <!-- 1827 - 21 November 1908 -->
 

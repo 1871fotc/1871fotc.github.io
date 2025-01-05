@@ -1,4 +1,4 @@
-## John Jennings Imrie, MD <small>(1‑85‑9)</small>
+## John Jennings Imrie, MD <small>[(1‑85‑9)](https://brisbane.discovereverafter.com/profile/31782438 "Go to Memorial Information" )</small>
 
 Imrie was born in Ayr, Scotland, on 1 June 1813, where he was educated at the local Academy, Braisemere College, Oxford, then Edinburgh Royal College of Surgeons but did not graduate. He received a commission in the army, and went out as medical officer with the 42^nd^ Highlanders to India where he remained in active service for six years. He was severely wounded in India when taking the lead in a charge. With all the other officers were either killed or wounded, he led on and gained a victory, for which he may have been awarded a medal for bravery. [His obituary published in the Brisbane Courier (25 May 1901)](https://trove.nla.gov.au/newspaper/article/21262671) stated this was the Victoria Cross but his name does not appear on any lists of recipients. He was then invalided to England; afterwards sold his commission. 
 

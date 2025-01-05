@@ -1,5 +1,5 @@
 
-## John Hislop <small>(11‑68‑9)</small>
+## John Hislop <small>[(11‑68‑9)](https://brisbane.discovereverafter.com/profile/31910783 "Go to Memorial Information" )</small>
 
 John Hislop along with his brother James, were prize-winning furniture manufacturers and upholsterers with premises in Queen Street. They also conducted funerals together from the 1870s. This partnership was dissolved in 1889 with the funeral and furniture businesses being separated with the bulk of the funerary business being conducted from Peel Street, South Brisbane. 
 
