@@ -1,4 +1,4 @@
-## Private Norman Lister Freeman <small>(2‑43‑24/25)</small>
+## Private Norman Lister Freeman <small>[(2‑43‑24/25)](https://brisbane.discovereverafter.com/profile/31830644 "Go to Memorial Information" )</small>
 
 Service Number: 3051. 55^th^ Australian Imperial Force 
 
