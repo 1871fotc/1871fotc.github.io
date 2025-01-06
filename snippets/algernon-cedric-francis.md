@@ -1,4 +1,4 @@
-## Private Algernon Cedric Francis <small>(2‑37‑31/32)</small>
+## Private Algernon Cedric Francis <small>[(2‑37‑31/32)](https://brisbane.discovereverafter.com/profile/31749015 "Go to Memorial Information" )</small> 
 
 Service Number: 4435. 25^th^ Battalion 
 
