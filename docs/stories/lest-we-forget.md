@@ -33,27 +33,27 @@ Unveiled in May 1902, this is the first known monument to the South African War 
 
 This portion contains numerous Commonwealth War Graves. Flowers were cultivated and sold at the Cemetery from Portion 10 until the 1930s. In 1934 the area set apart for soldiers’ graves within Portion 10 was extended to incorporate the flower gardens and the wooden pavilion was demolished. As the military graves were interspersed amongst civilian burials, this portion lacks the formality of a Commonwealth War Cemetery.
 
-## Private Hugh Vernon Brookes MM <small>(10‑71‑8)</small>
+## Private Hugh Vernon Brookes MM <small>[(10‑71‑8)](https://brisbane.discovereverafter.com/profile/31745796 "Go to Memorial Information" )</small>
 
 Private Brookes enlisted in the AIF in September 1915 and was deployed with the 49^th^ Battalion to France via Alexandria. He was awarded the Military Medal on 24 January 1917 for “bravery in the Field”. Shortly afterwards he was docked two day’s pay for being Absent Without Leave. This wasn’t the last time Brookes was AWOL. In June 1918, he was wounded in action and gassed. He was transferred to hospital in England. At Salisbury, in September, he was court martialed for being in possession of a false leave pass and sentenced to two months detention and forfeited 25 days pay. While serving his time, Armistice was declared and Brookes was discharged in Brisbane in April 1919.
 
-## Private Walter Staines MM <small>(10‑62‑18)</small>
+## Private Walter Staines MM <small>[(10‑62‑18)](https://brisbane.discovereverafter.com/profile/31907350 "Go to Memorial Information" )</small>
 
 English‑born Staines enlisted at Enoggera in June 1915 and attached to the 26^th^ Infantry Battalion. He was awarded the Military Medal for services rendered during fighting at Pozieres, France. He survived the war with no injuries or major illnesses and only a single charge for creating a disturbance on New Years Day 1917 for which he was admonished.
 
-## Sergeant Henry Greer DCM <small>(10‑63‑25)</small>
+## Sergeant Henry Greer DCM <small>[(10‑63‑25)](https://brisbane.discovereverafter.com/profile/32029830 "Go to Memorial Information" )</small>
 
 On 18 August 1918 during operations on the Somme, Greer’s Platoon commander was killed. Greer immediately took command of the platoon and with a small party, cleared up two large dug outs, taking fifty prisoners. For this action he was awarded the Distinguished Conduct Medal.
 
-## Gunner Edward Sidney Webster <small>(10‑45‑28)</small>
+## Gunner Edward Sidney Webster <small>[(10‑45‑28)](https://brisbane.discovereverafter.com/profile/32033831 "Go to Memorial Information" )</small>
 
 Gunner Webster has the dubious distinction of being the only fatality of the ‘Battle of Brisbane’ which broke out on the 26 November 1942 with US Military personnel on one side and Australian servicemen and civilians on the other. Tension had been brewing since the large scale arrival of the American troops who where generally better paid and fed than their Australian counterparts. By 8pm over 5000 people were involved in the disturbance. By 10pm, Gunner Webster had died of a gunshot wound, eight others were similarly injured, and several hundred others received minor injuries. Private Norbert Grant was court‑martialled by the US military for firing the fatal shot but was acquitted on the grounds of self defence. Reporting of the event was censored leading the rumours of many dead sweeping the suburbs of Brisbane.
 
-## Able Seaman Archibald Edward Bartsch <small>(10‑44‑20)</small>
+## Able Seaman Archibald Edward Bartsch <small>[(10‑44‑20)](https://brisbane.discovereverafter.com/profile/31781459 "Go to Memorial Information" )</small>
 
-## Warrant Officer Henry Theeman <small>(10‑41‑21)</small>
+## Warrant Officer Henry Theeman <small>[(10‑41‑21)](https://brisbane.discovereverafter.com/profile/31808968 "Go to Memorial Information" )</small>
 
-## Steward Eric Ross Harrison <small>(10‑43‑7)</small>
+## Steward Eric Ross Harrison <small>[(10‑43‑7)](https://brisbane.discovereverafter.com/profile/31798041 "Go to Memorial Information" )</small>
 
 --8<-- "snippets/bartsch-theeman-harrison.md"
 
