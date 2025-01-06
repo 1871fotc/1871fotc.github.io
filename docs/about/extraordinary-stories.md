@@ -273,15 +273,15 @@ This story was contributed by Gordon Neilson.
 --- 
 
 
-## John Wood Rendall <small>(1‑51‑2)</small>
+## John Wood Rendall <small>[(1‑51‑2)](https://brisbane.discovereverafter.com/profile/31972639 "Go to Memorial Information" )</small>
 
 <!-- 1828 - 27 November 1873 -->
 
-## Amelia Hewitt Rendall <small>(1‑51‑2)</small>
+## Amelia Hewitt Rendall <small>[(1‑51‑2)](https://brisbane.discovereverafter.com/profile/31758336 "Go to Memorial Information" )</small>
 
 <!-- 1829 - 1922 -->
 
-## Mary Ann Rodrigues <small>(1‑51‑2)</small>
+## Mary Ann Rodrigues <small>[(1‑51‑2)](https://brisbane.discovereverafter.com/profile/31959377 "Go to Memorial Information" )</small>
 
 <!-- circa 1800 - 23 June 1883 -->
 
@@ -291,7 +291,7 @@ This story was contributed by Gordon Neilson.
 --- 
 
 
-## Alfred Roberts <small>(13‑1‑2)</small>
+## Alfred Roberts <small>[(13‑1‑2)](https://brisbane.discovereverafter.com/profile/31968336 "Go to Memorial Information" )</small>
 
 <!-- 1837 - 10 May 1920 -->
 
