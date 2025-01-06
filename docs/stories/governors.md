@@ -22,7 +22,7 @@ hide:
 
 --8<-- "snippets/arthur-hunter-palmer.md"
 
-## Rt. Hon. Sir Samuel Walker Griffith <small>[(12‑11‑6/7)]](https://brisbane.discovereverafter.com/profile/31688994 "Go to Memorial Information" )</small>
+## Rt. Hon. Sir Samuel Walker Griffith <small>[(12‑11‑6/7)](https://brisbane.discovereverafter.com/profile/31688994 "Go to Memorial Information" )</small>
 
 Lieutenant Governor - 21 December 1901 to 24 March 1902
 
