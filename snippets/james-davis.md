@@ -7,7 +7,7 @@ He had to relearn the English language and accustom himself again to work and cl
 His rehabilitation into acquisitive society included reform; from his accumulated estate the Brisbane General Hospital received £750 in 1889 and another £1100 in 1911. He guided settlers to good land in the Wide Bay area, and some public benefit came from his thirteen years with the Aboriginals. He was occasionally employed as a court interpreter, and in 1866 petitioned the governor to raise his salary to the £20 paid to Chinese and German interpreters, but his request was refused.
 
 ![James Davis poses in front of his crockery store, George Street, Brisbane, ca. 1872](../assets/james-davis-duramboi.jpg){ width="33%" } ![Duramboi 1893. A portrait of James Davis by Oscar Friström. Part of the Queensland Art Gallery collection. ](../assets/james-davis-portrait-1893.jpeg
-){ width="45.25%" }  
+){ width="45.35%" }  
 
 
 *<small>[James Davis poses in front of his crockery store, George Street, Brisbane, ca. 1872](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218687340002061) — State Library of Queensland. Cropped.</small>*
