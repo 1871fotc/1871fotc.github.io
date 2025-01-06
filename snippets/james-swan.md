@@ -1,4 +1,4 @@
-## James Swan <small>(9‑39‑8)</small>
+## James Swan <small>[(9‑39‑8)](https://brisbane.discovereverafter.com/profile/31818561 "Go to Memorial Information" )</small>
 
 [James Swan](https://adb.anu.edu.au/biography/swan-james-4677) was born in 1811 in Glasgow, Scotland, the son of Daniel Swan and Jennet McLaren. He was apprenticed to the printing trade in Glasgow. In 1831, James married Christina Mackay. In 1837, James emigrated from Glasgow to Sydney with the Rev. Dr John Dunmore Lang and worked on his paper *The Colonialist*. In 1846, the *Moreton Bay Courier* was founded in Brisbane by Sidney Lyons, who persuaded James Swan to come to Brisbane and work on the newspaper. Sidney Lyons had money problems and about 18 months later, James Swan took over the newspaper. In 1859, James sold the *Moreton Bay Courier* to Thomas Blacket Stephens (Brisbane’s second Mayor) who renamed it the *Brisbane Courier*. 
 
