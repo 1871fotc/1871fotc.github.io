@@ -54,7 +54,7 @@ Examples of vandalism will be seen in this cemetery. This is a world‑wide mala
 
     ![Guinsberg headstone](../assets/guinsberg-family.jpg){ width="20%" }
 
-##The Guinsberg Family	<small>(3‑13A‑14/16)</small>
+##The Guinsberg Family	<small>[(3‑13A‑14/16)](https://brisbane.discovereverafter.com/profile/31865087 "Go to Memorial Information" )</small>
 
 This type of massive monument is unusual for its size and is rarely utilised nowadays.
 
@@ -64,7 +64,7 @@ This type of massive monument is unusual for its size and is rarely utilised now
     
     ![Wilfred John Friedlander's headstone](../assets/w-j-friedlander.jpg){ width="20%" }
  
-## Wilfred John Friedlander (AIF) <small>(3‑9A‑17)</small>
+## Wilfred John Friedlander (AIF) <small>[(3‑9A‑17)](https://brisbane.discovereverafter.com/profile/31723401 "Go to Memorial Information" )</small>
 
 This is an example of the bronze plaques erected by the War Graves Commission over the graves of ex‑servicemen.
 
@@ -112,7 +112,7 @@ There are many forms of the name 'Levy'. In this case, the name is 'Loewe'. Simi
     
     ![Trooper Lipstine's headstone](../assets/trooper-lipstine.jpg){ width="20%" }
 
-## Trooper Isaac Benjamen Lipstine <small>(3‑13‑9/10)</small>
+## Trooper Isaac Benjamen Lipstine <small>[(3‑13‑9/10)](https://brisbane.discovereverafter.com/profile/31977573 "Go to Memorial Information" )</small>
 
 This is a bronze plaque supplied by the War Graves Commission. Others are upright white marble headstones.
 
@@ -146,7 +146,7 @@ This is a bronze plaque supplied by the War Graves Commission. Others are uprigh
     
     ![Louis Paul Fingereth's headstone](../assets/louis-paul-fingereth.jpg){ width="20%" }
     
-## Louis Paul Fingereth, M.B.E. <small>(3‑18‑14)</small>
+## Louis Paul Fingereth, M.B.E. <small>[(3‑18‑14)](https://brisbane.discovereverafter.com/profile/31722697 "Go to Memorial Information" )</small>
 
 On this headstone can be seen an example of the configuration of the hands of a Cohen (a male descendant of the family of Aaron, Moses' brother. Aaron was the first high priest, who already functioned during the Exodus). With his hands held in this manner, and his head covered by his prayer shawl, he is entitled to bless the Congregation.
 
@@ -160,7 +160,7 @@ Note that not all the Cohanim (the plural) are named "Cohen". The Levites (male 
     ![Lipman Abrahams' headstone](../assets/lipman-abrahams.jpg){ width="20%" }
 
 
-## Lipman Abrahams <small>(3‑12‑9)</small>
+## Lipman Abrahams <small>[(3‑12‑9)](https://brisbane.discovereverafter.com/profile/31832036 "Go to Memorial Information" )</small>
 
 This is a beautiful carved sandstone monument. The symbol of the book would suggest that the person was well versed in the Hebrew religion. <!-- Today such a monument would cost over $100 000. There are few stonemasons about, who could do the work. -->
 
@@ -238,7 +238,7 @@ You will see some columns with the top broken off. This is a well‑known symbol
     ![Louis Michael Boock's headstone](../assets/l-m-boock.jpg){ width="20%" }
 
 
-## Louis Michael Boock <small>(3‑22‑4)</small>
+## Louis Michael Boock <small>[(3‑22‑4)](https://brisbane.discovereverafter.com/profile/31849518 "Go to Memorial Information" )</small>
 
 This is an example of the marble monuments erected by the Commonwealth War Graves Commission, over the graves of ex‑servicemen. Others are in bronze.
 
@@ -271,7 +271,7 @@ In compliance with the Commandment "Thou shalt not take the name of the Lord thy
     ![Gerson Family headstone](../assets/gerson-family.jpg){ width="20%" }
 
 
-## The Gerson Family <small>(3‑16‑3/4)</small>
+## The Gerson Family <small>[(3‑16‑3/4)](https://brisbane.discovereverafter.com/profile/32004752 "Go to Memorial Information" )</small>
 
 These three identical monuments are an example of the work of vandals. It can be seen that they were broken off at the base with blows from behind. By mounting them on a sloping concrete pad, the broken pieces were brought together. Further vandalism is made less likely.
 
@@ -282,7 +282,7 @@ These three identical monuments are an example of the work of vandals. It can be
     ![Roy Mark Levy's headstone](../assets/roy-mark-levy.jpg){ width="20%" }
 
     
-## Roy Mark Levy <small>(3‑10‑14A)</small>
+## Roy Mark Levy <small>[(3‑10‑14A)](https://brisbane.discovereverafter.com/profile/31861252 "Go to Memorial Information" )</small>
 
 He was a well‑known [cricketer](https://cricketarchive.com/Queensland/Players/16/16333/16333.html) representing Queensland in the Sheffield Shield series over many years.
 
@@ -301,7 +301,7 @@ He was a well‑known [cricketer](https://cricketarchive.com/Queensland/Players/
     ![Samuel Joseph Levy's headstone](../assets/samuel-joseph-levy-headstone.jpg){ width="20%" }
 
 
-## Samuel Joseph Levy <small>(3‑8‑20/21)</small>
+## Samuel Joseph Levy <small>[(3‑8‑20/21)](https://brisbane.discovereverafter.com/profile/32044565 "Go to Memorial Information" )</small>
 
 When a person dies at a relatively young age, it is sometimes symbolised by a "broken column" i.e. the life has been "broken off." On this monument there is a similar symbolism. An arm with an axe in the hand is seen reaching down from the clouds, and it has chopped the trunk of a palm‑tree which is seen falling.
 
@@ -316,7 +316,7 @@ When a person dies at a relatively young age, it is sometimes symbolised by a "b
     ![Joseph Hearsch's headstone](../assets/joseph-hearsch-headstone.jpg){ width="20%" }
 
     
-## Joseph Hearsch <small>(3‑1A‑1/2)</small>
+## Joseph Hearsch <small>[(3‑1A‑1/2)](https://brisbane.discovereverafter.com/profile/31885340 "Go to Memorial Information" )</small>
 
 Here you will see some of the pebbles or stones which are placed on monuments by those who visit the graves of the departed. They carry a three‑fold message:
 
