@@ -107,15 +107,15 @@ This story was contributed by Frances Pavlu.
 
 --- 
 
-## Michael Fryar Shield <small>(18‑8‑24)</small>
+## Michael Fryar Shield <small>[(18‑8‑24)](https://brisbane.discovereverafter.com/profile/32043526 "Go to Memorial Information" )</small>
 
 <!-- ca. 1851 - 5 August 1935 -->
 
-## Mary Ann Shield <small>(18‑8‑24)</small> 
+## Mary Ann Shield <small>[(18‑8‑24)](https://brisbane.discovereverafter.com/profile/31961893 "Go to Memorial Information" )</small> 
 
 <!-- ca. 1852 - 7 July 1905 -->
 
-## Albert Shield <small>(29A‑67‑9)</small>
+## Albert Shield <small>[(29A‑67‑9)](https://brisbane.discovereverafter.com/profile/31898628 "Go to Memorial Information" )</small>
 
 Michel Fryar Shield was born in England. He came to Australia with his parents and siblings from Newcastle-Upon-Tyne on the ship *Stamboul* in 1854. They settled in Moggill and were very early colonists there. He moved to Brookfield and married his first cousin, Mary Ann Makepeace. They raised twelve children. He never remarried after Mary Ann's death in 1905 aged 53. Michel died on the 5^th^ of August 1935 aged 84 years.
 
@@ -138,7 +138,7 @@ This story was contributed by M. Kelly.
 
 --- 
 
-## John T. S. Bird <small>(5‑30‑9A)</small>
+## John T. S. Bird <small>[(5‑30‑9A)](https://brisbane.discovereverafter.com/profile/31673696 "Go to Memorial Information" )</small>
 
 <!-- 10 May 1842 - 7 May 1932 -->
 
@@ -166,15 +166,15 @@ This story was contributed by Dottie Kemp.
 
 --- 
 
-## Mary Kennedy <small>(1‑4‑11/12)</small>
+## Mary Kennedy <small>[(1‑4‑11/12)](https://brisbane.discovereverafter.com/profile/32006889 "Go to Memorial Information" )</small>
 
 <!-- circa 1820 - 5 August 1885 -->
 
-## Andrew Kennedy <small>(1‑19‑3)</small>
+## Andrew Kennedy <small>[(1‑19‑3)](https://brisbane.discovereverafter.com/profile/31750865 "Go to Memorial Information" )</small>
 
 <!-- circa 1858 - 22 February 1930 -->
 
-## Doris Vivian Kennedy <small>(1‑50‑11A)</small>
+## Doris Vivian Kennedy <small>[(1‑50‑11A)](https://brisbane.discovereverafter.com/profile/31666612 "Go to Memorial Information" )</small>
 
 <!-- 1899 - 28 September 1979 -->
 
@@ -193,7 +193,7 @@ This story was contributed by Ian Kennedy.
 
 <!-- TODO reconcile with Notable Women -->
 
-## Florence Griffiths Buchanan <small>(11‑33‑4)</small>
+## Florence Griffiths Buchanan <small>[(11‑33‑4)](https://brisbane.discovereverafter.com/profile/31803154 "Go to Memorial Information" )</small>
 
 <!-- 16 September 1861 - 30 December 1913  -->
 
@@ -218,11 +218,11 @@ This story was contributed by Patrica Ramsay.
 
 --- 
 
-## Anders Peter Petersen-Neilsen <small>(9‑7‑7)</small>
+## Anders Peter Petersen-Neilsen <small>[(9‑7‑7)](https://brisbane.discovereverafter.com/profile/31874510 "Go to Memorial Information" )</small>
 
 <!-- 1842 - 10 May 1928 -->
 
-## Emma Christina Petersen-Neilsen <small>(9‑7‑7)</small>
+## Emma Christina Petersen-Neilsen <small>[(9‑7‑7)](https://brisbane.discovereverafter.com/profile/32016713 "Go to Memorial Information" )</small>
 
 <!-- 1842 - 27 January 1925 -->
 
@@ -305,7 +305,7 @@ England and he arrived in Queensland about 1860. In 1872 he began a horse-drawn 
 --- 
 
 
-## Robert Arthur Johnstone <small>(5‑36‑15/16)</small>
+## Robert Arthur Johnstone <small>[(5‑36‑15/16)](https://brisbane.discovereverafter.com/profile/31744145 "Go to Memorial Information" )</small>
 
 <!-- 1843 - January 1905 -->
 
@@ -328,7 +328,7 @@ This story was contributed by Dr Bill Kitson.
 
 --- 
 
-## John Melville <small>(9‑10‑4)</small>
+## John Melville <small>[(9‑10‑4)](https://brisbane.discovereverafter.com/profile/31863313 "Go to Memorial Information" )</small>
 
 <!-- 10 September 1834 - 8 March 1912 -->
 
@@ -347,19 +347,19 @@ This story was contributed by Joyce Glassop.
 --- 
 
 
-## David Henry Chapman <small>(4‑38‑10/11)</small>
+## David Henry Chapman <small>[(4‑38‑10/11)](https://brisbane.discovereverafter.com/profile/31761885 "Go to Memorial Information" )</small>
 
 <!-- circa 1906 - 20 October 1923 -->
 
-## Percival Louis Chapman <small>(4‑38‑10/11)</small>
+## Percival Louis Chapman <small>([4‑38‑10/11)](https://brisbane.discovereverafter.com/profile/31866027 "Go to Memorial Information" )</small>
 
 <!-- circa 1910 - 12 February 1925 -->
 
-## Eric Austin Chapman <small>(4‑38‑10/11)</small>
+## Eric Austin Chapman <small>[(4‑38‑10/11)](https://brisbane.discovereverafter.com/profile/31703700 "Go to Memorial Information" )</small>
 
 <!-- circa 1912 - 11 January 1926 -->
 
-## Margaret Agnes Chapman <small>(4‑38‑10/11)</small>
+## Margaret Agnes Chapman <small>[(4‑38‑10/11)](https://brisbane.discovereverafter.com/profile/31717461 "Go to Memorial Information" )</small>
 
 <!-- circa 1913 - 1 July 1936 -->
 
@@ -374,11 +374,11 @@ This story was contributed by Ron Gibson.
 --- 
 
 
-## Robert Anderson Wightman <small>(18‑154‑15)</small>
+## Robert Anderson Wightman <small>[(18‑154‑15)](https://brisbane.discovereverafter.com/profile/31806885 "Go to Memorial Information" )</small>
 
 <!-- 3 February 1853 - 25 December 1921 -->
 
-## Jeanie Greenlees Wightman <small>(18‑154‑15)</small>
+## Jeanie Greenlees Wightman <small>[(18‑154‑15)](https://brisbane.discovereverafter.com/profile/31804276 "Go to Memorial Information" )</small>
 
 <!-- 15 July 1856 - 10 October 1936 -->
 
@@ -401,7 +401,7 @@ This story was contributed by Dorothy Collyer.
 --- 
 
 
-## Emma Miller <small>(13‑6‑5/6)</small>
+## Emma Miller <small>[(13‑6‑5/6)](https://brisbane.discovereverafter.com/profile/31795910 "Go to Memorial Information" )</small>
 
 <!-- June 1839 - January 1917 -->
 
