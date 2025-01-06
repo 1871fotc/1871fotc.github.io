@@ -1,7 +1,7 @@
-## Lieutenant Francis Leofric Armstrong <small>(2‑45‑16/17)</small>
+## Lieutenant Francis Leofric Armstrong <small>[(2‑45‑16/17)](https://brisbane.discovereverafter.com/profile/31846593 "Go to Memorial Information" )</small> 
 
 <!--
-Not buried in Toowong so no memorial record
+Not buried in Toowong 
 -->
 
 15^th^ Battalion
