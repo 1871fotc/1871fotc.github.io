@@ -64,7 +64,7 @@ A son of Andrew McMullin and Jane (née Johnston), Robert was born circa 1877 in
 
 Walter Jones was born in London circa 1888. Walter was an able seaman aboard the Aberdeen liner, *ss Themistocles*. The liner arrived from London on Saturday 22 March 1913. Walter [drowned while bathing](https://trove.nla.gov.au/newspaper/article/179880083) in the Brisbane River at Bulimba at 2pm on Sunday 23 March 1913, aged 24 years. Walter's body was retrieved about 7am two days later.
 
-## Sidney Arthur Kennoch <small>[(29‑8‑7)(https://brisbane.discovereverafter.com/profile/31987984 "Go to Memorial Information" )</small>
+## Sidney Arthur Kennoch <small>[(29‑8‑7)](https://brisbane.discovereverafter.com/profile/31987984 "Go to Memorial Information" )</small>
 
 <!-- WRONG? SYDNEY -->
 
