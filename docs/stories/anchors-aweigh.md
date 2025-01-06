@@ -28,7 +28,7 @@ The allegorical figure, Hope, is often shown holding an anchor. Anchors may be s
 
 --8<-- "snippets/henry-lander-pethebridge.md"
 
-## George Davidson <small>(13‑7‑1)</small>
+## George Davidson <small>[(13‑7‑1)](https://brisbane.discovereverafter.com/profile/31777266 "Go to Memorial Information" )</small>
 
 George was for many years the Superintendent Engineer to the Australasian Steam Navigation Company, Sydney. He died on 29 February 1888 aged 47. He was the son of Archibald Davidson and Janet Fyfe. His memorial is a distinctive ship’s boiler plate set in the ground.
 
@@ -42,9 +42,9 @@ George was for many years the Superintendent Engineer to the Australasian Steam 
 
 --8<-- "snippets/william-collin.md"
 
-## Able Seaman Archibald Edward Bartsch <small>(10‑44‑20)</small>
-## Warrant Officer Henry Theeman <small>(10‑41‑21)</small>
-## Steward Eric Ross Harrison <small>(10‑43‑7)</small>
+## Able Seaman Archibald Edward Bartsch <small>[(10‑44‑20)](https://brisbane.discovereverafter.com/profile/31781459 "Go to Memorial Information" )</small>
+## Warrant Officer Henry Theeman <small>[(10‑41‑21)](https://brisbane.discovereverafter.com/profile/31808968 "Go to Memorial Information" )</small>
+## Steward Eric Ross Harrison <small>[(10‑43‑7)](https://brisbane.discovereverafter.com/profile/31798041 "Go to Memorial Information" )</small>
 
 --8<-- "snippets/bartsch-theeman-harrison.md"
 
