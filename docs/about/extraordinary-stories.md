@@ -81,7 +81,7 @@ April 1999
 
 <!-- TODO reconcile with issac-walter-jenner snippett -->
 
-## Walter Issac Jenner <small>(5‑43‑16)</small>
+## Walter Issac Jenner <small>[(5‑43‑16)](https://brisbane.discovereverafter.com/profile/31751308 "Go to Memorial Information" )</small>
 
 <!-- 8 March 1836 - 1 March 1902 -->
 
