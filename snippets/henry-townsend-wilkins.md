@@ -1,4 +1,4 @@
-## Corporal Henry Townsend Wilkins <small>(2A‑22‑11)</small>
+## Corporal Henry Townsend Wilkins <small>[(2A‑22‑11)](https://brisbane.discovereverafter.com/profile/31848953 "Go to Memorial Information" )</small>
 
 Service Number: 783. 41^st^ Australian Imperial Force 
 
