@@ -1,8 +1,8 @@
-## Emily Sophia Pickett <small>(21‑1‑55)</small>
+## Emily Sophia Pickett <small>[(1‑55-21)](https://brisbane.discovereverafter.com/profile/32035395 "Go to Memorial Information" )</small>
 
 <!-- 4 July 1857 - 19 December 1923 -->
 
-## Henry Tom Pickett <small>(21‑2‑31)</small>
+## Henry Tom Pickett <small>[(2A-31-21)](https://brisbane.discovereverafter.com/profile/31676849 "Go to Memorial Information" )</small>
 
 Died 21 May 1927
 
