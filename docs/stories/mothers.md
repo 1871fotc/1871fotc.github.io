@@ -16,7 +16,7 @@ hide:
     ![](../assets/404.png){ width="15%" }
 -->
 
-## Elizabeth Moffat <small>(13‑21‑15)</small>
+## Elizabeth Moffat <small>[(13‑21‑15)](https://brisbane.discovereverafter.com/profile/31826161 "Go to Memorial Information" )</small>
 
 Elizabeth Holdway was born in Bundamba on 3 March 1858 to John Holdway and Sarah (née Willis). The family moved to Toowong in 1874 and
 Elizabeth resided in that suburb for the remainder of her life. William McCombie Moffat married Elizabeth at her parent's residence, Toowong on 28 March 1882. 
@@ -33,7 +33,7 @@ Elizabeth died at her residence, *Crandart*, Maryvale Street, Toowong on Friday 
     ![](../assets/404.png){ width="15%" }
 -->
 
-## Honorah Mary Teresa Ross <small>(15‑9‑42)</small>
+## Honorah Mary Teresa Ross <small>[(15‑9‑42)](https://brisbane.discovereverafter.com/profile/32014043 "Go to Memorial Information" )</small>
 
 Born in Warwick, Queensland on 6 December 1858, Honorah Foley was a daughter of John Foley (aka James Horrigan) and Honorah (née Fitzgibbon). William Monsoon Ross married Honorah in the Presbyterian Church, James Street, Toowoomba on Monday 6 January 1879. 
 
@@ -41,7 +41,7 @@ The couple had five sons and three daughters. The Ross' eight children were Will
 
 Honorah, of Morgan Street, Fortitude Valley, died on 13 April 1926.
 
-## Ottilia Ufer <small>(7‑103‑32)</small>
+## Ottilia Ufer <small>[(7‑103‑32)](https://brisbane.discovereverafter.com/profile/31737439 "Go to Memorial Information" )</small>
 
 Born in Niederheimbach, Germany on 23 February 1861, Ottilia Lucia Alexandrina Drenk was a daughter of Mathias Drenk and Maria (née Schrenk). Johann Ufer married Ottilia. The family of seven arrived in Brisbane from London on 21 February 1888 aboard the *Bulimba*.
 
@@ -49,7 +49,7 @@ Four children born in Queensland made a total of nine Ufer children in Queenslan
 
 Ottilia, a resident of Ripple Creek, near Ingham, was a farmer. Ottilia died in Brisbane on 13 January 1935 from heart failure.
 
-## Mary Catherine Lusk <small>(7‑114‑8/9)</small>
+## Mary Catherine Lusk <small>[(7‑114‑8/9)](https://brisbane.discovereverafter.com/profile/31906658 "Go to Memorial Information" )</small>
 
 Mary Catherine Tierney was born in Queensland to Patrick Tierney, railway worker and his wife Norah (née McCarthy) on 11 May 1892. William Alexander Lusk married Mary in Brisbane on 14 May 1913. Their only daughter, Kathleen May, known as Kitty, was born in Brisbane on 1 April 1914. 
 
@@ -61,11 +61,11 @@ The family resided at *Green Hill*, Alderley. Mary and Kitty died on 13 March 19
 
 --8<-- "snippets/sarah-woulfe.md"
 
-## Martha Fredericke Stone <small>(18‑104‑22/23/24)</small>
+## Martha Fredericke Stone <small>[(18‑104‑22/23/24)](https://brisbane.discovereverafter.com/profile/31967695 "Go to Memorial Information" )</small>
 
 Carl Heinrich Stritzke and Fredericke Caroline Lane (née Bergemann) were the parents of Martha Fredericke Stritzke, who was born in Queensland on 18 June 1884. Edward John Stone married Martha at her parent's residence, Church Street, Fortitude Valley, on 7 February 1906. Their son, Henry James Stone, was born in Brisbane on 5 April 1907. Martha died on 8 April 1907 and her son died four days later.
 
-## Elizabeth Phillips <small>(18‑103‑23/24)</small>
+## Elizabeth Phillips <small>[(18‑103‑23/24)](https://brisbane.discovereverafter.com/profile/31994681 "Go to Memorial Information" )</small>
 
 Elizabeth Nelson was born in Gilford, County Down, Ireland to James Nelson and Elizabeth (née Priestly). James Phillips married Elizabeth in Gilford on 23 September 1859. The family of three sailed on 23 September 1863, arriving in Brisbane on 27 January 1864 aboard the *Light of the Age*. They settled on land on the banks of Oxley Creek before moving to Fig Tree Pocket. 
 
@@ -73,7 +73,7 @@ The Phillips' eleven children were Ellen (ca. 1863-1957), Annie (-1919), Mary (1
 
 Elizabeth died at her residence, Fig Tree Pocket on 25 February 1931 
 
-## Marie Theresa Lightolier <small>(11‑77‑1)</small>
+## Marie Theresa Lightolier <small>[(11‑77‑1)](https://brisbane.discovereverafter.com/profile/31807856 "Go to Memorial Information" )</small>
 
 Marie Theresa Haly, known as Minnie, was born at Tamrookum, Queensland, on 13 September 1855 to Charles Robert Haly and Rosa (née Harpur), Harry Martin Lightoller married Minnie at St Paul's Church, Ipswich on 9 September 1879. 
 
@@ -92,13 +92,15 @@ The family resided in Ipswich until Dr Lightoller travelled to Europe from March
 *<small>[Highlands, a residence in Albion, Brisbane, 1930](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool50472)  - State Library of Queensland. Cropped.</small>*
 
 
-## Helen Dugald Street <small>(12‑39‑24)</small>
+## Helen Dugald Street <small>[(12‑39‑24)](https://brisbane.discovereverafter.com/profile/31791577 "Go to Memorial Information" )</small>
+
+<!-- WRONG? DOUGALD -->
 
 Helen Dugald Robertson was born in Wisconsin, USA in 1858 to Charles Robertson, a blacksmith and Christina (née Shallcross). William Street, white ant and borer expert, married Helen, a woollen mill clerk, on Thursday 25 August 1881 at the residence of the bride's father, Patch Grove, Grant County, Wisconsin, USA. The couple sailed from Glasgow on 11 October 1881, arriving in Moreton Bay on 28 January 1882 aboard the *Brodick Bay*. 
 
 The Streets had two Queensland-born sons, Charles Abram (1883-1938) and Richard Joseph, known as RJ (1884-1959). Helen died on 7 October 1907 in South Brisbane.
 
-## Eliza Finney <small>(13‑81‑6/13)</small>
+## Eliza Finney <small>[(13‑81‑6/13)](https://brisbane.discovereverafter.com/profile/31778730 "Go to Memorial Information" )</small>
 
 Eliza Cornwall was born to Thomas Cornwall and Mary (née Thomas) in County Galway, Ireland ca. 1805. Thomas Finney, farmer, married Eliza in Tuam, County Galway in 1823. Eliza's newspaper obituaries stated she was mother to "[no fewer than 21 children](https://trove.nla.gov.au/newspaper/article/176474296)", while others indicated she was the "[mother of 23 children](https://trove.nla.gov.au/newspaper/article/148031679?searchTerm=Eliza%20Finney)". 
 
@@ -115,7 +117,7 @@ TODO Confirm this is Eliza
 *<small>[Mrs T. Finney](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218142500002061  - State Library of Queensland.</small>*
 -->
 
-## Annie Watson Turner <small>(13‑70‑7/8)</small>
+## Annie Watson Turner <small>[(13‑70‑7/8)](https://brisbane.discovereverafter.com/profile/31699631 "Go to Memorial Information" )</small>
 
 Annie Hall, born in Ayr, Scotland on 16 October 1868, was the eldest child of George Hall, schoolmaster and Jeanie Pratt (née Watson). The family of nine arrived in Victoria aboard the *Loch Shiel* in November 1883. The family moved to Queensland for the following school year. Leonard Haslewood Turner married Annie in the Presbyterian Church, Wickham Terrace in 1888. 
 
