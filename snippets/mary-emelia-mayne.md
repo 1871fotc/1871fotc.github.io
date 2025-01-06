@@ -1,4 +1,4 @@
-## Mary Mayne [(7‑49‑9)](https://brisbane.discovereverafter.com/profile/31985472 "Go to Memorial Information" ) and Mary Emelia Mayne <small>[(7‑49‑2)](https://brisbane.discovereverafter.com/profile/32022355 "Go to Memorial Information" )</small>
+## Mary Mayne <small>[(7‑49‑9)](https://brisbane.discovereverafter.com/profile/31985472 "Go to Memorial Information" )</small> and Mary Emelia Mayne <small>[(7‑49‑2)](https://brisbane.discovereverafter.com/profile/32022355 "Go to Memorial Information" )</small>
 
 Mary McIntosh was born ca. 16 August 1826 at Kilkishen, near Ennis, County Clare, Ireland. She migrated to Sydney as a single woman in the *Champion* in February 1842. On 9 April 1849 in Brisbane she married Patrick Mayne.
 
