@@ -10,7 +10,7 @@ hide:
 
 **February 1838 — 30 March 1914**
 
-## Edward Barrow Forrest <small>(9‑37‑1)</small> 
+## Edward Barrow Forrest <small>[(9‑37‑1)](https://brisbane.discovereverafter.com/profile/31760249 "Go to Memorial Information" )</small> 
 
 --8<-- "snippets/edward-barrow-forrest.md"
 

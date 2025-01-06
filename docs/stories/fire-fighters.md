@@ -30,7 +30,7 @@ hide:
 - 1908: Later headquarters opened corner Ann and Wharf Streets.
 - 1921: Brisbane Metropolitan Fire Brigades amalgamated under Order of Council.
 
-## Edward Barrow Forrest <small>(9‑37‑1)</small> & Robert Russell Smellie <small>(13‑60‑5/10)</small>
+## Edward Barrow Forrest <small>[(9‑37‑1)](https://brisbane.discovereverafter.com/profile/31760249 "Go to Memorial Information" )</small> & Robert Russell Smellie <small>[(13‑60‑5/10)](https://brisbane.discovereverafter.com/profile/31801358 "Go to Memorial Information" )</small>
 
 --8<-- "snippets/edward-barrow-forrest.md"
 
