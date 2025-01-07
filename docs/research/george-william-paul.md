@@ -10,6 +10,6 @@ hide:
 
 **Died 10 December 1909**
 
---8<-- "snippets/george-william-paul.md"
+--8<-- "snippets/george-william-paul-2.md"
 
 --8<-- "snippets/add-to-this-story.md"
