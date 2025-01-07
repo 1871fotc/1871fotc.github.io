@@ -39,14 +39,14 @@ The signs are 25cm high by 35cm wide and are printed on 2mm Stainless Steel.
 ![Example Information Sign](../assets/joseph-darragh-information-sign.jpg){ width="70%" }
 
 <!--
-Manufactured by [Armsign](https://www.armsign.com.au)
+Manufactured by [Armsign](https://www.armsign.com.au)  
 -->
 
-### Download the data
+### Download the data 
 
 The [Toowong Cemetery Graveside Information Signs](information-signs.md) by [Friends of Toowong Cemetery Association Inc.](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You must provide attribution if you reuse this work.
 
-Download the Toowong Cemetery Graveside Information Signs as a Comma Separated Value file</a> (.csv)
+Download the Toowong Cemetery Graveside Information Signs as a Comma Separated Value file (.csv)
 
 [Download the data][data]{ .md-button .md-button--primary download}
 
