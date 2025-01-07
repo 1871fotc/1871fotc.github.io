@@ -22,7 +22,7 @@ hide:
     ![](../assets/404.png){ width="15%" }
 -->
 
---8<-- "snippets/george-william-paul-2.md"
+--8<-- "snippets/george-william-paul.md"
 
 
 <!--
