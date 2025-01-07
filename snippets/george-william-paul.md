@@ -6,6 +6,6 @@ In 1871 he was appointed first acting judge of the District Courts before being 
 
 
 <figure markdown>
-  ![Judge George William Paul](../assets/george-william-paul.jpg){ width=40% class="full-width" align=left }</br>
+  ![Judge George William Paul](../assets/george-william-paul.jpg){ width=40% class="full-width" }
   <figcaption markdown>[Portrait of Judge George William Paul, 1874](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183505521702061) - State Library of Queensland.</figcaption>
 </figure>
