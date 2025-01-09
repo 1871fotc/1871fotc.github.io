@@ -192,7 +192,7 @@ Archibald was the Chairman of the Toowong Fire Brigade, which had built a [fire 
 
 Written by [Dr. Hilda Maclean](https://www.linkedin.com/in/dr-hilda-maclean-4819a711/).
 
-Sponsored by Judy Magub, Councillor for Toowong, 1994—2007
+Sponsored by Judy Magub, Councillor for Toowong, 1994—2007.
 
 ![Toowong Centenary logo](../assets/toowong-centenary-1903-2003.png){ width="15%" }
 
