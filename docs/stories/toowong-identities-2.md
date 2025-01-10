@@ -168,7 +168,7 @@ Sponsored by Judy Magub, Councillor for Toowong, 1994—2007
 
 ## Sources
 
-1: Leggett, S. and Grant, R. (eds) [Toowong: A community’s history](https://www.toowong.au/books/), Toowong, West Toowong Community Association Inc., 2003
+1: Leggett, S. and Grant, R. (eds) [Toowong: A community’s history](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:347071/one), Toowong, West Toowong Community Association Inc., 2003
 
 2: Ochert, M. “[Sali Mendelsohn](https://www.ajhs.com.au/archives/ajhs-12-2-1994-p327/)”, Australian Jewish Historical Society Journal
 
