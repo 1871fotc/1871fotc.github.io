@@ -1,3 +1,8 @@
+---
+search:
+  boost: 0.4 
+---
+
 # Toowong Cemetery Road Signs and Names
 
 Some Toowong Cemetery road signs need to be replaced or repaired:
