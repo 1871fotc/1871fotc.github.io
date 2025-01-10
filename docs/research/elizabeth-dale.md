@@ -40,5 +40,5 @@ https://www.familyhistory.bdm.qld.gov.au/details/d853a55fa3992ef6483f1a99dd5511c
 
 ### Copyright
 
-This story is from *Toowong Cemetery*, by [Hilda Maclean](https://www.linkedin.com/in/dr-hilda-maclean-4819a711/) and Prue Firth, in *[Toowong: A community's history](https://www.toowong.au/books/)* by [West Toowong Community Association Inc.](https://www.toowong.au). Used with permission. Links added.
+This story is from *Toowong Cemetery*, by [Hilda Maclean](https://www.linkedin.com/in/dr-hilda-maclean-4819a711/) and Prue Firth, in *[Toowong: A community's history](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:347071/one)* by [West Toowong Community Association Inc.](https://www.facebook.com/toowonghistorygroup/). Used with permission. Links and images added.
 
