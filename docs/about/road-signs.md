@@ -1,19 +1,18 @@
----
-hide:
-  - toc
----
+# Toowong Cemetery Road Signs and Names
 
-# Toowong Cemetery Road Signs
-
-Some Toowong Cemetery road signs need replacement or repair:
+Some Toowong Cemetery road signs need to be replaced or repaired:
 
 - some signs have not been updated to reflect road name changes.
 - some signs are unreadable due to weathering.
-- some signs have been bent by vandals. Often these signs are on low posts.
+- some signs have been bent or moved down the post by vandals. 
   
-New signs could be added to make wayfinding in the cemetery easier.
+Additional road signs could be added to make wayfinding in the cemetery easier.
 
-The table below is our prioritised recommendations for road sign improvements in Toowong Cemetery.
+The 4 maps on display at the cemetery enteries and the Shelter Shed at the start of Federation Drive have not been updated to reflect the new road names. 
+
+## Prioritised improvements
+
+The sortable table below is our prioritised recommendations for road sign improvements in Toowong Cemetery.
 
 | Intersection                    | Current Sign            | Recommendation                         | Priority | 
 | :--                             | :--                     | :--                                    | :--      |
@@ -83,10 +82,192 @@ Priorities:
 
 ## Renaming Roads 
 
-As there is only one 10^th^ Avenue sign and it is unreadable, there is an opportunity to rename the road after someone notable buried nearby. Candidates include: 
+Where the signs above need to be replaced, we should consider renaming roads. We should:
+- avoid road names that already exist in Toowong or nearby suburbs.
+- try achieve gender equity in road names.
+
+Proposed priority changes based on the number and condition of signs needed to fully rename a road, and the availability of candidates with stories on fotc.au.
+
+- 10^th^ Avenue - replace 1 unreadable sign.
+- 5^th^ Avenue - replace 1 damaged sign. 
+- 1^st^ Avenue - replace 2 unreadable signs. 
+- 2^nd^ Avenue - replace 2 unreadable signs.
+- 3^rd^ Avenue - replace 3 unreadable signs. 
+- 6^th^ Avenue - replace 2 signs. 
+- 9^th^ Avenue - replace 1 sign. No candidates
+
+
+
+## 1^st^ Avenue
+
+Candidates would come from:
+
+- Portion 1 
+    - Sections 34-44a, 81, 83, 85, 88, 91, 95, 99.
+- Portion 2a
+    - Sections 1-6a, 14, 23, 24.
+- Portion 2
+    - Sections 9-11. No stories.
+
+Potential Candidates:
+
+- **[Emily Owen](../research/emily-owen.md)** (1-39-5)
+- **[Benjamin Harris Babbidge](../research/benjamin-harris-babbidge.md)** (1-44-9)
+- **[George Rogers Harding](../research/george-rogers-harding.md)** (1-82-15)
+- **[Walter Horatio Wilson](../research/walter-horatio-wilson.md)** (1-84-22)
+- **[John Jennings Imrie](../research/john-jennings-imrie.md)**	1-85-9
+- **[Vera Evelyn James](../research/vera-evelyn-james.md)**	(2A-23-16)
+- **[William Henry Warman](../research/william-henry-warman.md)** (2A-25-27/28)
+
+<!--
+- Jack Bannister	(2A-25A-18/19)
+- William	Johnson	(1-36-2)
+- Harriet	Johnson (1-36-2)
+- William	Webster (1-37-6)
+- Alice Maud Mary	Le Bas (1-39-14)
+- Mary Constance Crosse (1-39-15)
+- John Henry Griffin	(2A-23-5)
+- James	Sanford	(2A-24-1/2)
+- Peter	Morgan (1-88-4)
+- Walter Frederick Wilson	(1-85-8)
+- Mary Kennedy	(1-4-11/12)
+-->
+
+Road type: the road is curved:
+
+- Cresent
+- Avenue
+
+For example: 
+
+- **Babbidge Cresent**
+- **Emily Owen Avenue**
+
+
+
+## 2^nd^ Avenue
+
+Candidates would come from Portions 1, 2, 2a, 5, 7A, 20, 22 or 28.
+
+Potential Candidates:
+
+- **[Leontine Mary Jane Cooper](../research/leontine-cooper.md)** (2A-29-11)
+- John Higson (2A-31-16)
+- Ernest Eglinton	(2A-31-22)
+
+Road type: the road is long:
+
+- Way
+- Avenue
+
+For Example:
+
+- **Leontine's Way**
+
+
+## 3^rd^ Avenue
+
+Candidates would come from:
+
+- Portion 5, Sections 72, 74-76, 100, 102, 104, 106-109.
+- Portion 20, Sections 3-18.
+
+Potential Candidates:
+
+- **Agnes Susan MacLean** (5‑107‑19)
+- Thomas Hinch (20‑18‑23)
+
+For Example:
+
+- **Kable Avenue**
+- Agnus Avenue
+
+
+
+## 5^th^ Avenue
+
+**No candidates** identified. Candidates would come from:
+
+- Portion 29, Sections 1, 4, 11, 12, 22, 36, 53. 
+- Portion 30, Sections 13, 20, 27a, 35, 43, 51.
+
+Generic name to represent the steep hill:
+
+- Ascension Way
+- Ascension Avenue
+- Heavenly Ascent
+- Eternal Ascent
+- Heussler Rise (Previous name for Birdwood Tce)
+- Silent Rise (Out of breath going up the hill)
+- Steeple Drive (Steep Hill - Drive!)
+
+
+## 6^th^ Avenue
+
+Candidates would come from:
+
+- Portion 20, Sections 1, 58, 58a
+- Portion 21, Sections 1a, 13a
+
+Candidates include:   
+
+- **[Emily Sophia	Pickett](../research/emily-sophia-pickett.md)****	(21-1-55)
+- **[Henry Tom	Pickett](../research/emily-sophia-pickett.md)**	(21-2-31)
+- **[Thomas	Macer**](../research/)** (21-14-3)
+
+<!-- 
+- Samuel James Reilly (20-46-18)
+- Albert Ensor (20-48-5/6)
+- Frank	Thorne (21-20-16)  
+- Thomas Hinch (20-18-23)
+- Barnard Charles	Evans	(20-20-13/14)
+- Albert Charles Cox (20-23-1/2)
+- Reginald Hebe	Roe	(20-25-5A)
+- John Shirley (20-25-6)
+
+-->
+
+## 9^th^ Avenue
+
+**No candidates identified**. Candidates would come from:
+
+- Portion 18, Sections 197-198
+- Portion 25, Sections 1-3
+
+Generic name for short, straight, gentle sloped road near a dam that was filled with headstones from Padding Cemetery and the cemetery nursery. Headstones from Archaeolgically digs may be displayed here.
+
+- Nursery Lane
+- Reconciliation Avenue
+- Memory Lane
+- Stillwater Way
+- Name of the creek
+- Whispering Waters Lane
+- Grave Waters Way
+- Langville Creek Lane
+
+
+
+
+## 10^th^ Avenue
+
+Candidates include: 
 
 - [Susan Woulfe](../research/sarah-woulfe.md) (7A‑74‑15/16) - founder of Woulfe and Son, tailors. Beside the road. <!-- https://trove.nla.gov.au/newspaper/article/21766493 https://trove.nla.gov.au/newspaper/article/178970640  https://trove.nla.gov.au/newspaper/article/183346808  -->
 - [Kathleen Sheehy](../research/kathleen-eileen-sheehy.md) (7A‑135‑12) - first Head Teacher of the Dutton Park Opportunity School.
 - [James Rylatt](https://trove.nla.gov.au/newspaper/article/192376852) (7A-33-12) - jockey killed in a racing accident at Kedron Park. Beside the road. (There is a Rylatt Street in Indooroopilly)
 
-We should avoid road names that already exist in Toowong or nearby suburbs.
+[Road type](https://en.wikipedia.org/wiki/Types_of_road#Lower_capacity_roads): the road is short and narrow:
+- Lane
+
+For Example:
+- **Woulfe Lane**
+
+
+
+
+## Toowong Cemetery Map
+
+<figure markdown>
+![Toowong Cemetery Map showing Portions, Sections and key features](../assets/toowong-cemetery-map.jpg){ width="100%" data-title="Toowong Cemetery Map" data-description="Portion numbers are the large numbers. Section numbers are the small numbers inside the light green rectangles. Grave numbers are not shown."}
+  <figcaption markdown>Toowong Cemetery Map showing Portions, Sections and key features. [Toowong Cemetery Area Map](https://www.brisbane.qld.gov.au/sites/default/files/documents/2022-09/20220906-Toowong-Cemetery-Map-2022.pdf)  © [Brisbane City Council](https://www.brisbane.qld.gov.au) 2022, used under [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/). Corrected on 4 March 2023 in consultation with Toowong Cemetery: Portion 10 Section, 85 and 83 swapped. Portion 7A, Sections 233a and 233b renamed to 234 and 235 respectively. Road name labels added and spelling corrected.</figcaption>
+</figure>
