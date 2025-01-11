@@ -1,4 +1,4 @@
-# Toowong Cemetery Historic Maps
+# Historic Toowong Cemetery Maps
 
 On this page you'll find historic maps of Toowong Cemetery that may help your research. To see the detail such as grave numbers within a section, you'll probably need to download the high resolution version of the map.
 

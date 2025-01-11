@@ -47,7 +47,7 @@ There are 34 Portions in the cemetery, numbered 1 to 30 and also 2A, 7A, 15A, 29
 
 Portion numbers are shown on signs throughout the cemetery. Section numbers are painted on the road.
 
-[Historic maps](historic-maps.md) may help you find graves within a section. A current map of graves within sections has not been published by the Brisbane City Council.
+[Historic maps](historic-cemetery-maps.md) may help you find graves within a section. A current map of graves within sections has not been published by the Brisbane City Council.
 
 <figure markdown>
   ![Portion Sign](../assets/portion-sign.jpg){ width="100%" data-title="Portion 10 Sign" data-description="Portion numbers are shown on signs throughout the cemetery."}
