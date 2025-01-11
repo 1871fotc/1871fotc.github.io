@@ -4,7 +4,12 @@ description: Historic Real-Estate maps of Toowong
 
 # Historic Real-Estate Maps of Toowong
 
-The maps of Toowong and surronding areas below are from 1861 to 1936. In the 1930s the Council decided to rename many streets in Brisbane to make their names unique. The names listed below are the names shown on the maps and may not be the street names in use today. 
+The maps of Toowong and surronding areas below are from 1861 to 1936. In the 1930s the Council decided to rename many streets in Brisbane to make their names unique. The names listed below are the names shown on the maps and may not be the street names in use today. For example:
+
+- Church Street was renamed Jephson Street, after Letitia Jephson.
+- Heussler Terrace, named after Johann Christian Heussler, was renamed Birdwood Terrace.
+- Third Avenue off Birdwood Terrace was renamed Couldrey Street.
+
 
 ## Toowong Cemetery Reservation c1861
 
