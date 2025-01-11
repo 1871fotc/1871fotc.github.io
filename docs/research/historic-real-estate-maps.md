@@ -4,12 +4,20 @@ description: Historic Real-Estate maps of Toowong
 
 # Historic Real-Estate Maps of Toowong
 
-The maps of Toowong and surronding areas below are from 1861 to 1936. In the 1930s the Council decided to rename many streets in Brisbane to make their names unique. The names listed below are the names shown on the maps and may not be the street names in use today. For example:
+The maps of Toowong and surrounding areas below are from 1861 to 1936. Some maps show *Government Road* - this is a placeholder name for the road.
 
-- Church Street was renamed Jephson Street, after Letitia Jephson.
-- Heussler Terrace, named after Johann Christian Heussler, was renamed Birdwood Terrace.
-- Third Avenue off Birdwood Terrace was renamed Couldrey Street.
+In the 1930s the Council decided to rename many streets in Brisbane to make their names unique. The names listed below are the names shown on the maps and may not be the street names in use today. For example:
 
+- *Church Street* was renamed *Jephson Street*, after [Letitia Jephson](../research/letitia-jephson.md).
+- *Heussler Terrace*, named after [Johann Christian Heussler](../research/johann-christian-heussler.md), was renamed *Birdwood Terrace*.
+- *Third Avenue* off Birdwood Terrace was renamed *Couldrey Street*.
+- *River Road* was renamed *Coronation Drive* in honor of the coronation of King George VI.
+- *St. Lucia Road* was renamed *Sir Fred Schonell Drive* after the vice-chancellor of the University of Queensland from 1960 to 1969.
+
+For more information, see: 
+
+- [A Guide - History of Street Naming in Brisbane](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/24510/0) - A guide detailing the process for street naming by Council and a guide to suing the street naming records held by the City Archives. Brisbane City Council Archives.
+- [ Duplicated Street names - List Assigned New Street Names May 1939 arranged by NEW street Name](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/24528/0). Brisbane City Council Archives.
 
 ## Toowong Cemetery Reservation c1861
 
@@ -22,7 +30,7 @@ Map showing the Toowong Cemetery Reservation.
 
 ## Village of Nona c1865
 
-The Village of Nona maps shows: Moggill Road, Emma Street, and James Street. 
+The Village of Nona map shows: *Moggill Road*, *Emma Street*, and *James Street*. 
 
 ![Village of Nona c1865](../assets/real-estate-maps/village-of-nona.jpg){ width="45%" }
 
@@ -30,7 +38,7 @@ The Village of Nona maps shows: Moggill Road, Emma Street, and James Street.
 
 ## Kensington 1874
 
-Kensington, near Toowong Station shows: Kensington Terrace, Moggill Road, Gore Place, and Holland Street.
+Kensington, near Toowong Railway Station shows: *Kensington Terrace*, *Moggill Road*, *Gore Place*, and *Holland Street*.
 
 ![Plan of Kensington, Parish of Enoggera, 1874](../assets/real-estate-maps/kensington.jpg){ width="90%" }
 
@@ -38,7 +46,7 @@ Kensington, near Toowong Station shows: Kensington Terrace, Moggill Road, Gore P
 
 ## Parish of Enoggera, 1876
 
-Showing land owners and Brisbane General Cemetery and Toowong Station.
+Showing land owners and *Brisbane General Cemetery* and *Toowong Station*.
 
 ![Plan of portions in the Parish of Enoggera, 1876](../assets/real-estate-maps/enoggera-parish-1876.jpg){ width="90%" }
 
@@ -46,7 +54,7 @@ Showing land owners and Brisbane General Cemetery and Toowong Station.
 
 ## Ivy Estate 1884 
 
-The Ivy Estate map shows: Ivy Street, Ivy Lodge House, Lodge Street, Mount Street, Bent Street, Orchard Street, Peel Street and Soudan Street.
+The Ivy Estate map shows: *Ivy Street*, *Ivy Lodge House*, *Lodge Street*, *Mount Street*, *Bent Street*, *Orchard Street*, *Peel Street* and *Soudan Street*.
 
 ![Ivy Estate, Toowong, 1884](../assets/real-estate-maps/ivy-estate.jpg){ width="90%" }
 
@@ -55,7 +63,7 @@ The Ivy Estate map shows: Ivy Street, Ivy Lodge House, Lodge Street, Mount Stree
 
 ## South Toowong 1884 
 
-Map shows area near Ellerslie Crescent and Bellevue Parade, near Perrin Park in what is now Taringa.
+Map shows area near *Ellerslie Crescent* *Oxford Terrace*, *Wilson Street* and *Belle Vue Parade*, near *Perrin Park* in what is now Taringa.
 
 ![South Toowong, 1884](../assets/real-estate-maps/south-toowong.jpg){ width="90%" }
 
@@ -64,7 +72,7 @@ Map shows area near Ellerslie Crescent and Bellevue Parade, near Perrin Park in 
 
 ## Ironside Estate 1885 
 
-The Ironside Estate map shows: Sherwood Road, Sherwood Grove, Union Athletic Club, High Street, Kensington Terrace, Ashton Street, and Justling Street.
+The Ironside Estate map shows: *Sherwood Road*, *Sherwood Grove*, *Union Athletic Club*, *High Street*, *Kensington Terrace*, *Ashton Street*, and *Justling Street*.
 
 ![Ironside Estate, Toowong, 1885](../assets/real-estate-maps/ironside-estate.jpg){ width="45%" }
 
@@ -72,15 +80,15 @@ The Ironside Estate map shows: Sherwood Road, Sherwood Grove, Union Athletic Clu
 
 ## Middenbury Estate 1885 
 
-Map shows allotments for sale in an area between the railway station on High Street and the Brisbane River in Toowong.
+Map shows allotments for sale in an area between the railway station on *High Street* and the Brisbane River in Toowong.
 
 ![Middenbury Estate, Toowong, 1885](../assets/real-estate-maps/middenbury-estate.jpg){ width="45%" }
 
 <small>*[Middenbury Estate](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1dejkfd/alma99183481520102061), Toowong, 1885. State Library of Queensland*</small>
 
 ## Baroona Estate 1885 
-
-Map shows allotments for sale in an area between the railway station on High Street and the Brisbane River in Toowong.
+<!-- error -->
+Map shows allotments for sale near today's Rosalie Village and Government House.
 
 ![The Baroona Estate, Toowong, 1885](../assets/real-estate-maps/baroona-estate.jpg){ width="45%" }
 
@@ -88,7 +96,7 @@ Map shows allotments for sale in an area between the railway station on High Str
 
 ## St. Lucia Estate 1885 
 
-Map shows an area in St Lucia with a river frontage opposite Boundary Road, West End, now part of the campus of the University of Queensland.
+Map shows an area in St Lucia with a river frontage opposite *Boundary Road*, West End, now part of the campus of the *University of Queensland*.
 
 ![St. Lucia Estate, 1885](../assets/real-estate-maps/st-lucia-estate-1.jpg){ width="90%" } 
 
@@ -99,7 +107,7 @@ Map shows an area in St Lucia with a river frontage opposite Boundary Road, West
 
 ## Belgrave and Riverview Estate 
 
-The Belgrave and Riverview Estate map shows: Church Street, High Street, and Kensington Terrace.
+The Belgrave and Riverview Estate is near the intersection of *Swann Road* and *Indooroopilly Road*.
 
 ![Belgrave and Riverview Estate, South Toowong](../assets/real-estate-maps/belgrave-and-riverview-estate.jpg){ width="45%" loading=lazy }
 
@@ -107,7 +115,7 @@ The Belgrave and Riverview Estate map shows: Church Street, High Street, and Ken
 
 ## Lang Farm Estate 188-
 
-The Lang Farm Estate map shows: the Toowong Railway Station, Moggill Road, Emma Street, and a Ferry Landing on the Brisbane River.
+The Lang Farm Estate map shows: the *Toowong Railway Station*, *Moggill Road*, *Emma Street*, and a *Ferry Landing* on the Brisbane River.
 
 ![Lang Farm Estate adjoining the Toowong Railway Station](../assets/real-estate-maps/lang-farm-estate.jpg){ width="45%" loading=lazy }
 
@@ -115,7 +123,7 @@ The Lang Farm Estate map shows: the Toowong Railway Station, Moggill Road, Emma 
 
 ## Millard Estate 1888
 
-The Millard Estate map shows: Sylvan Road, Moggill Road, the Toowong and Milton Railway Stations, and the Ferry crossing between Toowong and South Brisbane.
+The Millard Estate map shows: *Sylvan Road*, *Moggill Road*, the *Toowong and Milton Railway Stations*, and the *Ferry crossing* between Toowong and South Brisbane.
 
 ![Millard Estate, Toowong, 1888](../assets/real-estate-maps/millard-estate.jpg){ width="45%" loading=lazy }  
 
@@ -123,7 +131,7 @@ The Millard Estate map shows: Sylvan Road, Moggill Road, the Toowong and Milton 
 
 ## Ascog Estate 1889
 
-The Ascog Estate map shows: Ascog Terrace and Church Street.
+The Ascog Estate map shows: *Ascog Terrace* and *Church Street*.
 
 ![Ascog Estate, Toowong, 1889](../assets/real-estate-maps/ascog-estate.jpg){ width="45%" loading=lazy }  
 
@@ -131,7 +139,7 @@ The Ascog Estate map shows: Ascog Terrace and Church Street.
 
 ## Moore's Estate 1889
 
-The Moore's Estate map shows: Sylvan Road, Church Street, the Toowong Railway Station, the Regatta Hotel, and marked in pencil Augustus Street and Jane Street.
+The Moore's Estate map shows: *Sylvan Road*, *Church Street*, the *Toowong Railway Station*, the *Regatta Hotel*, and marked in pencil *Augustus Street* and *Jane Street*.
 
 ![Moore's Estate, Toowong, 1889](../assets/real-estate-maps/moores-estate.jpg){ width="45%" loading=lazy }
 
@@ -139,7 +147,7 @@ The Moore's Estate map shows: Sylvan Road, Church Street, the Toowong Railway St
 
 ## Sylvan Road Estate 1890
 
-The Sylvan Road Estate map shows: Sylvan Road, Milton Road, Weinholt Street, and the Toowong and Auchenflower Railway Stations.
+The Sylvan Road Estate map shows: *Sylvan Road*, *Milton Road*, *Weinholt Street*, and the *Toowong and Auchenflower Railway Stations*.
 
 ![Sylvan Road Estate, Toowong, 1890](../assets/real-estate-maps/sylvan-road-estate-front-page.jpg){ width="45%" } ![Sylvan Road Estate, Toowong](../assets/real-estate-maps/sylvan-road-estate-back-page.jpg){ width="45%" }
 
@@ -159,7 +167,9 @@ The Sylvan Road Estate map shows: Sylvan Road, Milton Road, Weinholt Street, and
 
 ## Dunmore Estate Cribb's Paddock 1899
 
-The Dunmore Estate map shows: Auchenflower Railway Station, River Road, Dunmore Terrace, Eagle Terrace, Lang Parade, Chasley Street, Lima Street, Fortitude Street, Kingford Street, John Street, Ridley Street, Grimes Street, Aldridge Street, Hobbs Street, Challinor Street, and Milton Road.
+The Dunmore Estate map shows: *Auchenflower Railway Station*, *River Road*, *Dunmore Terrace*, *Eagle Terrace*, *Lang Parade*, *Chasley Street*, *Lima Street*, *Fortitude Street*, *Kingford Street*, *John Street*, *Ridley Street*, *Grimes Street*, *Aldridge Street*, *Hobbs Street*, *Challinor Street*, and *Milton Road*.
+
+<!-- John Street now Roy Street-->
 
 ![Dunmore Estate Cribb's Paddock, Milton, 1899](../assets/real-estate-maps/dunmore-estate.jpg){ width="90%" loading=lazy }
 
@@ -181,7 +191,7 @@ https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1dejkfd/alma99183458220302
 
 ## Goldicott 1902
 
-The Goldicott Estate map shows: Sherwood Road, Kensington Terrace, and Grove Street.
+The Goldicott Estate map shows: *Sherwood Road*, *Kensington Terrace*, and *Grove Street*.
 
 ![Goldicott Toowong, 1902](../assets/real-estate-maps/goldicott.jpg){ width="45%"  loading=lazy }
 
@@ -189,7 +199,7 @@ The Goldicott Estate map shows: Sherwood Road, Kensington Terrace, and Grove Str
 
 ## Stanley Terrace Estate 1904
 
-The Stanley Terrace Estate map shows: Stanley Terrace, Miskin Road, and Union Street.
+The Stanley Terrace Estate map shows: *Stanley Terrace*, *Miskin Road*, and *Union Street*.
 
 ![Stanley Terrace Estate, Toowong, 1904](../assets/real-estate-maps/stanley-terrace-estate.jpg){ width="90%" loading=lazy }
 
@@ -209,7 +219,7 @@ The Stanley Terrace Estate map shows: Stanley Terrace, Miskin Road, and Union St
 
 ## Rathdonnell Estate 1911
 
-The Rathdonnell Estate map shows: Heussler Terrace, Weinholt Street, Irving Street, and Agnes Street, Payne Street, and Milton Road.
+The Rathdonnell Estate map shows: *Heussler Terrace*, *Weinholt Street*, *Irving Street*, *Agnes Street*, *Payne Street*, and *Milton Road*.
 
 ![Rathdonnell Estate, Toowong, 1911](../assets/real-estate-maps/rathdonnell-estate.jpg){ width="45%" loading=lazy }
 
@@ -228,7 +238,7 @@ https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/27819/0
 
 ## Ardencraig Estate 1916
 
-The Ardencraig Estate map shows: Church Street, Augustus Street, Golding St, and Earle Street.
+The Ardencraig Estate map shows: *Church Street*, *Augustus Street*, *Golding St*, and *Earle Street*.
 
 ![Ardencraig Estate, Toowong, 1916](../assets/real-estate-maps/ardencraig-estate.jpg){ width="45%" loading=lazy }
 
@@ -236,7 +246,7 @@ The Ardencraig Estate map shows: Church Street, Augustus Street, Golding St, and
 
 ## Curragh Bawn 1922
 
-The Curragh Bawn map shows: Sylvan Road, River Road, Bennett Street, Theresa Street, Landsbourough Terrace, and the Toowong Railway Station.
+The Curragh Bawn map shows: *Sylvan Road*, *River Road*, *Bennett Street*, *Theresa Street*, *Landsbourough Terrace*, and the *Toowong Railway Station*.
 
 ![Curragh Bawn, Toowong, 1922](../assets/real-estate-maps/curragh-bawn.jpg){ width="45%" }
 
@@ -244,7 +254,7 @@ The Curragh Bawn map shows: Sylvan Road, River Road, Bennett Street, Theresa Str
 
 ## Glen Olive Garden Estate 1924
 
-The Glen Olive Garden Estate map shows: Glen Olive Drive, St. Lucia Road, and Gailey River Road.
+The Glen Olive Garden Estate map shows: *Glen Olive Drive*, *St. Lucia Road*, and *Gailey River Road*.
 
 ![Glen Olive Garden Estate on the river bank Toowong, 1924](../assets/real-estate-maps/glen-olive-garden-estate.jpg){ width="45%" loading=lazy }
 
@@ -252,7 +262,7 @@ The Glen Olive Garden Estate map shows: Glen Olive Drive, St. Lucia Road, and Ga
 
 ## Dean's Highlands Estate 1929
 
-Dean's Highlands Estate map shows: Miskin Street, Union Street, and Stanley Terrace. 
+Dean's Highlands Estate map shows: *Miskin Street*, *Union Street*, and *Stanley Terrace*. 
 
 ![Dean's Highlands Estate between Toowong and Taringa](../assets/real-estate-maps/deans-highlands-estate.jpg){ width="45%" loading=lazy }
 
@@ -270,7 +280,7 @@ Map with hand-coloured areas in red showing extent of flooding in 1931.
 
 ## Eskmount Estate 1936
 
-The Eskmount Estate map shows: Burns Road, Aston Street, High Street and MacDonnel Street.
+The Eskmount Estate map shows: *Burns Road*, *Aston Street*, *High Street*, *Curlew Street* and *MacDonnel Street*.
 
 ![Eskmount Estate, Toowong, 1936](../assets/real-estate-maps/eskmount-estate.jpg){ width="45%" loading=lazy }
 
