@@ -3,6 +3,8 @@ title: Building Brisbane
 description: Stories about people that helped build Brisbane
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 --8<-- "snippets/sem/stories/brisbane-open-house.json"

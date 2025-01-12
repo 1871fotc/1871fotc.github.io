@@ -3,6 +3,8 @@ title: More Print Media Identities of Early Brisbane
 description: More stories about Print Media Identities in early Brisbane
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 # More Print Media Identities of Early Brisbane  

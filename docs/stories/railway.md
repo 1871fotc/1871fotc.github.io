@@ -3,6 +3,8 @@ name: Railway People
 description: Stories remembering railway people buried in Toowong Cemetery
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 # Railway People 

@@ -2,6 +2,8 @@
 description: Stories about early Brisbane Mayors remembered in Toowong Cemetery.
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 --8<-- "snippets/sem/stories/brisbane-mayors.json"

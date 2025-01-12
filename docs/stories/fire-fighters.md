@@ -3,6 +3,8 @@ title: Fire fighters of early Brisbane
 description: Stories about people remembered in Toowong Cemetery and how fire impacted their lives 
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 --8<-- "snippets/sem/stories/fire-fighters.json"

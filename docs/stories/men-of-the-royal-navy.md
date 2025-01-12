@@ -1,6 +1,8 @@
 ---
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 # Men of the Royal Navy

@@ -3,6 +3,8 @@ title: Erected by Family, Friends and Colleagues
 description: Stories about people whose headstones were erected by Friends and Colleagues
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 # Erected by Family, Friends and Colleagues

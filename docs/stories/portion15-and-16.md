@@ -2,6 +2,8 @@
 description: Stories from Portions 15 and 16 
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 # Stories from Portions 15 and 16

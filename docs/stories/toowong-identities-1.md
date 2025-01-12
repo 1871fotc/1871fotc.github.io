@@ -3,6 +3,8 @@ title: Toowong Identities
 description: Stories to commemorate the centenary of the proclamation of the Town of Toowong in 1903
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 --8<-- "snippets/sem/stories/toowong-identities-1.json"

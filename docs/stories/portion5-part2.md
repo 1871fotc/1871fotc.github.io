@@ -4,6 +4,8 @@ description: More stories about people remembered in Portion 5 of Toowong Cemete
 
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 # Stories from Portion 5 (part 2)

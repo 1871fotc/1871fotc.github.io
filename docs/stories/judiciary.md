@@ -3,6 +3,8 @@ title: Early Judiciary in Toowong Cemetery
 description: A walk around the historic headstones of Brisbane's early Judges
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 --8<-- "snippets/sem/stories/judiciary.json"

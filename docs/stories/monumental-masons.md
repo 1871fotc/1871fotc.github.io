@@ -3,6 +3,8 @@ title: Brisbane's Early Monumental Masons
 description: Stories about Monumental Masons who crafted headstones in Toowong Cemetery
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 --8<-- "snippets/sem/stories/monumental-masons.json"

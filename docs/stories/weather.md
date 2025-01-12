@@ -3,6 +3,8 @@ title: At the mercy of the weather
 description: Stories about people in Toowong Cemetery that were impacted by the weather
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 # At the mercy of the weather

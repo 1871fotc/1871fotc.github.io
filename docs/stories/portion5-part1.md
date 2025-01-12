@@ -3,6 +3,8 @@ title: Stories from Portion 5 (part 1)
 description: Stories about people remembered in Portion 5 of Toowong Cemetery.
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 # Stories from Portion 5 (part 1)

@@ -1,6 +1,8 @@
 ---
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 --8<-- "snippets/sem/stories/lest-we-forget.json"

@@ -3,6 +3,8 @@ title: Local Artists
 description: Remembering local artists buried in Toowong Cemetery
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 --8<-- "snippets/sem/stories/artists.json"

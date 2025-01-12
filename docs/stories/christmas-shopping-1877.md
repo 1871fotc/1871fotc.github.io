@@ -3,6 +3,8 @@ title: Christmas Shopping 1877
 description: Stories about shop keepers and Christmas in 1877
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 

@@ -2,6 +2,8 @@
 title: Stories from Portions 6 and 24
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 # Stories from Portions 6 and 24  

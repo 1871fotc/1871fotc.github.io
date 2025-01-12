@@ -3,6 +3,8 @@ title: Anchors Aweigh!
 description: Maritime stories from Toowong Cemetery
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 --8<-- "snippets/sem/stories/anchors-aweigh.json"

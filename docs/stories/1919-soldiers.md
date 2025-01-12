@@ -3,6 +3,8 @@ title: 1919 Soldiers
 description: A historic walk visiting 1919 soldiers in Toowong Cemetery
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 # 1919 Soldiers 

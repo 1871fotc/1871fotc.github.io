@@ -3,6 +3,8 @@ title: Famous Sporting Personalities
 description: Famous sporting personalities remembered in Toowong Cemetery
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 # Famous Sporting Personalities  

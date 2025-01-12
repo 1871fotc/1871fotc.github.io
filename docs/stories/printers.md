@@ -3,6 +3,8 @@ title: Print Media Identities of Early Brisbane
 description: Stories about Print Media Identities in early Brisbane
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 --8<-- "snippets/sem/stories/printers.json"

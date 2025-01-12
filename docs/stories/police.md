@@ -2,6 +2,8 @@
 description: Stories about Queensland Colonial Policing and connections to people remembered in Toowong Cemetery
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 --8<-- "snippets/sem/stories/police.json"

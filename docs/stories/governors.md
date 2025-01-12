@@ -2,6 +2,8 @@
 description: Stories about past Queensland Governors, Lieutenant-Governors, and Administrators
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 --8<-- "snippets/sem/stories/governors.json"

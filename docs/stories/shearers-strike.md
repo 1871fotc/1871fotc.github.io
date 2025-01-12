@@ -3,6 +3,8 @@ title: The Great Shearers' Strike of 1891
 description: Stories about the personalities of the Great Shearers' Strike of 1891 buried at Toowong Cemetery
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 # The Great Shearers' Strike of 1891

@@ -1,6 +1,8 @@
 ---
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 # Scots in the Australian Imperial Force  

@@ -3,6 +3,8 @@ title: Steam
 description: Stories about steam and its connection to Toowong Cemetery
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 # Steam 

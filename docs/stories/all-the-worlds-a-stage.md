@@ -3,6 +3,8 @@ title: All the world’s a stage
 description: Actors and performers buried in Toowong Cemetery
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 --8<-- "snippets/sem/stories/all-the-worlds-a-stage.json"

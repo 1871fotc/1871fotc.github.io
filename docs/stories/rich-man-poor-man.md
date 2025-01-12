@@ -3,6 +3,8 @@ title: Rich man, Poor man
 description: Stories about the rich and the poor in Toowong Cemetery
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 # Rich man, Poor man

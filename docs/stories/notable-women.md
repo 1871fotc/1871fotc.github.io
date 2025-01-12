@@ -3,6 +3,8 @@ title: Notable Women
 description: Stories about women who shaped Queensland
 hide:
   - navigation
+search:
+  boost: 0.5  
 ---
 
 --8<-- "snippets/sem/stories/notable-women.json"
