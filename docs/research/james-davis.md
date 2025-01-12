@@ -16,6 +16,6 @@ hide:
 ### Learn more 
 
 - [Tom Petrie's Reminiscences of Early Queensland](https://gutenberg.net.au/ebooks20/2000451h.html)
-
+- Listen to ['Duramboi' aka James Davis](https://www.abc.net.au/listen/programs/speakingout/james-davis/9681656?utm_content=link&utm_medium=content_shared) on the ABC's Speaking Out radio show.
 
 --8<-- "snippets/add-to-this-story.md"
