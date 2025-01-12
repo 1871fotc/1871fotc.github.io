@@ -216,9 +216,9 @@ Candidates would come from:
 
 Candidates include:   
 
-- **[Emily Sophia	Pickett](../research/emily-sophia-pickett.md)****	(21-1-55)
-- **[Henry Tom	Pickett](../research/emily-sophia-pickett.md)**	(21-2-31)
-- **[Thomas	Macer**](../research/)** (21-14-3)
+- **[Emily Sophia Pickett](../research/emily-sophia-pickett.md)****	(21-1-55)
+- **[Henry Tom Pickett](../research/emily-sophia-pickett.md)**	(21-2-31)
+- **[Thomas Macer**](../research/thomas-macer.md)** (21-14-3)
 
 <!-- 
 - Samuel James Reilly (20-46-18)
