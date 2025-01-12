@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 0.4 
+  exclude: true
 ---
 
 # Toowong Cemetery Road Signs and Names
