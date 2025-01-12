@@ -44,6 +44,15 @@ Kensington, near Toowong Railway Station shows: *Kensington Terrace*, *Moggill R
 
 <small>*[Plan of Kensington, Parish of Enoggera, to be sold by auction by John Cameron at his mart, on Monday, 28th September, 1874.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21112702950002061) State Library of Queensland*</small>
 
+
+## The Terraces Estate 1874
+
+[Advertised on page 4 in The Telegraph](http://nla.gov.au/nla.news-article169516190), 12 September 1874.
+
+![The Terraces Estate, Toowong near the Toowong railway station](../assets/real-estate-maps/the-terraces.jpg){ width="90%" loading=lazy }
+
+<small>*[The Terraces [Estate], Toowong near the Toowong railway station / John Cameron, Auctioneer.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21105015830002061) 1870-1900, State Library of Queensland*</small>
+
 ## Parish of Enoggera, 1876
 
 Showing land owners and *Brisbane General Cemetery* and *Toowong Station*.
@@ -153,17 +162,22 @@ The Sylvan Road Estate map shows: *Sylvan Road*, *Milton Road*, *Weinholt Street
 
 <small>*[Sylvan Road Estate, Toowong.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21198544550002061) 1890, State Library of Queensland*</small>
 
-## The Terraces Estate 1870-1900
-
-![The Terraces Estate, Toowong near the Toowong railway station](../assets/real-estate-maps/the-terraces.jpg){ width="90%" loading=lazy }
-
-<small>*[The Terraces [Estate], Toowong near the Toowong railway station / John Cameron, Auctioneer.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21105015830002061) 1870-1900, State Library of Queensland*</small>
 
 ## Pugh's Map of Brisbane 1892
 
 ![Pugh's 1892 Map of Brisbane and Suburbs](../assets/real-estate-maps/pughs-map-brisbane-1892.jpg){ width="45%" loading=lazy }
 
 <small>*[Map Brisbane and Suburbs Indexed with Street Name List - Pugh's 1892.](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/40569/0) 1892, Brisbane City Council Archives*</small>
+
+
+## McKellar's official map of Brisbane & suburbs 1895
+
+This map from the Surveyor-General’s Office shows many of the Estate names on the other maps on this page.
+
+![McKellar's official map of Brisbane & suburbs (Sheet 7), 1895](../assets/real-estate-maps/mckellar-brisbane-map-1895.jpeg){ width="90%" loading=lazy }
+
+<small>*[McKellar's official map of Brisbane & suburbs](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1dejkfd/alma993671964702061)  (Sheet 7), 1895. State Library of Queensland.*</small>
+
 
 ## Dunmore Estate Cribb's Paddock 1899
 
@@ -183,11 +197,15 @@ https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1dejkfd/alma99183458220302
 
 -->
 
+
+
 ## Brisbane Land Owners c1900
 
 ![Brisbane Land Owners, c1900](../assets/real-estate-maps/brisbane-parish-land-owner-map-c1900.jpg){ width="90%" loading=lazy }
 
 <small>*[Brisbane Parish Map showing landowners c1900.](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/24597/0) Brisbane City Council Archives. Cropped.*</small>
+
+
 
 ## Goldicott 1902
 
