@@ -12,7 +12,7 @@ search:
 
 ## Guided Tours
 
-Friends of Toowong Cemetery run 11 different guided walking tours each year.
+**Friends of Toowong Cemetery run 11 different guided walking tours each year.**
 
 ![Pat Hill's headstone][image11]{ width="32%" } ![Harry Potter's headstone][image9]{ width="32%" } ![Cherub headstone][image8]{ width="32%" }
 
@@ -20,7 +20,7 @@ Friends of Toowong Cemetery run 11 different guided walking tours each year.
 
 Tours are on the first Sunday of each month (February to December) from 10:30am to 12:00. 
 
-There's no need to book, just meet under the flagpole in Canon Garland Place at the Toowong Cemetery. There is plenty of parking available inside the cemetery.
+There's no need to book, just meet under the flagpole in Canon Garland Place at the Toowong Cemetery. Parking is available inside the cemetery.
 
 ![Canon Garland Place](assets/flag-pole.jpg){ width="98%" data-title="Guided tours start at Canon Garland Place" }
 
@@ -28,13 +28,20 @@ There's no need to book, just meet under the flagpole in Canon Garland Place at 
 
 ## Upcoming Guided Tours
 
-Our next tour is on **Sunday 2 February 2025** and titled "**Barrambin - York's Hollow - Victoria Park**". The tour is limited to 20 people. 
+Our next tour is on **Sunday 2 February 2025** and titled, "**Barrambin - York's Hollow - Victoria Park**". 
+
+The tour is limited to 20 people. 
 
 !!! Warning "What to bring"
 
-    Wear enclosed shoes, a hat and sunscrean or bring an umbrella (it's getting hot!), and don't forget a bottle of water. 
+    Wear enclosed shoes, a hat and sunscrean or bring an umbrella, and don't forget a bottle of water. 
     Some tours include steep hills and a walking stick or walking poles may be helpful.
 
+## Directions to Toowong Cemetery
+
+Use the map to get directions to Toowong Cemetery. Learn more about [visiting Toowong Cemetery](index.md#visit-toowong-cemetery).
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d3943.6078757500636!2d152.9825477508893!3d-27.474338574253586!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sau!4v1642488281276!5m2!1sen!2sau" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 <!-- 
 Add it to your calendar.
@@ -57,7 +64,7 @@ The Museum has an extensive display of photographs and artefacts.
 
 ## Guided Tour Alternatives
 
-If you can't join our guided tour, consider taking a **[Toowong Cemetery self-guided heritage walk](walks/index.md)** or the visiting the **[headstone symbolism display](headstones/symbols.md)**.
+If you can't join our guided tour, consider taking a **[Toowong Cemetery self-guided walk](walks/index.md)** or the visiting the **[headstone symbolism display](headstones/symbols.md)**.
 
 <!--
 !!! warning "COVID-19 Restrictions"
