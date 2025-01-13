@@ -130,6 +130,13 @@ The Lang Farm Estate map shows: the *Toowong Railway Station*, *Moggill Road*, *
 
 <small>*[Plan of subdivisions on the Lang Farm Estate adjoining the Toowong Railway Station. 188-](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21126303460002061) 188-, State Library of Queensland*</small>
 
+<!-- 
+
+http://nla.gov.au/nla.news-article892019
+
+
+ACCIDENT TO THE S.S. QUEENSLAND (1878, January 19). The Telegraph (Brisbane, Qld. : 1872 - 1947), p. 2. Retrieved January 13, 2025, from http://nla.gov.au/nla.news-article169685763
+-->
 ## Millard Estate 1888
 
 The Millard Estate map shows: *Sylvan Road*, *Moggill Road*, the *Toowong and Milton Railway Stations*, and the *Ferry crossing* between Toowong and South Brisbane.
