@@ -12,6 +12,9 @@ hide:
 
 --8<-- "snippets/stephen-alonzo-spragg.md"
 
+### Headstone 
+
+![Stephen Alonzo Spragg's headstone](../assets/stephen-alonzo-spragg-headstone.jpg){ width="30%" }
 <!--
 https://trove.nla.gov.au/newspaper/article/23146010
 
