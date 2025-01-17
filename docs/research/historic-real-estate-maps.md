@@ -16,8 +16,8 @@ In the 1930s the Council decided to rename many streets in Brisbane to make thei
 
 For more information, see: 
 
-- [A Guide - History of Street Naming in Brisbane](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/24510/0) - A guide detailing the process for street naming by Council and a guide to suing the street naming records held by the City Archives. Brisbane City Council Archives.
-- [ Duplicated Street names - List Assigned New Street Names May 1939 arranged by NEW street Name](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/24528/0). Brisbane City Council Archives.
+- [A Guide - History of Street Naming in Brisbane](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:24510/one?qu=A+Guide+-+History+of+Street+Naming+in+Brisbane) - A guide detailing the process for street naming by Council and a guide to using the street naming records held by the City Archives. Brisbane City Council Archives.
+- [Duplicated Street names - List Assigned New Street Names May 1939 arranged by NEW street Name](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/24528/0). Brisbane City Council Archives.
 
 ## Toowong Cemetery Reservation c1861
 
