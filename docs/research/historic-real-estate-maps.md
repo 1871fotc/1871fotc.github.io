@@ -128,7 +128,7 @@ The Lang Farm Estate map shows: the *Toowong Railway Station*, *Moggill Road*, *
 
 ![Lang Farm Estate adjoining the Toowong Railway Station](../assets/real-estate-maps/lang-farm-estate.jpg){ width="45%" loading=lazy }
 
-<small>*[Plan of subdivisions on the Lang Farm Estate adjoining the Toowong Railway Station. 188-](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21126303460002061) 188-, State Library of Queensland*</small>
+<small>*[Plan of subdivisions on the Lang Farm Estate adjoining the Toowong Railway Station. 188-](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21126303460002061), State Library of Queensland*</small>
 
 <!-- 
 
