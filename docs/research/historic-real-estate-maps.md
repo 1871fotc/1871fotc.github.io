@@ -47,7 +47,7 @@ Kensington, near Toowong Railway Station shows: *Kensington Terrace*, *Moggill R
 
 ## The Terraces Estate 1874
 
-[Advertised on page 4 in The Telegraph](http://nla.gov.au/nla.news-article169516190), 12 September 1874.
+[Advertised on page 4 in *The Telegraph*](http://nla.gov.au/nla.news-article169516190), 12 September 1874.
 
 ![The Terraces Estate, Toowong near the Toowong railway station](../assets/real-estate-maps/the-terraces.jpg){ width="90%" loading=lazy }
 
@@ -60,6 +60,25 @@ Showing land owners and *Brisbane General Cemetery* and *Toowong Station*.
 ![Plan of portions in the Parish of Enoggera, 1876](../assets/real-estate-maps/enoggera-parish-1876.jpg){ width="90%" }
 
 <small>*[Plan of portions no.s 830b, 865, 866, 866a, 867, 867a & 868 to 872, Parish of Enoggera, County of Stanley, District of Moreton](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma997041034702061) State Library of Queensland. Cropped.*</small>
+
+
+## Lang Farm Estate ca.1881
+
+The Lang Farm Estate map shows: the *Toowong Railway Station*, *Moggill Road*, *Emma Street*, and a *Ferry Landing* on the Brisbane River.
+
+An advertisement for sub-divisions of the Lang Farm Estate appeared in [*The Brisbane Courier*](http://nla.gov.au/nla.news-article920412) on 2 November 1881. 
+
+![Lang Farm Estate adjoining the Toowong Railway Station](../assets/real-estate-maps/lang-farm-estate.jpg){ width="45%" loading=lazy }
+
+<small>*[Plan of subdivisions on the Lang Farm Estate adjoining the Toowong Railway Station. 188-](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21126303460002061), State Library of Queensland*</small>
+
+<!-- 
+
+http://nla.gov.au/nla.news-article892019
+
+
+ACCIDENT TO THE S.S. QUEENSLAND (1878, January 19). The Telegraph (Brisbane, Qld. : 1872 - 1947), p. 2. Retrieved January 13, 2025, from http://nla.gov.au/nla.news-article169685763
+-->
 
 ## Ivy Estate 1884 
 
@@ -122,21 +141,6 @@ The Belgrave and Riverview Estate is near the intersection of *Swann Road* and *
 
 <small>*[Belgrave and Riverview Estate, South Toowong John W. Todd, Auctioneer ; Hamilton & Raff, surveyors.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21104756680002061) no date, State Library of Queensland*</small>
 
-## Lang Farm Estate 188-
-
-The Lang Farm Estate map shows: the *Toowong Railway Station*, *Moggill Road*, *Emma Street*, and a *Ferry Landing* on the Brisbane River.
-
-![Lang Farm Estate adjoining the Toowong Railway Station](../assets/real-estate-maps/lang-farm-estate.jpg){ width="45%" loading=lazy }
-
-<small>*[Plan of subdivisions on the Lang Farm Estate adjoining the Toowong Railway Station. 188-](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21126303460002061), State Library of Queensland*</small>
-
-<!-- 
-
-http://nla.gov.au/nla.news-article892019
-
-
-ACCIDENT TO THE S.S. QUEENSLAND (1878, January 19). The Telegraph (Brisbane, Qld. : 1872 - 1947), p. 2. Retrieved January 13, 2025, from http://nla.gov.au/nla.news-article169685763
--->
 ## Millard Estate 1888
 
 The Millard Estate map shows: *Sylvan Road*, *Moggill Road*, the *Toowong and Milton Railway Stations*, and the *Ferry crossing* between Toowong and South Brisbane.
