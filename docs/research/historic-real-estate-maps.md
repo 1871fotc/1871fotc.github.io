@@ -134,17 +134,15 @@ Map shows an area in St Lucia with a river frontage opposite *Boundary Road*, We
 
 <small>*[St. Lucia Estate](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1dejkfd/alma99183469021102061), 1885. State Library of Queensland*</small>
 
-<!--
 
-Estate map of Princess Bridge Estate, St. Lucia, Brisbane, Queensland, 1885
-Description
-Estate map showing allotments for sale on 2nd August, 1885 by Arthur Martin & Co., auctioneers. The land was surveyed by Hamilton and Raff. The plan included a local sketch. The estate map also shows a plan of the proposed Princess Bridge that was to be erected across the Brisbane River at Indooroopilly.
+## Princess Bridge Estate 1885
 
-http://hdl.handle.net/10462/deriv/18549
+Map showing allotments for sale at St.Lucia near where the University of Queensland is now located. None of the roads shown seem to exist today. The map also shows a plan of the proposed Princess Bridge that was to be erected across the Brisbane River to meet Boundary St, West End.
 
-http://bishop.slq.qld.gov.au/webclient/StreamGate?folder_id=0&dvs=1737149965994~569
+![Plan of Princess Bridge Estate To be sold by auction on the ground Sat. Aug. 22nd 1885.](../assets/real-estate-maps/princess-bridge-estate-1885.jpg){ width="90%" }
 
--->
+<small>*[Plan of Princess Bridge Estate To be sold by auction on the ground Sat. Aug. 22nd 1885](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/tqqf2h/alma997587054702061). State Library of Queensland*</small>
+
 
 ## Belgrave and Riverview Estate 
 
