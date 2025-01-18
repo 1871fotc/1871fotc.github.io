@@ -137,7 +137,7 @@ Map shows an area in St Lucia with a river frontage opposite *Boundary Road*, We
 
 ## Princess Bridge Estate 1885
 
-Map showing allotments for sale at St.Lucia near where the University of Queensland is now located. None of the roads shown seem to exist today. The map also shows a plan of the proposed Princess Bridge that was to be erected across the Brisbane River to meet Boundary St, West End. Floods in 1887 and 1890 probably deterred construction.
+Map showing allotments for sale at St.Lucia near where the University of Queensland is now located. None of the roads shown seem to exist today. The map also shows a plan of the proposed Princess Bridge that was to be erected across the Brisbane River to meet Boundary St, West End. [Floods in 1887 and 1890](http://nla.gov.au/nla.news-article3511579) probably deterred construction.
 
 ![Plan of Princess Bridge Estate To be sold by auction on the ground Sat. Aug. 22nd 1885.](../assets/real-estate-maps/princess-bridge-estate-1885.jpg){ width="90%" }
 
