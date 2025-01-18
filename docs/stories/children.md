@@ -15,10 +15,12 @@ Brisbane’s infant mortality rate in the latter half of the 19^th^ century equa
 
 --8<-- "snippets/toowong-cemetery-map.md"
 
-
+<!--
 ## Horsfall Family <small>[(13‑3‑12)](https://brisbane.discovereverafter.com/profile/31897365 "Go to Memorial Information" )</small>
 
 Ann Elizabeth Horsfall died on 2 September 1863 aged seven. Her siblings Thomas Lambert, Harry, Sarah and Rose had all died in infancy. They were the children of George and Ann Horsfall (née Tatlow) both from Coventry, England.
+
+-->
 
 ## Peter McCauley <small>[(13‑10‑4)](https://brisbane.discovereverafter.com/profile/31709797 "Go to Memorial Information" )</small>
 
