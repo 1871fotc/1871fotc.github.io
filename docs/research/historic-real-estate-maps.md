@@ -137,12 +137,20 @@ Map shows an area in St Lucia with a river frontage opposite *Boundary Road*, We
 
 ## Princess Bridge Estate 1885
 
-Map showing allotments for sale at St.Lucia near where the University of Queensland is now located. None of the roads shown seem to exist today. The map also shows a plan of the proposed Princess Bridge that was to be erected across the Brisbane River to meet Boundary St, West End.
+Map showing allotments for sale at St.Lucia near where the University of Queensland is now located. None of the roads shown seem to exist today. The map also shows a plan of the proposed Princess Bridge that was to be erected across the Brisbane River to meet Boundary St, West End. Floods in 1887 and 1890 probably deterred construction.
 
 ![Plan of Princess Bridge Estate To be sold by auction on the ground Sat. Aug. 22nd 1885.](../assets/real-estate-maps/princess-bridge-estate-1885.jpg){ width="90%" }
 
 <small>*[Plan of Princess Bridge Estate To be sold by auction on the ground Sat. Aug. 22nd 1885](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/tqqf2h/alma997587054702061). State Library of Queensland*</small>
 
+<!--
+
+Not built - BOUNDARY-STREET, SOUTH BRISBANE. (1886, August 3). The Brisbane Courier (Qld. : 1864 - 1933), p. 6. Retrieved January 18, 2025, from http://nla.gov.au/nla.news-article4483629
+
+Floods in 1887 and 1890
+
+FLOODS AND GALES. (1890, March 11). The Brisbane Courier (Qld. : 1864 - 1933), p. 5. Retrieved January 18, 2025, from http://nla.gov.au/nla.news-article3511579
+-->
 
 ## Belgrave and Riverview Estate 
 
