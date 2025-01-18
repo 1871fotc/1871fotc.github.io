@@ -16,8 +16,9 @@ In the 1930s the Council decided to rename many streets in Brisbane to make thei
 
 For more information, see: 
 
-- [A Guide - History of Street Naming in Brisbane](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:24510/one?qu=A+Guide+-+History+of+Street+Naming+in+Brisbane) - A guide detailing the process for street naming by Council and a guide to using the street naming records held by the City Archives. Brisbane City Council Archives.
-- [Duplicated Street names - List Assigned New Street Names May 1939 arranged by NEW street Name](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/24528/0). Brisbane City Council Archives.
+- [A Guide - History of Street Naming in Brisbane](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/24510/0) - A guide detailing the process for street naming by Council and a guide to using the street naming records held by the City Archives. [Brisbane City Council Archives]((https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:24510/one?qu=A+Guide+-+History+of+Street+Naming+in+Brisbane)).
+- [Duplicate Street Names - Extracts from Committee Reports with reasons 1938 - 1939](../assets/documents/street-renaming-extracts-from-council-records+re+origin+of+names.pdf) - Extracts from Minutes of Works Committee meetings where street renames were approved. Includes derivation of name. [Brisbane City Council Archives](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:24525/one?qu=Duplicated+Street+Names+-+Extracts+from+Council+Records+re+Final+Approval+and+ORIGINS+of+names+1938+-+1939&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS).
+- [Duplicated Street names - List Assigned New Street Names May 1939 arranged by NEW street Name](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/24528/0) - Final Schedule published by Council of duplicated streets approved to rename to May 1939. Entries arranged alphabetically by new name with reference to former name. [Brisbane City Council Archives](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:24528/one?qu=Duplicated+Street+names+-+List+Assigned+New+Street+Names+May+1939+arranged+by+NEW+street+Name&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS).
 
 ## Toowong Cemetery Reservation c1861
 
@@ -133,6 +134,18 @@ Map shows an area in St Lucia with a river frontage opposite *Boundary Road*, We
 
 <small>*[St. Lucia Estate](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1dejkfd/alma99183469021102061), 1885. State Library of Queensland*</small>
 
+<!--
+
+Estate map of Princess Bridge Estate, St. Lucia, Brisbane, Queensland, 1885
+Description
+Estate map showing allotments for sale on 2nd August, 1885 by Arthur Martin & Co., auctioneers. The land was surveyed by Hamilton and Raff. The plan included a local sketch. The estate map also shows a plan of the proposed Princess Bridge that was to be erected across the Brisbane River at Indooroopilly.
+
+http://hdl.handle.net/10462/deriv/18549
+
+http://bishop.slq.qld.gov.au/webclient/StreamGate?folder_id=0&dvs=1737149965994~569
+
+-->
+
 ## Belgrave and Riverview Estate 
 
 The Belgrave and Riverview Estate is near the intersection of *Swann Road* and *Indooroopilly Road*.
@@ -173,6 +186,15 @@ The Sylvan Road Estate map shows: *Sylvan Road*, *Milton Road*, *Weinholt Street
 
 <small>*[Sylvan Road Estate, Toowong.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21198544550002061) 1890, State Library of Queensland*</small>
 
+<!--
+
+Real estate map for South Toowong, Brisbane, for the unsold subdivisions of Portion 36. And Sub. 2 of Portion 37, ca. 1890
+
+http://bishop.slq.qld.gov.au/view/action/singleViewer.do?dvs=1737149160225~263&locale=en_AU&metadata_object_ratio=14&show_metadata=true&VIEWER_URL=/view/action/singleViewer.do?&DELIVERY_RULE_ID=10&frameId=1&usePid1=true&usePid2=true
+
+
+
+-->
 
 ## Pugh's Map of Brisbane 1892
 
@@ -272,6 +294,21 @@ The Ardencraig Estate map shows: *Church Street*, *Augustus Street*, *Golding St
 ![Ardencraig Estate, Toowong, 1916](../assets/real-estate-maps/ardencraig-estate.jpg){ width="45%" loading=lazy }
 
 *Ardencraig Estate, Toowong 1916. Provided by Marilyn England*</small>
+
+
+## Chermside Park 1921
+
+Allotments on [*Heussler Terrace*][Heussler Terrace] (renamed *Birdwood Terrace*) on the North boundary of the cemetery were sold by auction in 1921. "*Convenient to the Toowong Tram Line*" was a selling point. The Toowong Tram stopped near the main cemetery gates.
+
+
+[Heussler Terrace]: ../research/johann-christian-heussler.md "Read the story of Johann (John) Christian Heussler (1820–1907)"
+
+[*Third Avenue* was renamed *Couldrey St*](../assets/documents/new-streets-1939.pdf) in 1939 after a [Queensland Miner](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:24525/one?qu=Duplicated+Street+Names+-+Extracts+from+Council+Records+re+Final+Approval+and+ORIGINS+of+names+1938+-+1939&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS).
+
+![Chermside Park advertisement](../assets/chermside-park.jpg){ width="96%" loading=lazy }  
+
+*<small>[Chermside Park, second section : Auchenflower](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21190073930002061), 1921 — [State Library of Queensland](https://www.slq.qld.gov.au). Note in the Inset how the tram stopped at the Toowong Cemetery gates.  </small>*
+
 
 ## Curragh Bawn 1922
 
