@@ -62,6 +62,32 @@ Showing land owners and *Brisbane General Cemetery* and *Toowong Station*.
 
 <small>*[Plan of portions no.s 830b, 865, 866, 866a, 867, 867a & 868 to 872, Parish of Enoggera, County of Stanley, District of Moreton](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma997041034702061) State Library of Queensland. Cropped.*</small>
 
+<!--
+
+## Taringa ca. 1880
+
+taringa-ca1880.jpg
+
+Estate map for the town of Taringa, Brisbane, ca. 1880
+
+Town of Taringa, parish of Indooroopilly. Auctioneer: John W. Todd.
+
+SLQ no longer in online catalogue
+
+-->
+
+
+## Sylvan Grove Estate, 1880
+
+Sylvan Grove Estate, next to *Lang Farm*, included *Wilson street* <!-- Now Burns? --> and *Elizabeth street*. <!-- Now MacDonnell? -->
+
+Mr. John W. Todd reported the sale of allotment 6 in the *[The Brisbane Courier](http://nla.gov.au/nla.news-article901222
+) on 3 July 1880.
+
+![Plan of the Sylvan Grove Estate, Toowong, being subdivisions 1 to 28 part of portion 256, Enoggera John W. Todd [auctioneer]](../assets/real-estate-maps/sylvan-grove-estate.jpg){ width="90%" loading=lazy }
+
+<small>*[Plan of the Sylvan Grove Estate, Toowong, being subdivisions 1 to 28 part of portion 256, Enoggera John W. Todd [auctioneer]](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1dejkfd/alma997060464702061), State Library of Queensland*</small>
+
 
 ## Lang Farm Estate ca.1881
 
@@ -80,6 +106,7 @@ http://nla.gov.au/nla.news-article892019
 
 ACCIDENT TO THE S.S. QUEENSLAND (1878, January 19). The Telegraph (Brisbane, Qld. : 1872 - 1947), p. 2. Retrieved January 13, 2025, from http://nla.gov.au/nla.news-article169685763
 -->
+
 
 ## Ivy Estate 1884 
 
