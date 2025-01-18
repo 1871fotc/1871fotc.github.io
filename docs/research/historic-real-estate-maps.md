@@ -33,7 +33,7 @@ Map showing the Toowong Cemetery Reservation.
 
 The Village of Nona map shows: *Moggill Road*, *Emma Street*, and *James Street*. 
 
-![Village of Nona c1865](../assets/real-estate-maps/village-of-nona.jpg){ width="45%" }
+![Village of Nona c1865](../assets/real-estate-maps/village-of-nona.jpg){ width="90%" }
 
 <small>*Source unknown*</small>
 
