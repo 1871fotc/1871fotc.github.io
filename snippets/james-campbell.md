@@ -22,11 +22,20 @@ James died on the 13^th^ of September 1925 at his Brisbane home of jaw cancer. S
 
 James and Sarah had twelve children, four sons, seven daughters and a baby who died unnamed. At the time of his death in 1925, James had 33 grandchildren and five great-grandchildren.
 
+![James Campbell, MLA for Aubigny](../assets/james-campbell-2.jpg){ width="40%" }
+
+*<small>[James Campbell, MLA for Aubigny](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1dejkfd/alma99183513061802061) — State Library of Queensland.</small>*
+
+
+<!--
+
+James senior WRONG
 
 ![James Campbell](../assets/james-campbell.jpg){ width="40%" }
 
 *<small>[James Campbell](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218626290002061) — State Library of Queensland.</small>*
 
+-->
 ### Acknowledgement
 
 This story was contributed by Ian Campbell.
