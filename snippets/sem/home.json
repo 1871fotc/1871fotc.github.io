@@ -7,7 +7,7 @@
     "@id": "https://www.fotc.au/#/schema/organization/1",
     "name": "Friends of Toowong Cemetery",
     "legalName": "Friends of Toowong Cemetery Association Inc.",
-    "foundingDate": "1994",
+    "foundingDate": "1992",
     "url": "https://www.fotc.au/",
     "sameAs": ["https://github.com/1871fotc", "https://abr.business.gov.au/ABN/View?id=12868524011", "https://www.acnc.gov.au/charity/charities/cbe72786-39af-e811-a963-000d3ad24077/profile"
     ],
@@ -103,7 +103,7 @@
         {"@type": "Thing","name": "Headstone","sameAs": "https://en.wikipedia.org/wiki/Headstone"}, 
         {"@type": "Organization","name": "Brisbane City Council","sameAs": "https://en.wikipedia.org/wiki/City_of_Brisbane"}
       ],
-      "dateModified": "2023-03-11",
+      "dateModified": "2025-01-11",
       "datePublished": "2022-08-29",
       "author": {
           "@id": "https://www.fotc.au/#/schema/organization/1"
