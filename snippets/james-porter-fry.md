@@ -9,3 +9,8 @@ From 1918 James was registered as an optometrist, serving at times as President 
 Running a campaign based on his military service, James became MLA for Kurilpa on 16 March 1918 and represented the seat until 11 June 1932. James served as Opposition Whip from 11 July 1923 until 9 April 1929. 
 
 James resided at 96 Dornoch Terrace, Highgate Hill, but died at his weekend home in Griffiths Road, Queen's Beach, Redcliffe on 7 February 1948.
+
+![James Porter Fry](../assets/james-porter-fry.png){ width="40%" }
+
+*<small>[James Porter Fry](https://www.parliament.qld.gov.au/Members/Former-Members/Former-Members-Register/Former-Member-Details?id=434919775) - ©️ Queensland Parliament.</small>*
+
