@@ -19,21 +19,20 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
 <div class="grid cards" markdown>  
 
-<!--
+
 -   :material-face-woman-outline:{ .lg .middle } **[Notable Women][notable-women]**
 
     ---
 
     Women who shaped Queensland
--->
-<!--
+
+
 -   :four_leaf_clover:{ .lg .middle } **[The Irish][irish]**
   
     ---
 
     Stories about the Irish remembered in Toowong Cemetery.
--->
-<!--   
+   
 
 -   :material-fire:{ .lg .middle } **[Fire! Fire!][fire-fighters]**
   
@@ -41,7 +40,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
     Fire fighters of early Brisbane.
 
--->
+
 
 <!-- January Australia Day
 
@@ -52,7 +51,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     Discover Queensland's contribution to the Australian Constitution.
 -->
 
-<!-- February Valentine's Day Feb 14th 
+<!-- February Valentine's Day Feb 14th -->
 
 -   :material-face-woman-outline:{ .lg .middle } **[The Other Half][the-other-half]**
   
@@ -60,7 +59,6 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
     Women who made an impact on Queensland. 
 
--->
 
 <!-- March:  International Women'd day 8 Mar 2023, St. Patricks Day, 17 Mar 2023 
 
@@ -78,7 +76,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     Women who shaped Queensland
 
 -->
-<!-- April Anzac Day, Easter Lutheran? -->
+<!-- April Anzac Day, Easter Lutheran? 
 
 -   :fontawesome-solid-person-military-rifle:{ .lg .middle } **[Lest We Forget][lest-we-forget]** 
   
@@ -91,9 +89,9 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     ---
 
     Remembering members of the Royal Australian Navy who gave their lives in service to this country.
+-->
 
-
-<!-- May Labour Day -->
+<!-- May Labour Day 
 
 -   :material-sheep:{ .lg .middle } **[The Great Shearers' Strike of 1891](shearers-strike.md)**
   
@@ -108,6 +106,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
     Recognising people involved in the Labor movement. 
 
+-->
 <!--    -- July RAN founded 
 
 -   :fontawesome-solid-anchor:{ .lg .middle } **[Lest We Forget: Naval][lest-we-forget-navy]**
