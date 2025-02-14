@@ -8,7 +8,7 @@ hide:
 
 # James Davis 
 
-**ca. 1808 — 7 May 1889**
+**1 January 1807 — 7 May 1889**
 
 --8<-- "snippets/james-davis.md"
 
