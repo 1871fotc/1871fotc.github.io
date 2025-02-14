@@ -7,7 +7,7 @@ hide:
 
 # George Henderson
 
-**1859 — 1936**
+**1859 — 25 January 1936**
 
 --8<-- "snippets/george-henderson.md"
 
