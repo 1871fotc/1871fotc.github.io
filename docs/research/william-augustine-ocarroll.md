@@ -10,7 +10,7 @@ hide:
 
 # William Augustine O’Carroll
 
-**1831 — 1885**
+**1831 — 16 May 1885**
 
 --8<-- "snippets/william-augustine-ocarroll.md"
 
