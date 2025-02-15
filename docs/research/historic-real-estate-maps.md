@@ -238,7 +238,10 @@ http://bishop.slq.qld.gov.au/view/action/singleViewer.do?dvs=1737149160225~263&l
 
 ## McKellar's official map of Brisbane & suburbs 1895
 
-This map from the Surveyor-General’s Office shows many of the Estate names on the other maps on this page.
+This map from the Surveyor-General’s Office shows many Estate and House names including: *[Ascog](/research/historic-real-estate-maps/#ascog-estate-1889), Blackall, Brewsterfield, [Baroona](/research/historic-real-estate-maps/#baroona-estate-1885), Bayswater, Ben Nevis, Douglas, Grosvenor, [Ivy](/research/historic-real-estate-maps/#ivy-estate-1884), Karslake, Lizzy Lee, [Millard](/research/historic-real-estate-maps/#millard-estate-1888), Mindenbury,  Moore's, New Guinea, North Toowong, Oxford, Pioneer Park, Rose Hill, Sherwood Grove, Soudan, Torwood, Weinholt* and *Young's Estate*.
+
+And Houses including: *Bishopsbourne, Boyna, Dovercourt, Glenalbro, Glenallan, Ivy Lodge, Minto, Moorlands* and *Sidney House*.
+
 
 ![McKellar's official map of Brisbane & suburbs (Sheet 7), 1895](../assets/real-estate-maps/mckellar-brisbane-map-1895.jpeg){ width="90%" loading=lazy }
 
