@@ -1,12 +1,12 @@
 ---
-title: John Fewings
+title: John Bowden Fewings
 description: Fewings memoirs, Arcadian Simplicity, describes life in Toowong from the 1860s
 hide:
   - toc
   - navigation 
 ---
 
-# John Fewings
+# John Bowden Fewings
 
 **ca. 1830 — 20 May 1910**
 
