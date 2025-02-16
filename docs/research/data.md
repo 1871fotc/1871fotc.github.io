@@ -13,7 +13,8 @@ Friends of Toowong Cemetery have published data, including:
 
 - an **[index to individual stories ](../research/find-a-story.md)** we've written about in our [Toowong Cemetery stories](../stories/index.md).
 - a list of **[headstones moved from Paddington Cemetery](../headstones/moved-paddington-headstones.md)** to Toowong Cemetery in the 1910's
-- a list of **[headstones lost from Paddington Cemetery](../headstones/lost-paddington-headstones.md)** in the 1930's, some which have been rediscovered in Toowong Cemetery 
+- a list of **[headstones lost from Paddington Cemetery](../headstones/lost-paddington-headstones.md)** in the 1930's, some which have been rediscovered in Toowong Cemetery
+- a list of the **[28 Brisbane Mayors buried in Toowong Cemetery](../stories/brisbane-mayors.md)**
 - a list of **[information signs](../about/information-signs.md)** installed beside memorials and graves of notable people in Toowong Cemetery 
 
 <!-- **Headstones** (images, inscriptions, movements, and location) -->
