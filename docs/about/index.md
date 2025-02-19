@@ -49,7 +49,7 @@ Currently we are:
 
 - planning to erect an **[honour board](https://youtu.be/mVfixEzUpwk)** at the cemetery's main entrance to commemorate people who have served their nation in military uniform and now rest in Toowong Cemetery.
 - **photographing every headstone** in the cemetery.
-- **encouraging the community to volunteer** :fontawesome-solid-hand-holding-heart: through simple one-off tasks shown on this site. 
+- **recognising soldiers in unmarked graves** - we've been successful in getting **[grave markers for 42 soldiers](https://minister.dva.gov.au/news-and-media/minister/recognition-and-respect-their-final-resting-place)** in 2024/25.
 
 <!-- 
 ## What have we got planned? 
