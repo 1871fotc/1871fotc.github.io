@@ -6,7 +6,7 @@ hide:
 
 # Joseph William Sutton 
 
-**Died 21 February 1914**
+**21 October 1844 - 21 February 1914**
 
 --8<-- "snippets/joseph-william-sutton.md"
 
