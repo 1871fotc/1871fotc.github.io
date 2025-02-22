@@ -10,7 +10,7 @@ hide:
 
 # Brisbane General Cemetery Trustees
 
-The Brisbane General Cemetery Trust commenced when [the first Trustees were appointed on 7 October 1870][gazette-94]. New Trustees were appointed as others retired or died. Successors were often members of the same family or community group.
+The Brisbane General Cemetery Trust commenced when [the first Trustees were appointed on 8 October 1870][gazette-94]. New Trustees were appointed as others retired or died. Successors were often members of the same family or community group.
 
 [gazette-94]: ../assets/documents/Queensland_Gov_Gazette_10_October_1870_v11_94.pdf "Read the appointments Queensland Government Gazetter No. 94"
 
