@@ -30,6 +30,9 @@ There's no need to book, just meet under the flagpole in Canon Garland Place at 
 
 Our next tour is on **Sunday 2 March 2025** and titled, "**The Forgotten**" - stories about World War One soldiers in unmarked graves.
 
+<!-- Our next tour is on **Sunday 6 April 2025** and titled, "**Heroic Deeds" . -->
+<!-- Our next tour is on **Sunday 4 May 2025** and titled, "**Buried Twice" . -->
+
 The tour is limited to 20 people. 
 
 !!! Warning "What to bring"
