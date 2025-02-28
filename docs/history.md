@@ -174,11 +174,19 @@ The [heritage-listed Paddington Tramways Substation](https://apps.des.qld.gov.au
 
 By April 1975 the Cemetery was full with all plots sold. The Brisbane City Council Health Dept was ordered by the then Mayor to start a project to remove hundreds of family owned headstones and grave surrounds in Toowong, Lutwyche, South Brisbane, Balmoral, and God's Acre Pioneer cemetery. Headstones (most of which just needing weeding) were removed from these cemeteries with the aim to make open parklands.
 
-Mayors, soldiers, politicians all fell victim to the clearance. At Toowong Cemetery, headstones were demolished and buried in the canal. The [Toowong Cemetery heritage listing](https://apps.des.qld.gov.au/heritage-register/detail/?id=601773) suggests, "approximately 1,000 memorials were removed from Toowong". Intervention in 1979 saw an end to the organised vandalism. The Cemetery reopened in 1998 with approximately 450 plots for sale. 
+Mayors, soldiers, politicians all fell victim to the clearance. At Toowong Cemetery, headstones were demolished and buried in the canal. The [Toowong Cemetery heritage listing](https://apps.des.qld.gov.au/heritage-register/detail/?id=601773) suggests, "*approximately 1,000 memorials were removed from Toowong*". Intervention in 1979 saw an end to the organised vandalism. The Cemetery reopened in 1998 with approximately 450 plots for sale. 
 
 ![Toowong Cemetery - Dilapidated and Unsightly Graves](assets/dilapidated-graves-1974.jpg){ width="69.6%" data-title="Dilapidated and Unsightly Graves at Toowong Cemetery, 1974" }  ![Letter about removing headstones from Toowong Cemetery, 1975](assets/beautification-letter-19750319.jpg){ width="28.4%" } 
 
-*<small>[Toowong Cemetery - Dilapidated and Unsightly Graves](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:2165/one?qu=Toowong+Cemetery+-+Dilapidated+and+Unsightly+Graves&te=ASSET&lm=ALL_ASSETS), 3 July 1974 — [Brisbane City Council](https://www.brisbane.qld.gov.au)</small>*
+*<small>[Toowong Cemetery - Dilapidated and Unsightly Graves](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:2165/one?qu=Toowong+Cemetery+-+Dilapidated+and+Unsightly+Graves&te=ASSET&lm=ALL_ASSETS), 3 July 1974 — [Brisbane City Council](https://www.brisbane.qld.gov.au)</small>* <br>
+*<small>A letter from Brisbane City Council giving 30 days notice before removal of grave enclosures and memorials.</small>*
+
+Friends of Toowong Cemetery have counted 1039 graves that were marked for removal, and nearly all were demolished.
+
+![Toowong Cemetery Portion Book with grave numbers circled indicating that the grave was to be removed](assets/portion-book-marked-with-removals.jpg){ width="70%" }  
+
+*<small>Toowong Cemetery Portion Book with grave numbers circled indicating that the grave was to be removed.</small>*
+
 
 
 ## 1978 Toowong Roundabout
