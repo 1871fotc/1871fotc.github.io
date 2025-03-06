@@ -25,6 +25,10 @@ search:
 
 --8<-- "snippets/lovatt-davidson.md"
 
+## The Dunwich Benevolent Asylum
+
+Information goes here
+
 --8<-- "snippets/bartholomew-thomas-sharkey.md"
 
 --8<-- "snippets/walter-hammond.md"
