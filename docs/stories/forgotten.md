@@ -11,6 +11,12 @@ search:
 
 **Stories of World War One soldiers in unmarked graves**
 
+!!! warning "Grumose detail"
+
+    Often the scars of war could not be seen and soldiers could suffer from a range of mental illnesses. Many soldiers committed suicide particularly when they could not find work, or bear the pain of their physical or mental illnesses.
+
+    Some of these details are hidden in boxes like this. You can click to open and read them if you chooose.
+
 --8<-- "snippets/toowong-cemetery-map.md"
 
 --8<-- "snippets/john-frederick-inkson.md"
