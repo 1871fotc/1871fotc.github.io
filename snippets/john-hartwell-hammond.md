@@ -17,6 +17,6 @@ Lieutenant Colonel John Hammond received the distinguished conduct medal. He sho
 
 Sadly, John Died of starvation and exposure
 
-![DEATH INQUIRY](../assets/death-inquiry-1942.jpg){ width="40%" class="full-width" } ![DEATH INQUIRY continued](../assets/death-inquiry-1942-2.jpg){ width="40%" class="full-width" } 
+![DEATH INQUIRY](../assets/death-inquiry-1942.jpg){ width="30%" class="full-width" } ![DEATH INQUIRY continued](../assets/death-inquiry-1942-2.jpg){ width="30%" class="full-width" } 
 
 *<small>DEATH INQUIRY (1942, November 18). South Coast Bulletin (Southport, Qld. : 1929 - 1954), p. 3. Retrieved March 7, 2025, from [http://nla.gov.au/nla.news-article188312545](http://nla.gov.au/nla.news-article188312545)</small>*
