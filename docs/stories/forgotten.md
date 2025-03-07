@@ -30,7 +30,7 @@ search:
 Many soldiers were sent to Dunwich on Stradbroke Island to convalesce or for treatment for alcoholism. Many died there. 
 
 The Asylum had been established in 1865 to house and care for people who were unable to provide for themselves – the poor and destitute, the disabled, diseased, the old and infirm, and in some cases, those with untreated mental illness. It was a major institution, with over 1,100 inmates at the ==turn of the century==.
- 
+
 Within the Asylum, the Dunwich Inebriate Institution had been established to manage alcoholics. “Inebriates” found drunk on the streets of Brisbane and country towns could be sentenced by a magistrate to serve a period of time in Dunwich, to be “treated” for their condition, or people could refer themselves to the Institution voluntarily. 
 
 For a few years the Inebriate Institution had operated on Peel Island, but it was moved back to Dunwich just as men started returning from war. Over 450 men who had returned from fighting overseas spent time at Dunwich. At least 220 of these were admitted as “inebriates”.
@@ -42,6 +42,28 @@ For a few years the Inebriate Institution had operated on Peel Island, but it wa
 ![Tent town in Dunwich, Queensland, ca. 1928](../assets/dunwich-tent-town.jpeg){ width="70%" class="full-width" } 
 
 *<small>[Tent town in Dunwich, Queensland, ca. 1928](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183513405702061) - State Library of Queensland.</small>*
+
+
+[The Last Resort: the experience of First World War returned soldiers in the Dunwich Benevolent Asylum and the Dunwich Inebriate Institution](https://doi.org/10.17082/j.2205-3239.11.1.2020.2020-11), outlines how there was an outcry over the soldier’s treatment in Dunwich.
+
+>From as early as 1918, there was considerable public debate about the treatment of the returned servicemen at Dunwich, with concerns raised about the quality of the medical care, the standard of accommodation and the food. Advocates campaigned for soldiers to have access to an institution dedicated to their needs, noting that men who had made such sacrifices should be offered specialised care, not what was being offered at Dunwich. This letter to the editor reflected community concerns: 
+>
+> ‘These men want to shake off the horrors of war, so we send them among the broken fragments of civilisation’ 
+>
+>and
+>
+>‘I feel, however, that the Returned Soldier who apparently owing to war service has become mentally deficient should not be placed with the ordinary lunatic, but should be in a ward or home where Returned Soldiers in a similar condition to himself only are housed'.
+
+*<small>[Memoirs of the Queensland Museum – Culture 11](https://www.museum.qld.gov.au/collections-and-research/memoirs#index). [:fontawesome-brands-creative-commons::fontawesome-brands-creative-commons-by:][CC-BY]</small>*
+
+[CC-BY]: https://creativecommons.org/licenses/by/4.0/
+
+==Is this text subject to copyright?==
+
+==The Returned Sailors and Soldiers Imperial League of Australia (RSSILA) in 1918 – found that the Inebriate Institution was not a suitable place for the returned servicemen, most of whom had entered voluntarily: It is alleged that it was represented to them that they were being sent to a place where the food and the facilities of Sport and Recreation would enable them to repair damage which has been done to their nervous system by the strain of active service. These men do not seem Inebriates in the ordinary sense of the term, but it is to be remembered that the shell shock and the experiences of men who have undergone a long spell of fighting brings their nervous system into such a state that a slight indulgence in Alcohol or any undue excitement or strain effects them immediately.==
+
+==The RSSILA inquiry was widely reported in the popular press and led to a range of specific improvements to the conditions at Dunwich, including the introduction of Ward 9½ – a specific ward for returned soldiers. The soldiers were no longer required to work inside the Asylum, and the rations provided for them were slightly better and more plentiful. The Red Cross and other charities supplied cricket equipment, care packages and reading material for the men (Australian Red Cross Society 1915-1935). Unfortunately for the soldiers, the Medical Superintendent at the time, Dr James Booth-Clarkson (figure 6), did not approve of these ‘privileges’. Booth-Clarkson had experienced a long military career including service in the Spanish-American War and the Boer War. He was of the opinion that alcoholism indicated a weakness in character, and thought the best treatment was sedation for several days, followed by a regime of abstinence and hard work. He resented what he saw as special treatment for the soldiers. He wrote in his Annual Report: ‘…in many cases there are readmissions, which is not to be wondered at when the surroundings are so comfortable and pleasant’ (Booth-Clarkson 1919). To discourage these soldiers enjoying the ‘luxuries’ of Dunwich, he advocated to the Repat that if a soldier was admitted to the Inebriate Institution more than twice, he should only be further committed to the Benevolent Asylum as an ordinary inmate, where there were expectations of work, fewer rations and a lower standard of accommodation==
+
 
 --8<-- "snippets/bartholomew-thomas-sharkey.md"
 
