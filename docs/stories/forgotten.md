@@ -80,7 +80,7 @@ According to Wikipedia, by January 1942, 110 returned soldiers were inmates of G
 
 In 1923 the bad food at Goodna mental asylum made the newspapers where the headline was, “**200% worse than army food**”.
 
-![200% worse than army food](../assets/200-percent-worse-than-army-food.jpg){ width="40%" class="full-width" } 
+![200% worse than army food](../assets/200-percent-worse-than-army-food.jpg){ width="30%" class="full-width" } 
 
 *<small>"200P.C. WORSE THAN ARMY" (1943, February 22). Queensland Times (Ipswich, Qld. : 1909 - 1954), p. 3 (DAILY). Retrieved March 7, 2025, from [http://nla.gov.au/nla.news-article113999383](https://trove.nla.gov.au/newspaper/article/113999383)</small>*
 
