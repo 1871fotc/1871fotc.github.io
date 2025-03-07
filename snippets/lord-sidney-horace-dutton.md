@@ -1,4 +1,4 @@
-## Sidney Horace Dutton <small>[(10‑34‑17)](https://brisbane.discovereverafter.com/profile/31730702 "Go to Memorial Information" )</small>
+## Lord Sidney Horace Dutton <small>[(10‑34‑17)](https://brisbane.discovereverafter.com/profile/31730702 "Go to Memorial Information" )</small>
 
 Sidney enlisted age 21 in 1914 in Sydney where he lived with his father who was widowed prior to coming to Australia from England. He became acting sergeant. He was later appointed 2nd lieutenant in France and transferred to the 4^th^ battalion. In 1917 it was written on his service record ‘The army cor commander wishes to express his appreciation of the gallant service rendered by Sidney Dutton during the recent operations.”
  
@@ -6,7 +6,7 @@ Sidney fought for the army for 5 long years before being discharged.
 
 When Sidney Dutton returned home from the war, he was granted some farming land at Beerburrum similar to other soldiers as part of a resettlement program. The problem was a lot of soldiers had no experience farming plus the small allotments they were given often could not support any viable crop. Sidney came to Brisbane on and off looking for work but he was unable to find work. He died aged 31, in 1924, by suicide in Lang Park. The Trove articles about his death said as follows - 
 
-Trove article 18 Jan 1924
+[Trove article 18 Jan 1924](https://trove.nla.gov.au/newspaper/article/181250944)
 
 >OUT OF WORK. WORRIED MAN'S SUICIDE.
 >
@@ -18,6 +18,6 @@ Witness informed him there was always a home and three meals a day for him at hi
 
 Another Trove article titled “A debtor who waved him on” said that a witness said that Dutton told him there was a man that owed him 5 pounds but would not pay him. A lady who owned a boarding house in Red Hill said Dutton came to live in her boarding house a couple of months earlier. She said Dutton had a lively disposition. 
 
-??? warning "Grusome details"
+??? warning "Gruesome details"
 
     Content some people may not want to read.

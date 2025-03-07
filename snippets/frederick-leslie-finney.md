@@ -4,7 +4,7 @@ Frederick was an unmarried salesman who enlisted aged 30 in 1914 and was assigne
 
 Appointed sergeant, he caught influenza a few months after arriving. Frederick had an operation for varicose veins in Egypt then two attacks of gastritis then started suffering from rheumatism and had some stints in hospital with it but kept on going back out and fighting. He returned to Australian in late 1918 and discharged in May 1919. 
 
-??? warning "Grusome details"
+??? warning "Gruesome details"
 
     Frederick died by suicide at the age of 48 in 1932, killed by a train near Cabbage Tree Creek bridge. It says in the trove article that even though he had money he was a sick man and left behind a suicide letter. 
 

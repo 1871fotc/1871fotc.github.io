@@ -6,4 +6,8 @@ William was classified as ‘no disability’ when assessed in 1920 upon return.
 
 From articles on Trove, it appeared that his business as a tailor went into financial difficulties and his wife left him taking the child. His medical file at National Australian Archives at Cannon Hill said his cause of death was hypertension and cardiac failure. Not long before he died, he started placing adverts in the newspaper to try to get more business. 
 
-==Insert images and attribution==
+![W. Kalursesky, one of the soldiers photographed in The Queenslander Pictorial, supplement to The Queenslander, 1917.](../assets/william-kalursesky.jpeg){ width="40%" class="full-width" } 
+
+*<small>[W. Kalursesky, one of the soldiers photographed in The Queenslander Pictorial, supplement to The Queenslander, 1917.](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1dejkfd/alma99183929113602061).</small>*
+
+<!-- https://russiananzacs.net/Kalinovsky -->

@@ -6,7 +6,7 @@ Enlisted in 1915 in South Australia at age of 23. He was a tramway conductor bef
 - Accidentally injured 7 days later
 - Reporting missing in action in France in 11 November 1917, it was found he was a prisoner of war in Germany, released in January 1919. So, prisoner for year. 
 
-His Red Cross POW file included these articles:
+His [Red Cross POW file](https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1038929/document/5626599.PDF) included these articles:
 
 ==Insert images and attribution==
 

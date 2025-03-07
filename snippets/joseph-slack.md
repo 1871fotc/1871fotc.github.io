@@ -17,7 +17,7 @@ His file states his pension was reduced in 1918 from £2 to £1 per fortnight.
  
 ==Insert image and [attribution](https://anzacportal.dva.gov.au/wars-and-missions/ww1/where-australians-served/gallipoli/timeline)==
 
-??? warning "Grusome details"
+??? warning "Gruesome details"
 
     On the 1^st^ March 1919 Joseph was robbed of £17 by 3 men who went to court for their crimes. Then on 23^rd^ March 1919, a little over 3 weeks later, Joseph died by suicide after drinking poison. 
 

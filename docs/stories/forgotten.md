@@ -11,7 +11,7 @@ search:
 
 **Stories of World War One soldiers in unmarked graves**
 
-!!! warning "Grumose detail"
+???+ warning "Gruesome detail"
 
     Often the scars of war could not be seen and soldiers suffered from a range of mental illnesses. Many soldiers committed suicide particularly when they could not find work, or bear the pain of their physical or mental illnesses.
 
@@ -89,7 +89,7 @@ In 1923 the bad food at Goodna mental asylum made the newspapers where the headl
 
 --8<-- "snippets/henry-frederick-manning.md"
 
---8<-- "snippets/sidney-horace-dutton.md"
+--8<-- "snippets/lord-sidney-horace-dutton.md"
 
 --8<-- "snippets/joseph-slack.md"
 
