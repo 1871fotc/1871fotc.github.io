@@ -8,4 +8,6 @@ Since he returned in 1919 he had travelled Queensland extensively and ended up i
 
 The large newspaper article spoke about the dangers of that crossing but the driver said his train has 3 lights and it was said there is an electric light at the crossing. The article then said, 'case is closed'. You might think that’s the end of the story, until you read his medical file. His lungs were found to be very congested and eodematous with universal pleural adhesions in both lungs plus laceration at based of left lung. So, it appears he was struggling with lung disease. 
 
-==Insert image and attribution==
+![J. McCall](../assets/john-mccall.jpeg){ width="30%" class="full-width" } 
+
+*<small>[J. McCall, one of the soldiers photographed in The Queenslander Pictorial, supplement to The Queenslander, 1915](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183927221702061) - State Library of Queensland.</small>*

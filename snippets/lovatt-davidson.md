@@ -12,4 +12,10 @@ After several months in the inebriation institution in Dunwich in 1925 he wrote,
 
 > “At night I am unable to sleep properly through pains in my body and my heart. I have to sit up very often to get my breath again. I also get very bad dreams of which I cannot explain the sensations. These dreams leave me very weak.”
 
-Lovatt passed away on 14/3/1938 with his death certificate recording the cause as a heart attack.
+Lovatt passed away on the 14^th^ March 1938 with his death certificate recording the cause as a heart attack.
+
+
+![L. Davidson](../assets/lovatt-davidson.jpeg){ width="30%" class="full-width" } 
+
+*<small>[L. Davidson, one of the soldiers photographed in The Queenslander Pictorial, supplement to The Queenslander, 1915.
+](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183927363902061) - State Library of Queensland.</small>*
