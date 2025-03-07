@@ -8,6 +8,6 @@ William died by drinking Lysol poison in 1942 at the age of 58. Now will get an 
 
 ==I will read some extracts from an email I got from his great granddaughter.==
 
- ![SLEPT WITH AXE BESIDE HIS BED](../assets/slept-with-axe-beside-his-bed-1942.jpg){ width="40%" class="full-width" } 
+ ![SLEPT WITH AXE BESIDE HIS BED](../assets/slept-with-axe-beside-his-bed-1942.jpg){ width="30%" class="full-width" } 
 
 *<small>SLEPT WITH AXE BESIDE HIS BED (1942, August 4). The Telegraph (Brisbane, Qld. : 1872 - 1947), p. 4 (CITY FINAL LAST MINUTE NEWS). Retrieved March 7, 2025, from [http://nla.gov.au/nla.news-article172605836](http://nla.gov.au/nla.news-article172605836)</small>*
