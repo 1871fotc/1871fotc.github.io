@@ -11,11 +11,41 @@ search:
 
 **Stories of World War One soldiers in unmarked graves**
 
+A Friends of Toowong Cemetery volunteer and ex-serviceman asked, "why are there so many unmarked graves in the soldier’s section?". Over 600 soldiers inunmarked graves  have been discovered in Portion 10 of Toowong Cemetery. Approximately 13% of all soldiers buried at Toowong Cemetery are in unmarked graves.
+
+Friends of Toowong Cemetery are applying for grants to mark these graves with a cement plinth and plaque. On 19 February 2025, we received [a grant to mark 42 graves](https://minister.dva.gov.au/news-and-media/minister/recognition-and-respect-their-final-resting-place).
+
+### World War One
+
+Australia’s losses from World War One were heavy for a nation of just 4.9 million. The combined total of all Australian armed forces sent overseas during the war was about 340,000. Around 213,000 members of the Australian Imperial Forces (A.I.F.) became battle casualties during the conflict: 
+
+- almost 54,000 died
+- ~4,000 were taken prisoner
+- ~155,000 were wounded. 
+
+While most recovered to rejoin their units or at least remain in service of one kind or another, a significant portion were not fit to continue.
+
+Often the scars could not be seen and manifested themselves in a range of mental illnesses. Many soldiers committed suicide particularly soldiers that could not find work and or were suffering greatly from physical or mental illnesses or other reasons.
+
+It was common for returning soldiers from all over Australia to be discharged in Queensland in order to convalesce in a warmer climate including in care institutions, mental institutions or hospitals such as:
+
+- Dunwich Benevolent Asylum (encompassing the Inebriates Institute)
+- Goodna Mental Asylum and others further out in smaller towns.  
+- Soldier’s settlement farms in such places as Coominya and Beerburrum. 
+
+### Why are there so many unmarked graves? 
+
+Many soldiers were destitute when they died. With no family in Queensland (or Australia as many came from Great Britain) there was no one to organise and pay for a headstone.
+
+The 1924 Toowong Cemetery schedule of fees stated:
+
+>The lowest amount now accepted to enable a grave to be attended to in perpetuity is £50. [*$5,000 in today’s terms*]
+>
+>These amounts are paid into a Trust Fund (over £1200 has been already received for this purpose) and a formal agreement is made between the Trustees and the relatives or parties who provide the money. The interest on this money is devoted solely to the purposes of the Trust, and in this way the Trustees are enabled to keep the enclosure perpetually in good order, attending to the monument, and stone coping and railings whenever necessary, and re-lettering and painting whenever desirable.
+
 ???+ warning "Gruesome detail"
 
-    Often the scars of war could not be seen and soldiers suffered from a range of mental illnesses. Many soldiers committed suicide particularly when they could not find work, or bear the pain of their physical or mental illnesses.
-
-    Some of these details are hidden in boxes like this. You can click to open and read them if you chooose.
+    Some of these stories end with soldiers committing suicide. Details are hidden in boxes like this. You can click to open and read them if you chooose.
 
 --8<-- "snippets/toowong-cemetery-map.md"
 
