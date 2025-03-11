@@ -5,4 +5,4 @@ John Frederick Inkson was born in Victoria in 1895 to Annie Florence and William
 John returned from the war and, like many soldiers, did not marry. He died aged 45 in 1940 at a boarding house in Upper Edward St. 
 John's death was unusual based on conversations he had with police and the inquest into his death. A newspaper article stated:
 
-==Insert image and attribution==
+==Insert images and attribution - can't find on Trove==
