@@ -19,7 +19,7 @@ Three children, William Henry Roberts, Peter McCauley, and Jane Pittard were ori
 
 ![Map of Brisbane, 1844](../assets/map-of-brisbane-1844.jpg){ width="100%"}
 
-*<small>[Map of Brisbane, 1844](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool119348) Map of Brisbane drawn by C. F. Gerler. This basic map has a numbered list of 48 locations in the bottom right corner. Number 48 is "The First Tombstone (two graves)" — State Library of Queensland. </small>*
+*<small>[Map of Brisbane, 1844](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/tqqf2h/alma99184003713402061) Map of Brisbane drawn by C. F. Gerler. This basic map has a numbered list of 48 locations in the bottom right corner. Number 48 is "The First Tombstone (two graves)" — State Library of Queensland. </small>*
 
 ![Pioneer Children's Graves on the banks of the Brisbane River ](../assets/children-on-bank.jpg){ width="100%" }  
 
