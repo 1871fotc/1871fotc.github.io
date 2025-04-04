@@ -92,9 +92,9 @@ The Friends of Toowong Cemetery Association Inc. is a:
 
 Our Bank details are: 
 
-- Branch: **NAB Toowong**
-- BSB: **084-424** 
-- Account Number: **67-601-3012**
+- Branch: **NAB Brisbane**
+- BSB: **084034** 
+- Account Number: **522327844**
 
 <!--
 Please include your Surname as a reference if paying a membership subscription by direct deposit. 
