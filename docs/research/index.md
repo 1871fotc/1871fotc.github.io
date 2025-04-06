@@ -36,7 +36,7 @@ The **[Australian Dictionary of Biography](https://adb.anu.edu.au/)** is Austral
 
 ## Toowong Cemetery Monumental Inscriptions
 
-In 1988, as a Bicentennial project, the [Queensland Family History Society](https://www.qfhs.org.au) published five volumes of Toowong Cemetery Monumental Inscriptions. They can be found in the Local History Reference section at the Toowong Library and is [available on CD](https://www.qfhs.org.au/shop/shop-catalogue/society-publications/cemeteries/qfhscd030/).
+In 1988, as a Bicentennial project, the [Queensland Family History Society](https://www.qfhs.org.au) published five volumes of Toowong Cemetery Monumental Inscriptions. They can be found in the Local History Reference section at the Toowong Library and are [available on CD](https://www.qfhs.org.au/shop/shop-catalogue/society-publications/cemeteries/qfhscd030/).
 
 ![Toowong Cemetery Monumental Inscriptions, 5 Volumes](../assets/toowong-cemetery-monumental-inscriptions.jpg){ width="62%" } ![Toowong Cemetery Monumental Inscriptions, sample page](../assets/toowong-cemetery-monumental-inscriptions-2.jpg){ width="31.4%" }
 
