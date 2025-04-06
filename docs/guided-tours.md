@@ -28,7 +28,7 @@ There's no need to book, just meet under the flagpole in Canon Garland Place at 
 
 ## Upcoming Guided Tours
 
-Our next tour is on **Sunday 6 April 2025** and titled, "**Heroic Deeds**". 
+Our next tour is on **Sunday 4 May 2025** and titled, "**Buried Twice**".
 
 <!-- Our next tour is on **Sunday 6 April 2025** and titled, "**Heroic Deeds" . -->
 <!-- Our next tour is on **Sunday 4 May 2025** and titled, "**Buried Twice" . -->
