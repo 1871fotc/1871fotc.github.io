@@ -20,6 +20,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 <div class="grid cards" markdown>  
 
 
+<!--
 -   :material-face-woman-outline:{ .lg .middle } **[Notable Women][notable-women]**
 
     ---
@@ -40,7 +41,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
     Fire fighters of early Brisbane.
 
-
+-->
 
 <!-- January Australia Day
 
@@ -51,7 +52,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     Discover Queensland's contribution to the Australian Constitution.
 -->
 
-<!-- February Valentine's Day Feb 14th -->
+<!-- February Valentine's Day Feb 14th 
 
 -   :material-face-woman-outline:{ .lg .middle } **[The Other Half][the-other-half]**
   
@@ -59,7 +60,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
     Women who made an impact on Queensland. 
 
-
+-->
 <!-- March:  International Women'd day 8 Mar 2023, St. Patricks Day, 17 Mar 2023 
 
 -   :four_leaf_clover:{ .lg .middle } **[The Irish][irish]** 
@@ -76,7 +77,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     Women who shaped Queensland
 
 -->
-<!-- April Anzac Day, Easter Lutheran? 
+<!-- April Anzac Day, Easter Lutheran? -->
 
 -   :fontawesome-solid-person-military-rifle:{ .lg .middle } **[Lest We Forget][lest-we-forget]** 
   
@@ -89,7 +90,23 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     ---
 
     Remembering members of the Royal Australian Navy who gave their lives in service to this country.
--->
+
+<!-- Nurses -->
+
+-   :fontawesome-solid-user-nurse:{ .lg .middle } **[Nurses and Doctors][nurses]**
+  
+    ---
+
+    Nurses and doctors - some who gave their life in the course of their duties.  
+
+
+-   :fontawesome-solid-person-military-rifle:{ .lg .middle } **[Colonial Conflicts][colonial-conflicts]**
+  
+    ---
+
+    Remembering those involved in Colonial Conflicts. 
+
+      
 
 <!-- May Labour Day 
 
