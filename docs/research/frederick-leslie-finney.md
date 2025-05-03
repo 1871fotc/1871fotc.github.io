@@ -6,7 +6,7 @@ hide:
 
 # Frederick Leslie Finney
 
-**ca. 1884 - 1932**
+**ca. 1884 - 21 March 1932**
 
 --8<-- "snippets/frederick-leslie-finney.md"
 
