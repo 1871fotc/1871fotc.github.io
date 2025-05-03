@@ -8,7 +8,7 @@ hide:
 
 # John McCall
 
-**1878 — 16 August 1939**
+**June 1877 — 16 August 1939**
 
 --8<-- "snippets/john-mccall.md"
 
