@@ -6,7 +6,7 @@ hide:
 
 # Henry Frederick Manning 
 
-**Died ==19 February 1923==**
+**Died 20 February 1923**
 
 --8<-- "snippets/henry-frederick-manning.md"
 
