@@ -6,7 +6,7 @@ hide:
 
 # Walter Hammond
 
-**ca. 1896 — 1922 **
+**ca. 1896 — 6 November 1922 **
 
 --8<-- "snippets/walter-hammond.md"
 
