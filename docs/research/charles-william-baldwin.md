@@ -6,7 +6,7 @@ hide:
 
 # Charles William Baldwin
 
-**Died 1926**
+**ca. 1873 - 30 March 1926**
 
 --8<-- "snippets/charles-william-baldwin.md"
 
