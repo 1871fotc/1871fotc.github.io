@@ -6,7 +6,7 @@ hide:
 
 # Thomas Welsh
 
-**ca. 1876 - 1933**
+**ca. 1876 - 8 June 1933**
 
 --8<-- "snippets/thomas-welsh.md"
 
