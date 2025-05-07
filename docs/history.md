@@ -260,21 +260,32 @@ On 24 July 2011, 140 years after Governor Blackall was buried, a **[re-enactment
 
 ![Re-enactment of the funeral of Governor Blackall, 2011](assets/140-commemoration.png){ width="96%" loading=lazy data-title="Re-enactment of the funeral of Governor Blackall, 2011" }  
 
+## 2025 Toowong Cemetery's 150^th^ anniversary
+
+On 5 July 2025, Toowong Cemetery celebrates the 150^th^ anniversary of its official opening in 1875.
+
+Thanks to work by Melissa Wren, Friends of Toowong Cemetery were **[awarded a grant from the Australian Government](assets/documents/veterans-affairs-grant-2025.pdf)** to mark the graves of 42 First World War soldiers buried in the cemetery. 
+
+There are hundreds more soldiers in unmarked graves. We will continue to work with Katrina and Cate from the **[Australian Remembrance Army](https://australianremembrancearmy.com)** to make sure soldiers in unmarked graves are not forgotten and receive the recognition they deserve.
+
+![Headstones funded by the 2025 grant from the Australian Government](assets/headstones-funded-by-2025-grant.jpg)
 ## Today
 
-Today, the Friends of Toowong Cemetery and the Brisbane City Council work together to maintain and improve Toowong Cemetery. Together we have delivered improvements including:
+Today, the Friends of Toowong Cemetery and the Brisbane City Council work together to maintain and improve Toowong Cemetery. 
+<!--Together we have delivered improvements including:
 
 - The **[Federation Pavilion](about/federation-pavilion.md)**
 - **[Renaming the Cemetery Roads](index.md#toowong-cemetery-map)** after notable people buried nearby
 - Reusing the old Sexton's office as the **[Toowong Cemetery Museum](guided-tours.md)**
 - The Paddington Memorial and **[Headstone Symbology](headstones/symbols.md)** display
 
+-->
 <!--
 - The **[Toowong Cemetery Remembrance Walk](https://vimeo.com/540501732)** that allows you to explore the lives of Queensland's volunteer troops and learn about the Anzac Legend
 -->
-
+<!--
 **Toowong Cemetery is enjoyed by those who come to remember loved ones, exercise, walk their dog, or discover the history and stories inside.**
-
+-->
 
 ## Learn more about Toowong Cemetery's history
 
