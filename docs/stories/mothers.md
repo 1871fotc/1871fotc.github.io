@@ -102,7 +102,7 @@ Helen Dugald Robertson was born in Wisconsin, USA in 1858 to Charles Robertson, 
 
 The Streets had two Queensland-born sons, Charles Abram (1883-1938) and Richard Joseph, known as RJ (1884-1959). Helen died on 7 October 1907 in South Brisbane.
 
-## Eliza Finney <small>[(13‑81‑6/13)](https://brisbane.discovereverafter.com/profile/31778730 "Go to Memorial Information" )</small>
+## Eliza Finney <small>[(13‑81‑6)](https://brisbane.discovereverafter.com/profile/31778730 "Go to Memorial Information" )</small>
 
 Eliza Cornwall was born to Thomas Cornwall and Mary (née Thomas) in County Galway, Ireland ca. 1805. Thomas Finney, farmer, married Eliza in Tuam, County Galway in 1823. Eliza's newspaper obituaries stated she was mother to "[no fewer than 21 children](https://trove.nla.gov.au/newspaper/article/176474296)", while others indicated she was the "[mother of 23 children](https://trove.nla.gov.au/newspaper/article/148031679?searchTerm=Eliza%20Finney)". 
 
