@@ -70,7 +70,7 @@ The table below lists the 139 human remains and 106[^1] headstones that were mov
 
 Abbreviations used in the source document have been expanded using the following mappings: 
 
-| Abbreviation | Name or Honorific Prefix |
+| Abbreviation | Name |
 | -----------  | ----------- |
 | Alex.        | Alexander   |
 | Chas.        | Charles     |
