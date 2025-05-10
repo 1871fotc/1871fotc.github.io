@@ -49,6 +49,11 @@ The Paddington Memorial commemorates people originally buried in the North Brisb
 
 The table below lists the 139 human remains and 106[^1] headstones that were moved from Paddington Cemetery to Toowong Cemetery.
 
+![Paddington Cemetery 1910](../assets/paddington-cemetery-goat-1910.jpg){ width="48%" loading=lazy data-title="Paddington Cemetery 1910" } ![Paddington Cemetery 1910](../assets/annie-piddington-headstone.jpeg){ width="44.33%" loading=lazy data-title="Annie and Hugh Piddington's headstone" } 
+
+*<small>[Paddington Cemetery 1910](https://www.flickr.com/photos/queenslandstatearchives/30299711162/in/photolist-2joySJt-NatWv9-KCpMLU) — Queensland State Archives. Annie and Hugh Piddington's headstone is now in Toowong Cemetery (6-23-18).</small>*
+
+
 [^1]: Appendix 3 in Volume 2 of the 1914 Parliamentary papers states 105 headstones were moved, Wm. Stokes' headstone wasn't counted as it was 'Removed at the applicants expense'.
 
 ??? directions "About the data"
