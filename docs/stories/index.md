@@ -77,7 +77,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     Women who shaped Queensland
 
 -->
-<!-- April Anzac Day, Easter Lutheran? -->
+<!-- April Anzac Day, Easter Lutheran?
 
 -   :fontawesome-solid-person-military-rifle:{ .lg .middle } **[Lest We Forget][lest-we-forget]** 
   
@@ -90,7 +90,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     ---
 
     Remembering members of the Royal Australian Navy who gave their lives in service to this country.
-
+-->
 <!-- Nurses -->
 
 -   :fontawesome-solid-user-nurse:{ .lg .middle } **[Nurses and Doctors][nurses]**
@@ -99,13 +99,13 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
     Nurses and doctors - some who gave their life in the course of their duties.  
 
-
+<!--
 -   :fontawesome-solid-person-military-rifle:{ .lg .middle } **[Colonial Conflicts][colonial-conflicts]**
   
     ---
 
     Remembering those involved in Colonial Conflicts. 
-
+-->
       
 
 <!-- May Labour Day 
@@ -116,14 +116,14 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
     Shearers fought against wealthy squatters for better working conditions. 
 
-
+-->
 -   :fontawesome-solid-scale-unbalanced:{ .lg .middle } **[Labor Luminaries][labor-luminaries]**
   
     ---
 
     Recognising people involved in the Labor movement. 
 
--->
+
 <!--    -- July RAN founded 
 
 -   :fontawesome-solid-anchor:{ .lg .middle } **[Lest We Forget: Naval][lest-we-forget-navy]**
@@ -154,7 +154,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     Recalling the builders of early Brisbane.
 -->
 
-<!-- October 
+<!-- October -->
 
 -   :fontawesome-solid-scale-balanced:{ .lg .middle } **[Founding Fathers][founding-fathers]** 
   
@@ -162,7 +162,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
     Stories of Toowong Cemetery's first Trustees from 1870
 
--->
+
 
 <!-- December 
 
@@ -181,7 +181,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     ---
 
     Read about 14 Brisbane Mayors from 1859 to 1931 who are buried in Toowong Cemetery.       
-
+-->
 
 -   :fontawesome-solid-monument:{ .lg .middle } **[Monumental Masons][monumental-masons]**
 
@@ -189,7 +189,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
     Read about the sculpters of Toowong Cemetery's beautiful monuments.
 
--->
+
 
 </div>
 
