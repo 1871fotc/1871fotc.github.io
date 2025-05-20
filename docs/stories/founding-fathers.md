@@ -14,8 +14,11 @@ search:
 The Brisbane General Cemetery Trust commenced when [the first Trustees were appointed on 7 October 1870][gazette-94]. They were John Petrie (Chairman), John Hardgrave, William Pettigrew, George Edmonstone, Alexander Raff, James Cowlishaw, Michael Quinlan, Nathaniel Lade, William Perry, and Samuel Walker Griffith.
 
 [gazette-94]: ../assets/documents/Queensland_Gov_Gazette_10_October_1870_v11_94.pdf "Read the appointments Queensland Government Gazetter No. 94"
-
+<!--
 The Trust’s first secretary was Henry James Oxley, Griffith’s brother‑in‑law, who held the position for 41 years. John Melville was appointed overseer of the cemetery by the Trustees in 1873. 
+-->
+
+The Trust’s first secretary was Arthur Rawlin, 1 October 1870 to 1 July 1875. He was followed by Henry J. Oxley, 1 July 1875 to 30 July 1916 (41 years). E. Griffith Oxley was acting secretary from 11 March 1907 and appointed 19 September 1910 until the dissolution of the Trust.
 
 <!-- https://trove.nla.gov.au/newspaper/article/23607855?searchTerm=Henry%20James%20Oxley -->
 
