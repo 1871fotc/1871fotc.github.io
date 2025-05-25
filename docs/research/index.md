@@ -8,6 +8,7 @@ Free tools to help you research family and local history:
 
 - **[Find a grave](find-a-grave.md)** in Toowong Cemetery
 - **[Find an individual story](find-a-story.md)** in the index of the 550+ stories we've written
+- **[Brisbane General Cemetery Handbook of Public Information - 1924](../assets/BGC1924/brisbane-general-cemetery-handbook-1924-adjusted.pdf)**
 - **[Historic Toowong Cemetery maps](historic-cemetery-maps.md)** from Queensland State Archives
 - **[Historic Toowong Real-estate maps](historic-real-estate-maps.md)** from 1861 to 1936
 - **[Download our data](data.md)**
