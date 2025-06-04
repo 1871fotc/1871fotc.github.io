@@ -4,7 +4,8 @@ Magdalene Dick was born in Brecon, Wales around 1851. She was the daughter of Da
 
 After William’s death [Magdalene became superintendent of the first group of female switchboard operators at the Brisbane telephone exchange](https://trove.nla.gov.au/newspaper/article/20560715).
 
-<figure markdown>
-  ![Telephonists working at the, Brisbane Central telephone exchange, Brisbane, 1910](../assets/brisbane-telephone-exchange.jpg){ width="70%" class="full-width" }
-  <figcaption markdown>[Telephonists working at the, Brisbane Central telephone exchange, Brisbane, 1910](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/bumb4u/alma99184003680302061) — State Library of Queensland.</figcaption>
+  ![Telephonists working at the, Brisbane Central telephone exchange, Brisbane, 1910](../assets/brisbane-telephone-exchange.jpg){ width="60%" } ![Magdalene Dick](../assets/magdalene-dick.jpeg){ width="31.4%" }
+
+  <small>[Telephonists working at the Brisbane Central telephone exchange, Brisbane, 1910](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/bumb4u/alma99184003680302061) — State Library of Queensland.<br>
+  [Mrs William Heddle Dick, First Lady Superintendent of the First Telephone Exchange in the Colony of Queensland](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1dejkfd/alma99183505899302061) - State Library of Queensland</small>
 </figure>
