@@ -45,7 +45,7 @@ George was for many years the Superintendent Engineer to the Australasian Steam 
 --8<-- "snippets/william-collin.md"
 
 ## Able Seaman Archibald Edward Bartsch <small>[(10‑44‑20)](https://brisbane.discovereverafter.com/profile/31781459 "Go to Memorial Information" )</small>
-## Warrant Officer Henry Theeman <small>[(10‑41‑21)](https://brisbane.discovereverafter.com/profile/31808968 "Go to Memorial Information" )</small>
+## Warrant Officer Henry Theeman <small>[(10‑44‑21)](https://brisbane.discovereverafter.com/profile/31808968 "Go to Memorial Information" )</small>
 ## Steward Eric Ross Harrison <small>[(10‑43‑7)](https://brisbane.discovereverafter.com/profile/31798041 "Go to Memorial Information" )</small>
 
 --8<-- "snippets/bartsch-theeman-harrison.md"

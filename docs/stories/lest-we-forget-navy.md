@@ -46,7 +46,7 @@ Button was born in Hobart on 1 January 1924. He was the son of Cyril and Jessie 
 
 ## Able Seaman Archibald Edward Bartsch <small>[(10‑44‑20)](https://brisbane.discovereverafter.com/profile/31781459 "Go to Memorial Information" )</small>
 
-## Warrant Officer Henry Theeman <small>[(10‑41‑21)](https://brisbane.discovereverafter.com/profile/31808968 "Go to Memorial Information" )</small>
+## Warrant Officer Henry Theeman <small>[(10‑44‑21)](https://brisbane.discovereverafter.com/profile/31808968 "Go to Memorial Information" )</small>
 
 ## Steward Eric Ross Harrison <small>[(10‑43‑7)](https://brisbane.discovereverafter.com/profile/31798041 "Go to Memorial Information" )</small>
 
