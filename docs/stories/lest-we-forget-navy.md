@@ -65,13 +65,13 @@ This portion contains over 370 Commonwealth War Graves from the three forces. �
 
 Two sailors from the Netherlands Merchant Navy are also buried at Toowong Cemetery. They are mentioned in the [Brisbane General Cemetery citation](https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/13707/brisbane-general-toowong-cemetery/) on the [Commonwealth War Graves Commission’s website](https://www.cwgc.org).
 
-## Matroos Boesidin <small>[(30‑22‑21)](https://brisbane.discovereverafter.com/profile/31722603 "Go to Memorial Information" )</small>
+## Matroos Boesidien <small>[(30‑22‑21)](https://brisbane.discovereverafter.com/profile/31722603 "Go to Memorial Information" )</small>
 
-[Sailor Boesidin](https://www.cwgc.org/find-records/find-war-dead/casualty-details/7510728/boesidien/) was born in Bengkalan, Java in 1909. He died, aged 30, in Brisbane on 27 August 1942 while serving aboard the KPM line’s *MV Maetsuycker*. The vessel had evacuated from the Dutch East Indies and was redeployed transporting Australian troops to New Guinea.
+[Sailor Boesidien](https://www.cwgc.org/find-records/find-war-dead/casualty-details/7510728/boesidien/) was born in Bengkalan, Java in 1909. He died, aged 30, in Brisbane on 27 August 1942 while serving aboard the KPM line’s *MV Maetsuycker*. The vessel had evacuated from the Dutch East Indies and was redeployed transporting Australian troops to New Guinea.
 
 ## Samanuddin <small>[(29‑9‑11)](https://brisbane.discovereverafter.com/profile/31842498 "Go to Memorial Information" )</small>
 
-[Sailor Samanuddin](https://oorlogsgravenstichting.nl/personen/133335/samanuddin) was born in Dacca in 1906. He died in Brisbane on 16 July 1943.
+[Sailor Samanuddin](https://oorlogsgravenstichting.nl/personen/133335/samanuddin) was born in Dacca in 1906 and was a sailor in the Dutch Merchant Navy. He died in Brisbane on 16 July 1943 aged 37.
 
 ## Further Reading
 
