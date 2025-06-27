@@ -20,5 +20,26 @@ hide:
 ![The 'Gayundah' gunship moored in the Fitzroy River, Rockhampton.](../assets/gayundah-ship.jpeg){ width=66% class="full-width" }
 
 *<small>[The 'Gayundah' gunship moored in the Fitzroy River, Rockhampton](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1dejkfd/alma99183513114502061) - State Library of Queensland</small>*
- 
+
+### Headstone
+
+![Walter Thorpe Olding's headstone](../assets/walter-thorpe-olding-headstone.jpeg){ width="40%" }
+
+*<small>Walter Thorpe Olding's headstone</small>*
+
+### Inscription
+
+>Honour the brave <br>
+>Erected by the Officers & Men <br>
+>of H.M.A.S. Gayundah <br>
+>to the memory of  <br>
+>their late Shipmate <br>
+>Walter Thorpe <br>
+>Olding <br>
+>Who was killed during operations <br>
+>with Fire Brigade at Queensland <br>
+>Agency Fire Brisbane April 30^th^ 1912 <br>
+>aged 23 years <br>
+
+
 --8<-- "snippets/add-to-this-story.md"
