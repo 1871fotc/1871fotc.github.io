@@ -23,7 +23,7 @@ hide:
 
 ### Headstone
 
-![Walter Thorpe Olding's headstone](../assets/walter-thorpe-olding-headstone.jpeg){ width="40%" }
+![Walter Thorpe Olding's headstone](../assets/walter-thorpe-olding-headstone.jpg){ width="40%" }
 
 *<small>Walter Thorpe Olding's headstone</small>*
 
