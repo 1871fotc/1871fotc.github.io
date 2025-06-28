@@ -11,9 +11,9 @@ search:
 
 **Stories of World War One soldiers in unmarked graves**
 
-A Friends of Toowong Cemetery volunteer and ex-serviceman asked, "why are there so many unmarked graves in the soldier’s section?". Over 600 soldiers inunmarked graves  have been discovered in Portion 10 of Toowong Cemetery. Approximately 13% of all soldiers buried at Toowong Cemetery are in unmarked graves.
+A Friends of Toowong Cemetery volunteer and ex-serviceman asked, "*why are there so many unmarked graves in the soldier’s section?*". Over 600 soldiers in unmarked graves  have been discovered in Portion 10 of Toowong Cemetery. Approximately 13% of all soldiers buried at Toowong Cemetery are in unmarked graves.
 
-Friends of Toowong Cemetery are applying for grants to mark these graves with a cement plinth and plaque. On 19 February 2025, we received [a grant to mark 42 graves](https://minister.dva.gov.au/news-and-media/minister/recognition-and-respect-their-final-resting-place).
+On 19 February 2025, Friends of Toowong Cemetery received [a grant to mark 42 graves](https://minister.dva.gov.au/news-and-media/minister/recognition-and-respect-their-final-resting-place) with a cement plinth and plaque.
 
 ### World War One
 
@@ -25,13 +25,13 @@ Australia’s losses from World War One were heavy for a nation of just 4.9 mill
 
 While most recovered to rejoin their units or at least remain in service of one kind or another, a significant portion were not fit to continue.
 
-Often the scars could not be seen and manifested themselves in a range of mental illnesses. Many soldiers committed suicide particularly soldiers that could not find work and or were suffering greatly from physical or mental illnesses or other reasons.
+Often the scars could not be seen and manifested themselves in a range of mental illnesses. Many soldiers committed suicide particularly soldiers that could not find work or were suffering greatly from physical or mental illnesses.
 
 It was common for returning soldiers from all over Australia to be discharged in Queensland in order to convalesce in a warmer climate including in care institutions, mental institutions or hospitals such as:
 
 - Dunwich Benevolent Asylum (encompassing the Inebriates Institute)
 - Goodna Mental Asylum and others further out in smaller towns.  
-- Soldier’s settlement farms in such places as Coominya and Beerburrum. 
+- Soldier’s settlement farms in places including Coominya and Beerburrum. 
 
 ### Why are there so many unmarked graves? 
 
