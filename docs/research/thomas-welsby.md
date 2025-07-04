@@ -7,7 +7,7 @@ hide:
 
 # Thomas Welsby
 
-**1858 — 3 February 1941**
+**29 November 1858 — 3 February 1941**
 
 --8<-- "snippets/thomas-welsby.md"
 
