@@ -4,4 +4,4 @@ Tom, the son of John Johnson and Mary Huet, died on 2 October 1912. He was the f
 
 ![Tom George Johnson's headstone](../assets/tom-george-johnson-headstone.jpg){ width="50%" }
 
-<small>Tom George Johnson's headstone</small>
+<small>*Tom George Johnson's headstone*</small>
