@@ -18,7 +18,7 @@ search:
 
 **Guided tours are free** but donations are appreciated to help us continue **[our work](about/index.md)**.
 
-Tours are on the first Sunday of each month (February to December) from 10:30am to 12:00. 
+Tours are on the **first Sunday of each month** (February to December) from **10:30am to 12:00**. 
 
 There's no need to book, just meet under the flagpole in Canon Garland Place at the Toowong Cemetery. Parking is available inside the cemetery.
 
@@ -28,7 +28,7 @@ There's no need to book, just meet under the flagpole in Canon Garland Place at 
 
 ## Upcoming Guided Tours
 
-Our next tour is on **Sunday 3 August 2025**. <!-- and titled, "**Monday 5th July 1875: Commemorating the sesquicentenary of the official opening of the Brisbane General (Toowong) Cemetery**". --> 
+Our next tour is on **Sunday 3 August 2025** and titled, "**Rich man, poor man**". 
 
 The tour is limited to 20 people. 
 
