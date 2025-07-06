@@ -71,7 +71,7 @@ Two sailors from the Netherlands Merchant Navy are also buried at Toowong Cemete
 
 ## Samanuddin <small>[(29‑9‑11)](https://brisbane.discovereverafter.com/profile/31842498 "Go to Memorial Information" )</small>
 
-[Sailor Samanuddin](https://oorlogsgravenstichting.nl/personen/133335/samanuddin) was born in Dacca in 1906 and was a sailor in the Dutch Merchant Navy. He died in Brisbane on 16 July 1943 aged 37.
+[Sailor Samanuddin](https://oorlogsgravenstichting.nl/personen/133335/samanuddin) was born in Dacca (now Dhaka, Bangladesh) in 1906 and was a sailor in the Dutch Merchant Navy. He died in Brisbane on 16 July 1943 aged 37.
 
 ## Further Reading
 
