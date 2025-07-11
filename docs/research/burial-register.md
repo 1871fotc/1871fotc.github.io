@@ -25,7 +25,7 @@ The Burial Registers contain details including:
 - Observations
 
 
-Early Burial Register entries are not consecutive.
+Burial dates overlap in the first 3 Burial Registers.
 
 ## Burials 3/1/1871 - 30/12/1891
 
@@ -54,9 +54,18 @@ Early Burial Register entries are not consecutive.
 
 - **Part 1: [1/1/1908 - 27/8/1911](https://www.archivessearch.qld.gov.au/api/download_file/DR142412  "Download the file" )** - Queensland State Archives, Item Representation ID DR142412
 - **Part 2: [28/8/1911 - 12/9/1914](https://www.archivessearch.qld.gov.au/api/download_file/DR142413  "Download the file" )** - Queensland State Archives, Item Representation ID DR142413
-- **Part 3: [12/9/1914y - 31/7/1917](https://www.archivessearch.qld.gov.au/api/download_file/DR142414  "Download the file" )** - Queensland State Archives, Item Representation ID DR142414
+- **Part 3: [12/9/1914 - 31/7/1917](https://www.archivessearch.qld.gov.au/api/download_file/DR142414  "Download the file" )** - Queensland State Archives, Item Representation ID DR142414
 - **Part 4: [31/7/1917 - 31/12/1919](https://www.archivessearch.qld.gov.au/api/download_file/DR142415  "Download the file" )** - Queensland State Archives, Item Representation ID DR142415
 
 
+## Burials 2/1/1920 - 31/12/1928
+
+- **Part 1: [2/1/1920 - 15/6/1922](https://www.archivessearch.qld.gov.au/api/download_file/DR142416  "Download the file" )** - Queensland State Archives, Item Representation ID DR142416
+- **Part 2: [15/6/1922 - 22/10/1924](https://www.archivessearch.qld.gov.au/api/download_file/DR142417  "Download the file" )** - Queensland State Archives, Item Representation ID DR142417
+- **Part 3: [22/10/1924 - 20/12/1926](https://www.archivessearch.qld.gov.au/api/download_file/DR142418  "Download the file" )** - Queensland State Archives, Item Representation ID DR142418
+- **Part 4: [20/12/1926 - 31/12/1928](https://www.archivessearch.qld.gov.au/api/download_file/DR142419  "Download the file" )** - Queensland State Archives, Item Representation ID DR142419
+
+
+<!-- wip -->
 
 For later Burial Registers see **[Burial Registers of the Brisbane General Cemetery](https://www.archivessearch.qld.gov.au/search?f[]=keywords&ff[]=resource_id&fl[]=Burial%20Registers%20-%20Brisbane%20General%20Cemetery%20%2F%20Toowong%20Cemetery%20%2F%20Brisbane%20General%20Cemetery%20Trust%20%2F%20Brisbane%20City%20Council%20II&fv[]=resource%3A6829&has_digital=false&op[]=AND&open=false&q[]=&sf[]=resource_id&sort=relevance)**.
