@@ -47,6 +47,7 @@ theme:
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
+#    - navigation.instant.preview
     - navigation.tracking
     - navigation.top
     - navigation.tabs
@@ -289,7 +290,8 @@ nav:
 #    - Celebrity Headstones: headstones/celebrities.md
   - Research:
     - Research Resources: research/index.md
-    - Find a Grave: research/find-a-grave.md  
+    - Find a Grave: research/find-a-grave.md
+    - Burial Registers: research/burial-register.md
     - Find a Story: research/find-a-story.md
 #    - Paddington Cemetery: research/paddington-cemetery.md
     - Cemetery Maps: research/historic-cemetery-maps.md

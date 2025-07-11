@@ -7,6 +7,7 @@ description: Free tools to help you research family or local history
 Free tools to help you research family and local history:
 
 - **[Find a grave](find-a-grave.md)** in Toowong Cemetery
+- **[Toowong Cemetery Burial Registers](burial-register.md)** from Queensland State Archives
 - **[Find an individual story](find-a-story.md)** in the index of the 550+ stories we've written
 - **[Brisbane General Cemetery Handbook of Public Information - 1924](../assets/BGC1924/brisbane-general-cemetery-handbook-1924.pdf)**
 - **[Historic Toowong Cemetery maps](historic-cemetery-maps.md)** from Queensland State Archives
