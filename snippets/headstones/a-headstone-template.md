@@ -30,7 +30,7 @@
  - Unbuilt - The object is planned for construction but work has not begun (and / or may never be built).
  - Serviceable - The object is capable of performing its function[^1] (but may not be activated or in use).
  - Abandoned - The object still exists but is not in use.
- - Demolished - The object was destroyed or disassembled and remains or traces of the object may exists.
+ - Demolished - The object was destroyed or disassembled and remains or traces of the object may exist.
  - Unserviceable - The object is incapable of functioning but may be repairable.
  - Rebuilt - The object has been made serviceable after damage through repairs.
  - Ruins - The object has been unserviceable for some time and cannot be repaired, but some traces of the objects can still be observed.
