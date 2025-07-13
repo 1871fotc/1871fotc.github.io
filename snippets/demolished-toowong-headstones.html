@@ -1,0 +1,283 @@
+<!-- script src='tablesort.number.js'></script -->
+
+<script defer src="../../javascripts/demolished-headstone-tablefilter.js"></script>
+
+<div class="search-container">
+  <span class="table-filter-input">
+    <input type="text" id="myInput" name="myInput" placeholder="Name Search. (works best in Google Chrome)">
+  </span> 
+  <div class="search-button-container">
+    <span class="table-filter-reset-button">
+      <input type="image" id="resetButton" src="../../assets/clear.svg" alt="Reset" onclick="clearInput()">
+    </span>
+    <span class="table-filter-search-button">
+      <input type="image" id="searchButton" src="../../assets/search.svg" alt="Submit" onmousedown="setSearchButton()" onclick="searchIndex()">
+    </span>
+  </div>  
+</div>
+
+
+<!-- must use a html table to enable filter and default sort order - http://tristen.ca/tablesort/demo/ -->
+
+<table id="demolishedHeadstoneTable">
+  <thead>
+    <tr>
+      <th>First Names</th>
+      <th>Last Name</th>
+      <th>Headstone Location</th> <!-- order table by this field -->
+    </tr>
+  </thead>
+  <tbody>
+  <!--  
+    <tr>
+        <td>Albina</td>
+        <td>Diggles</td>
+        <td><b><a href="https://brisbane.discovereverafter.com/search-results?_token=TInrDS3eSnY3t1Wym651wBMzEMCM73ceteAWPpHF&screenWidth=1713&search_first=&search_last=&dateFrom=&dateTo=&ageFrom=&ageTo=&search_plot=Mon+13+-+6%2F%23%2F11&yod=&site=brisbane&cemetery=792" title="Go to Memorial information">13-6-11</a></b></td>      
+    </tr>
+    <tr>
+        <td>Ada Sylvester</td>
+        <td>Diggles</td>
+        <td><b><a href="https://brisbane.discovereverafter.com/search-results?_token=TInrDS3eSnY3t1Wym651wBMzEMCM73ceteAWPpHF&screenWidth=1713&search_first=&search_last=&dateFrom=&dateTo=&ageFrom=&ageTo=&search_plot=Mon+13+-+6%2F%23%2F11&yod=&site=brisbane&cemetery=792" title="Go to Memorial information">13-6-11</a></b></td>
+    </tr>
+  -->  
+ 
+  <!-- Not demolished ? -->
+   <tr>
+        <td>Sylvia</td>
+        <td><b><a href="../../research/1-44-18-sylvia-nevill/" title="Learn more">Nevill</a></b></td>
+        <td>1-44-18</td>
+    </tr>  
+    <tr>
+        <td>Frederick George</td>
+        <td><b><a href="../../research/1-44-18-frederick-george-nevill/" title="Learn more">Nevill</a></b></td>
+        <td>1-44-18</td>
+    </tr> 
+   <tr>
+        <td>Gwendoline Marjorie</td>
+        <td><b><a href="../../research/1-44-18-gwendoline-marjorie-nevill/" title="Learn more">Nevill</a></b></td>
+        <td>1-44-18</td>
+   <!-- above demolished? -->      
+    </tr>
+    <tr>
+        <td>Margaret</td>
+        <td><b><a href="../../research/6-4-8-margaret-kriekenbeek/" title="Learn more">Kriekenbeek</a></b></td>     
+        <td>6-4-8</td>
+    </tr>
+    <tr>
+        <td>Rudolph</td>
+        <td><b><a href="../../research/6-4-8-rudolph-kriekenbeek/" title="Learn more">Kriekenbeek</a></b></td>     
+        <td>6-4-8</td>
+    </tr>
+    <tr>
+        <td>Vera Irene Marjorie</td>
+        <td><b><a href="../../research/6-4-9-vera-irene-marjorie-kriekenbeek/" title="Learn more">Kriekenbeek</a></b></td>     
+        <td>6-4-9</td>
+    </tr>
+    <tr>
+        <td>Rudolph Garfield</td>
+        <td><b><a href="../../research/6-4-9-rudolph-garfield-kriekenbeek/" title="Learn more">Kriekenbeek</a></b></td>     
+        <td>6-4-9</td>
+    </tr>
+    <tr>
+        <td>Thomas</td>
+        <td><b><a href="../../research/6-8-1-thomas-powell/" title="Learn more">Powell</a></b></td>        
+        <td>6-8-1</td>
+    </tr>  
+ <!-- WIP -->   
+     <tr>
+        <td></td>
+        <td>Thorne</td>
+        <td><b><a href="../../assets/demolished-toowong-headstones/6-9-11-thorne/6-9-11-thorne-headstone.jpg">6-9-11</a></b></td>   
+    </tr>
+    <tr>
+        <td></td>
+        <td>Hillman</td>
+        <td><b><a href="../../assets/demolished-toowong-headstones/6-15-4-hillman/6-15-4-hillman-headstone.jpg">6-15-4</a></b></td>   
+    </tr>      
+    <tr>
+        <td></td>
+        <td>McKenzie</td>
+        <td><b><a href="../../assets/demolished-toowong-headstones/6-18-8-mckenzie/6-18-8-mckenzie-headstone.jpg">6-18-8</a></b></td>         
+    </tr>    
+ <!-- end of WIP -->   
+    <tr>
+        <td>Caroline</td>
+        <td><b><a href="../../research/8-50-14-caroline-carter/" title="Learn more">Carter</a></b></td>        
+        <td>8-50-14</td>
+    </tr>
+    <tr>
+        <td>Charles Stuart</td>
+        <td><b><a href="../../research/charles-stuart-mein/"  title="Read their story">Mein</a></b></td>
+        <td>12-11-13</td>
+    </tr>
+
+<!-- WIP Section 15a -->
+
+    <tr>
+        <td></td>
+        <td>Lawrie</td>
+        <td><b><a href="../../assets/demolished-toowong-headstones/15a-1-46&47-lawrie/15a-1-46&47-lawrie-headstone.jpg">15a-1-46&47</a></b></td>         
+    </tr>
+    <tr>
+        <td></td>
+        <td>Garrahy</td>    
+        <td><b><a href="../../assets/demolished-toowong-headstones/15a-2-25-garrahy/15a-2-25-garrahy-headstone.jpg">15a-2-25</a></b></td>         
+    </tr>
+    <tr>
+        <td></td>
+        <td>Crawley</td>
+        <td><b><a href="../../assets/demolished-toowong-headstones/15a-4-11-crawley/15a-4-11-crawley-headstone.jpg">15a-4-11</a></b></td>         
+    </tr>
+    <tr>
+        <td></td>
+        <td>Maynard</td>   
+        <td><b><a href="../../assets/demolished-toowong-headstones/15a-4-26-maynard/15a-4-26-maynard-headstone.jpg">15a-4-26</a></b></td>         
+    </tr>
+    <tr>
+        <td></td>
+        <td>Milliner</td> 
+        <td><b><a href="../../assets/demolished-toowong-headstones/15a-5-9-milliner/15a-5-9-milliner-headstone.jpg">15a-5-9</a></b></td>         
+    </tr>
+    <tr>
+        <td></td>
+        <td>Mahoney</td>
+        <td><b><a href="../../assets/demolished-toowong-headstones/15a-6-20-mahoney/15a-6-20-mahoney-headstone.jpg">15a-6-20</a></b></td>         
+    </tr>
+    <tr>
+        <td></td>
+        <td>Anderson</td>   
+        <td><b><a href="../../assets/demolished-toowong-headstones/15a-9-14-anderson/15a-9-14-anderson-headstone.jpg">15a-9-14</a></b></td>         
+    </tr>    
+
+<!-- WIP Section 16 -->
+
+    <tr>
+        <td></td>
+        <td>Shambrook</td>
+        <td><b><a href="../../assets/demolished-toowong-headstones/16-16-25-shambrook/16-16-25-shambrook-headstone.jpg">16-16-25</a></b></td>         
+    </tr>
+    <tr>
+        <td></td>
+        <td>Frederick</td>
+        <td><b><a href="../../assets/demolished-toowong-headstones/16-17-18-frederick/16-17-18-frederick-headstone.jpg">16-17-18</a></b></td>         
+    </tr>
+    <tr>
+        <td></td>
+        <td>Beier</td> 
+        <td><b><a href="../../assets/demolished-toowong-headstones/16-17-19&20-beier/16-17-19&20-beier-headstone.jpg">16-17-19&20</a></b></td>         
+    </tr>
+    <tr>
+        <td></td>
+        <td>Orr</td>
+        <td><b><a href="../../assets/demolished-toowong-headstones/16-18-24-orr/16-18-24-orr-headstone.jpg">16-18-24</a></b></td>         
+    </tr>
+    <tr>
+        <td></td>
+        <td>Brennan</td> 
+        <td><b><a href="../../assets/demolished-toowong-headstones/16-19-23-brennan/16-19-23-brennan-headstone.jpg">16-19-23</a></b></td>         
+    </tr>
+    <tr>
+        <td></td>
+        <td>Gardner</td>
+        <td><b><a href="../../assets/demolished-toowong-headstones/16-19-25-gardner/16-19-25-gardner-headstone.jpg">16-19-25</a></b></td>         
+    </tr>
+    <tr>
+        <td></td>
+        <td>Steele</td>
+        <td><b><a href="../../assets/demolished-toowong-headstones/16-20-14-steele/16-20-14-steele-headstone.jpg">16-20-14</a></b></td>         
+    </tr>
+    <tr>
+        <td></td>
+        <td>Kelly</td>  
+        <td><b><a href="../../assets/demolished-toowong-headstones/16-23-6-kelly/16-23-6-kelly-headstone.jpg">16-23-6</a></b></td>         
+    </tr>
+    <tr>
+        <td></td>
+        <td>Whitby</td>  
+        <td><b><a href="../../assets/demolished-toowong-headstones/16-26-5&6-whitby/16-26-5&6-whitby-headstone.jpg">16-26-5&6</a></b></td>         
+    </tr>
+    <tr>
+        <td></td>
+        <td>Brewer</td>  
+        <td><b><a href="../../assets/demolished-toowong-headstones/16-26-17-brewer/16-26-17-brewer-headstone.jpg">16-26-17</a></b></td>         
+    </tr>
+    <tr>
+        <td></td>
+        <td>Quincey</td>   
+        <td><b><a href="../../assets/demolished-toowong-headstones/16-26-19-quincey/16-26-19-quincey-headstone.jpg">16-26-19</a></b></td>         
+    </tr>
+    <tr>
+        <td></td>
+        <td>Yarrow</td> 
+        <td><b><a href="../../assets/demolished-toowong-headstones/16-27-11-yarrow/16-27-11-yarrow-headstone.jpg">16-27-11</a></b></td>         
+    </tr>
+    </tr>
+        <tr>
+        <td>Cecelia</td>
+        <td><b><a href="../../research/17-11-11-cecelia-head/" title="Learn more">Head</a></b></td>        
+        <td>17-11-11</td>
+    </tr>
+<!-- Section 24 -->     
+     <tr>
+        <td></td>
+        <td>MacFarlane</td>  
+        <td><b><a href="../../assets/demolished-toowong-headstones/24-4-13&14-macfarlane/24-4-13&14-macfarlane-headstone.jpg">24-4-13&14</a></b></td>         
+    </tr>
+     <tr>
+        <td></td>
+        <td>Palmer</td>   
+        <td><b><a href="../../assets/demolished-toowong-headstones/24-5-1&2-palmer/24-5-1&2-palmer-headstone.jpg">24-5-1&2</a></b></td>         
+    </tr>
+     <tr>
+        <td></td>
+        <td>Ross</td>  
+        <td><b><a href="../../assets/demolished-toowong-headstones/24-7-7&8-ross/24-7-7&8-ross-headstone.jpg">24-7-7&8</a></b></td>         
+    </tr>
+     <tr>
+        <td></td>
+        <td>Volling</td>   
+        <td><b><a href="../../assets/demolished-toowong-headstones/24-8-10-volling/24-8-10-volling-headstone.jpg">24-8-10</a></b></td>         
+    </tr>
+      <tr>
+        <td></td>
+        <td>Leslie</td>    
+        <td><b><a href="../../assets/demolished-toowong-headstones/24-9-14&15-leslie/24-9-14&15-leslie-headstone.jpg">24-9-14&15</a></b></td>         
+    </tr>
+     <tr>
+        <td></td>
+        <td>Illman</td>   
+        <td><b><a href="../../assets/demolished-toowong-headstones/24-12-8-illman/24-12-8-illman-headstone.jpg">24-12-8</a></b></td>         
+    </tr>
+     <tr>
+        <td></td>
+        <td>Wakefield</td>   
+        <td><b><a href="../../assets/demolished-toowong-headstones/24-12-10-wakefield/24-12-10-wakefield-headstone.jpg">24-12-10</a></b></td>         
+    </tr>
+    <tr>
+        <td></td>
+        <td>Kemp</td>     
+        <td><b><a href="../../assets/demolished-toowong-headstones/24-14-19-kemp/24-14-19-kemp-headstone.jpg">24-14-19</a></b></td>         
+    </tr>
+     <tr>
+        <td></td>
+        <td>Kennedy</td>  
+        <td><b><a href="../../assets/demolished-toowong-headstones/24-18-15-kennedy/24-18-15-kennedy-headstone.jpg">24-18-15</a></b></td>         
+    </tr>
+     <tr>
+        <td></td>
+        <td>Robertson</td>   
+        <td><b><a href="../../assets/demolished-toowong-headstones/24-19-3&4-robertson/24-19-3&4-robertson-headstone.jpg">24-19-3&4</a></b></td>         
+    </tr>
+    <tr>
+        <td></td>
+        <td>MacPherson</td> 
+        <td><b><a href="../../assets/demolished-toowong-headstones/24-19-16-macpherson/24-19-16-macpherson-headstone.jpg">24-19-16</a></b></td>         
+    </tr>  
+     <tr>
+        <td></td>
+        <td>Baird</td>   
+        <td><b><a href="../../assets/demolished-toowong-headstones/24-20-8-baird/24-20-8-baird-headstone.jpg">24-20-8</a></b></td>         
+    </tr>               
+ <!-- end of WIP --> 
+  <tbody>
+</table>
