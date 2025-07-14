@@ -26,4 +26,15 @@ Charles Stuart Mein's headstone was demolished in the 1970's as part of the Bris
 >Who died on the 30^th^ June 1890 <br>
 >Aged 49
 
+### Grave Marker
+
+M 507
+
+<!--
+### Learn More
+
+- [Unsightly/Dangerous Grave Report](../../assets/demolished-toowong-headstones/12-11-13-mein/12-11-13-mein-report.jpg)
+
+-->
+
 --8<-- "snippets/add-to-this-story.md"
