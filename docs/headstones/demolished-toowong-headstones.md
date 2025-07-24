@@ -9,7 +9,7 @@ search:
 
 # Demolished Toowong Cemetery Headstones
 
-By April 1975, Toowong Cemetery was full with all plots sold. The Brisbane City Council Health Dept was ordered by the then Mayor to start a project to remove hundreds of family owned headstones and grave surrounds in Toowong, Lutwyche, South Brisbane, Balmoral, and God's Acre Pioneer cemetery. Headstones (most of which just needing weeding) were removed from these cemeteries with the aim to make open parklands.
+By April 1975, Toowong Cemetery was full with all plots sold. The Brisbane City Council Health Dept was ordered by the then Mayor to start a project to remove hundreds of family owned headstones and grave surrounds in Toowong, Lutwyche, South Brisbane, Balmoral, and God's Acre Pioneer cemetery. Headstones were removed from these cemeteries with the aim to make open parklands.
 
 Mayors, soldiers, politicians all fell victim to the clearance. At Toowong Cemetery, headstones were demolished and buried in the canal. The [Toowong Cemetery heritage listing](https://apps.des.qld.gov.au/heritage-register/detail/?id=601773) suggests, "*approximately 1,000 memorials were removed from Toowong*". Intervention in 1979 saw an end to the "beautification scheme". The Cemetery reopened in 1998 with approximately 450 plots for sale. 
 
