@@ -54,7 +54,7 @@ Mayors, soldiers, politicians all fell victim to the clearance. At Toowong Cemet
 
 The table below lists the headstones that were demolished where there is an "Unsightly/Dangerous Grave report". 
 
-Friends of Toowong Cemetery have counted 1039 grave sites that were marked for removal - most were removed.
+Friends of Toowong Cemetery have counted 1039 grave sites that were marked for removal - most were removed but their grave report is lost.
 
 <!--  
 Search the table below to find who you're looking for. 
@@ -67,10 +67,13 @@ Search the table below to find who you're looking for.
 -->
 
 ??? directions "About the data"
+
+    The table has a row per Grave Report. Some Grave Reports have been lost, and although headstones and grave surrounds were removed, there is no entry in the table for these.
     
     **Headstone Location**
 
     - The headstone location is in Portion - Section - Grave format.
+    - A Grave Report may include grave sites in multiple locations. If so, multiple locations are provided in the one entry.
     - Links go to the [Brisbane City Council Memorial Search](https://brisbane.discovereverafter.com). The link is only for one person buried in the grave and may not show all people buried in large grave sites.
 
     **First Name(s)**
