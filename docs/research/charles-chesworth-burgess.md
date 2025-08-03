@@ -10,4 +10,9 @@ hide:
 
 --8<-- "snippets/charles-chesworth-burgess.md"
 
+### Headstone
+
+![Charles Chesworth Burgess headstone](../assets/charles-chesworth-burgess.jpg){ width="40%" }
+
+
 --8<-- "snippets/add-to-this-story.md"
