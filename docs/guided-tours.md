@@ -28,7 +28,7 @@ There's no need to book, just meet under the flagpole in Canon Garland Place at 
 
 ## Upcoming Guided Tours
 
-Our next tour is on **Sunday 3 August 2025** and titled, "**Rich man, poor man**". 
+Our next tour is on **Sunday 7 September 2025** and titled, "**Artists**".
 
 The tour is limited to 20 people. 
 
