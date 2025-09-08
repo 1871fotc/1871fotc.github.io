@@ -8,7 +8,7 @@ hide:
 
 # William Henry Sowray
 
-**22 February 1851 — April 12, 1914**
+**22 February 1851 — 1 December 1912**
 
 --8<-- "snippets/william-henry-sowray.md"
 
