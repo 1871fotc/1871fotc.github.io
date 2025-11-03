@@ -28,7 +28,7 @@ There's no need to book, just meet under the flagpole in Canon Garland Place at 
 
 ## Upcoming Guided Tours
 
-Our next tour is on **Sunday 2 November 2025** and titled, "**Soldiers laid to rest in November**".
+Our next tour is on **Sunday 7 December 2025**.
 
 The tour is limited to 20 people. 
 
