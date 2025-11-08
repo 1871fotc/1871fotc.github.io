@@ -28,7 +28,7 @@ There's no need to book, just meet under the flagpole in Canon Garland Place at 
 
 ## Upcoming Guided Tours
 
-Our next tour is on **Sunday 7 December 2025**.
+Our next tour is on **Sunday 7 December 2025** and titled, "Christmas Shopping in 1877". 🌲🎁🎅🏼
 
 The tour is limited to 20 people. 
 
