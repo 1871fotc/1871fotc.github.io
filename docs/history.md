@@ -262,7 +262,7 @@ On 24 July 2011, 140 years after Governor Blackall was buried, a **[re-enactment
 
 ## 2025 Toowong Cemetery's 150^th^ anniversary
 
-On 5 July 2025, Toowong Cemetery celebrates the 150^th^ anniversary of its official opening in 1875.
+On 5 July 2025, Toowong Cemetery celebrated the 150^th^ anniversary of its official opening in 1875.
 
 Thanks to work by Melissa Wren, Friends of Toowong Cemetery were **[awarded a grant from the Australian Government](assets/documents/veterans-affairs-grant-2025.pdf)** to mark the graves of 42 First World War soldiers buried in the cemetery. 
 
