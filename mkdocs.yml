@@ -180,27 +180,27 @@ plugins:
       draggable: false
       auto_caption: true
       caption_position: bottom
-  - redirects:
-      redirect_maps:
-        'home/home.md': 'index.md'
-        'home/index.md': 'index.md'
-        'walks/news.md': 'index.md'        
-        'fotc/index.md': 'index.md'        
+#  - redirects:
+#      redirect_maps:
+#        'home/home.md': 'index.md'
+#        'home/index.md': 'index.md'
+#        'walks/news.md': 'index.md'        
+#        'fotc/index.md': 'index.md'        
 # set up redirects for renamed pages
 #        'stories/in-their-caring-hands.md': 'stories/nurses-and-doctors.md'
 #        'stories/jewish.md': 'walks/jewish-walk.md'
 #        'stories/jewish-walk.md': 'walks/jewish-walk.md'
 #        'stories/federation-walk.md.md': 'walks/federation-walk.md'
 # set up redirects for deep links
-        'walks/walks.md': 'walks/index.md'
-        'activities/activities.md': 'about/index.md'
-        'obituaries/obituaries.md': 'research/index.md'
-        'publications/publications.md': 'about/publications.md'
-        'membership/membership.md': 'about/index.md'
-        'links/links.md': 'research/index.md'
-        'contactus/contactus.md': 'contact.md'
+#        'walks/walks.md': 'walks/index.md'
+#        'activities/activities.md': 'about/index.md'
+#        'obituaries/obituaries.md': 'research/index.md'
+#        'publications/publications.md': 'about/publications.md'
+#        'membership/membership.md': 'about/index.md'
+#        'links/links.md': 'research/index.md'
+#        'contactus/contactus.md': 'contact.md'
 # redirect to bitly to count QR code scans
-        'hello.md': 'https://bit.ly/3wQYQxe'
+#        'hello.md': 'https://bit.ly/3wQYQxe'
 
 # Page tree - only 2 levels allowed
 nav:
