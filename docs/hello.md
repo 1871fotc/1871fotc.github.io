@@ -5,6 +5,8 @@ robots:
   nofollow: true
 search:
   exclude: true
+template: redirect.html
+location: https://bit.ly/3wQYQxe  
 ---
 
 # QR code scanned
