@@ -14,12 +14,12 @@ search:
 
 **Hi 👋 great to see you here. We'd love to help.**
 
+<!--
 We use forms to help you:
 
 - **[provide feedback on this site](https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform)**
 - **[contribute a story](https://forms.gle/U94dcEj6RihM9BPq9)**
 - **[buy the Toowong Cemetery 140th Anniversary DVD](https://forms.gle/vHhV1rYCoPeRPPBSA)**
-<!--
 - - **[apply to join Friends of Toowong Cemetery](https://forms.gle/iwFKCnpNYRTSeHLb8)**
 -->
 
