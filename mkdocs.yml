@@ -42,8 +42,6 @@ theme:
       example: fontawesome/regular/compass
   custom_dir: overrides
   features:
-# instant and announce seem to conflict with was this page helpful. Pick one. Works on Material for Mkdocs - look there. 
-#    - announce.dismiss
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
@@ -53,7 +51,6 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.indexes
-#    - navigation.footer
 #    - search.highlight
     - search.suggest
     - content.code.annotate
@@ -126,15 +123,9 @@ markdown_extensions:
   - abbr
   - admonition
   - pymdownx.details
-  - pymdownx.critic
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
-#  - pymdownx.emoji:
-#      emoji_index: !!python/name:materialx.emoji.twemoji
-#      emoji_generator: !!python/name:materialx.emoji.to_svg
+# Needed for Grids
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -157,17 +148,11 @@ extra_javascript:
 # Plugins
 plugins:
   - search
-#  - search:
-#      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
 # - tags:
 #      tags_file: tags.md
 #      tags_allowed:
 #        - Freemasons
 #        - Ancient Order of Foresters
-#  - optimize:
-#      optimize_png: false
-#      optimize_jpg: false
-#      optimize_jpg_quality: 75
   - social:
       cards_layout: default/variant
   - glightbox:
@@ -180,27 +165,6 @@ plugins:
       draggable: false
       auto_caption: true
       caption_position: bottom
-#  - redirects:
-#      redirect_maps:
-#        'home/home.md': 'index.md'
-#        'home/index.md': 'index.md'
-#        'walks/news.md': 'index.md'        
-#        'fotc/index.md': 'index.md'        
-# set up redirects for renamed pages
-#        'stories/in-their-caring-hands.md': 'stories/nurses-and-doctors.md'
-#        'stories/jewish.md': 'walks/jewish-walk.md'
-#        'stories/jewish-walk.md': 'walks/jewish-walk.md'
-#        'stories/federation-walk.md.md': 'walks/federation-walk.md'
-# set up redirects for deep links
-#        'walks/walks.md': 'walks/index.md'
-#        'activities/activities.md': 'about/index.md'
-#        'obituaries/obituaries.md': 'research/index.md'
-#        'publications/publications.md': 'about/publications.md'
-#        'membership/membership.md': 'about/index.md'
-#        'links/links.md': 'research/index.md'
-#        'contactus/contactus.md': 'contact.md'
-# redirect to bitly to count QR code scans
-#        'hello.md': 'https://bit.ly/3wQYQxe'
 
 # Page tree - only 2 levels allowed
 nav:
