@@ -21,6 +21,10 @@ Three children, William Henry Roberts, Peter McCauley, and Jane Pittard were ori
 
 *<small>[Map of Brisbane, 1844](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/tqqf2h/alma99184003713402061) Map of Brisbane drawn by C. F. Gerler. This basic map has a numbered list of 48 locations in the bottom right corner. Number 48 is "The First Tombstone (two graves)" — State Library of Queensland. </small>*
 
+![H. F. Smith Work of Art](../assets/soldiers-childrens-graves-painting.jpg){ width="100%"}
+
+*<small>[H. F. Smith Work of Art](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1dejkfd/alma99241753402061) Painting by H. F. Smith depicting the graves of soldiers' children at North Quay, with the Brisbane River in the middle and far distance — State Library of Queensland. </small>*
+
 ![Pioneer Children's Graves on the banks of the Brisbane River ](../assets/children-on-bank.jpg){ width="100%" }  
 
 *<small>Pioneer Children's Graves (Riverbank). Approximately at the location on the Riverbank in-between Herschell and Tank Streets. Source unknown.</small>*
