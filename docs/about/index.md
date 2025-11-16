@@ -37,7 +37,8 @@ The Friends of Toowong Cemetery have:
 - **commemorated the [140^th^ Anniversary of the cemetery](140-commemoration.md)**. We received an Award from the National Trust of Queensland for our work.
 - provided stories for **[information signs](information-signs.md)** at significant grave sites.
 - **renamed cemetery roads** after notable people buried nearby, added the road names to [Google Maps](https://goo.gl/maps/7VX36iDLFNnShN6D8), [Apple Maps](https://maps.apple.com/?ll=-27.474621,152.982575&spn=0.005187,0.008217&t=m), and improved the <a href="../../assets/toowong-cemetery-map-large.jpg" target="_blank">Toowong Cemetery map</a> to make it easier to for you to find your way around the cemetery.
-- **[published books, a DVD](publications.md)**, and this website.  
+- **[published books, a DVD](publications.md)**, and this website.
+- **[recognised 42 soldiers in unmarked graves](https://minister.dva.gov.au/news-and-media/minister/recognition-and-respect-their-final-resting-place)** with help from the Australian Government.  
 
 ![Federation Pavilion](../assets/federation-pavilion.jpg)
 
@@ -49,14 +50,7 @@ Currently we are:
 
 - planning to erect an **[honour board](https://youtu.be/mVfixEzUpwk)** at the cemetery's main entrance to commemorate people who have served their nation in military uniform and now rest in Toowong Cemetery.
 - **photographing every headstone** in the cemetery.
-- **recognising soldiers in unmarked graves** - we've been successful in getting **[grave markers for 42 soldiers](https://minister.dva.gov.au/news-and-media/minister/recognition-and-respect-their-final-resting-place)** in 2024/25.
 
-<!-- 
-## What have we got planned? 
-
-With the **150^th^ Anniversary** of the opening of Toowong Cemetery on **Saturday 5 July 2025** we're planning a very special event. More will be revealed closer to the day.
-
--->
 
 ## Join in
 
