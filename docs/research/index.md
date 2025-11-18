@@ -20,11 +20,11 @@ Search **[Trove](https://trove.nla.gov.au)** to read obituaries and other newspa
 
 Each list item will give you a direct link to the newspaper article as well as the grave number.
 
-- **[Obituaries A - E](https://trove.nla.gov.au/list?id=4457)**
-- **[Obituaries F - J](https://trove.nla.gov.au/list?id=4461)**
-- **[Obituaries K - N](https://trove.nla.gov.au/list?id=4454)**
-- **[Obituaries O - R](https://trove.nla.gov.au/list?id=4453)**
-- **[Obituaries S - Z](https://trove.nla.gov.au/list?id=4430)**
+- **[Obituaries A – E](https://trove.nla.gov.au/list?id=4457)**
+- **[Obituaries F – J](https://trove.nla.gov.au/list?id=4461)**
+- **[Obituaries K – N](https://trove.nla.gov.au/list?id=4454)**
+- **[Obituaries O – R](https://trove.nla.gov.au/list?id=4453)**
+- **[Obituaries S – Z](https://trove.nla.gov.au/list?id=4430)**
 
 ## Australian Dictionary of Biography
 
