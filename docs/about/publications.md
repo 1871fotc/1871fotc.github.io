@@ -7,9 +7,9 @@ description: Books and DVDs we've published that your can read, watch, borrow or
 
 Friends of Toowong Cemetery have published the following resources:
     
-## Colonel Samuel Wensley Blackall: 1809-1871
+## Colonel Samuel Wensley Blackall: 1809–1871
 
-***[Colonel Samuel Wensley Blackall: 1809-1871](../assets/documents/samuel-blackall.pdf)***, published in 2011, celebrates the 140^th^ anniversary of the first year of operation of the Brisbane General Cemetery, now known as the Toowong Cemetery, and the internment of the first person buried there, Governor Samuel Wensley Blackall.
+***[Colonel Samuel Wensley Blackall: 1809–1871](../assets/documents/samuel-blackall.pdf)***, published in 2011, celebrates the 140^th^ anniversary of the first year of operation of the Brisbane General Cemetery, now known as the Toowong Cemetery, and the internment of the first person buried there, Governor Samuel Wensley Blackall.
 
 
 ## Extraordinary Stories of Ordinary People
