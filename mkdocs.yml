@@ -4,7 +4,7 @@ site_url: https://www.fotc.au
 site_author: Friends of Toowong Cemetery Association Inc.
 site_description: >-
   Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.
-copyright: © 1992 — 2025 Friends of Toowong Cemetery Association Inc., unless noted otherwise. 
+copyright: © 2025 Friends of Toowong Cemetery Association Inc., unless noted otherwise. 
 
 # Watch these extra directories for changes 
 watch:
@@ -148,11 +148,15 @@ extra_javascript:
 # Plugins
 plugins:
   - search
+#  - search:
+#      lang: en
+#      separator: '[\s,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
 # - tags:
 #      tags_file: tags.md
 #      tags_allowed:
 #        - Freemasons
 #        - Ancient Order of Foresters
+# Doesn't work locally
   - social:
       cards_layout: default/variant
   - glightbox:
@@ -255,8 +259,8 @@ nav:
   - Research:
     - Research Resources: research/index.md
     - Find a Grave: research/find-a-grave.md
-    - Burial Registers: research/burial-register.md
     - Find a Story: research/find-a-story.md
+    - Burial Registers: research/burial-register.md
 #    - Paddington Cemetery: research/paddington-cemetery.md
     - Cemetery Maps: research/historic-cemetery-maps.md
     - Real-Estate Maps: research/historic-real-estate-maps.md
