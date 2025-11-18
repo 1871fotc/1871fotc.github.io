@@ -48,7 +48,7 @@ At Toowong Cemetery you can:
 
 ## Visit Toowong Cemetery
 
-Toowong Cemetery is open everyday from 6am-6pm. Check the Brisbane City Council for [Office opening hours](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#officehours).
+Toowong Cemetery is open everyday from 6am–6pm. Check the Brisbane City Council for [Office opening hours](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#officehours).
 
 <figure markdown>
   ![Toowong Cemetery main entrance](assets/main-entrance.jpg){ class="full-width" }
