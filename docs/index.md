@@ -29,7 +29,7 @@ On this site you'll find information about:
 - **[how to find a grave in Toowong Cemetery](research/find-a-grave.md)** and a **[Toowong Cemetery map](index.md#toowong-cemetery-map)**.
 - **[headstones](headstones/index.md)** including **[Queensland's oldest headstones](headstones/queenslands-oldest-headstones.md)**, and our **[archaeological digs](headstones/archaeological-digs.md)**.
 - **[research resources](research/index.md)** including an **[index of people in our stories](research/find-a-story.md)**.
-- **[Friends of Toowong Cemetery](about/index.md)** - what we do, what we've done, and how to join in.
+- **[Friends of Toowong Cemetery](about/index.md)** – what we do, what we've done, and how to join in.
  
 The cemetery is maintained by the **[Brisbane City Council](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery)**.
 
@@ -52,7 +52,7 @@ Toowong Cemetery is open everyday from 6am-6pm. Check the Brisbane City Council 
 
 <figure markdown>
   ![Toowong Cemetery main entrance](assets/main-entrance.jpg){ class="full-width" }
-  <figcaption markdown>The Toowong Cemetery Main Entrance was designed by the Colonial Architect **[F.D.G. Stanley](research/francis-drummond-grenville-stanley.md)** and erected in 1873-1874</figcaption>
+  <figcaption markdown>The Toowong Cemetery Main Entrance was designed by the Colonial Architect **[F.D.G. Stanley](research/francis-drummond-grenville-stanley.md)** and erected in 1873–1874</figcaption>
 </figure>
 
 ### Driving
@@ -92,7 +92,7 @@ If you enter the main entrance, you'll find:
 - **Canon Garland Place** named after **[Canon David John Garland][Garland]**. The Flagpole here is the departure point for our **[guided heritage tours](guided-tours.md)**.
 - a **Museum** operated by the Friends of Toowong Cemetery, and opened in conjunction with our guided heritage tours
 - the **[Office](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#officehours)**, where Brisbane City Council staff can answer your enquiries and help locate graves and memorial sites.
-- **Toilets** - the only ones available in the cemetery and are not wheel-chair accessible.
+- **Toilets** – the only ones available in the cemetery and are not wheel-chair accessible.
 
 <!--  LAVATORY BUILDING - https://trove.nla.gov.au/newspaper/article/178409657?searchTerm=%22Brisbane%20general%20cemetery%22%20trustee -->
 
@@ -171,14 +171,14 @@ Combine your visit to Toowong Cemetery with a visit to other nearby attractions:
     - [Japanese Garden](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/botanic-gardens-in-brisbane/brisbane-botanic-gardens-mt-coot-tha/attractions/japanese-garden).
     - [Sir Thomas Brisbane Planetarium](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/sir-thomas-brisbane-planetarium). 
     - [Australian Plant Communities](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/brisbane-botanic-gardens-mt-coot-tha/attractions/australian-plant-communities).
-- [Mt Coot‑tha Lookout](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/mt-coot-tha-precinct/mt-coot-tha-attractions/mt-coot-tha-lookout) - catch the [471 bus](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/471/outbound/) from the Mt Coot‑tha Botanic Gardens.
+- [Mt Coot‑tha Lookout](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/mt-coot-tha-precinct/mt-coot-tha-attractions/mt-coot-tha-lookout) – catch the [471 bus](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/471/outbound/) from the Mt Coot‑tha Botanic Gardens.
 - [Anzac Park](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/parks-by-suburb/toowong-parks) a long walk via the Mt Coot‑tha Botanic Gardens, then across [Canon Garland Overpass](https://garlandmemorial.com/2022/06/03/canon-garland-overpass/) into Anzac Park.
-- [Mt Coot‑tha Reserve](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/mt-coot-tha-precinct/mt-coot-tha-reserve) - drive to picnic areas, bush walks, or mountain bike riding. J. C. Slaughter Falls and Simpson Falls are our favourites.
-- [Mt Coot‑tha Events](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/mt-coot-tha-precinct/mt-coot-tha-precinct-events) - there's always something happening around Mt Coot-tha.
+- [Mt Coot‑tha Reserve](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/mt-coot-tha-precinct/mt-coot-tha-reserve) – drive to picnic areas, bush walks, or mountain bike riding. J. C. Slaughter Falls and Simpson Falls are our favourites.
+- [Mt Coot‑tha Events](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/mt-coot-tha-precinct/mt-coot-tha-precinct-events) – there's always something happening around Mt Coot-tha.
 
 <figure markdown>
   ![Their Royal Highnesses, the Duke and Duchess of York enjoy a morning at Mt. Coot-tha, April 1927](assets/duke-and-duchess-of-york-mt-coot-tha-adjusted.jpg){ class="full-width" width="70%"}
-  <figcaption markdown>[Their Royal Highnesses, the Duke and Duchess of York enjoy a morning at Mt. Coot-tha, April 1927](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218197470002061) - State Library of Queensland. The Duke of York was later King George VI, and the Duchess of York was later Queen Elizabeth the Queen Mother.</figcaption>
+  <figcaption markdown>[Their Royal Highnesses, the Duke and Duchess of York enjoy a morning at Mt. Coot-tha, April 1927](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218197470002061) — State Library of Queensland. The Duke of York was later King George VI, and the Duchess of York was later Queen Elizabeth the Queen Mother.</figcaption>
 </figure>
 
 
