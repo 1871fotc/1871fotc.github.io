@@ -31,7 +31,7 @@ Burial dates overlap across some Burial Registers.
 
 [Queensland State Archives, Item ID ITM867348](https://www.archivessearch.qld.gov.au/items/ITM867348 "View the archive record")
 
-- **Part 1: [3/1/1871 - 22/06/1880](https://www.archivessearch.qld.gov.au/api/download_file/DR142399 "Download the file" )** - *Queensland State Archives, Item Representation ID DR142399*
+- **Part 1: [3/1/1871 - 22/6/1880](https://www.archivessearch.qld.gov.au/api/download_file/DR142399 "Download the file" )** - *Queensland State Archives, Item Representation ID DR142399*
 - **Part 2: [26/6/1880 - 9/1/1885](https://www.archivessearch.qld.gov.au/api/download_file/DR142400 "Download the file" )** - *Queensland State Archives, Item Representation ID DR142400*
 - **Part 3: [10/1/1885 - 4/7/1888](https://www.archivessearch.qld.gov.au/api/download_file/DR142401 "Download the file" )** - *Queensland State Archives, Item Representation ID DR142401*
 - **Part 4: [4/7/1888 - 30/12/1891](https://www.archivessearch.qld.gov.au/api/download_file/DR142402 "Download the file" )** - *Queensland State Archives, Item Representation ID DR142402*
