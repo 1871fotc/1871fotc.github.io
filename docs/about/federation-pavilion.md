@@ -39,7 +39,7 @@ The Federation Pavilion commemorates the contribution of the delegates who atten
 
 ![Federation Pavilion Story Stone - 2](../assets/federation-pavilion-stone-2.jpg)
 
-> Sir Samuel Walker Griffith (1845-1920) was born in Wales and migrated to Australia as a child. He was a brilliant student and at the age of 18 unsuccessfully applied for the position of Ipswich Grammar School Headmaster, having graduated from Sydney University with Honours in maths and classics. <br>
+> Sir Samuel Walker Griffith (1845–1920) was born in Wales and migrated to Australia as a child. He was a brilliant student and at the age of 18 unsuccessfully applied for the position of Ipswich Grammar School Headmaster, having graduated from Sydney University with Honours in maths and classics. <br>
 > <br>
 > He was elected to the Legislative Assembly in 1872, and was Attorney General and twice Premier of Queensland. He was Vice President of the National Australasian Convention and Chairman of the Drafting Committee. His political career included both rivalry with the conservative Premier Sir Thomas McIlwrath (1835-1907) and a period of government in coalition with him, in 1893. <br>
 > <br>
