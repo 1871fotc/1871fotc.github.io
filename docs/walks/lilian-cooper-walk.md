@@ -187,13 +187,13 @@ https://vimeo.com/176117452
 
 ???+ directions "Directions" 
 
-    Immediately back across the road stands a monument consisting of a large cross draped in a number of strands of beads. These are regularly placed there by those who come to remember Dr Lilian Cooper.
+    Immediately back across the road stands a monument consisting of a large cross draped in a number of strands of beads. These are regularly placed there by those who come to remember Dr. Lilian Cooper.
     
-    ![Dr Lilian Cooper's headstone](../assets/lilian-cooper.jpg){ width="15%" } 
+    ![Dr. Lilian Cooper's headstone](../assets/lilian-cooper.jpg){ width="15%" } 
 
 --8<-- "snippets/lilian-cooper.md"
 
-![Doctor Lilian Violet Cooper](../assets/lilian-voilet-cooper.jpg){ width="31%" }  ![Dr Lilian Voilet Cooper and Miss Josephine Bedford in a horsedrawn buggy](../assets/lilian-cooper-and-josephine-bedford.jpg){ width="60.15%" } 
+![Doctor Lilian Violet Cooper](../assets/lilian-voilet-cooper.jpg){ width="31%" }  ![Dr. Lilian Voilet Cooper and Miss Josephine Bedford in a horsedrawn buggy](../assets/lilian-cooper-and-josephine-bedford.jpg){ width="60.15%" } 
 
 *<small>[Doctor Lilian Violet Cooper](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218595360002061) - State Library of Queensland. </small>* <br>
 *<small>[Two friends seated in a horsedrawn buggy, Brisbane, ca. 1900](http://onesearch.slq.qld.gov.au/permalink/f/1oppkg1/slq_alma21272255460002061). Miss Josephine Bedford (left) and Dr. Lilian Cooper - State Library of Queensland </small>* 
@@ -210,7 +210,7 @@ https://vimeo.com/176117452
 
 ???+ directions "Directions" 
 
-    From here continue along Dr Lilian Cooper Drive past the Richer Street entrance to where the trees are standing along the right side of the road. At the third tree locate the grave of Kramer.  Heading along this row and slightly down the hill, three graves in, to the left is the grave of Frederic Charles Urqhart.
+    From here continue along Dr. Lilian Cooper Drive past the Richer Street entrance to where the trees are standing along the right side of the road. At the third tree locate the grave of Kramer.  Heading along this row and slightly down the hill, three graves in, to the left is the grave of Frederic Charles Urqhart.
     
     ![Frederic Charles Urquhart's headstone](../assets/frederic-charles-urquhart-headstone.jpg){ width="15%" }
 

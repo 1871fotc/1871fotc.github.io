@@ -15,13 +15,13 @@ hide:
 
 --8<-- "snippets/lilian-cooper.md"
 
-![Dr Lilian Violet Cooper and Miss Josephine Bedford in a horsedrawn buggy](../assets/lilian-cooper-and-josephine-bedford.jpg){ width="70%" }  
+![Dr. Lilian Violet Cooper and Miss Josephine Bedford in a horsedrawn buggy](../assets/lilian-cooper-and-josephine-bedford.jpg){ width="70%" }  
 
-*<small>[Two friends seated in a horsedrawn buggy, Brisbane, ca. 1900](http://onesearch.slq.qld.gov.au/permalink/f/1oppkg1/slq_alma21272255460002061). Miss Josephine Bedford (left) and Dr. Lilian Cooper, the first registered female doctor in Queensland. Dr Cooper made house calls in a horse and sulky by day and a bicycle by night. Her surgery was in George Street, Brisbane. - State Library of Queensland </small>* 
+*<small>[Two friends seated in a horsedrawn buggy, Brisbane, ca. 1900](http://onesearch.slq.qld.gov.au/permalink/f/1oppkg1/slq_alma21272255460002061). Miss Josephine Bedford (left) and Dr. Lilian Cooper, the first registered female doctor in Queensland. Dr. Cooper made house calls in a horse and sulky by day and a bicycle by night. Her surgery was in George Street, Brisbane. - State Library of Queensland </small>* 
 
 ### Headstone
 
-![Dr Lilian Violet Cooper's headstone](../assets/lilian-cooper.jpg){ width="25%" } ![Dr Lilian Violet Cooper plaque](../assets/lilian-cooper-plaque.jpg){ width="59.25%" }
+![Dr. Lilian Violet Cooper's headstone](../assets/lilian-cooper.jpg){ width="25%" } ![Dr. Lilian Violet Cooper plaque](../assets/lilian-cooper-plaque.jpg){ width="59.25%" }
 
 ### Learn more 
 

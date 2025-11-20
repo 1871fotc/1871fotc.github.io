@@ -41,7 +41,7 @@
     {"@type": "Person","name": "William Forgan Smith","sameAs": "https://en.wikipedia.org/wiki/William_Forgan_Smith"},
     {"@type": "Person","name": "Manuel Richard Hornibrook","sameAs": "https://en.wikipedia.org/wiki/Manuel_Hornibrook"},
     {"@type": "Person","name": "William Robert Black","sameAs": "https://en.wikipedia.org/wiki/William_Robert_Black"},
-    {"@type": "Person","name": "Dr Lilian Cooper","sameAs": "https://en.wikipedia.org/wiki/Lilian_Violet_Cooper"},
+    {"@type": "Person","name": "Dr. Lilian Cooper","sameAs": "https://en.wikipedia.org/wiki/Lilian_Violet_Cooper"},
     {"@type": "Person","name": "Frederic Charles Urquhart","sameAs": "https://en.wikipedia.org/wiki/Frederic_Urquhart#Administrator_of_the_Northern_Territory"}
   ]
 }

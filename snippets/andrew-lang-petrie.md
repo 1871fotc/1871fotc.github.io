@@ -40,7 +40,7 @@ He was elected a member of the Toombul Divisional Board and held the position fo
 
     - https://www.fotc.au/research/andrew-lang-petrie/
     - https://trove.nla.gov.au/newspaper/article/179319365?searchTerm=monumental%20mason
-    - https://trove.nla.gov.au/newspaper/article/21116002?searchTerm=monumental%20mason - Dr Rowe
+    - https://trove.nla.gov.au/newspaper/article/21116002?searchTerm=monumental%20mason - Dr. Rowe
     - https://www.flickr.com/photos/11000366@N02/6464581535
     - https://www.flickr.com/photos/11000366@N02/albums/72157604627922580
     - [From the OGA President - St Margaret's Anglican Girls School](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj4ru7OvKX8AhUD7zgGHYRwALMQFnoECEcQAQ&url=https%3A%2F%2Fwww.stmargarets.qld.edu.au%2FArticleDocuments%2F394%2FOGA%2520Newsletter_Issue_2_2014.pdf.aspx&usg=AOvVaw3Zy8TDuGgYSY__F4WmvR5N) - The name comes from the Maroochy Aboriginal dialect combining ‘mooloom’ (shady tree) with ‘burram’ (parrot).

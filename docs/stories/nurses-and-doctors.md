@@ -82,13 +82,13 @@ Mary and her friend, Annie Griffiths, shared a house called *Garton* in Terrace 
 
 ## Lilian Violet Cooper and Mary Josephine Bedford <small>[(8‑69‑13/14)](https://brisbane.discovereverafter.com/profile/31754769 "Go to Memorial Information" )</small>
 
-Dr Lilian Cooper was the first woman to practise medicine in Queensland. She studied medicine at the London School of Medicine for Women and obtained an MD from Durham. While studying there, Lilian met and shared lodgings with Mary Bedford who was to become her lifelong companion. 
+Dr. Lilian Cooper was the first woman to practise medicine in Queensland. She studied medicine at the London School of Medicine for Women and obtained an MD from Durham. While studying there, Lilian met and shared lodgings with Mary Bedford who was to become her lifelong companion. 
 
-Dr Cooper commenced private practise in Brisbane in 1891 at The Mansions, in George Street. She was a great advocate of sterilisation and the use of protective clothing during surgery. Lilian died on 19 August 1947 aged 86. Mary Bedford died in 1955. Mt Olivet Hospital stands on the site of their Main St home at Kangaroo Point.
+Dr. Cooper commenced private practise in Brisbane in 1891 at The Mansions, in George Street. She was a great advocate of sterilisation and the use of protective clothing during surgery. Lilian died on 19 August 1947 aged 86. Mary Bedford died in 1955. Mt Olivet Hospital stands on the site of their Main St home at Kangaroo Point.
 
-![Dr Lilian Voilet Cooper and Miss Josephine Bedford in a horsedrawn buggy](../assets/lilian-cooper-and-josephine-bedford.jpg){ width="70%" }  
+![Dr. Lilian Voilet Cooper and Miss Josephine Bedford in a horsedrawn buggy](../assets/lilian-cooper-and-josephine-bedford.jpg){ width="70%" }  
 
-*<small>[Two friends seated in a horsedrawn buggy, Brisbane, ca. 1900](http://onesearch.slq.qld.gov.au/permalink/f/1oppkg1/slq_alma21272255460002061). Miss Josephine Bedford (left) and Dr. Lilian Cooper. Dr Cooper made house calls in a horse and sulky by day and a bicycle by night. Her surgery was in George Street, Brisbane. - State Library of Queensland </small>* 
+*<small>[Two friends seated in a horsedrawn buggy, Brisbane, ca. 1900](http://onesearch.slq.qld.gov.au/permalink/f/1oppkg1/slq_alma21272255460002061). Miss Josephine Bedford (left) and Dr. Lilian Cooper. Dr. Cooper made house calls in a horse and sulky by day and a bicycle by night. Her surgery was in George Street, Brisbane. - State Library of Queensland </small>* 
 
 --8<-- "snippets/lillian-leitch.md"
 

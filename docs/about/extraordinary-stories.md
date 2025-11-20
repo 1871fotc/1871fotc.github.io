@@ -320,7 +320,7 @@ Beenleigh before moving to Toowong, where he died in 1905. He had nine children,
 
 ### Acknowledgement
 
-This story was contributed by Dr Bill Kitson.
+This story was contributed by Dr. Bill Kitson.
 
 --- 
 
@@ -332,7 +332,7 @@ This story was contributed by Dr Bill Kitson.
 
 <!-- 10 September 1834 - 8 March 1912 -->
 
-John Melville was born at Boreham Wood, Hertfordshire, England on the 10^th^ of September 1834. In 1848 he came with his parents under the sponsorship of Dr John Dunmore Lang, to Queensland. They left England in the ship Fortitude on the 4th of September arriving in Moreton Bay during January 1849. In 1851 when the gold rush started in Victoria, John went to try his luck but returned to Brisbane at Christmas 1854 to visit his family. He then met Sir (then Mr) A. C. Gregory and was asked to join his Great Northern exploration party for the purpose of exploring the Victoria and Albert Rivers, an invitation which he accepted.
+John Melville was born at Boreham Wood, Hertfordshire, England on the 10^th^ of September 1834. In 1848 he came with his parents under the sponsorship of Dr. John Dunmore Lang, to Queensland. They left England in the ship Fortitude on the 4th of September arriving in Moreton Bay during January 1849. In 1851 when the gold rush started in Victoria, John went to try his luck but returned to Brisbane at Christmas 1854 to visit his family. He then met Sir (then Mr) A. C. Gregory and was asked to join his Great Northern exploration party for the purpose of exploring the Victoria and Albert Rivers, an invitation which he accepted.
 
 The party consisted of 18 members, including Augustus C. Gregory as Commander, his brother, H.C. Gregory as Assistant Commander and Ferdinand von Muller, who was a botanist.
 

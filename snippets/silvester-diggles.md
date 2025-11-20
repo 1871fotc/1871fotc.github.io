@@ -12,6 +12,6 @@ Silvester Diggles died on the 21^st^ of March 1880 aged 63 years and 2 months, l
 
 ### Acknowledgement
 
-This story was contributed by Dr Rod Fisher.
+This story was contributed by Dr. Rod Fisher.
 
 Note the headstone has been removed. 

@@ -81,7 +81,7 @@ Marie Theresa Haly, known as Minnie, was born at Tamrookum, Queensland, on 13 Se
 
 The couple had four sons and two daughters. The Lightoller's six children were Charles Haly (1880-1881), George Henry Standish (1881-1944), Cyril Haly (1882-1885), William Claude (1884-1948), Minnie Rose (1886-1911) and Lizzie Kate (1887-1949). 
 
-The family resided in Ipswich until Dr Lightoller travelled to Europe from March 1897 until December 1899. On his return the Lightoller family settled into *[Palmarosa](https://apps.des.qld.gov.au/heritage-register/detail/?id=600219)*, Breakfast Creek. By mid 1899 the Lightollers had moved into *Highlands*, Albion. Minnie died at her residence on 9 August 1924.
+The family resided in Ipswich until Dr. Lightoller travelled to Europe from March 1897 until December 1899. On his return the Lightoller family settled into *[Palmarosa](https://apps.des.qld.gov.au/heritage-register/detail/?id=600219)*, Breakfast Creek. By mid 1899 the Lightollers had moved into *Highlands*, Albion. Minnie died at her residence on 9 August 1924.
 
 <!-- TODO seems to conflict with https://apps.des.qld.gov.au/heritage-register/detail/?id=600219 -->
 

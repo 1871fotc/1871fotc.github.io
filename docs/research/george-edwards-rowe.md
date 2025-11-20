@@ -1,6 +1,6 @@
 ---
 title: George Edwards Rowe
-description: Rev Dr George Rowe helped countless numbers of poor, starving and destitute people
+description: Rev. Dr. George Rowe helped countless numbers of poor, starving and destitute people
 hide:
   - toc
   - navigation 

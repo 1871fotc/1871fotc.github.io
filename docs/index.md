@@ -138,7 +138,7 @@ Some cemetery road names have recently been changed to the names of notable peop
 | New Road Name                              | Old Road Name | Notes                                                                |
 | :----------                                | :--------     | :---------                                                           |
 | **[Walter Hill][Walter Hill]** Drive       | Boundary Road | running parallel to Mt Coot‑tha Road                                 |
-| **[Dr Lilian Cooper][Cooper]** Drive       | Boundary Road | running parallel to Richer Street                                    |
+| **[Dr. Lilian Cooper][Cooper]** Drive       | Boundary Road | running parallel to Richer Street                                    |
 | Pride of Erin Drive                        | Boundary Road | running parallel to Birdwood Terrace                                 |
 | Francis Forde Avenue                       | Boundary Road | running parallel to Birdwood Terrace <br>closest to Frederick Street |
 | **[Peter Jackson][Jackson]** Parade        | Boundary Road | running parallel to Frederick Street <br>furthest from the main entrance |
