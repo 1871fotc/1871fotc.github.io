@@ -123,7 +123,9 @@ markdown_extensions:
   - abbr
   - admonition
   - pymdownx.details
-  - pymdownx.snippets
+  - pymdownx.snippets:
+      auto_append:
+        - snippets/abbreviations.md
   - pymdownx.superfences
 # Needed for Grids
   - pymdownx.emoji:
