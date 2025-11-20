@@ -4,4 +4,4 @@ Described by contemporary J. B. Fewings as *“the father of Toowong”*, Richar
 
 ![View of Burns Road, Toowong, Brisbane at the intersection of High Street](../assets/burns-road-toowong-ca1910.jpg){ width="50%" }
 
-*<small>[View of Burns Road, Toowong, Brisbane at the intersection of High Street](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220116110002061) ca 1910. The second St. Thomas' Anglican Church is in the background. It replaced an 1865 timber building on another site. - State Library of Queensland </small>*
+*<small>[View of Burns Road, Toowong, Brisbane at the intersection of High Street](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220116110002061) ca 1910. The second St. Thomas' Anglican Church is in the background. It replaced an 1865 timber building on another site. — State Library of Queensland </small>*

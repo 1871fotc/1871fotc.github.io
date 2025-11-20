@@ -5,5 +5,5 @@
 
 ![Crowd gathered at the Camp Mountain railway disaster, 1947](../assets/camp-hill-crash-2.jpg){ width="47%" }  ![Rescue workers remove a body from a railway carriage at Camp Mountain, 1947](../assets/camp-hill-crash-1.jpg){ width="47.1%" } 
 
-*<small>[Crowd gathered at the Camp Mountain railway disaster, 1947](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218120630002061) - State Library of Queensland </small>*  <br>
-*<small>[Rescue workers remove a body from a railway carriage at Camp Mountain, 1947](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218105740002061). A crowd of people observe as a body is carried on a stretcher from the wreckage by rescue workers. The picnic train organised by the Customs and Excise department's social club, left Brisbane with nearly 500 women and children at 8.55 am. - State Library of Queensland </small>* 
+*<small>[Crowd gathered at the Camp Mountain railway disaster, 1947](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218120630002061) — State Library of Queensland </small>*  <br>
+*<small>[Rescue workers remove a body from a railway carriage at Camp Mountain, 1947](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218105740002061). A crowd of people observe as a body is carried on a stretcher from the wreckage by rescue workers. The picnic train organised by the Customs and Excise department's social club, left Brisbane with nearly 500 women and children at 8.55 am. — State Library of Queensland </small>* 

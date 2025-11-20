@@ -10,4 +10,4 @@ Mrs. Kingsbury, for eight years, occupied the position of president of the Natio
 
 ![Mrs J. J. Kingsbury](../assets/elizabeth-jane-kingsbury.jpg){ width="40%" }
 
-*<small>[Mrs J. J. Kingsbury](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218947160002061) - State Library of Queensland </small>*
+*<small>[Mrs J. J. Kingsbury](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218947160002061) — State Library of Queensland </small>*

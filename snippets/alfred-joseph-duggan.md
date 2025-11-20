@@ -4,7 +4,7 @@ Alfred Joseph Duggan was an assistant to Mr. Trouton, a chemist. The Chemist sho
 
 ![Queen Street, looking north from George Street, Brisbane, ca. 1900](../assets/queen-and-george-street-ca1900.jpg){ width="82%" } 
 
-*<small>[Queen Street, looking north from George Street, Brisbane, ca. 1900](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220189140002061) - State Library of Queensland</small>*
+*<small>[Queen Street, looking north from George Street, Brisbane, ca. 1900](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220189140002061) — State Library of Queensland</small>*
 
 
 On Thursday, 13 November 1884, Alfred was riding his Penny Farthing bicycle along North Quay when he fell and injured the middle finger of his right hand. He was admitted to Brisbane Hospital with a Tetanus infection on Wednesday, 19 November 1884. Doctors agreed the finger needed to be amputated, Dr. Thomson performing the operation. [Alfred did not recover and died in hospital](https://trove.nla.gov.au/newspaper/article/184996065) on the night of Thursday, 20 November 1884. [His death was reported in *The Queenslander*](https://trove.nla.gov.au/newspaper/article/23976600?searchTerm=%22Joseph%20Duggan%22) on Saturday, 29 November 1884, noting the cause of death as, *"a wound of finger, tetanus, asphyxia".*
@@ -34,9 +34,9 @@ Alfred died intestate and *"[all the land, goods, chattels, credits, and effects
 
 ![Bicycle racing at Toowong, Brisbane, Queensland, ca. 1885](../assets/penny-farthing-race-toowong-sml.jpg){ width="68.1%" }  ![Cyclist posing with a penny farthing bicycle, Queensland](../assets/g-stombuco-and-penny-farthing.jpg){ width="27.4%" } 
 
-*<small>[Bicycle racing at Toowong, Brisbane, Queensland, ca. 1885](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220537210002061). Bicycle racing on a circular track at the Toowong Sportsground, around 1885. Photograph is taken from R. L. Drew's house, 15 Union Street, Taringa (now the site of the Brisbane Boys' College) - State Library of Queensland. Cropped. </small>* <br>
+*<small>[Bicycle racing at Toowong, Brisbane, Queensland, ca. 1885](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220537210002061). Bicycle racing on a circular track at the Toowong Sportsground, around 1885. Photograph is taken from R. L. Drew's house, 15 Union Street, Taringa (now the site of the Brisbane Boys' College) — State Library of Queensland. Cropped. </small>* <br>
 *<small>[Cyclist posing with a penny farthing bicycle, Queensland](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218490680002061). Possibly G. Stombuco (who was came second in the Half-mile bicycle race without using
-handles in the first Brisbane Amateur Cycling Club race) - State Library of Queensland</small>*
+handles in the first Brisbane Amateur Cycling Club race) — State Library of Queensland</small>*
 
 ### Read more about bicycles in Brisbane in the 1800's
 

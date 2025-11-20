@@ -7,7 +7,7 @@ Sid Cook’s family was growing and in July 1905 he made a move from the meagre 
 
 ![Sidney Cook next to the camera with a group of five women Sydney 1913](../assets/sidney-cook.jpeg){ width="49%" } 
 
-*<small>[Sidney Cook next to the camera with a group of five women Sydney 1913](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1dejkfd/alma99184002067002061) - State Library of Queensland.</small>*  
+*<small>[Sidney Cook next to the camera with a group of five women Sydney 1913](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1dejkfd/alma99184002067002061) — State Library of Queensland.</small>*  
 
 [Tasmania the Wonderland](https://www.nfsa.gov.au/latest/tasmanian-tiger-last-known-footage-thylacine) was probably filmed by Sidney and shows the last captive thylacine at the long-defunct Beaumaris Zoo in Hobart. 
 

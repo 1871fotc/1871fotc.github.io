@@ -6,5 +6,5 @@ During the industrial turmoil of the 1890s he preferred to investigate local his
 
 <figure markdown>
   ![J. J. Knight](../assets/john-james-knight.jpg){ width=40% class="full-width" }
-  <figcaption markdown>[J. J. Knight](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1dejkfd/alma99184003594102061) - State Library of Queensland.</figcaption>
+  <figcaption markdown>[J. J. Knight](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1dejkfd/alma99184003594102061) — State Library of Queensland.</figcaption>
 </figure>

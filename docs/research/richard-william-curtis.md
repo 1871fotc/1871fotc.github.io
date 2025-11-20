@@ -21,7 +21,7 @@ hide:
 
 ### Learn more 
 
-- [Civil War Re-enactment memorial service](https://youtu.be/mwsdziN3pGI) - Nicole Rossiter Photography 
+- [Civil War Re-enactment memorial service](https://youtu.be/mwsdziN3pGI) — Nicole Rossiter Photography 
 
 <!--
 ### Sources

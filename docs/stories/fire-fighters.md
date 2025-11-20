@@ -106,4 +106,4 @@ Written by Lyn Maddock
 
 ## Learn more 
 
-[Fire! fire! Queensland fire brigade histories](https://www.slq.qld.gov.au/blog/fire-fire-queensland-fire-brigade-histories) - State Library of Queensland.
+[Fire! fire! Queensland fire brigade histories](https://www.slq.qld.gov.au/blog/fire-fire-queensland-fire-brigade-histories) — State Library of Queensland.

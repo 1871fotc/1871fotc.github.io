@@ -11,5 +11,5 @@ Through his contact with relatives of the famed Doctor Livingstone, George Hende
 <!-- 
 ![Eagle Farm Meatworks](../assets/queensland-meatworks-1900.jpg)
 
-*<small>[Queensland Meat Export and Agency Company at Eagle Farm, Brisbane, ca. 1900](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220166330002061) - State Library of Queensland. </small>*
+*<small>[Queensland Meat Export and Agency Company at Eagle Farm, Brisbane, ca. 1900](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220166330002061) — State Library of Queensland. </small>*
 -->

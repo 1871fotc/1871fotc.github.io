@@ -32,7 +32,7 @@ Phillip's son, [Leslie John Lowther](https://trove.nla.gov.au/newspaper/article/
 
 <figure markdown>
   ![Firm of Lowther & Sons on Ann Street, ca. 1907](../assets/lowther-and-sons.jpg){ width="70%" class="full-width" }
-  <figcaption markdown>[Firm of Lowther & Sons on Ann Street, ca. 1907](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183513705502061). The business of Lowther and Sons, monumental headstones was situated on Ann Street, between Boundary Street and Antrim Street - State Library of Queensland. Cropped.</figcaption>
+  <figcaption markdown>[Firm of Lowther & Sons on Ann Street, ca. 1907](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183513705502061). The business of Lowther and Sons, monumental headstones was situated on Ann Street, between Boundary Street and Antrim Street — State Library of Queensland. Cropped.</figcaption>
 </figure>
 
 <!--

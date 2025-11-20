@@ -18,4 +18,4 @@ Lovatt passed away on the 14^th^ March 1938 with his death certificate recording
 ![L. Davidson](../assets/lovatt-davidson.jpeg){ width="30%" class="full-width" } 
 
 *<small>[L. Davidson, one of the soldiers photographed in The Queenslander Pictorial, supplement to The Queenslander, 1915.
-](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183927363902061) - State Library of Queensland.</small>*
+](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183927363902061) — State Library of Queensland.</small>*

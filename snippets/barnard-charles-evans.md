@@ -4,7 +4,7 @@ Hon Colonel Charles Evans CMG was born in Taunton, Somerset on 15 April 1845, th
 
 ![Colonel Charles Evans](../assets/charles-evans.jpg){ width="40%" }  
 
-*<small>[Colonel Charles Evans](http://onesearch.slq.qld.gov.au/permalink/f/fhnkog/slq_alma21218876490002061) - State Library of Queensland </small>* 
+*<small>[Colonel Charles Evans](http://onesearch.slq.qld.gov.au/permalink/f/fhnkog/slq_alma21218876490002061) — State Library of Queensland </small>* 
 
 <!--
 

@@ -5,5 +5,5 @@ The Siemon family, which included six children, lived at *Ravensfield* on Corona
 <!--
 ![Ravensfield, home of the Siemon family, in River Road now Coronation Drive, Toowong, 1911](../assets/ravensfield-toowong-1911.jpg){ width="70%" }
 
-*<small>[Ravensfield, home of the Siemon family, in River Road now Coronation Drive, Toowong, 1911](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220239800002061) - State Library of Queensland </small>*
+*<small>[Ravensfield, home of the Siemon family, in River Road now Coronation Drive, Toowong, 1911](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220239800002061) — State Library of Queensland </small>*
 -->

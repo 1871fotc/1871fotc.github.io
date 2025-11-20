@@ -67,7 +67,7 @@ Emma Miller (1839-1917) was known as a pioneer of the trade union movement and t
 
 ![Portrait of Mrs. Emma Miller](../assets/emma-miller.jpg){ width="40%" }  
 
-*<small>[Portrait of Mrs. Emma Miller](http://onesearch.slq.qld.gov.au/permalink/f/1c7c5vg/slq_alma21220238260002061) - State Library of Queensland. </small>* 
+*<small>[Portrait of Mrs. Emma Miller](http://onesearch.slq.qld.gov.au/permalink/f/1c7c5vg/slq_alma21220238260002061) — State Library of Queensland. </small>* 
 
 ## Acknowledgements
 
@@ -75,15 +75,15 @@ Emma Miller (1839-1917) was known as a pioneer of the trade union movement and t
 
 ## Sources
 
-- [Trove](https://trove.nla.gov.au) - National Library of Australia 
+- [Trove](https://trove.nla.gov.au) — National Library of Australia 
 - [The Honourable Virgil Power](https://www.sclqld.org.au/judicial-papers/judicial-profiles/profiles/vpower) - Supreme Court Library Queensland 
 - [The Honourable George Harding](https://www.sclqld.org.au/judicial-papers/judicial-profiles/profiles/grharding) - Supreme Court Library Queensland
-- [Harding, George Rogers (1838–1895)](https://adb.anu.edu.au/biography/harding-george-rogers-3712) - Australian Dictionary of Biography
+- [Harding, George Rogers (1838–1895)](https://adb.anu.edu.au/biography/harding-george-rogers-3712) — Australian Dictionary of Biography
 - www.naa.gov.au/collection/explore/federation/constitution-website/stories/call-to-action/pods/sir-samuel-griffith-1891/index.html *(broken link)*
 
 ## Learn more 
 
-- [Shearers’ Strike 1891](https://www.slq.qld.gov.au/blog/shearers-strike-1891) - State Library of Queensland
+- [Shearers’ Strike 1891](https://www.slq.qld.gov.au/blog/shearers-strike-1891) — State Library of Queensland
 
 
 <!--

@@ -17,7 +17,7 @@ description: Free self-guided walks to help you explore the history and stories 
 <!--
 <figure markdown>
   ![State Library of Queensland's reading room, Brisbane, 1902](../assets/slq-reading-room-1902-16x9.jpg){  class="full-width" }
-  <figcaption markdown>[State Library of Queensland's reading room, Brisbane, 1902](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21298102690002061) - State Library of Queensland. Cropped.</figcaption>
+  <figcaption markdown>[State Library of Queensland's reading room, Brisbane, 1902](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21298102690002061) — State Library of Queensland. Cropped.</figcaption>
 </figure>
 
 -->

@@ -38,7 +38,7 @@ On 16 March 1917 Griffith suffered a stroke while on the bench and was temporari
 
 ![Sir Samuel Walker Griffith and family](../assets/samuel-walker-griffith-and-family.jpg){ width=70% }
 
-*<small>[Sir Samuel Walker Griffith and family](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218185350002061) - State Library of Queensland </small>*
+*<small>[Sir Samuel Walker Griffith and family](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218185350002061) — State Library of Queensland </small>*
 
 
 ## Hon. Sir Arthur Morgan <small>[(12‑15‑12)](https://brisbane.discovereverafter.com/profile/31776483 "Go to Memorial Information" )</small>
@@ -57,7 +57,7 @@ In 1907 the Governor Lord Chelmsford reluctantly appointed Morgan lieutenant‑g
 
 ![Sir Arthur and Lady Morgan on board the S.S. Mourilyan, Queensland, 1910](../assets/sir-arthur-and-lady-morgan.jpg)
 
-*<small>[Sir Arthur and Lady Morgan on board the S.S. Mourilyan, Queensland, 1910](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21256749450002061) - State Library of Queensland </small>*
+*<small>[Sir Arthur and Lady Morgan on board the S.S. Mourilyan, Queensland, 1910](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21256749450002061) — State Library of Queensland </small>*
 
 --8<-- "snippets/pope-alexander-cooper.md"
 

@@ -20,4 +20,4 @@ In 1885 his wife had died, leaving three sons and two of their four daughters. P
 
 ![Sir Arthur Hunter Palmer as the Colonial Secretary](../assets/arthur-hunter-palmer.jpg){ width="40%" }
 
-*<small>[Sir Arthur Hunter Palmer as the Colonial Secretary](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218625050002061) - State Library of Queensland </small>*
+*<small>[Sir Arthur Hunter Palmer as the Colonial Secretary](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218625050002061) — State Library of Queensland </small>*

@@ -2,7 +2,7 @@
 
 ![Sir Samuel Walker Griffith, 1886](../assets/samuel-walker-griffith-1886.jpg){ width="40%" }
 
-*<small>[Sir Samuel Walker Griffith, 1886](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220124990002061) - State Library of Queensland </small>* 
+*<small>[Sir Samuel Walker Griffith, 1886](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220124990002061) — State Library of Queensland </small>* 
 
 [Griffith](https://adb.anu.edu.au/biography/griffith-sir-samuel-walker-445) was born in Merthyr Tydfil, Wales and migrated to Australia as a child. He graduated from Sydney University in 1862 with Honours in maths and classics and commenced practising law in Brisbane. Griffith, considered by many a Liberal, was elected to the Legislative Assembly in 1872. He was Attorney General and twice premier of Queensland. 
 

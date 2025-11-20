@@ -119,8 +119,8 @@ After his time as Premier he took over the chairmanship of the Central Sugar Can
 
 ![Construction of the Forgan Smith Building, University of Queensland , St Lucia, Brisbane, Queensland, 1940](../assets/forgan-smith-building.jpg){ width="59%" }  ![William Forgan Smith](../assets/william-forgan-smith.jpg){ width="30.2%" }
 
-*<small>[Construction of the Forgan Smith Building, University of Queensland , St Lucia, Brisbane, Queensland, 1940](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218117600002061) - State Library of Queensland </small>* <br>
-*<small>[William Forgan Smith](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218884950002061) ca. 1935 - State Library of Queensland </small>*
+*<small>[Construction of the Forgan Smith Building, University of Queensland , St Lucia, Brisbane, Queensland, 1940](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218117600002061) — State Library of Queensland </small>* <br>
+*<small>[William Forgan Smith](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218884950002061) ca. 1935 — State Library of Queensland </small>*
 
 
 ???+ directions "Directions" 
@@ -195,8 +195,8 @@ https://vimeo.com/176117452
 
 ![Doctor Lilian Violet Cooper](../assets/lilian-voilet-cooper.jpg){ width="31%" }  ![Dr. Lilian Voilet Cooper and Miss Josephine Bedford in a horsedrawn buggy](../assets/lilian-cooper-and-josephine-bedford.jpg){ width="60.15%" } 
 
-*<small>[Doctor Lilian Violet Cooper](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218595360002061) - State Library of Queensland. </small>* <br>
-*<small>[Two friends seated in a horsedrawn buggy, Brisbane, ca. 1900](http://onesearch.slq.qld.gov.au/permalink/f/1oppkg1/slq_alma21272255460002061). Miss Josephine Bedford (left) and Dr. Lilian Cooper - State Library of Queensland </small>* 
+*<small>[Doctor Lilian Violet Cooper](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218595360002061) — State Library of Queensland. </small>* <br>
+*<small>[Two friends seated in a horsedrawn buggy, Brisbane, ca. 1900](http://onesearch.slq.qld.gov.au/permalink/f/1oppkg1/slq_alma21272255460002061). Miss Josephine Bedford (left) and Dr. Lilian Cooper — State Library of Queensland </small>* 
 
 ???+ directions "Directions" 
 

@@ -4,4 +4,4 @@ Irish immigrants, John and Ellen Forde were the parents of [Francis Michael Ford
 
 ![Frank Forde pilots a train into Brisbane, 1930](../assets/frank-forde-pilots-train.jpg){ width="70%" }
 
-*<small>[Frank Forde pilots a train into Brisbane, 1930](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool42043) - State Library of Queensland.</small>*
+*<small>[Frank Forde pilots a train into Brisbane, 1930](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool42043) — State Library of Queensland.</small>*

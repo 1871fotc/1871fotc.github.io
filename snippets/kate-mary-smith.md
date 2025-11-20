@@ -10,4 +10,4 @@ The company continued to develop as times changed, and was an early mover from h
 
 ![Looking from Centenary Place across Gotha St, Fortitude Valley towards K.M. Smith Funeral Directors](../assets/k-m-smith-funeral-directors.jpg){ width="70%" }
 
-*<small>[Looking from Centenary Place across Gotha St, Fortitude Valley towards K.M. Smith Funeral Directors](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21276483100002061) - State Library Queensland. </small>*
+*<small>[Looking from Centenary Place across Gotha St, Fortitude Valley towards K.M. Smith Funeral Directors](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21276483100002061) — State Library Queensland. </small>*

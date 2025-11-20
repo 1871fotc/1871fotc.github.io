@@ -6,5 +6,5 @@ George joined the staff of the *Sydney Morning Herald* as leader writer, a few y
 
 <figure markdown>
   ![Reverend George Woolnough, 1875](../assets/george-woolnough.jpg){ width=40% class="full-width" }
-  <figcaption markdown>[Reverend George Woolnough, 1875](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183513706202061) - State Library of Queensland.</figcaption>
+  <figcaption markdown>[Reverend George Woolnough, 1875](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183513706202061) — State Library of Queensland.</figcaption>
 </figure>

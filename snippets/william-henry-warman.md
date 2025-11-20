@@ -4,5 +4,5 @@ William was a compositor who worked on various newspapers and at the Queensland 
 
 ![Employees on the steps of the Government Printing Office in William Street, Brisbane, ca. 1895](../assets/queensland-government-printing-office-employees-1895.jpg){ width="48.9%" }  ![Staff gathered outside the Government Printing Office in Brisbane, ca. 1900](../assets/queensland-government-printing-office-employees-1900.jpg){ width="44.5%" }
 
-<small>[Employees on the steps of the Government Printing Office in William Street, Brisbane, ca. 1895](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218936910002061) - State Library of Queensland</small> <br>
-<small>[Staff gathered outside the Government Printing Office in Brisbane, ca. 1900](http://onesearch.slq.qld.gov.au/permalink/f/1oppkg1/slq_alma21218936760002061) - State Library of Queensland</small> 
+<small>[Employees on the steps of the Government Printing Office in William Street, Brisbane, ca. 1895](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218936910002061) — State Library of Queensland</small> <br>
+<small>[Staff gathered outside the Government Printing Office in Brisbane, ca. 1900](http://onesearch.slq.qld.gov.au/permalink/f/1oppkg1/slq_alma21218936760002061) — State Library of Queensland</small> 

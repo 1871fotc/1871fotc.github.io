@@ -12,5 +12,5 @@ Welsby died aged 83 on 3 February 1941 at his now heritage-listed New Farm home,
 
 <figure markdown>
   ![Thomas Welsby](../assets/thomas-welsby.jpg){ width="40%" }
-  <figcaption markdown>[Thomas Welsby](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/tqqf2h/alma99183512738602061) - State Library of Queensland</figcaption>
+  <figcaption markdown>[Thomas Welsby](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/tqqf2h/alma99183512738602061) — State Library of Queensland</figcaption>
 </figure>

@@ -10,4 +10,4 @@ In November 1876, Mary Douglas was travelling in her pony‑drawn gig from her h
 
 ![Portrait of Mrs John Douglas](../assets/mary-douglas.jpg){ width="40%" }
 
-*<small>[Portrait of Mrs John Douglas](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218519880002061) - State Library of Queensland. </small>*
+*<small>[Portrait of Mrs John Douglas](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218519880002061) — State Library of Queensland. </small>*

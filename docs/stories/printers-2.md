@@ -38,13 +38,13 @@ search:
 
 ## Sources
 
-- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
-- [Trove](https://trove.nla.gov.au) - National Library of Australia 
+- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) — The State of Queensland
+- [Trove](https://trove.nla.gov.au) — National Library of Australia 
 - [ancestry.com.au](https://www.ancestry.com.au/)
 - [Tales from Colonial Queensland](https://talesfromcolonialqueensland.blogspot.com)
-- [Dowse, Thomas (1809–1885)](https://adb.anu.edu.au/biography/dowse-thomas-3440) - Australian Dictionary of Biography
-- [Thomas Dowse](https://convictrecords.com.au/convicts/dowse/thomas/89523) - Convict Records
-- [Telegraph (Brisbane)](https://www.austlit.edu.au/austlit/page/9547711) - AustLit
+- [Dowse, Thomas (1809–1885)](https://adb.anu.edu.au/biography/dowse-thomas-3440) — Australian Dictionary of Biography
+- [Thomas Dowse](https://convictrecords.com.au/convicts/dowse/thomas/89523) — Convict Records
+- [Telegraph (Brisbane)](https://www.austlit.edu.au/austlit/page/9547711) — AustLit
 
 <!--
 <div class="noprint" markdown="1">

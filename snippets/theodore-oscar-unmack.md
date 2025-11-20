@@ -8,4 +8,4 @@ Theodore traded with his partner J. C. Heussler as a wholesale merchant and was 
 
 ![Theodore Unmack, 1889](../assets/theodore-unmack.jpg){ width="40%" }
 
-*<small>[Unmack, Theodore, 1889](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218162940002061) - State Library of Queensland. </small>*
+*<small>[Unmack, Theodore, 1889](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218162940002061) — State Library of Queensland. </small>*

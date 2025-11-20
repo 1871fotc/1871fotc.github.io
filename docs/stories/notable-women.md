@@ -38,13 +38,13 @@ She campaigned tirelessly for freedom from conscription. Through these activitie
 
 ![Brisbane strikes, 1912](../assets/brisbane-strikes-1912.jpg){ width="76%" }
 
-*<small>[Brisbane strikes, 1912](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool112004) - State Library of Queensland. </small>*
+*<small>[Brisbane strikes, 1912](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool112004) — State Library of Queensland. </small>*
 
 Emma died in 1917. On 22 October 1922 a publicly funded marble bust of her was unveiled in the Trades Hall.^5^
 
 ![Portrait of Mrs. Emma Miller](../assets/emma-miller.jpg){ width="40%" }  ![Marble Bust of Emma Miller held at Queensland Council of Unions by sculptor James Laurence Watts](../assets/emma-miller-marble-bust.jpg){ width="35.75%" }
 
-*<small>[Portrait of Mrs. Emma Miller](http://onesearch.slq.qld.gov.au/permalink/f/1c7c5vg/slq_alma21220238260002061) - State Library of Queensland. </small>* <br>
+*<small>[Portrait of Mrs. Emma Miller](http://onesearch.slq.qld.gov.au/permalink/f/1c7c5vg/slq_alma21220238260002061) — State Library of Queensland. </small>* <br>
 *<small>[Marble Bust of Emma Miller held at Queensland Council of Unions by sculptor James Laurence Watts](https://en.wikipedia.org/wiki/File:Marble_Bust_of_Emma_Miller_held_at_Queensland_Council_of_Unions.jpg) by Alphi123, used under [CC BY-SA 4.0][cc-by-sa].  </small>*
 
 ![Arthur Hoey Davis - Steele Rudd, Charles Lilley and Emma Miller statues located in King George Square in Brisbane, Australia.](../assets/arthur-hoey-davis--charles-lilley--emma-miller-statues.jpg){ width="76%" }

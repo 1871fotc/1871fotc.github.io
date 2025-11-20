@@ -104,7 +104,7 @@ Walter F. Wilson, Master of Arts, was elected to the Toowong Shire Council in 18
 
 <figure markdown>
   ![Honourable Walter Horatio Wilson 1887](../assets/walter-horatio-wilson.jpg){ width=40% class="full-width" }
-  <figcaption markdown>[Honourable Walter Horatio Wilson 1887](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183505887202061) - State Library of Queensland.</figcaption>
+  <figcaption markdown>[Honourable Walter Horatio Wilson 1887](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183505887202061) — State Library of Queensland.</figcaption>
 </figure>
 
 
@@ -139,7 +139,7 @@ Born in Tasmania in 1843, Robert was educated in Scotland before coming to Queen
 
 <figure markdown>
   ![Mallow, home of Sir Robert Philp, Toowong](../assets/mallow.jpg){ width=70% class="full-width" }
-  <figcaption markdown>[Mallow, home of Sir Robert Philp, Toowong](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183507171002061) - State Library of Queensland.</figcaption>
+  <figcaption markdown>[Mallow, home of Sir Robert Philp, Toowong](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183507171002061) — State Library of Queensland.</figcaption>
 </figure>
 
 <!--

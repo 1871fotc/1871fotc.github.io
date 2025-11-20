@@ -64,11 +64,11 @@ Compiled and presented by Darcy Maddock
 
 ## Sources
 
-- [Memorial search](https://brisbane.discovereverafter.com) - Brisbane City Council
-- [Trove](https://trove.nla.gov.au) - National Library of Australia
-- [National Archives Service Records WW1 and Boer War](https://www.naa.gov.au/explore-collection/defence-and-war-service-records) - Commonwealth of Australia
-- [Australian War Graves](https://www.dva.gov.au/wargraves) - Commonwealth of Australia
-- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
+- [Memorial search](https://brisbane.discovereverafter.com) — Brisbane City Council
+- [Trove](https://trove.nla.gov.au) — National Library of Australia
+- [National Archives Service Records WW1 and Boer War](https://www.naa.gov.au/explore-collection/defence-and-war-service-records) — Commonwealth of Australia
+- [Australian War Graves](https://www.dva.gov.au/wargraves) — Commonwealth of Australia
+- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) — The State of Queensland
 
 <!--
 <div class="noprint" markdown="1">

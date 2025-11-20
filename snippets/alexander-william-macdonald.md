@@ -6,5 +6,5 @@ He was born in Turriff in Aberdeenshire ca. 1876 to Alexander MacDonald and ____
 
 ![Star of Victoria (ship)](../assets/star-of-victoria-ship.jpg){ width="45%" }  ![Port Lyttelton (ship)](../assets/port-lyttelton-ship.jpg){ width="48.4%" }
 
-*<small>[Star of Victoria (ship)](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220409940002061) - State Library of Queensland. </small>* <br>
-*<small>[Port Lyttelton (ship)](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218360000002061) - State Library of Queensland.</small>*
+*<small>[Star of Victoria (ship)](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220409940002061) — State Library of Queensland. </small>* <br>
+*<small>[Port Lyttelton (ship)](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218360000002061) — State Library of Queensland.</small>*

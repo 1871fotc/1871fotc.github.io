@@ -4,5 +4,5 @@ Born in Maitland NSW on 14 June 1841 to John Stuart Mein and Mary Hall. Charles 
 
 <figure markdown>
   ![Charles Stuart Mein](../assets/charles-stuart-mein.jpg){ width=40% class="full-width" }
-  <figcaption markdown>[Charles Stuart Mein](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183507233402061) - State Library of Queensland.</figcaption>
+  <figcaption markdown>[Charles Stuart Mein](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183507233402061) — State Library of Queensland.</figcaption>
 </figure>

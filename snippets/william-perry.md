@@ -11,7 +11,7 @@ During 1911 to 1913, Herbert and George highlighted their business by building B
 
 <figure markdown>
   ![Perry Brothers premises in Elizabeth Street, Brisbane, Queensland, 1913](../assets/perry-house-1913.jpg){ width="40%" }
-  <figcaption markdown>[Perry Brothers premises in Elizabeth Street, Brisbane, Queensland, 1913](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99184004961202061) - State Library of Queensland</figcaption>
+  <figcaption markdown>[Perry Brothers premises in Elizabeth Street, Brisbane, Queensland, 1913](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99184004961202061) — State Library of Queensland</figcaption>
 </figure>
 
 William entered Queensland politics, becoming a member of the Queensland Legislative Council on 22 September 1890. [He died from heart failure](https://trove.nla.gov.au/newspaper/article/146871483) at his home, *Folkestone*, Breakfast Creek Road, on 11 June 1891. A large concourse, including many politicians, attended the [funeral at Toowong Cemetery](https://trove.nla.gov.au/newspaper/article/172683331) the next day.

@@ -4,4 +4,4 @@ A Scottish merchant, William died at his home *Arley*, Toowong, aged 66 in 1895.
 
 ![Horse and carriage outside the Archer family residence, Arley, Toowong, ca. 1882](../assets/arley-toowong-ca1882.jpg){ width="70%" }
 
-*<small>[Horse and carriage outside the Archer family residence, Arley, Toowong, ca. 1882](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220551310002061) - State Library of Queensland </small>*
+*<small>[Horse and carriage outside the Archer family residence, Arley, Toowong, ca. 1882](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220551310002061) — State Library of Queensland </small>*

@@ -4,5 +4,5 @@ Born Pallasgreen, near Limerick Ireland on 17 March 1846 or 1847 to James Real a
 
 <figure markdown>
   ![Honorable Judge Patrick Real](../assets/patrick-real.jpg){ width=40% class="full-width" }
-  <figcaption markdown>[Honorable Judge Patrick Real](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183506915602061) - State Library of Queensland.</figcaption>
+  <figcaption markdown>[Honorable Judge Patrick Real](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183506915602061) — State Library of Queensland.</figcaption>
 </figure>

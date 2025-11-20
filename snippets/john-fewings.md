@@ -6,8 +6,8 @@ Fewings’ memoirs *[Arcadian Simplicity](https://library-brisbane.ent.sirsidyni
 
 ![John Bowden Fewings](../assets/john-fewings.jpeg){ width="30%" class="full-width" }
 
-*<small>[J. B. Fewing](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183507365002061). Sketch taken from T. W. H. Leavitt, Australian Representative Men, 1888 p. 465 - State Library of Queensland </small>* 
+*<small>[J. B. Fewing](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183507365002061). Sketch taken from T. W. H. Leavitt, Australian Representative Men, 1888 p. 465 — State Library of Queensland </small>* 
 
 ![Althea Fewings canoeing on Toowong Creek, Brisbane](../assets/althea-fewings.jpg){ width="70%" class="full-width" }
 
-*<small>[Althea Fewings canoeing on Toowong Creek, Brisbane](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218559390002061). Althea Theresa Karslake Fewings (later Mrs Frederick Munro Hull) canoeing on Toowong Creek at the bottom of *Karslake*, residence of her parents Mr & Mrs J B Fewings. The Chinese market gardens are behind her, and today this area is in the grounds of Toowong College, (off Vera Street)- on the old basket ball courts. - State Library of Queensland </small>* 
+*<small>[Althea Fewings canoeing on Toowong Creek, Brisbane](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218559390002061). Althea Theresa Karslake Fewings (later Mrs Frederick Munro Hull) canoeing on Toowong Creek at the bottom of *Karslake*, residence of her parents Mr & Mrs J B Fewings. The Chinese market gardens are behind her, and today this area is in the grounds of Toowong College, (off Vera Street)- on the old basket ball courts. — State Library of Queensland </small>* 

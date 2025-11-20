@@ -12,4 +12,4 @@ You might think that’s the end of the story, until you read his medical file. 
 
 ![J. McCall](../assets/john-mccall.jpeg){ width="30%" class="full-width" } 
 
-*<small>[J. McCall, one of the soldiers photographed in The Queenslander Pictorial, supplement to The Queenslander, 1915](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183927221702061) - State Library of Queensland.</small>*
+*<small>[J. McCall, one of the soldiers photographed in The Queenslander Pictorial, supplement to The Queenslander, 1915](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183927221702061) — State Library of Queensland.</small>*

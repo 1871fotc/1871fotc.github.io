@@ -6,4 +6,4 @@ William was born ca. 1831 in Cork, Ireland, the son of William O'Carroll, a sea 
 ](../assets/brisbane-courier-staff-1880.jpg){ width="70%" }
 
 <small>[Brisbane Courier staff standing in front of the Brisbane Courier office building in Brisbane, ca. 1880
-](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21270221690002061). The Brisbane Courier office was located on the eastern corner of Charlotte and George street, Brisbane - State Library of Queensland</small>
+](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21270221690002061). The Brisbane Courier office was located on the eastern corner of Charlotte and George street, Brisbane — State Library of Queensland</small>

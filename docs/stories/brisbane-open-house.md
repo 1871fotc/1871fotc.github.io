@@ -164,9 +164,9 @@ Compiled and presented by
 ## Sources
 
 - [Assisted Immigration](https://www.qld.gov.au/recreation/arts/heritage/archives/search-the-records) The State of Queensland  
-- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
-- [Trove](https://trove.nla.gov.au) - National Library of Australia
-- [Memorial search](https://brisbane.discovereverafter.com) - Brisbane City Council
+- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) — The State of Queensland
+- [Trove](https://trove.nla.gov.au) — National Library of Australia
+- [Memorial search](https://brisbane.discovereverafter.com) — Brisbane City Council
 - [One Search](https://www.slq.qld.gov.au/search), The State of Queensland (State Library of Queensland) 2016 
 
 <!--

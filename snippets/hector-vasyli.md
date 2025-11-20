@@ -9,7 +9,7 @@ The [papers were quick to emancipate Jackson](https://trove.nla.gov.au/newspaper
 
 ![Hector Vasyli Memorial, Brisbane, 1918](../assets/hector-vasyli-memorial-1918.jpg){ width="29.05%" }  ![Hector Vasyli](../assets/hector-vasyli.jpg){ width="28%" }
 
-*<small>[Hector Vasyli Memorial, Brisbane, 1918](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218947790002061). Speakers at the unveiling of the tablet include Christy Freeleagus, President of the Hellenic Association, Lieut. Grant Hanlon, Alderman Peter Forrest (Mayor of South Brisbane), and Mr W. P. B. Miles of the Church of England Mission. - State Library of Queensland. </small>* <br>
-*<small>[Hector Vasyli](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220256080002061) - State Library of Queensland. </small>*
+*<small>[Hector Vasyli Memorial, Brisbane, 1918](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218947790002061). Speakers at the unveiling of the tablet include Christy Freeleagus, President of the Hellenic Association, Lieut. Grant Hanlon, Alderman Peter Forrest (Mayor of South Brisbane), and Mr W. P. B. Miles of the Church of England Mission. — State Library of Queensland. </small>* <br>
+*<small>[Hector Vasyli](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220256080002061) — State Library of Queensland. </small>*
 
 <!-- TODO add https://trove.nla.gov.au/newspaper/article/188933214 -->

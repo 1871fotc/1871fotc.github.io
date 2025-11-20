@@ -4,5 +4,5 @@ Born in Crediton Devon England on 17 October 1825 to Thomas Pring and Ann Dunne.
 
 <figure markdown>
   ![Ratcliffe Pring](../assets/ratcliffe-pring.jpg){ width=40% class="full-width" }
-  <figcaption markdown>[Ratcliffe Pring](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183505539202061) - State Library of Queensland.</figcaption>
+  <figcaption markdown>[Ratcliffe Pring](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183505539202061) — State Library of Queensland.</figcaption>
 </figure>

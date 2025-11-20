@@ -7,4 +7,4 @@ Hugh Glackin was born in Newtown Cunningham in County Donegal on 18 March 1844. 
 ![Frank Pearson (Captain Starlight)](../assets/frank-pearson-captain-starlight.jpg){ width="28%" }
 
 *<small>[Hugh Glackin and familiy](https://trove.nla.gov.au/newspaper/article/219446603) - The Daily Mail, 27 Sep 1924</small>* <br>
-*<small>[Frank Pearson](https://search.records.nsw.gov.au/permalink/f/1ebnd1l/INDEX2058217) (Captain Starlight) - State Archives of NSW</small>*
+*<small>[Frank Pearson](https://search.records.nsw.gov.au/permalink/f/1ebnd1l/INDEX2058217) (Captain Starlight) — State Archives of NSW</small>*

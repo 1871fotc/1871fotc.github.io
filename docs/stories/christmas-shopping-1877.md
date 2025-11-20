@@ -74,7 +74,7 @@ Written by Lyn Maddock
 
 ## Learn more 
 
-[Christmas Eve in Brisbane](https://trove.nla.gov.au/newspaper/article/19763726), 1877, The Queenslander - National Library of Australia
+[Christmas Eve in Brisbane](https://trove.nla.gov.au/newspaper/article/19763726), 1877, The Queenslander — National Library of Australia
 
 <!--
 - https://trove.nla.gov.au/newspaper/article/175544653 1871
@@ -83,8 +83,8 @@ Written by Lyn Maddock
 <!--
 ## Sources
 
-- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
-- [Trove](https://trove.nla.gov.au) - National Library of Australia
-- [Australian Dictionary of Biography](https://adb.anu.edu.au) - Australian National University
+- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) — The State of Queensland
+- [Trove](https://trove.nla.gov.au) — National Library of Australia
+- [Australian Dictionary of Biography](https://adb.anu.edu.au) — Australian National University
 - http://thefashionarchives.org/ *(broken link)*
 -->

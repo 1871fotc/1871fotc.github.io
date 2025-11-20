@@ -28,7 +28,7 @@ search:
 
 ![Portrait of Mrs. Emma Miller](../assets/emma-miller.jpg){ width="40%" }  ![Marble Bust of Emma Miller held at Queensland Council of Unions by sculptor James Laurence Watts](../assets/emma-miller-marble-bust.jpg){ width="35.75%" }
 
-*<small>[Portrait of Mrs. Emma Miller](http://onesearch.slq.qld.gov.au/permalink/f/1c7c5vg/slq_alma21220238260002061) - State Library of Queensland. </small>* <br>
+*<small>[Portrait of Mrs. Emma Miller](http://onesearch.slq.qld.gov.au/permalink/f/1c7c5vg/slq_alma21220238260002061) — State Library of Queensland. </small>* <br>
 *<small>[Marble Bust of Emma Miller held at Queensland Council of Unions by sculptor James Laurence Watts](https://en.wikipedia.org/wiki/File:Marble_Bust_of_Emma_Miller_held_at_Queensland_Council_of_Unions.jpg) by Alphi123, used under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  </small>*
 
 <!--
@@ -45,8 +45,8 @@ search:
 
 ![Senator Thomas Glassey delivering a speech to the women electors of Queensland](../assets/thomas-glassey.jpg){ width="26.72%" }  ![Glassey family, ca. 1926](../assets/thomas-glassey-birthday.jpg){ width="55%" }
 
-*<small>[Senator Thomas Glassey delivering a speech to the women electors of Queensland](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218794910002061) - State Library of Queensland.  </small>* <br> 
-*<small>[Glassey family, ca. 1926](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218562540002061) - State Library of Queensland. </small>*
+*<small>[Senator Thomas Glassey delivering a speech to the women electors of Queensland](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218794910002061) — State Library of Queensland.  </small>* <br> 
+*<small>[Glassey family, ca. 1926](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218562540002061) — State Library of Queensland. </small>*
 
 <!--
 ??? directions "Directions" 
@@ -60,7 +60,7 @@ search:
 
 ![Honourable William Henry Browne](../assets/william-henry-browne.jpg){ width="35%" }  
 
-*<small>[Honourable William Henry Browne](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218188950002061) - State Library of Queensland </small>* 
+*<small>[Honourable William Henry Browne](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218188950002061) — State Library of Queensland </small>* 
 
 --8<-- "snippets/john-gordon-smith.md"
 
@@ -68,8 +68,8 @@ search:
 
 ![Anderson Dawson](../assets/andersen-dawson.jpg){ width="30%" }  ![After the swearing in of the Dawson ministry of the Labor Party Brisbane, Queensland](../assets/dawson-ministry.jpg){ width="54.5%" }  
 
-*<small>[Honourable Anderson (Andrew) Dawson](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218521750002061) 1899 - State Library of Queensland </small>* <br>
-*<small>[After the swearing in of the Dawson ministry of the Labor Party Brisbane, Queensland](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool46636) - State Library of Queensland </small>* 
+*<small>[Honourable Anderson (Andrew) Dawson](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218521750002061) 1899 — State Library of Queensland </small>* <br>
+*<small>[After the swearing in of the Dawson ministry of the Labor Party Brisbane, Queensland](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool46636) — State Library of Queensland </small>* 
 
 <!--
 ??? directions "Directions" 
@@ -83,7 +83,7 @@ search:
 
 ![David Bowman](../assets/david-bowman.jpg){ width="40%" }  
 
-*<small>[David Bowman](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218753330002061) - State Library of Queensland </small>* 
+*<small>[David Bowman](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218753330002061) — State Library of Queensland </small>* 
 
 <!--
 ??? directions "Directions" 
@@ -98,8 +98,8 @@ search:
 
 ![Construction of the Forgan Smith Building, University of Queensland , St Lucia, Brisbane, Queensland, 1940](../assets/forgan-smith-building.jpg){ width="59%" }  ![William Forgan Smith](../assets/william-forgan-smith.jpg){ width="30.2%" }
 
-*<small>[Construction of the Forgan Smith Building, University of Queensland , St Lucia, Brisbane, Queensland, 1940](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218117600002061) - State Library of Queensland </small>* <br>
-*<small>[William Forgan Smith](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218884950002061) ca. 1935 - State Library of Queensland </small>*
+*<small>[Construction of the Forgan Smith Building, University of Queensland , St Lucia, Brisbane, Queensland, 1940](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218117600002061) — State Library of Queensland </small>* <br>
+*<small>[William Forgan Smith](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218884950002061) ca. 1935 — State Library of Queensland </small>*
 
 --8<-- "snippets/william-neal-gillies.md"
 
@@ -121,7 +121,7 @@ search:
 
 ![Edward Michael Hanlon, premier of Queensland, addressing the Legislative Assembly on the occasion of the Industrial Law Amendment Bill, 1948](../assets/edward-michael-hanlon.jpg){ width="59%" }  
 
-*<small>[Edward Michael Hanlon, premier of Queensland, addressing the Legislative Assembly on the occasion of the Industrial Law Amendment Bill, 1948](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21217956320002061) - State Library of Queensland </small>* 
+*<small>[Edward Michael Hanlon, premier of Queensland, addressing the Legislative Assembly on the occasion of the Industrial Law Amendment Bill, 1948](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21217956320002061) — State Library of Queensland </small>* 
 
 <!--
 ??? directions "Directions" 
@@ -135,7 +135,7 @@ search:
 
 ![John 'Plumper' Hoolan, ca. 1902](../assets/john-hoolan.jpg){ width="70%" }  
 
-*<small>[John 'Plumper' Hoolan, ca. 1902](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218562430002061) - State Library of Queensland </small>* 
+*<small>[John 'Plumper' Hoolan, ca. 1902](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218562430002061) — State Library of Queensland </small>* 
 
 <!--
 ??? directions "Directions" 

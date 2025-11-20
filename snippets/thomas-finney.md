@@ -4,7 +4,7 @@
 
 ![Sidney House in Toowong, viewed from the street, March, 1890](../assets/sidney-house-toowong-1890.jpg){ width="70%" }
 
-*<small>[Sidney House in Toowong, viewed from the street, March, 1890](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool127391) - State Library of Queensland </small>*
+*<small>[Sidney House in Toowong, viewed from the street, March, 1890](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool127391) — State Library of Queensland </small>*
 
 <!--
 Sidney House, Toowong

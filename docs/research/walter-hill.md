@@ -12,7 +12,7 @@ hide:
 
 ![Walter Hill](../assets/walter-hill.jpg){ width="32%" }
 
-<small>Unknown author - State Library of Queensland and John Oxley Library, [Public Domain](https://commons.wikimedia.org/w/index.php?curid=22616572)</small>
+<small>Unknown author — State Library of Queensland and John Oxley Library, [Public Domain](https://commons.wikimedia.org/w/index.php?curid=22616572)</small>
 
 
 ![Lord Mayor Clem Jones Unveiling the Walter Hill Plaque](../assets/walter-hill-plaque.jpg){ width="32%" }  

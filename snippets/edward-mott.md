@@ -8,5 +8,5 @@ Edward lived in Grovely for forty‑five years and after he died on the 28^th^ o
 
 <figure markdown>
   ![Edward Mott](../assets/edward-mott.jpg){ width="50%" }
-  <figcaption markdown>[Edward Mott and Canon Osborn](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183507734902061) - State Library of Queensland. Cropped.</figcaption>
+  <figcaption markdown>[Edward Mott and Canon Osborn](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183507734902061) — State Library of Queensland. Cropped.</figcaption>
 </figure>

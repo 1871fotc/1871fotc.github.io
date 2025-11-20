@@ -88,7 +88,7 @@ Dr. Cooper commenced private practise in Brisbane in 1891 at The Mansions, in Ge
 
 ![Dr. Lilian Voilet Cooper and Miss Josephine Bedford in a horsedrawn buggy](../assets/lilian-cooper-and-josephine-bedford.jpg){ width="70%" }  
 
-*<small>[Two friends seated in a horsedrawn buggy, Brisbane, ca. 1900](http://onesearch.slq.qld.gov.au/permalink/f/1oppkg1/slq_alma21272255460002061). Miss Josephine Bedford (left) and Dr. Lilian Cooper. Dr. Cooper made house calls in a horse and sulky by day and a bicycle by night. Her surgery was in George Street, Brisbane. - State Library of Queensland </small>* 
+*<small>[Two friends seated in a horsedrawn buggy, Brisbane, ca. 1900](http://onesearch.slq.qld.gov.au/permalink/f/1oppkg1/slq_alma21272255460002061). Miss Josephine Bedford (left) and Dr. Lilian Cooper. Dr. Cooper made house calls in a horse and sulky by day and a bicycle by night. Her surgery was in George Street, Brisbane. — State Library of Queensland </small>* 
 
 --8<-- "snippets/lillian-leitch.md"
 

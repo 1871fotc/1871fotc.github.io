@@ -6,5 +6,5 @@ His experiences gained while working on Queensland properties would influence hi
 
 <figure markdown>
   ![Carl Adolf Feilberg, ca. 1872](../assets/carl-adolf-feilberg.jpg){ width=40% class="full-width" }
-  <figcaption markdown>[Carl Adolf Feilberg, ca. 1872](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183859582102061) - State Library of Queensland.</figcaption>
+  <figcaption markdown>[Carl Adolf Feilberg, ca. 1872](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183859582102061) — State Library of Queensland.</figcaption>
 </figure>

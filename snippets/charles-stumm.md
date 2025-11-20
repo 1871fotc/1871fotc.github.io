@@ -4,5 +4,5 @@ Born Toowoomba, Queensland on 10 May 1865 to Charles Stumm and Isabella Streich.
 
 <figure markdown>
   ![Judge Charles Stumm](../assets/charles-stumm.jpg){ width=40% class="full-width" }
-  <figcaption markdown>[Judge Charles Stumm](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183788011402061) - State Library of Queensland.</figcaption>
+  <figcaption markdown>[Judge Charles Stumm](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183788011402061) — State Library of Queensland.</figcaption>
 </figure>

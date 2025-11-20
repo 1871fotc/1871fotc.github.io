@@ -8,4 +8,4 @@ On 6 March 1873 Musgrave became Governor of South Australia suffering a personal
 
 ![Funeral of Sir Anthony Musgrave, Brisbane, 1888](../assets/anthony-musgrave-funeral-1888.jpg)
 
-*<small>[Funeral of Sir Anthony Musgrave, Brisbane, 1888](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218493890002061) - State Library of Queensland. Cropped. </small>*
+*<small>[Funeral of Sir Anthony Musgrave, Brisbane, 1888](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218493890002061) — State Library of Queensland. Cropped. </small>*

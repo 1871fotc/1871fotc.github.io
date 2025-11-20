@@ -4,5 +4,5 @@ Richard Sanderson Taylor was born in Leeds, England in 1866 and came to Australi
 
 <figure markdown>
   ![Editor's office at the Brisbane Courier, ca. 1922](../assets/richard-sanderson-taylor.jpg){ width=70% class="full-width" }
-  <figcaption markdown>[Editor's office at the Brisbane Courier, ca. 1922](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183512990902061). Richard Sanderson Taylor, who was the editor at this time, is seated at his desk. - State Library of Queensland.</figcaption>
+  <figcaption markdown>[Editor's office at the Brisbane Courier, ca. 1922](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183512990902061). Richard Sanderson Taylor, who was the editor at this time, is seated at his desk. — State Library of Queensland.</figcaption>
 </figure>

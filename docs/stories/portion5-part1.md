@@ -32,7 +32,7 @@ His son, [Alfred George Curtis Wall](http://onesearch.slq.qld.gov.au/permalink/f
 
 ![Illuminated address for Mr Alfred Wall](../assets/alfred-wall-illuminated-address.jpg){ width="100%" }
 
-*<small>[Illuminated address for Mr Alfred Wall](http://onesearch.slq.qld.gov.au/permalink/f/fhnkog/slq_alma21218453260002061), presented on his retirement from his position as Head Teacher at the Milton State School, Brisbane from 1888 to 1916 - State Library of Queensland. </small>*
+*<small>[Illuminated address for Mr Alfred Wall](http://onesearch.slq.qld.gov.au/permalink/f/fhnkog/slq_alma21218453260002061), presented on his retirement from his position as Head Teacher at the Milton State School, Brisbane from 1888 to 1916 — State Library of Queensland. </small>*
 
 --8<-- "snippets/john-theophillus-symons-bird.md"
 
@@ -80,13 +80,13 @@ Compiled and presented by Lyn Maddock
 
 ## Sources
 
-- [Australian Dictionary of Biography](https://adb.anu.edu.au) - Australian National University
-- [Trove](https://trove.nla.gov.au) - National Library of Australia
-- [The Australian Flying Corps](https://www.awm.gov.au/articles/first-world-war-flying) - Australian War Memorial
+- [Australian Dictionary of Biography](https://adb.anu.edu.au) — Australian National University
+- [Trove](https://trove.nla.gov.au) — National Library of Australia
+- [The Australian Flying Corps](https://www.awm.gov.au/articles/first-world-war-flying) — Australian War Memorial
 - [White Star Line History](https://www.whitestarhistory.com/celtic)
-- [Stanley McDonald, SS Celtic](https://www.slq.qld.gov.au/blog/stanley-mcdonald-ss-celtic) - State Library Queensland
+- [Stanley McDonald, SS Celtic](https://www.slq.qld.gov.au/blog/stanley-mcdonald-ss-celtic) — State Library Queensland
 - [Bonzle Digital Atlas of Australia](http://www.bonzle.com/)
-- [Judge George W Paul's Japanese house: a case study](https://eprints.qut.edu.au/46533/) - Jill Barker
+- [Judge George W Paul's Japanese house: a case study](https://eprints.qut.edu.au/46533/) — Jill Barker
 - *Who's Who in the Far East*, (June) 1900-7 p 19-20
 - Nicholas, Thomas, 2000, *Annals and Antiquities of the Counties and County Families of Wales*, Genealogical Publishing Com, Wales
 - Johnstone, R A, 1843-1905, *Spinifex and wattle: reminiscences of pioneering in North Queensland* 

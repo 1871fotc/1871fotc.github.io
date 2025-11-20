@@ -4,4 +4,4 @@ Samuel Crouch, born in Middlesex, was the son of Stephen Crouch and Mary Ann (nÃ
 
 ![Lighthouse at Comboyuro Point, Moreton Island, 1906](../assets/comboyuro-point-lighthouse.jpg){ width="40%" }
 
-*<small>[Lighthouse at Comboyuro Point, Moreton Island, 1906](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21249691560002061). The two gentlemen standing in front of the lighthouse are Samuel James Reilly and his son James Compton Reilly. (Description supplied with photograph) - State Library of Queensland </small>*
+*<small>[Lighthouse at Comboyuro Point, Moreton Island, 1906](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21249691560002061). The two gentlemen standing in front of the lighthouse are Samuel James Reilly and his son James Compton Reilly. (Description supplied with photograph) â€” State Library of Queensland </small>*

@@ -20,7 +20,7 @@ hide:
 
 ### Sources
 
-- [The Honourable Hereward Henchman](https://www.sclqld.org.au/judicial-papers/judicial-profiles/profiles/hhhenchman) - Supreme Court Library Queensland
+- [The Honourable Hereward Henchman](https://www.sclqld.org.au/judicial-papers/judicial-profiles/profiles/hhhenchman) — Supreme Court Library Queensland
 
 <!--
 ### Acknowledgement

@@ -41,7 +41,7 @@ Born in Brisbane 2 August 1849 to Michael Power and Anna Marie Connolly. Virgil 
 
 <figure markdown>
   ![Virgil Power](../assets/virgil-power-judge.jpg){ width=40% class="full-width" }
-  <figcaption markdown>[Virgil Power](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183788010502061) - State Library of Queensland.</figcaption>
+  <figcaption markdown>[Virgil Power](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183788010502061) — State Library of Queensland.</figcaption>
 </figure>
 
 --8<-- "snippets/patrick-real.md"
@@ -52,7 +52,7 @@ Born Taunton. Somerset England on 3 December 1838 to Rev. George Rogers Harding 
 
 <figure markdown>
   ![Justice George Rogers Harding, 1879](../assets/george-rogers-harding-1879.jpg){ width=40% class="full-width" }
-  <figcaption markdown>[Justice George Rogers Harding, 1879](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99184004781202061) - State Library of Queensland.</figcaption>
+  <figcaption markdown>[Justice George Rogers Harding, 1879](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99184004781202061) — State Library of Queensland.</figcaption>
 </figure>
 
 --8<-- "snippets/william-henry-abbot-hirst.md"
@@ -63,7 +63,7 @@ Born Lake George, NSW on 12 May 1846 to Francis Cooper and Sarah Jenkins. He und
 
 <figure markdown>
   ![Honourable Sir Pope Alexander Cooper](../assets/pope-alexander-cooper-2.jpg){ width=40% class="full-width" }
-  <figcaption markdown>[Portrait of Honourable Sir Pope Alexander Cooper](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183506900402061) - State Library of Queensland.</figcaption>
+  <figcaption markdown>[Portrait of Honourable Sir Pope Alexander Cooper](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183506900402061) — State Library of Queensland.</figcaption>
 </figure>
 
 ## Sir Arthur Rutledge KC <small>[(13‑49‑15)](https://brisbane.discovereverafter.com/profile/32021020 "Go to Memorial Information" )</small>
@@ -72,7 +72,7 @@ Born Penrith, NSW on 29 August 1843 to James Rutledge and Lucy Field. Arthur Rut
 
 <figure markdown>
   ![Honourable Sir Arthur Rutledge](../assets/arthur-rutledge-2.jpg){ width=40% class="full-width" }
-  <figcaption markdown>[Portrait of the Honourable Sir Arthur Rutledge](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183507091902061) - State Library of Queensland.</figcaption>
+  <figcaption markdown>[Portrait of the Honourable Sir Arthur Rutledge](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183507091902061) — State Library of Queensland.</figcaption>
 </figure>
 
 --8<-- "snippets/ratcliffe-pring.md"
@@ -85,7 +85,7 @@ Born Merthyr Tydfil, Glamorganshire, Wales on 21 June 1845 to Rev. Edward Griffi
 
 <figure markdown>
   ![Samuel Walker Griffith](../assets/samuel-walker-griffith-2.jpg){ width=40% class="full-width" }
-  <figcaption markdown>[Samuel Walker Griffith](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183845698002061) - State Library of Queensland.</figcaption>
+  <figcaption markdown>[Samuel Walker Griffith](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183845698002061) — State Library of Queensland.</figcaption>
 </figure>
 
 ## Sir Charles Lilley QC <small>[(12‑15‑15)](https://brisbane.discovereverafter.com/profile/32018715 "Go to Memorial Information" )</small>
@@ -94,7 +94,7 @@ Born Newcastle-upon-Tyne, Northumberland England on 27 August 1827 to Thomas Lil
 
 <figure markdown>
   ![Sir Charles Lilley, 1879](../assets/charles-lilley-1879.jpg){ width=40% class="full-width" }
-  <figcaption markdown>[Sir Charles Lilley](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183514119802061), 1879 - State Library of Queensland.</figcaption>
+  <figcaption markdown>[Sir Charles Lilley](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183514119802061), 1879 — State Library of Queensland.</figcaption>
 </figure>
 
 --8<-- "snippets/john-laskey-woolcock.md"
@@ -107,11 +107,11 @@ Compiled and presented by Lyn and Darcy Maddock
 
 ## Sources
 
-- [Sir Harry Gibbs](https://legalheritage.sclqld.org.au) - Legal Heritage Centre
-- [National Archives of Australia](https://www.naa.gov.au) - Commonwealth of Australia
-- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
-- [Trove](https://trove.nla.gov.au) - National Library of Australia
-- [Australian Dictionary of Biography](https://adb.anu.edu.au) - Australian National University
+- [Sir Harry Gibbs](https://legalheritage.sclqld.org.au) — Legal Heritage Centre
+- [National Archives of Australia](https://www.naa.gov.au) — Commonwealth of Australia
+- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) — The State of Queensland
+- [Trove](https://trove.nla.gov.au) — National Library of Australia
+- [Australian Dictionary of Biography](https://adb.anu.edu.au) — Australian National University
 - [The Prosecution Project - Queensland Courts](https://prosecutionproject.griffith.edu.au/other-resources/queensland-courts/)
 
 <!--

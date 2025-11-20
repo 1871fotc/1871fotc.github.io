@@ -6,4 +6,4 @@ The funeral was marked by the naval honours due to Fleet Paymaster Pollock's ran
 
 ![Edward Vincent Pollock's headstone](../assets/anchor.jpg){ width="40%" }  ![E. V. Pollock, Staff Paymaster](../assets/edward-vincent-pollock.jpg){ width="40.4%" }  
 
-*<small>[E. V. Pollock, Staff Paymaster](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218736630002061) - State Library of Queensland </small>* 
+*<small>[E. V. Pollock, Staff Paymaster](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218736630002061) — State Library of Queensland </small>* 

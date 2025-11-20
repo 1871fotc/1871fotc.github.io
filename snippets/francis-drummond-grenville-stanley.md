@@ -4,9 +4,9 @@ A noted colonial architect, F.D.G. Stanley designed many of Toowong’s grand ho
 
 ![St. Thomas' Church Toowong, looking from Burns Road, Brisbane, Queensland, ca. 1917](../assets/st-thomas-church-toowong-ca1917.jpg){ width="60%" } ![Portrait of Colonial Architect Francis Drummond Greville Stanley](../assets/francis-drummond-grenville-stanley.jpg){ width="28.2%" }
 
-*<small>[St. Thomas' Church Toowong, looking from Burns Road, Brisbane, Queensland, ca. 1917](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220179080002061) - State Library of Queensland </small>*
+*<small>[St. Thomas' Church Toowong, looking from Burns Road, Brisbane, Queensland, ca. 1917](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220179080002061) — State Library of Queensland </small>*
 
-*<small>[Portrait of Colonial Architect Francis Drummond Greville Stanley](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/tqqf2h/alma99184003660702061) - State Library of Queensland </small>*
+*<small>[Portrait of Colonial Architect Francis Drummond Greville Stanley](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/tqqf2h/alma99184003660702061) — State Library of Queensland </small>*
 
 <!--
 http://queenswharf.org/people/francis-drummond-greville-stanley/

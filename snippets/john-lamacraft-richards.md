@@ -4,4 +4,4 @@ John Lamacraft Richards was a native of Devon in England. He arrived in Brisbane
 
 ![First Brisbane Fire Stations, 1868-1882](../assets/first-brisbane-fire-stations-1868-1882.jpg){ width="100%" }
 
-*<small>[First Brisbane Fire Stations, 1868-1882](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21253913780002061), presented on his retirement from his position as Head Teacher at the Milton State School, Brisbane from 1888 to 1916 - State Library of Queensland. </small>*
+*<small>[First Brisbane Fire Stations, 1868-1882](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21253913780002061), presented on his retirement from his position as Head Teacher at the Milton State School, Brisbane from 1888 to 1916 — State Library of Queensland. </small>*

@@ -4,5 +4,5 @@ Pattie Soutter was born in Hull, England and came to Queensland in 1882. She was
 
 <figure markdown>
   ![Soutter family pictured in a garden setting, Brisbane, 1910](../assets/martha-soutter.jpg){ width=70% class="full-width" }
-  <figcaption markdown>[Soutter family pictured in a garden setting, Brisbane, 1910](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183505973802061). Pattie Soutter (seated) on the left - State Library of Queensland.</figcaption>
+  <figcaption markdown>[Soutter family pictured in a garden setting, Brisbane, 1910](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183505973802061). Pattie Soutter (seated) on the left — State Library of Queensland.</figcaption>
 </figure>

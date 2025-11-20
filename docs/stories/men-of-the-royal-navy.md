@@ -45,8 +45,8 @@ search:
 
 ## Sources
 
-- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
-- [Trove](https://trove.nla.gov.au) - National Library of Australia
+- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) — The State of Queensland
+- [Trove](https://trove.nla.gov.au) — National Library of Australia
 - [ancestry.com.au](https://www.ancestry.com.au/)
 - Royal Navy records UK
 - Peter Collins CGMM

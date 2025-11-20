@@ -12,8 +12,8 @@ Leitner remained with Castlemaine as their Head Brewer throughout the 1920s cont
 
 ![Fourex beer advertisement by Castlemaine Perkins Ltd., 1920](../assets/mr-fourex-1920.jpg){ width="18.35%" } ![Staff and vehicles of Castlemaine Perkins Limited outside the brewery in Milton Road, Brisbane, ca. 1929](../assets/castlemaine-perkins-brewery-1929.jpg){ width="77%" } 
 
-*<small>[Fourex beer advertisement by Castlemaine Perkins Ltd., 1920](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218510830002061) - State Library of Queensland. </small>* <br>
-*<small>[Staff and vehicles of Castlemaine Perkins Limited outside the brewery in Milton Road, Brisbane, ca. 1929](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218338890002061) - State Library of Queensland. </small>*
+*<small>[Fourex beer advertisement by Castlemaine Perkins Ltd., 1920](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218510830002061) — State Library of Queensland. </small>* <br>
+*<small>[Staff and vehicles of Castlemaine Perkins Limited outside the brewery in Milton Road, Brisbane, ca. 1929](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218338890002061) — State Library of Queensland. </small>*
 
 <!--
 ‘[Ashgrove Time Capsule](https://www.househistories.org/ashgrove-time-capsule)’, House and Suburban Histories from South East Queensland

@@ -67,11 +67,11 @@ Compiled and presented by Lyn Maddock
 
 ## Sources
 
-- [Australian Dictionary of Biography](https://adb.anu.edu.au) - Australian National University
-- [Trove](https://trove.nla.gov.au) - National Library of Australia
-- [Queensland Premiers](https://www.qld.gov.au/about/about-queensland/history/premiers) - The State of Queensland
-- [Leading lights Leontine Cooper](https://womenssuffragepetitions.wordpress.com/2014/03/31/leading-lights-leontine-cooper/) - Women's Suffrage Petitions – Queensland
+- [Australian Dictionary of Biography](https://adb.anu.edu.au) — Australian National University
+- [Trove](https://trove.nla.gov.au) — National Library of Australia
+- [Queensland Premiers](https://www.qld.gov.au/about/about-queensland/history/premiers) — The State of Queensland
+- [Leading lights Leontine Cooper](https://womenssuffragepetitions.wordpress.com/2014/03/31/leading-lights-leontine-cooper/) — Women's Suffrage Petitions – Queensland
 - Young, P, 2002: Emma Miller and the Campaign for Women's Suffrage in Queensland, 1984-1905. Memoirs of the Queensland Cultural Series 2(2): 223-230, Brisbane. ISSN 1440-4788
-- [Sir Charles Lilley QC](https://www.sclqld.org.au/judicial-papers/judicial-profiles/profiles/clilley) - Supreme Court Library Queensland
+- [Sir Charles Lilley QC](https://www.sclqld.org.au/judicial-papers/judicial-profiles/profiles/clilley) — Supreme Court Library Queensland
 
 <!-- https://hecate.communications-arts.uq.edu.au/files/4639/Centenary%20of%20Women%27s%20Suffrage%20in%20Queensland.pdf -->

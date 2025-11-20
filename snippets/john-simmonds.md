@@ -63,7 +63,7 @@ J.H. Simmonds made a point of photographing the tombstones he worked on. He intr
 
 <figure markdown>
   ![St Andrew's Presbyterian Church on Ann Street, Brisbane, with stonemason next door, ca. 1915](../assets/j-simmonds-monumental-works.jpg){ width="40%' class="full-width" }
-  <figcaption markdown>[St Andrew's Presbyterian Church on Ann Street, Brisbane, with stonemason next door, ca. 1915](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/tqqf2h/alma99183505905002061) - State Library of Queensland. In March 1896 [John Simmonds moved his business to Ann-street](https://trove.nla.gov.au/newspaper/article/20446535?searchTerm=Simmonds%20monumental%20mason), near Creek-Street and the Central Station.</figcaption>
+  <figcaption markdown>[St Andrew's Presbyterian Church on Ann Street, Brisbane, with stonemason next door, ca. 1915](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/tqqf2h/alma99183505905002061) — State Library of Queensland. In March 1896 [John Simmonds moved his business to Ann-street](https://trove.nla.gov.au/newspaper/article/20446535?searchTerm=Simmonds%20monumental%20mason), near Creek-Street and the Central Station.</figcaption>
 </figure>
 
 <!--

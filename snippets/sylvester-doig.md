@@ -4,4 +4,4 @@ One of the early newspaper editors in Moreton Bay, Scottish-born Sylvester came 
 
 ![Page 1 of the Moreton Bay Courier, 1 January 1853](../assets/moreton-bay-courier-1853.jpg){ width="30%" }
 
-<small>[The Moreton Bay Courier (Brisbane, Qld. : 1846 - 1861) 1 January 1853](https://trove.nla.gov.au/newspaper/page/542214) - National Library of Australia</small>
+<small>[The Moreton Bay Courier (Brisbane, Qld. : 1846 - 1861) 1 January 1853](https://trove.nla.gov.au/newspaper/page/542214) — National Library of Australia</small>

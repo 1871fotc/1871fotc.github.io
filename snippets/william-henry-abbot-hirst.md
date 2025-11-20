@@ -4,5 +4,5 @@ Born Sydney on 21 February 1837 to William Hirst and Elizabeth Abbott. William H
 
 <figure markdown>
   ![William Henry Abbott Hirst](../assets/william-henry-abbot-hirst.jpg){ width=40% class="full-width" }
-  <figcaption markdown>[William Henry Abbott Hirst](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183506900402061) - State Library of Queensland.</figcaption>
+  <figcaption markdown>[William Henry Abbott Hirst](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183506900402061) — State Library of Queensland.</figcaption>
 </figure>

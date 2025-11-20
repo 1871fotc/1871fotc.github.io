@@ -67,11 +67,11 @@ Compiled and presented by Darcy and Lyn Maddock
 
 ## Sources
 
-- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
-- [Trove](https://trove.nla.gov.au) - National Library of Australia
-- [The Honourable Hereward Henchman](https://www.sclqld.org.au/judicial-papers/judicial-profiles/profiles/hhhenchman) - Supreme Court Library Queensland
+- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) — The State of Queensland
+- [Trove](https://trove.nla.gov.au) — National Library of Australia
+- [The Honourable Hereward Henchman](https://www.sclqld.org.au/judicial-papers/judicial-profiles/profiles/hhhenchman) — Supreme Court Library Queensland
 - Who's Who in Australia, 1921-1950 
-- [Brisbane Lawyers – Splendid Men of the Old School](http://www.brisbanehistory.com/brisbane_lawyers.html) - www.brisbanehistory.com
+- [Brisbane Lawyers – Splendid Men of the Old School](http://www.brisbanehistory.com/brisbane_lawyers.html) — www.brisbanehistory.com
 - American Civil War Round Table Queensland 
 - http://www.sampfordarundel.org.uk/sampage60.php *(broken)*
 - http://archival-classic.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=886767 *(broken)*

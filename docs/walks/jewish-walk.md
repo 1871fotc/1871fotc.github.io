@@ -13,7 +13,7 @@ icon: fontawesome/solid/person-walking
 
 <figure markdown>
   ![The Brisbane Synagogue, ca. 1906](../assets/brisbane-synagogue-1906.jpg){ class="full-width" }
-  <figcaption markdown>[The Brisbane Synagogue, ca. 1906](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218659720002061). Erected in Margaret Street in 1885 and consecrated on 18 July 1886 - State Library of Queensland. Cropped.</figcaption>
+  <figcaption markdown>[The Brisbane Synagogue, ca. 1906](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218659720002061). Erected in Margaret Street in 1885 and consecrated on 18 July 1886 — State Library of Queensland. Cropped.</figcaption>
 </figure>
 
 This is a Jewish Cemetery. Our population in Queensland is quite small, so its cemeteries number only ten and some have rarely been used. In Brisbane there is one at Toowong dating back from the 1870's and the other is at Mt Gravatt, which opened in 1966. Originally there was a small area in the old Lang Park (Paddington) Cemetery, but that was closed and the 3 known Jewish burials, and their monuments, were brought to Toowong in 1913. 

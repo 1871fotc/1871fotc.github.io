@@ -6,4 +6,4 @@ Sam‘s name was familiar in all the principles theatres in Australia. He held a
 
 !["Original Georgia Minstrels" composite image with founder Charles Hicks at center](../assets/original-georgia-minstrels.jpg){ width="40%" }  
 
-*<small>["Original Georgia Minstrels" composite image with founder Charles Hicks at center](https://en.wikipedia.org/wiki/Brooker_and_Clayton%27s_Georgia_Minstrels) - State Library of Queensland </small>* 
+*<small>["Original Georgia Minstrels" composite image with founder Charles Hicks at center](https://en.wikipedia.org/wiki/Brooker_and_Clayton%27s_Georgia_Minstrels) — State Library of Queensland </small>* 

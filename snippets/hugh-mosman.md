@@ -7,4 +7,4 @@ Hugh was a member of Queensland's Legislative Council from 27 June 1891 until hi
 
 ![Hugh Mosman](../assets/hugh-mosman.jpg){ width="40%" } 
 
-*<small>[Hugh Mosman](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220442580002061) - State Library of Queensland </small>*  
+*<small>[Hugh Mosman](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220442580002061) — State Library of Queensland </small>*  

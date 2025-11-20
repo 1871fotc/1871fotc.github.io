@@ -4,4 +4,4 @@ Charles was the printer of the very first issue of *The Telegraph* newspaper in 
 
 ![River views across to the Brisbane Museum and Government Printing Office, 1887](../assets/queensland-government-printing-office-1887.jpg){ width="70%" }
 
-<small>[River views across to the Brisbane Museum and Government Printing Office](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21272136670002061), 1887 - State Library of Queensland</small>
+<small>[River views across to the Brisbane Museum and Government Printing Office](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21272136670002061), 1887 — State Library of Queensland</small>

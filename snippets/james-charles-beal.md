@@ -9,5 +9,5 @@ James Beal was born in 1830 in Sydney where he served his apprenticeship at the 
 ![Queensland's first Government Printing Office, Brisbane, ca. 1869](../assets/queensland-government-printing-office-1869.jpg){ width="47.4%" }
 ![Government Printing Office, Brisbane, ca. 1883](../assets/queensland-government-printing-office-sketch-1883.jpg){ width="45%" }
 
-<small>[Queensland's first Government Printing Office, Brisbane, ca. 1869](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218169560002061) - State Library of Queensland</small> <br>
-<small>[Government Printing Office, Brisbane, ca. 1883](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21271316800002061) - State Library of Queensland</small>
+<small>[Queensland's first Government Printing Office, Brisbane, ca. 1869](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218169560002061) — State Library of Queensland</small> <br>
+<small>[Government Printing Office, Brisbane, ca. 1883](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21271316800002061) — State Library of Queensland</small>

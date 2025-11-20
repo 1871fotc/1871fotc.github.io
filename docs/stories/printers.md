@@ -57,9 +57,9 @@ Compiled and presented by Lyn Maddock
 ## Sources
 
 - Lack, Clem, [A Centuary of Brisbane Journalism](https://espace.library.uq.edu.au), 1951
-- [Trove](https://trove.nla.gov.au) - National Library of Australia
-- [Australian Dictionary of Biography](https://adb.anu.edu.au) - Australian National University
-- [Memorial search](https://brisbane.discovereverafter.com) - Brisbane City Council
+- [Trove](https://trove.nla.gov.au) — National Library of Australia
+- [Australian Dictionary of Biography](https://adb.anu.edu.au) — Australian National University
+- [Memorial search](https://brisbane.discovereverafter.com) — Brisbane City Council
 
 <!--
 <div class="noprint" markdown="1">

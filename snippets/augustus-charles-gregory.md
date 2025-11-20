@@ -4,7 +4,7 @@ The well‑known explorer [Gregory](https://adb.anu.edu.au/biography/gregory-sir
 
 ![Sir Augustus Charles Gregory lying in state, Brisbane, 1905](../assets/augustus-charles-gregory-lying-in-state.jpg){ width="61%" }  ![Sir Augustus Gregory](../assets/augustus-charles-gregory.jpg){ width="27.8%" }
 
-*<small>[Sir Augustus Charles Gregory lying in state, Brisbane, 1905](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool73174) - State Library of Queensland </small>* <br>
-*<small>[Sir Augustus Gregory](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220172660002061) - State Library of Queensland </small>*
+*<small>[Sir Augustus Charles Gregory lying in state, Brisbane, 1905](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool73174) — State Library of Queensland </small>* <br>
+*<small>[Sir Augustus Gregory](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220172660002061) — State Library of Queensland </small>*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NvN9JeFc34w?si=y64wUMSH5ywKnrmJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -14,4 +14,4 @@ He represented Port Phillip from August 1845 to June 1848 and then became Commis
 
 ![Sir Maurice Charles O'Connell](../assets/maurice-charles-oconnell.jpg){ width="40%" }
 
-*<small>[Sir Maurice Charles O'Connell](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21251755050002061) - State Library of Queensland </small>*
+*<small>[Sir Maurice Charles O'Connell](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21251755050002061) — State Library of Queensland </small>*

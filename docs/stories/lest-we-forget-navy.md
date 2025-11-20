@@ -28,7 +28,7 @@ Harrhy, aged 36, had been in the navy for over fifteen years and had a splendid 
 
 ![Royal Navy ships HMS Danae, HMS Dauntless, HMS Dragon and HMS Delhi docked at South Brisbane wharves, 1924](../assets/docked-naval-ships-1924.jpg)
 
-*<small>[Royal Navy ships HMS Danae, HMS Dauntless, HMS Dragon and HMS Delhi docked at South Brisbane wharves, 1924](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220252580002061) - State Library of Queensland </small>*
+*<small>[Royal Navy ships HMS Danae, HMS Dauntless, HMS Dragon and HMS Delhi docked at South Brisbane wharves, 1924](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220252580002061) — State Library of Queensland </small>*
 
 ## Maurice Headford <small>[(10‑72‑35)](https://brisbane.discovereverafter.com/profile/31988140 "Go to Memorial Information" )</small>
 

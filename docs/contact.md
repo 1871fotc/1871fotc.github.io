@@ -43,7 +43,7 @@ You can send a letter to:
 <!--
 ![Woman typing on a typewriter, ca. 1915](../assets/woman-typing.jpg){ width="40%" }
 
-*<small>[Woman typing on a typewriter, ca. 1915](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218088650002061) - State Library of Queensland.</small>*
+*<small>[Woman typing on a typewriter, ca. 1915](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218088650002061) — State Library of Queensland.</small>*
 -->
 
 <figure markdown>

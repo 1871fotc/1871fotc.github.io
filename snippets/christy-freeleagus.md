@@ -15,4 +15,4 @@ When Freeleagus died of a heart attack on 16 May 1957, he had successfully found
 
 ![Christy Freeleagus, wearing the Greek army uniform, ca. 1922](../assets/christy-freeleagus-1922.jpg){ width="30%" } 
 
-*<small>[Christy Freeleagus, wearing the Greek army uniform, ca. 1922](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220374280002061) - State Library of Queensland. </small>* 
+*<small>[Christy Freeleagus, wearing the Greek army uniform, ca. 1922](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220374280002061) — State Library of Queensland. </small>* 

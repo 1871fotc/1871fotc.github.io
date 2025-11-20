@@ -8,5 +8,5 @@ By his death in 1919, he had nineteen ships, although he had retired in 1915 sta
 
 ![Page 27 of the Queenslander Pictorial, supplement to The Queenslander, 14 June, 1919](../assets/captain-john-burke.png){ width="25.25%" }  ![Adonis (ship)](../assets/adonis-ship.jpg){ width="70%" } 
 
-*<small>[Page 27 of the Queenslander Pictorial, supplement to The Queenslander, 14 June, 1919.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool1045834) - State Library of Queensland </small>*  <br>
+*<small>[Page 27 of the Queenslander Pictorial, supplement to The Queenslander, 14 June, 1919.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool1045834) — State Library of Queensland </small>*  <br>
 *<small>The [Adonis (ship)](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21250468940002061) was built in 1883 and was owned by Dath Henderson, Brisbane, who also owned a sawmill on the Noosa River at Tewantin. The Adonis was later sold to John Burke in Brisbane, Queensland. — State Library of Queensland.</small>*

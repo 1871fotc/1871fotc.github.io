@@ -14,4 +14,4 @@ James McWhirter (junior) died in Sydney in September 1919 of pneumonia. Such was
 
 ![McWhirter's department store in Fortitude Valley, 1913](../assets/mcwhirters-department-store-1913.jpg){ width="90%" }
 
-*<small>[McWhirter's department store in Fortitude Valley, 1913](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21298085210002061) - State Library of Queensland. </small>*
+*<small>[McWhirter's department store in Fortitude Valley, 1913](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21298085210002061) — State Library of Queensland. </small>*

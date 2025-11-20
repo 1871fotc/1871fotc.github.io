@@ -8,4 +8,4 @@ Alfred Cannon died on 11 September 1915 aged 71 at his home Airlie, Edmondstone,
 
 ![Flyer for Cannon and Cripps, Undertakers in Brisbane, Queensland, 1902](../assets/cannon-and-cripps-flyer.jpg){ width="35%" } 
 
-*<small>[Flyer for Cannon and Cripps, Undertakers in Brisbane, Queensland, 1902](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218761440002061) - State Library of Queensland. </small>*
+*<small>[Flyer for Cannon and Cripps, Undertakers in Brisbane, Queensland, 1902](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218761440002061) — State Library of Queensland. </small>*

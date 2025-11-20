@@ -9,5 +9,5 @@ Upon Federation, he won election to the first Senate, and was chosen to be Postm
 
 <figure markdown>
   ![Hon. James George Drake](../assets/james-george-drake.jpg){ width=40% class="full-width" }
-  <figcaption markdown>[Hon. James George Drake](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183507087102061) - State Library of Queensland.</figcaption>
+  <figcaption markdown>[Hon. James George Drake](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183507087102061) — State Library of Queensland.</figcaption>
 </figure>

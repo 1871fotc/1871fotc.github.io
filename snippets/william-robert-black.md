@@ -8,5 +8,5 @@ After his retirement 1920, Black sought to share his wealth, contributing throug
 
 ![William Robert Black, ca. 1898](../assets/william-robert-black-1898.jpg){ width="35.2%" } ![William Robert Black, ca. 1931](../assets/william-robert-black-1931.jpg){ width="55%" } 
 
-*<small>[William Robert Black, ca. 1898](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218186840002061) - State Library of Queensland. </small>* <br>
-*<small>[William Robert Black](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool195043), ca. 1931 - State Library of Queensland. </small>*
+*<small>[William Robert Black, ca. 1898](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218186840002061) — State Library of Queensland. </small>* <br>
+*<small>[William Robert Black](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool195043), ca. 1931 — State Library of Queensland. </small>*

@@ -6,4 +6,4 @@ Peter was an extremely capable rider. According to those who knew him he was as 
 
 ![Jockeys Peter Morgan and Tom Spencer, 1941](../assets/peter-morgan.jpg){ width="70%" }
 
-*<small>[Two jockeys having a friendly chat, 1941](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220068470002061). Left to right, jockeys Peter Morgan and Tom Spencer pose for the camera - State Library of Queensland. Tragically [Peter Morgan drowned in Schultz Canal](https://trove.nla.gov.au/newspaper/article/42787041) at Hendra/Toombul. </small>*
+*<small>[Two jockeys having a friendly chat, 1941](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220068470002061). Left to right, jockeys Peter Morgan and Tom Spencer pose for the camera — State Library of Queensland. Tragically [Peter Morgan drowned in Schultz Canal](https://trove.nla.gov.au/newspaper/article/42787041) at Hendra/Toombul. </small>*

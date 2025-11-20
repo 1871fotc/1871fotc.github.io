@@ -68,15 +68,15 @@ Compiled and presented by Lyn Maddock
 
 ## Sources
 
-- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
-- [Search the Records](https://www.qld.gov.au/recreation/arts/heritage/archives/search-the-records) - The State of Queensland (Queensland State Archives)
-- [Trove](https://trove.nla.gov.au) - National Library of Australia
+- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) — The State of Queensland
+- [Search the Records](https://www.qld.gov.au/recreation/arts/heritage/archives/search-the-records) — The State of Queensland (Queensland State Archives)
+- [Trove](https://trove.nla.gov.au) — National Library of Australia
 - [A History of Fish Lane, part 3: The Fish Steam Laundry](https://www.slq.qld.gov.au/blog/history-fish-lane-part-3-fish-steam-laundry) — State Library of Queensland 
 - [James Trackson's tracks: Queensland's first motorist](https://www.slq.qld.gov.au/blog/james-tracksons-tracks-queenslands-first-motorist) — State Library of Queensland
 - [William Pettigrew 1825 - 1906: Sawmiller, surveyor, shipowner and citizen : an immigrant's life in colonial Queensland](../assets/documents/William-Pettigrew-1825-1906.pdf) - Elaine Rosemary Brown. Via [UQ eSpace](https://espace.library.uq.edu.au/view/UQ:189814)
 - Javis Finger, *A Calvalcade of Queensland's Criminals*, 2012
-- [The Splendid Clipper 'Sobraon'](https://sydneylivingmuseums.com.au/stories/splendid-clipper-sobraon) - Sydney Living Museums 
+- [The Splendid Clipper 'Sobraon'](https://sydneylivingmuseums.com.au/stories/splendid-clipper-sobraon) — Sydney Living Museums 
 - Col Dunn, *The History of Electricity in Queensland*, 1985
-- [Babbidge, Benjamin Harris (1836–1905)](https://adb.anu.edu.au/biography/babbidge-benjamin-harris-42) - Australian Dictionary of Biography
+- [Babbidge, Benjamin Harris (1836–1905)](https://adb.anu.edu.au/biography/babbidge-benjamin-harris-42) — Australian Dictionary of Biography
 - [Forgotten weavers' housing of the Spitalfields silk district in London](https://www.family-tree.co.uk/how-to-guides/forgotten-weavers-housing-of-the-spitalfields-silk-district-in-london/)
 - [ancestry.com.au](https://www.ancestry.com.au/)

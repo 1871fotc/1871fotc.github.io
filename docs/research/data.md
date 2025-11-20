@@ -149,4 +149,4 @@ We may encourage reuse of our data by participating in hack-a-thons (such as [Go
 
 ![Posting of the election results on the outside of the Courier building, 1907](../assets/election-results-outside-the-courier-building-1907.jpg)
 
-*<small>[Posting of the election results on the outside of the Courier building, 1907](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21298100600002061) - State Library of Queensland. Cropped</small>*
+*<small>[Posting of the election results on the outside of the Courier building, 1907](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21298100600002061) — State Library of Queensland. Cropped</small>*

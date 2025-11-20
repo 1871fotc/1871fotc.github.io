@@ -13,7 +13,7 @@ description: Mother of the Australian Labor Party
 
 ![Portrait of Mrs. Emma Miller](../assets/emma-miller.jpg){ width="28.85%" }  ![Marble Bust of Emma Miller held at Queensland Council of Unions by sculptor James Laurence Watts](../assets/emma-miller-marble-bust.jpg){ width="25.75%" }
 
-*<small>[Portrait of Mrs. Emma Miller](http://onesearch.slq.qld.gov.au/permalink/f/1c7c5vg/slq_alma21220238260002061) - State Library of Queensland. </small>* <br>
+*<small>[Portrait of Mrs. Emma Miller](http://onesearch.slq.qld.gov.au/permalink/f/1c7c5vg/slq_alma21220238260002061) — State Library of Queensland. </small>* <br>
 *<small>[Marble Bust of Emma Miller held at Queensland Council of Unions by sculptor James Laurence Watts](https://en.wikipedia.org/wiki/File:Marble_Bust_of_Emma_Miller_held_at_Queensland_Council_of_Unions.jpg) by Alphi123, used under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  </small>*
 
 ![Arthur Hoey Davis - Steele Rudd, Charles Lilley and Emma Miller statues located in King George Square in Brisbane, Australia.](../assets/arthur-hoey-davis--charles-lilley--emma-miller-statues.jpg){ width="55%" }

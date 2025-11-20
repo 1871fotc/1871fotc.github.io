@@ -6,5 +6,5 @@ After his death, his son [Dr. Thomas Lane Bancroft](https://adb.anu.edu.au/biogr
 
 <figure markdown>
   ![Dr. Joseph Bancroft](../assets/joseph-bancroft.jpg){ width="30%" }
-  <figcaption markdown>[Dr. Joseph Bancroft](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183797661502061) - State Library of Queensland</figcaption>
+  <figcaption markdown>[Dr. Joseph Bancroft](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183797661502061) — State Library of Queensland</figcaption>
 </figure>

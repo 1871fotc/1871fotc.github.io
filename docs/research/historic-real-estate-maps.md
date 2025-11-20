@@ -377,7 +377,7 @@ Map with hand-coloured areas in red showing extent of flooding in 1931.
 
 ![Brisbane 1931 Flood Levels](../assets/real-estate-maps/brisbane-flood-map-1931.jpg){ width="45%" loading=lazy }
 
-<small>*[Map - Brisbane 1931 Flood Levels](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/24538/0), Brisbane City Council. May be reproduced for non-commercial purposes with acknowledgement.*</small>
+<small>*[Map — Brisbane 1931 Flood Levels](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/24538/0), Brisbane City Council. May be reproduced for non-commercial purposes with acknowledgement.*</small>
 
 
 ## Eskmount Estate 1936

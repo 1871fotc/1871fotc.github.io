@@ -60,7 +60,7 @@ The Toowong Cemetery was officially opened on 5 July 1875 and was originally cal
 <!--
 ![Plan of Parish of Enoggera showing Brisbane General Cemetery, 1876](assets/enoggera-parish-1876.jpg){ width="96%" loading=lazy }
 
-*[Plan of portions no.s 830b, 865, 866, 866a, 867, 867a & 868 to 872, Parish of Enoggera, County of Stanley, District of Moreton](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma997041034702061) showing Brisbane General Cemetery, 1876 - State Library of Queensland. Cropped.*
+*[Plan of portions no.s 830b, 865, 866, 866a, 867, 867a & 868 to 872, Parish of Enoggera, County of Stanley, District of Moreton](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma997041034702061) showing Brisbane General Cemetery, 1876 — State Library of Queensland. Cropped.*
 -->
 
 ![Toowong Cemetery, Brisbane, ca. 1890](assets/toowong-cemetery-ca1890.jpg){ width="96%" loading=lazy data-title="Toowong Cemetery, Brisbane, ca. 1890"} 

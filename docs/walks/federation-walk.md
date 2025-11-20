@@ -23,7 +23,7 @@ Despite many arguments against federation, the Federal Referendum on the 2^nd^ o
 
 ![Crowds looking at the results board at the Courier Building on Referendum Night, Brisbane, Queensland, 1889](../assets/federation-referendum-results-1889.jpg){ class="full-width" }
 
-*<small>[Crowds looking at the results board at the Courier Building on Referendum Night, Brisbane, Queensland, 1889](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21297968950002061) - State Library of Queensland. Cropped. </small>* 
+*<small>[Crowds looking at the results board at the Courier Building on Referendum Night, Brisbane, Queensland, 1889](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21297968950002061) — State Library of Queensland. Cropped. </small>* 
 
 
 --8<-- "snippets/conditions-of-entry.md"
@@ -89,7 +89,7 @@ The Commonwealth of Australia was inaugurated under a pavilion erected for the o
 
 ![Federation celebrations in Queen Street, Brisbane, 1901](../assets/federation-celebrations-1901.jpg){ class="full-width" } 
 
-*<small>[Federation celebrations in Queen Street, Brisbane, 1901](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218848990002061) - State Library of Queensland </small>*     
+*<small>[Federation celebrations in Queen Street, Brisbane, 1901](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218848990002061) — State Library of Queensland </small>*     
 
 ## Further Reading
 

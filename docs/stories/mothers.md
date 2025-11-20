@@ -59,7 +59,7 @@ The family resided at *Green Hill*, Alderley. Mary and Kitty died on 13 March 19
 
 ![The Green Hill Estate Alderley, 1914](../assets/green-hill-estate.jpg){ width="50%"}
 
-*<small>[The Green Hill Estate Alderley / Isles Love & Co., Auctioneers ; Harry Raff, Surveyor.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21124184580002061) Plan of allotments to be sold by public auction, Saturday, 14th March, 1914. Land for sale is subdivisions of portions 445 & 446, Enoggera - State Library of Queensland.</small>*
+*<small>[The Green Hill Estate Alderley / Isles Love & Co., Auctioneers ; Harry Raff, Surveyor.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21124184580002061) Plan of allotments to be sold by public auction, Saturday, 14th March, 1914. Land for sale is subdivisions of portions 445 & 446, Enoggera — State Library of Queensland.</small>*
 
 --8<-- "snippets/sarah-woulfe.md"
 
@@ -87,11 +87,11 @@ The family resided in Ipswich until Dr. Lightoller travelled to Europe from Marc
 
 ![Palmarosa, 1893](../assets/palmarosa-1893.jpg){ width="100%" }
 
-*<small>[Floodwaters in Newstead, 1893](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218173890002061), looking north-east from Jordan Terrace, Bowen Hills. On the hillside beyond, the house 'Palma Rosa' at 9 Queens Road, Hamilton, is visible.  - State Library of Queensland. Cropped. Annotation added.</small>*
+*<small>[Floodwaters in Newstead, 1893](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218173890002061), looking north-east from Jordan Terrace, Bowen Hills. On the hillside beyond, the house 'Palma Rosa' at 9 Queens Road, Hamilton, is visible.  — State Library of Queensland. Cropped. Annotation added.</small>*
 
 ![Highlands, a residence in Albion, Brisbane, 1930](../assets/highlands-1930.jpg){ width="100%" }
 
-*<small>[Highlands, a residence in Albion, Brisbane, 1930](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool50472)  - State Library of Queensland. Cropped.</small>*
+*<small>[Highlands, a residence in Albion, Brisbane, 1930](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool50472) — State Library of Queensland. Cropped.</small>*
 
 
 ## Helen Dugald Street <small>[(12‑39‑24)](https://brisbane.discovereverafter.com/profile/31791577 "Go to Memorial Information" )</small>
@@ -116,7 +116,7 @@ TODO Confirm this is Eliza
 
 ![Mrs T. Finney](../assets/x.jpg)
 
-*<small>[Mrs T. Finney](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218142500002061  - State Library of Queensland.</small>*
+*<small>[Mrs T. Finney](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218142500002061  — State Library of Queensland.</small>*
 -->
 
 ## Annie Watson Turner <small>[(13‑70‑7/8)](https://brisbane.discovereverafter.com/profile/31699631 "Go to Memorial Information" )</small>

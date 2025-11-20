@@ -4,12 +4,12 @@
 
 ![Part of an early panorama of the city of Brisbane 1865](../assets/raffs-wharf-1865.jpeg){ width="98%" }  
 
-*<small>[Part of an early panorama of the city of Brisbane 1865](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1dejkfd/alma99183788416902061) including Raff's Wharf - State Library of Queensland.</small>* 
+*<small>[Part of an early panorama of the city of Brisbane 1865](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1dejkfd/alma99183788416902061) including Raff's Wharf — State Library of Queensland.</small>* 
 
 By 1880 he had established a rolling stock workshop in Hope Street, South Brisbane. He was the first successful tenderer for the manufacture of railway goods wagons for the Queensland Government. He was mayor of Brisbane in 1885-86. Benjamin died on 19 February 1905 aged 68.
 
 
 ![Benjamin Harris Babbidge - Mayor of Brisbane, 1885](../assets/benjamin-harris-babbidge.jpg){ width="33%" }  
 
-*<small>[Benjamin Harris Babbidge - Mayor of Brisbane, 1885](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/19780/0) - Brisbane City Council </small>* 
+*<small>[Benjamin Harris Babbidge - Mayor of Brisbane, 1885](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/19780/0) — Brisbane City Council </small>* 
 

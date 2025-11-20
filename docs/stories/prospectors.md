@@ -24,7 +24,7 @@ search:
 
 ![Horsedrawn whim at a goldfield in Gympie, 1870-1880](../assets/gympie-goldfield.jpg){ width="70%" } 
 
-*<small>[Horsedrawn whim at a goldfield in Gympie, 1870-1880](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220354010002061) - State Library of Queensland </small>* 
+*<small>[Horsedrawn whim at a goldfield in Gympie, 1870-1880](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220354010002061) — State Library of Queensland </small>* 
 
 <!--
 ??? directions "Directions" 
@@ -58,7 +58,7 @@ He was the president and secretary Amalgamated Miners Association of Croydon and
 
 ![Honourable William Henry Browne](../assets/william-henry-browne.jpg){ width="35%" }  
 
-*<small>[Honourable William Henry Browne](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218188950002061) - State Library of Queensland </small>* 
+*<small>[Honourable William Henry Browne](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218188950002061) — State Library of Queensland </small>* 
 
 --8<-- "snippets/hugh-mosman.md"
 
@@ -68,10 +68,10 @@ He was the president and secretary Amalgamated Miners Association of Croydon and
 
 ## Sources
 
-- [Memorial Search](https://brisbane.discovereverafter.com/) - Brisbane City Council  
-- [Family History Research](https://www.qld.gov.au/law/births-deaths-marriages-and-divorces/family-history-research) - The State of Queensland
-- [Queensland Parliament: Former Members](https://www.parliament.qld.gov.au/Members/Former-Members) - Queensland Parliament website
-- [Trove](https://trove.nla.gov.au) - National Library of Australia
+- [Memorial Search](https://brisbane.discovereverafter.com/) — Brisbane City Council  
+- [Family History Research](https://www.qld.gov.au/law/births-deaths-marriages-and-divorces/family-history-research) — The State of Queensland
+- [Queensland Parliament: Former Members](https://www.parliament.qld.gov.au/Members/Former-Members) — Queensland Parliament website
+- [Trove](https://trove.nla.gov.au) — National Library of Australia
 
 <!--
 <div class="noprint" markdown="1">

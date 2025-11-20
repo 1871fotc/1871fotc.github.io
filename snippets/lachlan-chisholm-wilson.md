@@ -14,4 +14,4 @@ Wilson died at his New Farm home on 7 April 1947, survived by his wife, son and 
 
 ![Brigadier-General Lachlan Chisholm Wilson presenting a field gun at Brisbane Grammar School Queensland 1921](../assets/lachlan-chisholm-wilson.jpg){ width="90%" }
 
-*<small>[Brigadier-General Lachlan Chisholm Wilson presenting a field gun at Brisbane Grammar School Queensland 1921](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21257852870002061) - State Library of Queensland. Cropped.</small>*
+*<small>[Brigadier-General Lachlan Chisholm Wilson presenting a field gun at Brisbane Grammar School Queensland 1921](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21257852870002061) — State Library of Queensland. Cropped.</small>*

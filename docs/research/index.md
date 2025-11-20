@@ -44,8 +44,8 @@ In 1988, as a Bicentennial project, the [Queensland Family History Society](http
 
 ## Other Resources
 
-- [Grave search and family history](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search) - Brisbane City Council
-- [Family History Research](https://www.familyhistory.bdm.qld.gov.au), Births, Deaths and Marriages - The State of Queensland
+- [Grave search and family history](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search) — Brisbane City Council
+- [Family History Research](https://www.familyhistory.bdm.qld.gov.au), Births, Deaths and Marriages — The State of Queensland
 - [Family History](https://www.slq.qld.gov.au/research-collections/family-history) resources from the State Library of Queensland 
 - [Online History and Genealogy](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/?rm=ONLINE+RESOURC0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&dt=list#History) resources available at Brisbane City Council Libraries
 - [Books about Toowong Cemetery](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/results?qu=Toowong+Cemetery&qf=-ITYPE%09Item+Type%091%3AARCHIVES%09City+Archives+Collection&ac=ITYPE%09Item+Type%091%3ALOC-ST-REF%09Local+Studies+Reference+%7C%7C+1%3AREFERENCE%09Reference+Collection+%7C%7C+1%3ALOCSTUDIES%09Local+Studies+%7C%7C+1%3AARCHIVES%09City+Archives+Collection+%7C%7C+1%3ANONFICTION%09Non-Fiction&ac=ITYPE%09Item+Type%091%3ALOC-ST-REF%09Local+Studies+Reference+%7C%7C+1%3AREFERENCE%09Reference+Collection+%7C%7C+1%3ALOCSTUDIES%09Local+Studies+%7C%7C+1%3AARCHIVES%09City+Archives+Collection+%7C%7C+1%3ANONFICTION%09Non-Fiction) in Brisbane City Council Libraries
@@ -55,7 +55,7 @@ In 1988, as a Bicentennial project, the [Queensland Family History Society](http
 - [Brisbane History West](https://brisbanehistorywest.wordpress.com/) is a collaborative resource set up to provide an internet presence for the history groups in the inner south western suburbs that don’t have their own dedicated website.
 - [Brisbane City Archives](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/libraries/facilities-services/brisbane-city-archives)
 - [Queensland State Archives](https://www.qld.gov.au/recreation/arts/heritage/archives) - historic items about [Brisbane General Cemetery](https://www.archivessearch.qld.gov.au/search?f[]=keywords&has_digital=false&op[]=AND&open=false&q[]=%22Brisbane%20general%20cemetery%22&sort=relevance) and [Toowong Cemetery](https://www.archivessearch.qld.gov.au/search?f[]=keywords&has_digital=false&op[]=AND&open=false&q[]=%22Toowong%20cemetery%22&sort=relevance)
-- [Useful websites for family historians](https://www.slq.qld.gov.au/research-collections/family-history/useful-websites-family-historians) - State Library of Queensland
+- [Useful websites for family historians](https://www.slq.qld.gov.au/research-collections/family-history/useful-websites-family-historians) — State Library of Queensland
 - [Cemetrees](https://cemetrees.wordpress.com), a blog by professional genealogist and local historian Dr. Hilda Maclean to promote the innovative use of death and cemetery records in family and local history. 
 - [Queensland Police Museum](https://www.police.qld.gov.au/museum)
 - [Friends of Queensland Police Museum](https://www.friendsqpmuseum.com.au) who have restored many police graves in Toowong Cemetery and across the State

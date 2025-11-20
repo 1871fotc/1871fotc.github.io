@@ -14,4 +14,4 @@ During World War II Vincent worked in a munitions factory until illness forced h
 
 ![Jeanette Sheldon](../assets/eliza-jeanettie-sheldon.jpg){ width="35%" }  
 
-*<small>[Jeanette Sheldon](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218163840002061) - State Library of Queensland </small>* 
+*<small>[Jeanette Sheldon](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218163840002061) — State Library of Queensland </small>* 

@@ -8,5 +8,5 @@ https://trove.nla.gov.au/newspaper/article/196937137 1890
 
 <figure markdown>
   ![Queensland Drapery House opening advertisment in the The Telegraph, 1877](../assets/edwards-and-chapman-advertisement-1877.jpg){ width="40%"  class="full-width" }
-  <figcaption markdown>Queensland Drapery House opening full column advertisment in the [The Telegraph, 21 March 1877](https://trove.nla.gov.au/newspaper/page/19379817) - National Library of Australia.</figcaption>
+  <figcaption markdown>Queensland Drapery House opening full column advertisment in the [The Telegraph, 21 March 1877](https://trove.nla.gov.au/newspaper/page/19379817) — National Library of Australia.</figcaption>
 </figure>

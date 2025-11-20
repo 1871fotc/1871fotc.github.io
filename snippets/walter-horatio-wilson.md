@@ -4,5 +4,5 @@ W. H. Wilson was a member of the Queensland Legislative Council, Minister of Jus
 
 <figure markdown>
   ![Honourable Walter Horatio Wilson 1887](../assets/walter-horatio-wilson.jpg){ width=40% class="full-width" }
-  <figcaption markdown>[Honourable Walter Horatio Wilson 1887](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183505887202061) - State Library of Queensland.</figcaption>
+  <figcaption markdown>[Honourable Walter Horatio Wilson 1887](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183505887202061) — State Library of Queensland.</figcaption>
 </figure>

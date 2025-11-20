@@ -8,4 +8,4 @@ After Dr. Rowe's sudden death on 27 October 1926, a marble tablet was erected by
 
 ![Funeral procession of Rev. G. E. Rowe, Brisbane, 1926](../assets/george-rowe-funeral-procession-1926.jpg){ width="70%" } 
 
-*<small>[Funeral procession of Rev. G. E. Rowe, Brisbane, 1926](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218456030002061) - State Library of Queensland </small>*
+*<small>[Funeral procession of Rev. G. E. Rowe, Brisbane, 1926](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218456030002061) — State Library of Queensland </small>*

@@ -60,11 +60,11 @@ Compiled and presented by Lyn Maddock with research assistance by Darcy Maddock
 
 ## Sources
 
-- [Adamson, John (1857–1922)](https://biography.senate.gov.au/john-adamson/) - Biographical Dictionary of the Australian Senate
+- [Adamson, John (1857–1922)](https://biography.senate.gov.au/john-adamson/) — Biographical Dictionary of the Australian Senate
 - [Railway refreshment rooms](https://www.qhatlas.com.au/railway-refreshment-rooms) - Queensland Historical Atlas
 - [RBDM Family History Journal, October 2014](https://www.publications.qld.gov.au/dataset/rbdm-qld-family-history-bulletin/resource/24d556f1-4252-4952-a782-e27e45005139)
-- [Trove](https://trove.nla.gov.au) - National Library of Australia
-- William Simpson (1823 – 1899) - Cooke, Brian The Grand Crimean Central Railway, Cavalier House, Knutsford, 1990
+- [Trove](https://trove.nla.gov.au) — National Library of Australia
+- William Simpson (1823 – 1899) — Cooke, Brian The Grand Crimean Central Railway, Cavalier House, Knutsford, 1990
 - "Beatty's Railway". New Cherwell Press 
 - https://www.nationaltrust.org.au/places/grandchester-railway-station/publications.qld.gov.au/storage/f/2014-11-21T04%3A22%3A18.342Z/fhj-issue-5.pdf *(broken link)*
 

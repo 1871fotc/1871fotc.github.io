@@ -24,7 +24,7 @@ In December 1905 Mobsby's 11‑year‑old son [Arthur Timewell drowned](https://
 <!--
 ![Henry William Mobsby, Barcaldine, ca. 1905](../assets/henry-william-mobsby.jpg){ width="40%" }  
 
-*<small>[Photographer Henry William Mobsby, Barcaldine, ca. 1905](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21250438610002061) - State Library of Queensland </small>* 
+*<small>[Photographer Henry William Mobsby, Barcaldine, ca. 1905](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21250438610002061) — State Library of Queensland </small>* 
 
 -->
 

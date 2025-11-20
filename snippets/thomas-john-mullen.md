@@ -7,4 +7,4 @@ He died aged 33 from tuberculosis in a care home called Ardoyne at Corinda where
 ![Group portrait of the 26th Australian Infantry Battalion at Enoggera Military Training Camp, Brisbane, 1915](../assets/26th-australian-infantry-battalion-1915.jpeg){ width="96%" class="full-width" } 
 
 *<small>[Group portrait of the 26th Australian Infantry Battalion at Enoggera Military Training Camp, Brisbane, 1915
-]() - State Library of Queensland.</small>*
+]() — State Library of Queensland.</small>*

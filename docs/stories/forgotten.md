@@ -67,11 +67,11 @@ For a few years the Inebriate Institution had operated on Peel Island, but it wa
 
 ![Waiting for their meal at the Dunwich Benevolent Asylum, North Stradbroke Island, 1938](../assets/dunwich-benevolent-asylum-mealtime.jpeg){ width="70%" class="full-width" } 
 
-*<small>[Waiting for their meal at the Dunwich Benevolent Asylum, North Stradbroke Island, 1938](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183505775102061) - State Library of Queensland.</small>*
+*<small>[Waiting for their meal at the Dunwich Benevolent Asylum, North Stradbroke Island, 1938](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183505775102061) — State Library of Queensland.</small>*
 
 ![Tent town in Dunwich, Queensland, ca. 1928](../assets/dunwich-tent-town.jpeg){ width="70%" class="full-width" } 
 
-*<small>[Tent town in Dunwich, Queensland, ca. 1928](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183513405702061) - State Library of Queensland.</small>*
+*<small>[Tent town in Dunwich, Queensland, ca. 1928](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183513405702061) — State Library of Queensland.</small>*
 
 
 [The Last Resort: the experience of First World War returned soldiers in the Dunwich Benevolent Asylum and the Dunwich Inebriate Institution](https://doi.org/10.17082/j.2205-3239.11.1.2020.2020-11), outlines how there was an outcry over the soldier’s treatment in Dunwich.
@@ -148,13 +148,13 @@ Compiled and presented by Melissa Wren
 ## Sources
 
 
-- [Returned Soldiers in the Dunwich Benevolent Asylum](https://www.slq.qld.gov.au/blog/returned-soldiers-dunwich-benevolent-asylum) - State Library of Queensland
+- [Returned Soldiers in the Dunwich Benevolent Asylum](https://www.slq.qld.gov.au/blog/returned-soldiers-dunwich-benevolent-asylum) — State Library of Queensland
 
 <!--
-- [Army – World War I: 1914–18](https://www.naa.gov.au/explore-collection/defence-and-war-service-records/army-world-war-i-1914-18) - Commonwealth of Australia (National Archives of Australia)
-- [Memorial search](https://brisbane.discovereverafter.com) - Brisbane City Council
-- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
-- [Trove](https://trove.nla.gov.au) - National Library of Australia
+- [Army – World War I: 1914–18](https://www.naa.gov.au/explore-collection/defence-and-war-service-records/army-world-war-i-1914-18) — Commonwealth of Australia (National Archives of Australia)
+- [Memorial search](https://brisbane.discovereverafter.com) — Brisbane City Council
+- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) — The State of Queensland
+- [Trove](https://trove.nla.gov.au) — National Library of Australia
 - [Explore People](https://vwma.org.au/explore/people) - Virtual War Memorial Australia
 - [ancestry.com.au](https://www.ancestry.com.au/)
 -->

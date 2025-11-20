@@ -12,4 +12,4 @@ Peter's headstone is one of a handful that have the deceased's face chiselled on
 
 ![Boxer Peter Jackson who came to live in Queensland from the West Indies, ca. 1880s](../assets/peter-jackson.jpg){ width="26%" }  ![Peter Jackson's memorial](../assets/peter-jackson-headstone.jpg){ width="66.3%" }
 
-*<small>[Boxer Peter Jackson who came to live in Queensland from the West Indies, ca. 1880s](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool116252) - State Library of Queensland </small>*
+*<small>[Boxer Peter Jackson who came to live in Queensland from the West Indies, ca. 1880s](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool116252) — State Library of Queensland </small>*

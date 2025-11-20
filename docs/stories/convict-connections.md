@@ -49,7 +49,7 @@ They then migrated to Victoria in 1860 and to Brisbane where he set up practice 
 
 <figure markdown>
   ![Doctor Kevin Izod O'Doherty (1823-1905)](../assets/kevin-izod-o-doherty.jpg){ width="40%" }
-  <figcaption markdown>[Doctor Kevin Izod O'Doherty (1823-1905)](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218936000002061) - State Library of Queensland.</figcaption>
+  <figcaption markdown>[Doctor Kevin Izod O'Doherty (1823-1905)](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218936000002061) — State Library of Queensland.</figcaption>
 </figure>
 
 --8<-- "snippets/james-davis.md"

@@ -19,7 +19,7 @@ hide:
 
 ![The 'Gayundah' gunship moored in the Fitzroy River, Rockhampton.](../assets/gayundah-ship.jpeg){ width=66% class="full-width" }
 
-*<small>[The 'Gayundah' gunship moored in the Fitzroy River, Rockhampton](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1dejkfd/alma99183513114502061) - State Library of Queensland</small>*
+*<small>[The 'Gayundah' gunship moored in the Fitzroy River, Rockhampton](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1dejkfd/alma99183513114502061) — State Library of Queensland</small>*
 
 ### Headstone
 

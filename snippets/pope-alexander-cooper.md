@@ -11,4 +11,4 @@ In November 1919, the Theodore ministry decided to appoint William Lennon as Lie
 
 ![Hon. Sir Pope Alexander Cooper, Chief Justice of Queensland, 1880](../assets/pope-alexander-cooper.jpg){ width="40%" }
 
-*<small>[Hon. Sir Pope Alexander Cooper, Chief Justice of Queensland, 1880](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218934570002061) - State Library of Queensland </small>*
+*<small>[Hon. Sir Pope Alexander Cooper, Chief Justice of Queensland, 1880](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218934570002061) — State Library of Queensland </small>*

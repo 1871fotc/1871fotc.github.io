@@ -4,4 +4,4 @@ John Adamson, Primitive Methodist minister and later politician, was born on 18 
 
 ![John Adamson](../assets/john-adamson.jpg){ width="40%" }  
 
-*<small>[John Adamson](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218306100002061), 1915 - State Library of Queensland </small>* 
+*<small>[John Adamson](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218306100002061), 1915 — State Library of Queensland </small>* 

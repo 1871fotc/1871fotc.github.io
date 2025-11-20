@@ -10,6 +10,6 @@ Edinburgh‑born Edward McGregor worked in the Queensland Railways for twenty ye
 
 <figure markdown>
   ![Brisbane Municipal Concert Band marching in Brisbane, Queensland, 1909](../assets/brisbane-municipal-band.jpg){ width="70%" }  
-  <figcaption markdown>[Brisbane Municipal Concert Band marching in Brisbane, Queensland, 1909](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220219350002061) - State Library of Queensland </figcaption>
+  <figcaption markdown>[Brisbane Municipal Concert Band marching in Brisbane, Queensland, 1909](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220219350002061) — State Library of Queensland </figcaption>
 </figure>
 

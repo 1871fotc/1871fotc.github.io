@@ -59,8 +59,8 @@ Compiled and presented by Lyn Maddock
 
 ## Sources
 
-- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
-- [Trove](https://trove.nla.gov.au) - National Library of Australia
+- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) — The State of Queensland
+- [Trove](https://trove.nla.gov.au) — National Library of Australia
 - [ancestry.com.au](https://www.ancestry.com.au/)
 - *Green Mountains* Bernard O'Reilly 
 - [Burgess, Charles Chesworth](https://www.loganvillagemuseum.org.au/anzacs/item/22-burgess), Logan Village Museum
@@ -74,7 +74,7 @@ Compiled and presented by Lyn Maddock
 - [Roe, Reginald Heber (1850–1926)](https://adb.anu.edu.au/biography/roe-reginald-heber-8253), Australian Dictionary of Biography 
 - [The Australian War Memorial Collection](https://www.awm.gov.au/advanced-search)
 - [Inskip Point Light and Signal Station](http://indicatorloops.com/inskip.htm) 
-- [Commonwealth Government records about the Northern Territory](https://www.naa.gov.au/help-your-research/research-guides/commonwealth-government-records-about-northern-territory) - Commonwealth of Australia (National Archives of Australia)
+- [Commonwealth Government records about the Northern Territory](https://www.naa.gov.au/help-your-research/research-guides/commonwealth-government-records-about-northern-territory) — Commonwealth of Australia (National Archives of Australia)
 - [Smith, Miles Staniforth Cater (1869–1934)](https://adb.anu.edu.au/biography/smith-miles-staniforth-cater-8480), Australian Dictionary of Biography
 
 <!--
