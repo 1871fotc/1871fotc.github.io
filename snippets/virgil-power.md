@@ -4,4 +4,4 @@ Virgil Power (1849-1914) was born in Brisbane, the son of Michael Power, auction
 
 ![Justice Virgil Power](../assets/virgil-power.jpg){ width="40%" }
 
-*<small>[Justice Virgil Power](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220314310002061) -  State Library of Queensland</small>*
+*<small>[Justice Virgil Power](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220314310002061) — State Library of Queensland</small>*

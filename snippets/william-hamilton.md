@@ -8,7 +8,7 @@ He led the shearers' camp at Clermont in the 1891 shearers' strike. He was arres
 
 ![Unionist prisoners sentenced for causes arising out of the Shearers' Strike, 1891](../assets/shearers-strike-prisioners.jpg){ width="40%" }
 
-*<small>[Unionist prisoners sentenced for causes arising out of the Shearers' Strike, 1891](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220125220002061) -  State Library of Queensland</small>*  <br>
+*<small>[Unionist prisoners sentenced for causes arising out of the Shearers' Strike, 1891](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220125220002061) — State Library of Queensland</small>*  <br>
 *<small>
 Back Row (Left to Right): H C Smith-Barry, W Fothergill, A Forrester, J A Stuart <br>
 Third Row: G Taylor, P F Griffin, E H Murphy, H O BlackwelL <br>

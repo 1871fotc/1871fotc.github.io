@@ -6,5 +6,5 @@ Turner was a trustee of the Lady Bowen Hospital. He was also a founding member o
 
 <figure markdown>
   ![Front view of the Union Bank, Brisbane, ca. 1878](../assets/union-bank-of-australia-brisbane-ca-1878.jpg){ width="70%" }
-  <figcaption markdown>[Front view of the Union Bank, Brisbane, ca. 1878](https://trove.nla.gov.au/newspaper/article/21912484/2405915) -  State Library of Queensland</figcaption>
+  <figcaption markdown>[Front view of the Union Bank, Brisbane, ca. 1878](https://trove.nla.gov.au/newspaper/article/21912484/2405915) — State Library of Queensland</figcaption>
 </figure>

@@ -6,4 +6,4 @@ In July 1879 he was appointed Senior Puisne Judge of the Supreme Court of Queens
 
 ![Justice George Rogers Harding, 1895](../assets/george-rogers-harding.jpg){ width="40%" }
 
-*<small>[Justice George Rogers Harding, 1895](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21298089360002061) -  State Library of Queensland</small>*
+*<small>[Justice George Rogers Harding, 1895](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21298089360002061) — State Library of Queensland</small>*

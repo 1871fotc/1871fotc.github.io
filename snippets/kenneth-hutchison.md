@@ -7,4 +7,4 @@ He joined the Queensland Defence Force and rose through the ranks. In 1888 he st
 
 ![Lieutenant Colonel Ken Hutchison](../assets/kenneth-hutchison.jpg){ width="40%" }
 
-*<small>[Lieutenant Colonel Ken Hutchison](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21298063000002061) -  State Library of Queensland</small>*
+*<small>[Lieutenant Colonel Ken Hutchison](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21298063000002061) — State Library of Queensland</small>*

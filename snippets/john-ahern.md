@@ -10,4 +10,4 @@ Ahern was promoted to Senior Sergeant in January 1874 and Sub‑Inspector 2^nd^ 
 
 ![John Ahern](../assets/john-ahern.jpg){ width="40%" } ![John Ahern's headstone](../assets/john-ahern-headstone.jpg){ width="31%" } 
 
-*<small>[John Ahern](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218566240002061) -  State Library of Queensland</small>*
+*<small>[John Ahern](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218566240002061) — State Library of Queensland</small>*

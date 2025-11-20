@@ -4,5 +4,5 @@ James Brayden (1827-1890), the first Superintendent of the Cape Moreton Lighthou
 
 <figure markdown>
   ![Three young children playing in the shadows of Cape Moreton Lighthouse, Moreton Island, ca. 1912](../assets/cape-moreton-lighthouse.jpg){ width="40%" }
-  <figcaption markdown>[Three young children playing in the shadows of Cape Moreton Lighthouse, Moreton Island, ca. 1912](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183513362602061) -  State Library of Queensland</figcaption>
+  <figcaption markdown>[Three young children playing in the shadows of Cape Moreton Lighthouse, Moreton Island, ca. 1912](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183513362602061) — State Library of Queensland</figcaption>
 </figure>

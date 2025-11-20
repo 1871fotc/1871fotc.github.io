@@ -13,7 +13,7 @@ search:
 
 ![Contingent of soldiers preparing to ride west during the shearer's strike, 1891](../assets/soldiers-shearers-strike.jpg)
 
-*<small>[Contingent of soldiers preparing to ride west during the shearer's strike, 1891](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21270205600002061) -  State Library of Queensland. Cropped.</small>*
+*<small>[Contingent of soldiers preparing to ride west during the shearer's strike, 1891](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21270205600002061) — State Library of Queensland. Cropped.</small>*
 
 
 --8<-- "snippets/toowong-cemetery-map.md"
@@ -30,7 +30,7 @@ He was Chief Justice of the Queensland Supreme Court from 1893 until 1903 when h
 
 ![Sir Samuel Walker Griffith, 1889](../assets/samuel-walker-griffith-1889.jpg){ width="40%" }
 
-*<small>[Sir Samuel Walker Griffith, 1889](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220189370002061) -  State Library of Queensland</small>*
+*<small>[Sir Samuel Walker Griffith, 1889](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220189370002061) — State Library of Queensland</small>*
 
 ## Sir Horace Tozer <small>[(12‑11‑8)](https://brisbane.discovereverafter.com/profile/31764994 "Go to Memorial Information" )</small>
 
@@ -40,7 +40,7 @@ He was elected to the Legislative Assembly as the member for Wide Bay in 1888. F
 
 ![Politician Sir Horace Tozer, 1890](../assets/horace-tozer-1890.jpg){ width="40%" }
 
-*<small>[Politician Sir Horace Tozer, 1890](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218122630002061) -  State Library of Queensland</small>*
+*<small>[Politician Sir Horace Tozer, 1890](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218122630002061) — State Library of Queensland</small>*
 
 --8<-- "snippets/robert-archibald-ranking.md"
 
@@ -54,7 +54,7 @@ Ahern was promoted to Senior Sergeant in January 1874 and Sub-Inspector 2^nd^ cl
 
 ![John Ahern](../assets/john-ahern.jpg){ width="40%" }
 
-*<small>[John Ahern](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218566240002061) -  State Library of Queensland</small>*
+*<small>[John Ahern](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218566240002061) — State Library of Queensland</small>*
 
 --8<-- "snippets/virgil-power.md"
 

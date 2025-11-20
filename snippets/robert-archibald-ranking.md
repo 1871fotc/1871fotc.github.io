@@ -4,4 +4,4 @@ Robert Archibald Ranking (1843-1912) was born at Hastings, Sussex, England, fift
 
 ![Robert Archibald Ranking](../assets/robert-archibald-ranking.jpg){ width="40%" }
 
-*<small>[Robert Archibald Ranking](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220238090002061) -  State Library of Queensland</small>*
+*<small>[Robert Archibald Ranking](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220238090002061) — State Library of Queensland</small>*

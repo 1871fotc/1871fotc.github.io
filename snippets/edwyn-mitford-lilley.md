@@ -5,4 +5,4 @@ Brisbane-born Edwyn Mitford Lilley KC (1859-1911) was the eldest son of Sir Char
 
 ![Portrait of E.M. Lilley](../assets/edwyn-mitford-lilley.jpg){ width="40%" }
 
-*<small>[Portrait of E.M. Lilley](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21251606250002061) -  State Library of Queensland</small>*
+*<small>[Portrait of E.M. Lilley](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21251606250002061) — State Library of Queensland</small>*
