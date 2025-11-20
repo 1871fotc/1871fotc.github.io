@@ -40,7 +40,7 @@ He was always very conscientious, generous to a fault, unassuming and gave of hi
 
 He joined the Brisbane Municipal Band in Brisbane and was well liked by the members especially Abby Jackson the Band Master who picked him up every Saturday to play at races, City Hall, and elsewhere. Unfortunately he had to resign or retire after his mastoidectomy operation.
 
-Bill now 41 years, married Olive on 10 July 1953 at the Auchenflower Presbyterian Church in Weinholt St. officiated by the Rev. Eric McKay. They lived at Archerfield for 3 years and then bought 91 Munro St. Auchenflower. After Olive's parents passed away they moved to Birdwood Terrace Auchenflower where her parents had lived since their marriage. Bill also joined the Toowong R.S.L when he came to Auchenflower.
+Bill now 41 years, married Olive on 10 July 1953 at the Auchenflower Presbyterian Church in Weinholt St. officiated by the Rev. Eric McKay. They lived at Archerfield for 3 years and then bought 91 Munro St. Auchenflower. After Olive's parents passed away they moved to Birdwood Terrace Auchenflower where her parents had lived since their marriage. Bill also joined the Toowong RSL when he came to Auchenflower.
 
 Bill retired at the age of 69 years on the 8 April 1980. After marriage he exhibited and bred German Shepherds for a number of years and was very successful in the show ring up and down the East Australian coast. Following this he joined Auchenflower Bowls Club and was fascinated with the game while enjoying the company of other bowlers and was in their pennant teams. At home he kept fowls, had a large vegetable patch and was always very active both in and outside the home.
 
