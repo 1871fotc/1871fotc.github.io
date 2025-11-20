@@ -146,7 +146,7 @@ This is a bronze plaque supplied by the War Graves Commission. Others are uprigh
     
     ![Louis Paul Fingereth's headstone](../assets/louis-paul-fingereth.jpg){ width="20%" }
     
-## Louis Paul Fingereth, M.B.E. <small>[(3‑18‑14)](https://brisbane.discovereverafter.com/profile/31722697 "Go to Memorial Information" )</small>
+## Louis Paul Fingereth, MBE <small>[(3‑18‑14)](https://brisbane.discovereverafter.com/profile/31722697 "Go to Memorial Information" )</small>
 
 On this headstone can be seen an example of the configuration of the hands of a Cohen (a male descendant of the family of Aaron, Moses' brother. Aaron was the first high priest, who already functioned during the Exodus). With his hands held in this manner, and his head covered by his prayer shawl, he is entitled to bless the Congregation.
 
