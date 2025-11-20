@@ -4,7 +4,7 @@ Born to Alexander Chesborough Rose MacDonald and Nancy Armitage in Hamilton Bris
 
 <figure markdown>
   ![Flag Lieutenant Commander ICR Macdonald RAN shown on the left](../assets/ian-chesborough-rose-macdonald.jpg){ width="70%" }
-  <figcaption markdown>[Left: Flag Lieutenant Commander ICR Macdonald RAN](https://www.navy.gov.au/biography/admiral-edward-ratcliffe-garth-evans) -  © Commonwealth of Australia - Department of Defence</figcaption>
+  <figcaption markdown>[Left: Flag Lieutenant Commander ICR Macdonald RAN](https://www.navy.gov.au/biography/admiral-edward-ratcliffe-garth-evans) — © Commonwealth of Australia - Department of Defence</figcaption>
 </figure>
 
 <!--

@@ -17,6 +17,6 @@ hide:
 
 ### Learn more
 
-- [Death of Hon. J. S. Turner, M.L.C.](https://trove.nla.gov.au/newspaper/article/19041416) -  The Brisbane Courier, 30 July 1900 
+- [Death of Hon. J. S. Turner, M.L.C.](https://trove.nla.gov.au/newspaper/article/19041416) — The Brisbane Courier, 30 July 1900 
 
 --8<-- "snippets/add-to-this-story.md"

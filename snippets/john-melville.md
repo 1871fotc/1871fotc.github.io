@@ -8,7 +8,7 @@ The Melvilles lived in a house, later demolished, on part of the cemetery reserv
 
 <figure markdown>
   ![John Melville](../assets/john-melville.jpg){ width="40%" }
-  <figcaption markdown>[The Late Mr. John Melville](https://trove.nla.gov.au/newspaper/article/21912484/2405915) -  The Queenslander, 6 Apr 1912</figcaption>
+  <figcaption markdown>[The Late Mr. John Melville](https://trove.nla.gov.au/newspaper/article/21912484/2405915) — The Queenslander, 6 Apr 1912</figcaption>
 </figure>
 
 <!-- TODO 

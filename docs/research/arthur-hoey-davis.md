@@ -41,7 +41,7 @@ hide:
 
 ### Learn more 
 
-- [Monument to "Steele Rudd"](https://trove.nla.gov.au/newspaper/article/50031781) -  The Courier-Mail, 20 Nov 1950
+- [Monument to "Steele Rudd"](https://trove.nla.gov.au/newspaper/article/50031781) — The Courier-Mail, 20 Nov 1950
 - [Davis, Arthur Hoey (1868–1935)](https://adb.anu.edu.au/biography/davis-arthur-hoey-5911) — Australian Dictionary of Biography
 
 --8<-- "snippets/add-to-this-story.md"

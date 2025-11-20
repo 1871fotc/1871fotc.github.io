@@ -8,7 +8,7 @@ A firm Methodist, he was a practical supporter of his local church for many year
 
 <figure markdown>
   ![James Cowlishaw](../assets/james-cowlishaw.jpg){ width="40%" }
-  <figcaption markdown>[James Cowlishaw](https://trove.nla.gov.au/newspaper/article/179102065/19873693) -  The Telegraph, 11 July 1928</figcaption>
+  <figcaption markdown>[James Cowlishaw](https://trove.nla.gov.au/newspaper/article/179102065/19873693) — The Telegraph, 11 July 1928</figcaption>
 </figure>
 
 <!--

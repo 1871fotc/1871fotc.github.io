@@ -59,7 +59,7 @@ After returning from the expedition John Melville was engaged in survey work unt
 
 <figure markdown>
   ![John Melville](../assets/john-melville.jpg){ width="40%" }
-  <figcaption markdown>[The Late Mr. John Melville](https://trove.nla.gov.au/newspaper/article/21912484/2405915) -  The Queenslander, 6 Apr 1912</figcaption>
+  <figcaption markdown>[The Late Mr. John Melville](https://trove.nla.gov.au/newspaper/article/21912484/2405915) — The Queenslander, 6 Apr 1912</figcaption>
 </figure>
 
 --8<-- "snippets/william-perry.md"

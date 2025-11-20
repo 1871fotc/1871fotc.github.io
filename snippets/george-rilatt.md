@@ -15,5 +15,5 @@ The Old Boys' Association paid tribute to Rilatt's contribution to the school by
 
 <figure markdown>
   ![George Rilatt](../assets/george-rilatt.jpg){ width="30%" }
-  <figcaption markdown>[George Rilatt](https://trove.nla.gov.au/newspaper/article/20754517) -  The Brisbane Courier, 16 June 1924. Lightened.</figcaption>
+  <figcaption markdown>[George Rilatt](https://trove.nla.gov.au/newspaper/article/20754517) — The Brisbane Courier, 16 June 1924. Lightened.</figcaption>
 </figure>

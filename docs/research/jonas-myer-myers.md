@@ -16,6 +16,6 @@ hide:
 
 ### Learn more
 
-- [Mr. J. M. Myers.](https://trove.nla.gov.au/newspaper/article/183689094/20917526) -  The Week, 15 Jan 1909 
+- [Mr. J. M. Myers.](https://trove.nla.gov.au/newspaper/article/183689094/20917526) — The Week, 15 Jan 1909 
 
 --8<-- "snippets/add-to-this-story.md"

@@ -4,7 +4,7 @@ William Perry was one of Brisbane's earliest businessmen. He arrived in Brisbane
 
 <figure markdown>
   ![Perry Brothers Limited](../assets/perry-brothers.jpg){ width="70%" }
-  <figcaption markdown>[Perry Brothers Limited](https://trove.nla.gov.au/newspaper/page/2462839) -  The Queenslander, 2 June 1906</figcaption>
+  <figcaption markdown>[Perry Brothers Limited](https://trove.nla.gov.au/newspaper/page/2462839) — The Queenslander, 2 June 1906</figcaption>
 </figure>
 
 During 1911 to 1913, Herbert and George highlighted their business by building Brisbane's then tallest building, the eight storey Perry House on the corner of Elizabeth and Albert Streets in the city.
