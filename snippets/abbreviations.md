@@ -35,6 +35,7 @@
 
 *[H.M.S.]: His (or Her) Majesty's Service
 *[HMS]: His (or Her) Majesty's Service
+*[HMAT]: His (or Her) Majesty's Australian Transport
 
 *[MD]: Doctor of Medicine
 
@@ -45,6 +46,9 @@
 
 *[KC]: Kings's Counsel
 *[QC]: Queen's Counsel
+
+*[MBE]: Member of the Most Excellent Order of the British Empire
+*[AO]: Officer of the Order of Australia
 
 *[RAN]: Royal Australian Navy
 
@@ -63,3 +67,48 @@
 *[WWI]: World War One
 *[WW2]: World War Two
 *[WWII]: World War Two
+
+<!-- Friendly Societies 
+
+*[AHCG]: Australasian Holy Catholic Guild
+*[ANA]: Australian Natives Association
+*[AOF]: Ancient Order of Foresters
+*[AOOF]: Ancient Order of Odd Fellows
+*[GUOOF]: Grand United Order of Odd Fellows
+*[HACBS]: Hibernian Australia Catholic Benefit Society
+*[INF]: Irish National Foresters
+*[IOGT]: Independent Order of Good Templars
+*[IOOF]: Independent Order of Odd Fellows
+*[IOR]: Independent Order of Rechabites
+*[LOI]: Loyal Orange Institute
+*[MUIOOF]: Manchester Unity Independent Order of Odd Fellows
+*[NIOOF]: National Independent Order of Odd Fellows
+*[ODT]: Order of the Daughters of Temperance
+*[OST]: Order of the Sons of Temperance
+*[PAFS]: Protestant Alliance Friendly Society
+*[RA]: Royal Arch
+*[RAOB]: Royal Antediluvian Order of Buffaloes
+*[RBP]: Royal Black Preceptory
+*[UAOD]: United Ancient Order of Druids
+
+-->
+
+<!-- Freemasons 
+
+*[OES]: Order of the Eastern Star
+*[UOSMS]: United Operative Stonemasons Society of Queensland
+*[UGL]: United Grand Lodge of Ancient, Free and Accepted
+*[U.G.L.Q.]: United Grand Lodge Queensland
+
+*[EC]: English Constitution
+*[IC]: Irish Constitution
+*[SC]: Scottish Constitution
+-->
+
+<!-- can't have spaces in abbr
+*[Bro.]: Brother - Freemason Rank
+*[Wor. Bro.]: Worshipful Brother - Freemason Rank
+*[VW Bro.]: Very Worshipful Brother - Freemason Rank
+*[RW Bro.]: Right Worshipful Brother - Freemason Rank
+*[MW Bro.]: Most Worshipful Brother - Freemason Rank
+-->
