@@ -21,10 +21,12 @@ Friends of Toowong Cemetery, in conjunction with [The University of Queensland S
   <iframe src="https://www.youtube.com/embed/hgCx4OW69cY" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div> 
 
+<!--
 !!! Warning "2025 Archaeological Dig Cancelled"
 
     Due to all the wet weather in Brisbane, we are unable to run an Archaeological Dig this year due to safety concerns. 
     We hope to uncover more of Brisbane's history in 2026. You can still dig up stories from the past using our [research resources](../research/index.md).
+-->    
 
 ## Toowong Cemetery Archaeological Dig 2023 
 
