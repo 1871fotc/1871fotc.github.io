@@ -7,3 +7,8 @@ After managing a sugar‑refinery and maltings at Bulimba and working in Darwin,
 He was the Captain commanding the Gatton Squadron of the Queensland Light Horse. He suffered government interference during WWI and in 1920 was still trying to secure his confiscated papers. He was foundation member and fellow of the (Royal) Australian Chemical Institute and fellow of the Royal Institute of Chemistry of Great Britain (now Royal Chemical Institute). 
 
 He died on 3 July 1933 aged 71. His wife, Catherine, survived him for nearly twenty years, dying on 7 May 1951 aged 91. Also here are his son Harold Oscar Brünnich, who died on 17 August 1939 aged 48 and daughter Pauline Brünnich, who died 18 October 1965 aged 76.
+
+
+![Johannes Christian Brünnich](../assets/johannes-christian-brunnich.jpg){ width="60%" } 
+
+*<small>[Johannes Christian Brünnich (1861-1933)](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/tqqf2h/alma99183507780702061) — State Library of Queensland</small>*

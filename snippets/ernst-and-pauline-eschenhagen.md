@@ -7,3 +7,8 @@ In 1895 Ernst wanted a German day school at St Andreas, where English‑speaking
 Anti‑German feeling during WWI forced the business, which had been carried on by Mrs Eschenhagen, to be sold in November 1915. 
 
 One of their sons, Oskar Wilhelm Eschenhagen (1889—1969), who changed his name to Oscar Edwards during WWI, operated a successful transport business in Sydney but is better remembered, with his wife, as being art collectors. In the early 1950s they met Picasso and Matisse. He was an accomplished artist himself and gave works to galleries, which included the Queensland Art Gallery.
+
+
+![Eschenhagen's staff posing while on a picnic at Seventeen Mile Rock, Queensland, 1895](../assets/eschenhagen-staff.jpg){ width="60%" } 
+
+*<small>[Eschenhagen's staff posing while on a picnic at Seventeen Mile Rock, Queensland, 1895](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183507133502061) — State Library of Queensland</small>*
