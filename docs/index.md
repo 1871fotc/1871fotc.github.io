@@ -82,16 +82,16 @@ If you're walking to Toowong Cemetery, in addition to the entries above, you can
 If you're using public transport to get here, use the **[TransLink Journey Planner](https://jp.translink.com.au/plan-your-journey/journey-planner)** to plan your trip. Be aware some results tell you to walk across the road at the Toowong roundabout - this is not safe and you may need to walk a long way to find a safe place to cross Milton Road or the Western Freeway. Options are: 
 
 - cross Milton Road at its intersection with Morley Street.
-- cross the Western Freeway using the **[Canon Garland Overpass](https://garlandmemorial.com/2022/06/03/canon-garland-overpass/)**, a bike and walking bridge accessed from Anzac Park.
+- cross the Western Freeway using the [Canon Garland Overpass](https://garlandmemorial.com/canon-garland-overpass/), a bike and walking bridge accessed from Anzac Park.
 - choose a bus that avoids the need to cross major roads (e.g. Routes **[470](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/470)**, **[471](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/471/outbound/)**, **[598](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/598)**, **[599](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/599)**).
 
 ### When you arrive
 
 If you enter the main entrance, you'll find: 
 
-- **Canon Garland Place** named after **[Canon David John Garland][Garland]**. The Flagpole here is the departure point for our **[guided heritage tours](guided-tours.md)**.
-- a **Museum** operated by the Friends of Toowong Cemetery, and opened in conjunction with our guided heritage tours
-- the **[Office](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#officehours)**, where Brisbane City Council staff can answer your enquiries and help locate graves and memorial sites.
+- **Canon Garland Place** named after **[Canon David John Garland][Garland]**. The flagpole is the departure point for our **[guided tours](guided-tours.md)**.
+- a **Museum** operated by the Friends of Toowong Cemetery.
+- the **[Office](https://www.brisbane.qld.gov.au/libraries-venues-and-facilities/cemeteries/cemetery-locations-and-services/toowong-cemetery#location)**, where Brisbane City Council staff can help locate graves and answer your questions.
 - **Toilets** – the only ones available in the cemetery and are not wheel-chair accessible.
 
 <!--  LAVATORY BUILDING - https://trove.nla.gov.au/newspaper/article/178409657?searchTerm=%22Brisbane%20general%20cemetery%22%20trustee -->
