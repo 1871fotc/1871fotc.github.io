@@ -238,7 +238,7 @@ cross-of-sacrifice-and-stone-of-remembrance.jpeg
 
 Cross of Sacrifice and Stone of Remembrance.
 
-Erected by the Anzac Day Commemoration Committee of Queensland, of stone donated by Queensland Government, and unveiled by His Excellency the Governor-General of Australia, the Right Hon, Lord Forster, G.C.M.G, April 25th, 1924. (The stone, a solid block weighing 10 tons, was quarried from Helidon, Q.)
+Erected by the Anzac Day Commemoration Committee of Queensland, of stone donated by Queensland Government, and unveiled by His Excellency the Governor-General of Australia, the Right Hon, Lord Forster, GCMG, April 25th, 1924. (The stone, a solid block weighing 10 tons, was quarried from Helidon, Q.)
 
 
 > "They shall not grow old, as we that are left grow old, Age shall not weary them, nor the years condemn;

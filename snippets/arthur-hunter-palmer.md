@@ -1,4 +1,4 @@
-## Hon. Sir Arthur Hunter Palmer K.C.M.G. <small>[(13‑88‑7)](https://brisbane.discovereverafter.com/profile/31996425 "Go to Memorial Information" )</small>
+## Hon. Sir Arthur Hunter Palmer KCMG <small>[(13‑88‑7)](https://brisbane.discovereverafter.com/profile/31996425 "Go to Memorial Information" )</small>
 
 Administrator:
 
@@ -13,7 +13,7 @@ Palmer was born on 28 December 1819 in Armagh, Ireland, son of Arthur Palmer, na
 
 In 1866 Palmer was elected for Port Curtis to the Legislative Assembly. After the Macalister government fell in 1867, Palmer became Colonial Secretary and Secretary for Public Works under Mackenzie. The ministry fell in November 1868 and Palmer joined the Opposition. When Lilley's ministry fell in May 1870 Governor Blackall appointed Palmer as Colonial Secretary and Premier, holding office until January 1874 when he became leader of the Opposition. In 1878 he retired as leader of the Opposition in favour of McIlwraith and was elected for North Brisbane. 
 
-In January 1879 Palmer was appointed Colonial Secretary and president of the Executive Council. For a time in 1879‑80 Palmer acted as Premier while McIlwraith was in England. Palmer was appointed K.C.M.G. In December he resigned from the assembly and was called to the Legislative Council. From 2 May to 6 November 1883 and from 9 October 1888 to 1 May 1889 he acted as Administrator of the colony in the absence of the governor and from 15 November 1895 to 9 April 1896 was the first Lieutenant‑Governor of the colony. 
+In January 1879 Palmer was appointed Colonial Secretary and president of the Executive Council. For a time in 1879‑80 Palmer acted as Premier while McIlwraith was in England. Palmer was appointed KCMG. In December he resigned from the assembly and was called to the Legislative Council. From 2 May to 6 November 1883 and from 9 October 1888 to 1 May 1889 he acted as Administrator of the colony in the absence of the governor and from 15 November 1895 to 9 April 1896 was the first Lieutenant‑Governor of the colony. 
 
 In 1885 his wife had died, leaving three sons and two of their four daughters. Palmer died on 20 March 1898 at his home at Toowong.
 
