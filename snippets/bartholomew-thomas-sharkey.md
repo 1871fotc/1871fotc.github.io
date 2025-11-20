@@ -1,8 +1,8 @@
 ## Bartholomew Thomas Sharkey (James Collins) <small>[(10‑52‑36)](https://brisbane.discovereverafter.com/profile/31908901 "Go to Memorial Information" )</small>
 
-Born in Ireland in 1874 Bartholomew Served in WW1 under the name James Collins as he was too old to enlist at the time, being 40 years old. He enlisted in September 1914 stating he was 34. The age limit was initially 38 but as the war raged on it was increased to 45.  Bart joined the 12^th^ Battalion as a driver. 
+Born in Ireland in 1874 Bartholomew Served in WWI under the name James Collins as he was too old to enlist at the time, being 40 years old. He enlisted in September 1914 stating he was 34. The age limit was initially 38 but as the war raged on it was increased to 45.  Bart joined the 12^th^ Battalion as a driver. 
 
-WW1 details – extracts from file at National Archives of Australia website:
+WWI details – extracts from file at National Archives of Australia website:
 
 > - 2.11.14 Embarked Freemantle for Alexandria 
 > - 13.9.15 After ten months of fighting he went to hospital with a fractured pelvis in Alexandria (fall from horse)

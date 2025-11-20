@@ -2,7 +2,7 @@
 
 When Walter enlisted at age 21 like a lot of soldiers listed a sibling as next of kin. Walter listed his sister Violet Hammond as his Next of Kin as both parents were deceased.
 
-Walter’s war record shows he disembarked in April 1917 and by October 1917 he had lost an arm. He had to undergo the amputation when he was shot in the arm, foot and shoulder. He was right-handed so had to learn to write with his left. It’s interesting to note that WW1 soldiers were not entitled to a full pension if they only had one amputation – they had to have had two amputations. He also suffered from chronic nephritis like a lot of soldiers – often due to little studied condition called ‘trench nephritis’. 
+Walter’s war record shows he disembarked in April 1917 and by October 1917 he had lost an arm. He had to undergo the amputation when he was shot in the arm, foot and shoulder. He was right-handed so had to learn to write with his left. It’s interesting to note that WWI soldiers were not entitled to a full pension if they only had one amputation – they had to have had two amputations. He also suffered from chronic nephritis like a lot of soldiers – often due to little studied condition called ‘trench nephritis’. 
 
 His service record like many soldiers contained reference to some transgressions and the resulting penalties (forfeit of pay). Walter’s caught my eye as it was slightly unusual.  During a concert at their dry canteen (no alcohol) Walter twice used insubordinate language in the presence of his officer. He had to forfeit three days’ pay for that. 
 

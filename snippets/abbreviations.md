@@ -18,6 +18,8 @@
 
 *[AWOL]: Absent Without Official Leave
 
+*[CE]: Civil Engineer
+
 *[CMG]: Companion of the Most Distinguished Order of St Michael and St George
 *[GCMG]: Knight Grand Cross of the Most Distinguished Order of St Michael and St George
 *[KCMG]: Knight Commander of the Most Distinguished Order of St Michael and St George
@@ -28,6 +30,7 @@
 *[DCM]: Distinguished Conduct Medal
 *[Dr.]: Doctor
 
+*[Esq.]: Esquire
 *[Fr.]: Father
 
 *[H.M.S.]: His (or Her) Majesty's Service
@@ -36,6 +39,7 @@
 *[MD]: Doctor of Medicine
 
 *[MLA]: Member of the Legislative Assembly
+*[MLC]: Member of the Legislative Council
 
 *[MM]: Military Medal
 
@@ -55,3 +59,7 @@
 
 *[VC]: Victoria Cross
 
+*[WW1]: World War One
+*[WWI]: World War One
+*[WW2]: World War Two
+*[WWII]: World War Two

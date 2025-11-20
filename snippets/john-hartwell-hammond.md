@@ -2,7 +2,7 @@
 
 A plumber and a seaman before the war, John was born in Canada, enlisted in 1915 at the age of 44 and served in the 6^th^ field company engineers. At the time he listed as next of kin a step sister in China and his father was deceased. 
 
-WW1 details:
+WWI details:
 
 - 30/3/17 Admitted to hospital dental and mumps
 - 19/5/18 Wounded in action - gun shot wound arms and left leg
