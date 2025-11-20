@@ -76,8 +76,8 @@ Emma Miller (1839-1917) was known as a pioneer of the trade union movement and t
 ## Sources
 
 - [Trove](https://trove.nla.gov.au) — National Library of Australia 
-- [The Honourable Virgil Power](https://www.sclqld.org.au/judicial-papers/judicial-profiles/profiles/vpower) - Supreme Court Library Queensland 
-- [The Honourable George Harding](https://www.sclqld.org.au/judicial-papers/judicial-profiles/profiles/grharding) - Supreme Court Library Queensland
+- [The Honourable Virgil Power](https://www.sclqld.org.au/judicial-papers/judicial-profiles/profiles/vpower) — Supreme Court Library Queensland 
+- [The Honourable George Harding](https://www.sclqld.org.au/judicial-papers/judicial-profiles/profiles/grharding) — Supreme Court Library Queensland
 - [Harding, George Rogers (1838–1895)](https://adb.anu.edu.au/biography/harding-george-rogers-3712) — Australian Dictionary of Biography
 - www.naa.gov.au/collection/explore/federation/constitution-website/stories/call-to-action/pods/sir-samuel-griffith-1891/index.html *(broken link)*
 

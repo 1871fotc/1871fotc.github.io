@@ -15,7 +15,7 @@ Robert came to the Colony of Queensland aboard the *Fortitude* in January 1849. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yqEivuBSHTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *<small>
-[Black February: Queensland's most deadly floods (One Minute Archive)](https://youtu.be/yqEivuBSHTw) - Queensland State Archives
+[Black February: Queensland's most deadly floods (One Minute Archive)](https://youtu.be/yqEivuBSHTw) — Queensland State Archives
 Queensland State Archives</small>*
 --> 
 

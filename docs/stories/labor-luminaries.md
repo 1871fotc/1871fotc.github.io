@@ -105,7 +105,7 @@ search:
 
 ![William Gillies 1920](../assets/william-neal-gillies.jpg){ width="40%" }  
 
-*<small>[William Gillies, 1920](https://commons.wikimedia.org/wiki/File:William_Gillies_1920.jpg) - Queensland State Archives </small>* 
+*<small>[William Gillies, 1920](https://commons.wikimedia.org/wiki/File:William_Gillies_1920.jpg) — Queensland State Archives </small>* 
 
 <!--
 ??? directions "Directions" 
@@ -150,7 +150,7 @@ search:
 
 ![Delegates to the Queensland Police Union third annual conference. Albert Whitford is in the front row, second on the left](../assets/albert-whitford.jpg){ width="70%" }  
 
-*<small>[Delegates to the Queensland Police Union third annual conference. Whitford is in the front row, second on the left.](https://en.wikipedia.org/wiki/Albert_Whitford_(politician)#/media/File:Delegates_to_the_Queensland_Police_Union_Third_Annual_Conference.jpg) - Queensland Police Museum. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) </small>* 
+*<small>[Delegates to the Queensland Police Union third annual conference. Whitford is in the front row, second on the left.](https://en.wikipedia.org/wiki/Albert_Whitford_(politician)#/media/File:Delegates_to_the_Queensland_Police_Union_Third_Annual_Conference.jpg) — Queensland Police Museum. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) </small>* 
 
 <!--
 ??? directions "Directions" 

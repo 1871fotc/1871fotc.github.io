@@ -98,7 +98,7 @@ For those travelling between Cairns and Atherton, you may find yourself travelli
 
 ![William Gillies 1920](../assets/william-neal-gillies.jpg){ width="30%" }  
 
-*<small>[William Gillies, 1920](https://commons.wikimedia.org/wiki/File:William_Gillies_1920.jpg) - Queensland State Archives </small>*
+*<small>[William Gillies, 1920](https://commons.wikimedia.org/wiki/File:William_Gillies_1920.jpg) — Queensland State Archives </small>*
 
 ???+ directions "Directions" 
 

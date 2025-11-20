@@ -24,7 +24,7 @@ description: Mother of the Australian Labor Party
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/clY9640s02Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*<small>[Black Friday: When Brisbane Police Beat and Suppressed Demonstrators](https://youtu.be/clY9640s02Y) - Queensland State Archives</small>*
+*<small>[Black Friday: When Brisbane Police Beat and Suppressed Demonstrators](https://youtu.be/clY9640s02Y) — Queensland State Archives</small>*
 
 --8<-- "snippets/headstones/emma-miller.md"
 
