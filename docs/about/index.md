@@ -44,13 +44,14 @@ The Friends of Toowong Cemetery have:
 
 *<small>Federation Pavilion</small>* 
 
+<!--
 ## What we're working on
 
 Currently we are: 
 
 - planning to erect an **[honour board](https://youtu.be/mVfixEzUpwk)** at the cemetery's main entrance to commemorate people who have served their nation in military uniform and now rest in Toowong Cemetery.
 - **photographing every headstone** in the cemetery.
-
+-->
 
 ## Join in
 
@@ -73,12 +74,27 @@ Apply to join in, complete the **[Application form](https://forms.gle/iwFKCnpNYR
 
 [Apply to Join Friends of Toowong Cemetery](https://forms.gle/iwFKCnpNYRTSeHLb8){ .md-button .md-button--primary }
 -->
-## Important information
+
+<!-- considered combining About and Contact but many pages link to Contact Us 
+## Contact us
+
+Email: **[inquiries@fotc.au](mailto:inquiries@fotc.au)**
+
+Phone: **[0439998053](tel:0439998053)**
+
+Write: 
+
+**Friends of Toowong Cemetery Association Inc.** <br>
+**PO Box 808** <br>
+**Toowong QLD 4066**
+--->
+
+## Our details
 
 The Friends of Toowong Cemetery Association Inc. is a:
 
 - Queensland Incorporated Association: **[IA17170](https://www.qld.gov.au/law/laws-regulated-industries-and-accountability/queensland-laws-and-regulations/check-a-licence-association-charity-or-register/check-a-charity-or-association)**. <!-- that abides by a set of **[rules](../assets/documents/fotc-rules.pdf)** -->
-- Registered Australian Business, ABN: **[12868524011](https://abr.business.gov.au/ABN/View?id=12868524011)**  that holds holds public liability insurance with **[History Queensland Inc.](https://www.historyqueensland.org.au/insurance/)** for $20 million 
+- Registered Australian Business, ABN: **[12868524011](https://abr.business.gov.au/ABN/View?id=12868524011)**. <!--  that holds holds public liability insurance with **[History Queensland Inc.](https://www.historyqueensland.org.au/insurance/)** for $20 million -->
 - **[Registered Charity](https://www.acnc.gov.au/charity/charities/cbe72786-39af-e811-a963-000d3ad24077/profile)** with the Australian Charities and Not-for-profits Commission (ACNC)
 
 ![ACNC Registered Charity Logo](../assets/ACNC-Registered-Charity-Logo_RGB.png){ width="25%" .off-glb } 
