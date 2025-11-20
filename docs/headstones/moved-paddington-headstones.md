@@ -25,11 +25,14 @@ By 1907 there were calls to turn the neglected burial grounds into a park and sp
 <img class="full-width" src="../../assets/paddington-cemetery-plans.jpg" alt="Paddington Cemeteries Plans" width="70%">
 
 <!--
-![Paddington Cemeteries Plans](../assets/paddington-cemetery-plans.jpg)
+see also (https://brisbane.recollectcms.com/nodes/view/36102)
 -->
 
-*<small>[Paddington Cemeteries Plans](https://www.brisbane.qld.gov.au/sites/default/files/Cemeteries_Visiting_our_Cemeteries_Plans_showing_the_old_Paddington_Cemeteries_and_the_present_reserves.pdf) from Appendix 8 in Volume 2 of the 1914 Parliamentary papers.</small>*
+*<small>[Paddington Cemeteries Plans](https://www.archivessearch.qld.gov.au/items/ITM67075) originally from Appendix 8 in Volume 2 of the 1914 Parliamentary papers — Queensland State Archives</small>*
 
+<!-- broken link replaced above
+*<small>[Paddington Cemeteries Plans](https://www.brisbane.qld.gov.au/sites/default/files/Cemeteries_Visiting_our_Cemeteries_Plans_showing_the_old_Paddington_Cemeteries_and_the_present_reserves.pdf) from Appendix 8 in Volume 2 of the 1914 Parliamentary papers.</small>*
+-->
 
 ## Paddington Memorial 
 
