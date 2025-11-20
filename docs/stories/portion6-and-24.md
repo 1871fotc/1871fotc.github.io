@@ -90,11 +90,11 @@ Thomas took a deep interest in the work and welfare of the Toowong Presbyterian 
 *<small>[AWU Executive](http://nla.gov.au/nla.news-article184236615) W.J. Dunstan seated in the front row, second on the left. — THE ONE BIG UNION IDEAL (1922, October 28). Daily Standard (Brisbane, Qld. : 1912 - 1936), p. 8.</small>*
 
 
-## Rev Theodore Osborne <small>[(6‑27‑17)](https://brisbane.discovereverafter.com/profile/31756830 "Go to Memorial Information" )</small>
+## Rev. Theodore Osborne <small>[(6‑27‑17)](https://brisbane.discovereverafter.com/profile/31756830 "Go to Memorial Information" )</small>
 
 Theodore Osborne was born in the State of New Jersey USA in 1837. He studied law before leaving the US during the American Civil War and arrived in Sydney penniless and friendless after the ship on which he was a passenger was wrecked off Rarotonga in 1864. 
 
-He became a school teacher until he was persuaded to join the church by the Rev Dr J D Lang. After qualifying he was appointed to various Presbyterian parishes in NSW. He retired to Lismore and passed away while undergoing medical treatment in Brisbane on 18 November 1914.
+He became a school teacher until he was persuaded to join the church by the Rev. Dr. J D Lang. After qualifying he was appointed to various Presbyterian parishes in NSW. He retired to Lismore and passed away while undergoing medical treatment in Brisbane on 18 November 1914.
 
 
 ## Acknowledgements
