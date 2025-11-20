@@ -33,7 +33,7 @@ Richard Belford died on 28 April 1865 and was interred in the North Brisbane Bur
 
 ## Toppin Family <small>[(15‑16‑40/41)](https://brisbane.discovereverafter.com/profile/31907767 "Go to Memorial Information" )</small>
 
-The Toppin siblings, Jack, Leo and Madonna were well known child entertainers during WWI and afterward. Leo became manager of some well known Brisbane theatrical venues in the years leading up to WW2.
+The Toppin siblings, Jack, Leo and Madonna were well known child entertainers during WWI and afterward. Leo became manager of some well known Brisbane theatrical venues in the years leading up to WWII.
 
 --8<-- "snippets/francis-malachy-mckeon.md"
 
