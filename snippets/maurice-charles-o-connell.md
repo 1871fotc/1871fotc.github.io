@@ -1,4 +1,4 @@
-## Colonel Sir Maurice Charles O’Connell Kt. <small>[(13‑83‑4)](https://brisbane.discovereverafter.com/profile/31969272 "Go to Memorial Information" )</small>
+## Colonel Sir Maurice Charles O’Connell <small>[(13‑83‑4)](https://brisbane.discovereverafter.com/profile/31969272 "Go to Memorial Information" )</small>
 
 Administrator:
 
