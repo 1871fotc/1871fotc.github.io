@@ -15,7 +15,7 @@ In the 1930's these headstones disappeared. Some of the headstones have been fou
 
 ![Memorials standing in the reserved area in Paddington](../assets/paddington-cemetery-ca-1900-16x9.jpg)
 
-*<small>[Paddington Cemetery ca. 1900's](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/22186/1) — Brisbane City Council. Cropped. This photo is captioned 'Memorials standing in the reserved area' in Volume 2 of the 1914 Parliamentary papers.</small>*
+*<small>[Paddington Cemetery ca. 1900's](https://brisbane.recollectcms.com/nodes/view/17392#idx41189) — Brisbane City Council, Brisbane City Archives [BCC-D-20130035]. Cropped. This photo is captioned 'Memorials standing in the reserved area' in Volume 2 of the 1914 Parliamentary papers.</small>* 
 
 ## Paddington Cemetery Headstones moved to the Reserved Area { data-search-exclude }
 
@@ -40,6 +40,8 @@ The table below lists Paddington Cemetery headstones that were placed in the res
         - Wesleyan-Methodist and Congregational prefixed with '5'
         - Baptist prefixed with '6'
     - If a link is shown on an entry, the headstone has been found at Toowong Cemetery. The link goes to a page describing the headstone.    
+
+<!-- broken link -->
 
 --8<-- "snippets/paddington-cemetery-reserved-area-memorials.html"
 
