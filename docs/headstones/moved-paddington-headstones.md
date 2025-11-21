@@ -68,6 +68,8 @@ The table below lists the 139 human remains and 106[^1] headstones that were mov
     - Extra name information from the Cemeteries Search is shown in *italics*.
     - 'n/a' means no entry was found in the Cemeteries Search or it is not possible determine a correct entry from those available
 
+<!-- broken link -->
+
 --8<-- "snippets/paddington-cemetery-moved-remains-and-headstones.html"
 
 
