@@ -10,7 +10,7 @@ The Toowong Cemetery is a Brisbane icon and was once the city's main cemetery. T
 
 Toowong Cemetery opened during Queen Victoria's life (1819 - 1901) and you'll see the traditions and symbols from her reign throughout the cemetery.
 
-In Portion 2 of the cemetery, at the intersection of Soldiers Parade and Garland Avenue, you'll find a display of symbols on headstones. Some headstones are from the old [Paddington cemetery](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery) which closed in 1914.
+In Portion 2 of the cemetery, at the intersection of Soldiers Parade and Garland Avenue, you'll find a display of symbols on headstones. Some headstones are from the old Paddington cemetery which closed in 1914.
 
 ![Toowong Cemetery headstone symbolism display](../assets/symbolism-display.jpg)
 
@@ -139,4 +139,4 @@ The National Trust of Australia (New South Wales) [Guidelines for Cemetery Conse
 <!-- Links -->
 
 [cc-by]: https://creativecommons.org/licenses/by/4.0/  "Creative Commons Attribution 4.0 Licence"
-[Victorian Cemetery Art]: http://onesearch.slq.qld.gov.au/primo-explore/fulldisplay?docid=slq_alma21121028210002061&context=L&vid=SLQ&lang=en_US&search_scope=SLQ_PCI_EBSCO&adaptor=Local%20Search%20Engine&tab=all&query=any,contains,Victorian%20Cemetery%20Art "Victorian Cemetery Art in the State Library of Queensland Catalogue"
+[Victorian Cemetery Art]: https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/3vt1h/alma991029164702061 "Victorian Cemetery Art in the State Library of Queensland Catalogue"
