@@ -42,7 +42,7 @@ Our 2023 Archaeological Dig uncovered more of Brisbane's history finding headsto
 The headstones discovered in Toowong Cemetery Archaeological digs are believed to come from two sources: 
 
 - **[Headstones from the Paddington Cemetery Reserved Area](lost-paddington-headstones.md)** dumped in Toowong Cemetery in the 1930's
-- Headstones from Toowong Cemetery destroyed and buried in the 1970's as part of the Brisbane City Council's 'Beautification Scheme'
+- Headstones from Toowong Cemetery demolished and buried in the 1970's as part of the Brisbane City Council's 'Beautification Scheme'
 
 Archaeologist [Dr. Jon Prangell](https://social-science.uq.edu.au/profile/138/jon-prangnell) from The University of Queensland, and member of Friends of Toowong Cemetery, explains to Radio Station 4BC how the city’s forgotten headstones are being rediscovered. 
 
