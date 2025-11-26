@@ -108,32 +108,32 @@ These signs, names or acronyms can be found on headstones in Toowong Cemetery.
 
 | Acronym | Name                                                         | Organisation Type | Location |
 |     --: | :--                                                          | :--               | :--                |
-| AHCG    | [Australasian Holy Catholic Guild][AHCG]                     | Friendly Society  | pp-ss-gg           |
-| ANA     | [Australian Natives Association][ANA]                        | Friendly Society  | pp-ss-gg           | <!-- TODO try Raven 23-27-11/12  https://trove.nla.gov.au/newspaper/article/21630477?searchTerm=Australian%20Natives%20Association -->
-| AOF     | Ancient Order of Foresters                                   | Friendly Society  | 1-29-8             |
-| AOOF    | Ancient Order of Odd Fellows                                 | Friendly Society  | pp-ss-gg           |
-| EC      | English Constitution                                         | Freemasonry       | pp-ss-gg           |
-| GUOOF   | Grand United Order of Odd Fellows                            | Friendly Society  | pp-ss-gg           |
-| HACBS   | Hibernian Australia Catholic Benefit Society                 | Friendly Society  | pp-ss-gg           |
-| IC      | Irish Constitution                                           | Freemasonry       | 13-83-9/10         |
-| INF     | Irish National Foresters                                     | Friendly Society  | pp-ss-gg           |
-| IOGT    | [Independent Order of Good Templars][IOGT]                   | Temperance        | 1-63-13            | <!-- TODO George Drinkwater 11-54-6 -->
-| IOOF    | Independent Order of Odd Fellows                             | Friendly Society  | pp-ss-gg           |
-| IOR     | [Independent Order of Rechabites][IOOR]                      | Temperance        | pp-ss-gg           |
-| LOI     | [Loyal Orange Institute][LOI]                                |                   | pp-ss-gg           | <!-- TODO Moorhouse 11-21-14 -->
-| MUIOOF  | [Manchester Unity Independent Order of Odd Fellows][MUIOOF]  | Friendly Society  | 9-16-9             |
-| NIOOF   | National Independent Order of Odd Fellows                    | Friendly Society  | pp-ss-gg           |
-| ODT     | Order of the Daughters of Temperance                         | Temperance        | pp-ss-gg           |
+| AHCG    | [Australasian Holy Catholic Guild][AHCG]                     | Friendly Society  | <!--pp-ss-gg-->           |
+| ANA     | [Australian Natives Association][ANA]                        | Friendly Society  | <!--pp-ss-gg-->           | <!-- TODO try Raven 23-27-11/12  https://trove.nla.gov.au/newspaper/article/21630477?searchTerm=Australian%20Natives%20Association -->
+| AOF     | Ancient Order of Foresters                                   | Friendly Society  | <a href="https://brisbane.discovereverafter.com/profile/31680515" title="Go to Memorial Information">1-29-8</a> |
+| AOOF    | Ancient Order of Odd Fellows                                 | Friendly Society  | <!--pp-ss-gg-->          |
+| EC      | English Constitution                                         | Freemasonry       | <!--pp-ss-gg-->          |
+| GUOOF   | Grand United Order of Odd Fellows                            | Friendly Society  | <!--pp-ss-gg-->          |
+| HACBS   | Hibernian Australia Catholic Benefit Society                 | Friendly Society  | <!--pp-ss-gg-->          |
+| IC      | Irish Constitution                                           | Freemasonry       | <a href="https://brisbane.discovereverafter.com/profile/31969272"  title="Go to Memorial Information">13-83-9/10</a>         |
+| INF     | Irish National Foresters                                     | Friendly Society  | <!--pp-ss-gg-->          |
+| IOGT    | [Independent Order of Good Templars][IOGT]                   | Temperance        | <a href="https://brisbane.discovereverafter.com/profile/31851011"  title="Go to Memorial Information">1-62-13</a>            | <!-- TODO George Drinkwater 11-54-6 -->
+| IOOF    | Independent Order of Odd Fellows                             | Friendly Society  | <!--pp-ss-gg-->          |
+| IOR     | [Independent Order of Rechabites][IOOR]                      | Temperance        | <!--pp-ss-gg-->          |
+| LOI     | [Loyal Orange Institute][LOI]                                |                   | <!--pp-ss-gg-->          | <!-- TODO Moorhouse 11-21-14 -->
+| MUIOOF  | [Manchester Unity Independent Order of Odd Fellows][MUIOOF]  | Friendly Society  | <a href="https://brisbane.discovereverafter.com/profile/31799979" title="Go to Memorial Information">9-16-9</a>             |
+| NIOOF   | National Independent Order of Odd Fellows                    | Friendly Society  | <!--pp-ss-gg-->          |
+| ODT     | Order of the Daughters of Temperance                         | Temperance        | <!--pp-ss-gg-->          |
 | OES     | [Order of the Eastern Star][OES]                             | Freemasonry       | 1-147-26           |
-| OST     | Order of the Sons of Temperance                              | Temperance        | pp-ss-gg           |
-| PAFS    | Protestant Alliance Friendly Society                         | Friendly Society  | pp-ss-gg           |
-| RA      | [Royal Arch][RA]                                             | Friendly Society  | pp-ss-gg           | 
-| RAOB    | Royal Antediluvian Order of Buffaloes                        | Friendly Society  | pp-ss-gg           |
-| RBP     | [Royal Black Preceptory][RBP] [^2]                           |                   | pp-ss-gg           | <!-- TODO THOMAS HUGHES 5-59-10 --> 
-| SC      | Scottish Constitution                                        | Freemasonry       | 25-46-17           |
-| UAOD    | [United Ancient Order of Druids][UAOD]                       | Friendly Society  | 2A-13-4            |
-| UOSMS   | United Operative Stonemasons Society of Queensland           | Friendly Society  | 18‑71‑22/23        |
-| UGL     | [United Grand Lodge of Ancient, Free and Accepted][UGL]      | Freemasonry       | 25-46-17           |
+| OST     | Order of the Sons of Temperance                              | Temperance        | <!--pp-ss-gg-->          |
+| PAFS    | Protestant Alliance Friendly Society                         | Friendly Society  | <!--pp-ss-gg-->          |
+| RA      | [Royal Arch][RA]                                             | Friendly Society  | <!--pp-ss-gg-->          | 
+| RAOB    | Royal Antediluvian Order of Buffaloes                        | Friendly Society  | <!--pp-ss-gg-->          |
+| RBP     | [Royal Black Preceptory][RBP] [^2]                           |                   | <!--pp-ss-gg-->          | <!-- TODO THOMAS HUGHES 5-59-10 --> 
+| SC      | Scottish Constitution                                        | Freemasonry       | <a href="https://brisbane.discovereverafter.com/profile/31879481" title="Go to Memorial Information">25-46-17</a>           |
+| UAOD    | [United Ancient Order of Druids][UAOD]                       | Friendly Society  | <a href="https://brisbane.discovereverafter.com/profile/31766499" title="Go to Memorial Information">2A-13-4</a>            |
+| UOSMS   | United Operative Stonemasons Society of Queensland           | Friendly Society  | <a href="https://brisbane.discovereverafter.com/profile/32023508" title="Go to Memorial Information">18‑71‑22/23</a>        |
+| UGL     | [United Grand Lodge of Ancient, Free and Accepted][UGL]      | Freemasonry       | <a href="https://brisbane.discovereverafter.com/profile/31879481" title="Go to Memorial Information">25-46-17</a>           |
 
 
 
