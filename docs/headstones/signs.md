@@ -124,9 +124,9 @@ These signs, names or acronyms can be found on headstones in Toowong Cemetery.
 | MUIOOF  | [Manchester Unity Independent Order of Odd Fellows][MUIOOF]  | Friendly Society  | <a href="https://brisbane.discovereverafter.com/profile/31799979" title="Go to Memorial Information">9-16-9</a>             |
 | NIOOF   | National Independent Order of Odd Fellows                    | Friendly Society  | <!--pp-ss-gg-->          |
 | ODT     | Order of the Daughters of Temperance                         | Temperance        | <!--pp-ss-gg-->          |
-| OES     | [Order of the Eastern Star][OES]                             | Freemasonry       | 1-147-26           |
+| OES     | [Order of the Eastern Star][OES]                             | Freemasonry       | <a href="https://brisbane.discovereverafter.com/profile/31865987" title="Go to Memorial Information">28-42-26</a>          | <!-- 1-147-26 -->
 | OST     | Order of the Sons of Temperance                              | Temperance        | <!--pp-ss-gg-->          |
-| PAFS    | Protestant Alliance Friendly Society                         | Friendly Society  | <!--pp-ss-gg-->          |
+| PAFS    | Protestant Alliance Friendly Society                         | Friendly Society  | <a href="https://brisbane.discovereverafter.com/profile/31813039"  title="Go to Memorial Information">4-31-19</a>          |
 | RA      | [Royal Arch][RA]                                             | Friendly Society  | <!--pp-ss-gg-->          | 
 | RAOB    | Royal Antediluvian Order of Buffaloes                        | Friendly Society  | <!--pp-ss-gg-->          |
 | RBP     | [Royal Black Preceptory][RBP] [^2]                           |                   | <!--pp-ss-gg-->          | <!-- TODO THOMAS HUGHES 5-59-10 --> 
