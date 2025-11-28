@@ -39,7 +39,7 @@ In 1861 he was the first Anglican priest ordained in Brisbane. He served in Rock
 
 In 1881 he became Rector of Toowoomba and later Archdeacon of the Downs and Western District. In 1890, Bishop Webber recognised his long and devoted service to the Diocese by appointing him a Canon of St John's. He was connected with the Anglican Church Grammar School from its beginnings in 1912. Canon Thomas Jones died on 14 August 1918 two weeks after his retirement.
 
-![Reverend Cannon Thomas Jones, All Saints Church](../assets/canon-thomas-jones.jpg){ width="30%" }  
+![Reverend Cannon Thomas Jones, All Saints Church](../assets/canon-thomas-jones.jpg){ width="30%" }  ![Thomas Jones' headstone](../assets/thomas-jones-headstone.jpg){ width="44.8%" }  
 
 *<small>[Reverend Cannon Thomas Jones, All Saints Church](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220132750002061) 1865 — State Library of Queensland.</small>*
 
