@@ -175,9 +175,7 @@ Garland, aged 75, died at Red Hill on 11 October 1939. His grave is located at P
 
 *<small>[Tramcar 494 in Milton Road - Toowong](https://brisbane.recollectcms.com/nodes/view/36661), 2 December 1948. Outside Toowong Cemetery  — Brisbane City Council, Brisbane City Archives [BCC-B54-00056B]</small>* 
 <br> 
-*<small>[Paddington Tram Depot - Destroyed by Fire](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/results?qu=Paddington+Tram+Depot+-+Destroyed+by+Fire+1962&te=ASSET&lm=ALL_ASSETS), 28 September 1962 — Brisbane City Council</small>*
-
- <!-- broken link -->
+*<small>[Paddington Tram Depot smouldering after fire](https://brisbane.recollectcms.com/nodes/view/14562#idx33642), 28 September 1962 — Brisbane City Council, Brisbane City Archives [BCC-S35-9311217]</small>*
 
 
 The [heritage-listed Paddington Tramways Substation](https://apps.des.qld.gov.au/heritage-register/detail/?id=601198) can still be found at 150 Enoggera Terrace, Paddington. Trammies Corner Park can be visited at 74 Prince Street, Paddington.
@@ -190,8 +188,10 @@ Mayors, soldiers, politicians all fell victim to the clearance. At Toowong Cemet
 
 ![Toowong Cemetery - Dilapidated and Unsightly Graves](assets/dilapidated-graves-1974.jpg){ width="69.6%" data-title="Dilapidated and Unsightly Graves at Toowong Cemetery, 1974" }  ![Letter about removing headstones from Toowong Cemetery, 1975](assets/beautification-letter-19750319.jpg){ width="28.4%" }  <!-- broken link -->
 
-*<small>[Toowong Cemetery - Dilapidated and Unsightly Graves](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:2165/one?qu=Toowong+Cemetery+-+Dilapidated+and+Unsightly+Graves&te=ASSET&lm=ALL_ASSETS), 3 July 1974 — Brisbane City Council</small>* <br>
+*<small>Toowong Cemetery - Dilapidated and Unsightly Graves, 3 July 1974 — Brisbane City Council, Brisbane City Archives [BCC-B35Q-5-14]</small>* <br>
 *<small>A letter from Brisbane City Council giving 30 days notice before removal of grave enclosures and memorials.</small>*
+
+<!-- broken link not republished (https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:2165/one?qu=Toowong+Cemetery+-+Dilapidated+and+Unsightly+Graves&te=ASSET&lm=ALL_ASSETS) -->
 
 Friends of Toowong Cemetery have counted 1039 graves that were marked for removal, and nearly all were demolished.
 
