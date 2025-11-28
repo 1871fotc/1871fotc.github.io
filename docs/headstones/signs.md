@@ -114,7 +114,7 @@ These signs, names or acronyms can be found on headstones in Toowong Cemetery.
 | AOOF    | Ancient Order of Odd Fellows                                 | Friendly Society  | <!--pp-ss-gg-->          |
 | EC      | English Constitution                                         | Freemasonry       | <!--pp-ss-gg-->          |
 | GUOOF   | Grand United Order of Odd Fellows                            | Friendly Society  | <!--pp-ss-gg-->          |
-| HACBS   | Hibernian Australia Catholic Benefit Society                 | Friendly Society  | <!--pp-ss-gg-->          |
+| HACBS   | Hibernian Australiasian Catholic Benefit Society             | Friendly Society  | <!--pp-ss-gg-->          |
 | IC      | Irish Constitution                                           | Freemasonry       | <a href="https://brisbane.discovereverafter.com/profile/31969272"  title="Go to Memorial Information">13-83-9/10</a>         |
 | INF     | Irish National Foresters                                     | Friendly Society  | <!--pp-ss-gg-->          |
 | IOGT    | [Independent Order of Good Templars][IOGT]                   | Temperance        | <a href="https://brisbane.discovereverafter.com/profile/31851011"  title="Go to Memorial Information">1-62-13</a>            | <!-- TODO George Drinkwater 11-54-6 -->
