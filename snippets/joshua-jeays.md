@@ -13,3 +13,5 @@ Joshua built homes of prominent Brisbane residents such as John Petrie and the C
 
 *<small>[Bardon House in Brisbane, ca. 1930](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool166099) Bardon the suburb was named after this home built by Joshua Jeays, one of the first landowners in the district. The area was first surveyed in 1862. Jeays was the home owner and architect and a business partner of Andrew Petrie. — State Library of Queensland.</small>* <br>
 *<small>[Alderman Joshua Jeays](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/results?qu=Alderman+Joshua+Jeays&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS) — Brisbane City Council.</small>*
+
+<!-- broken link -->

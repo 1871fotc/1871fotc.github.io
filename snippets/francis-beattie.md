@@ -6,3 +6,5 @@ The fire alarm bell rang just after 4.30am on 21 December 1871. [The Ann Street 
   ![Alderman Francis Beattie, ca. 1870](../assets/francis-beattie.jpg){ width="75%" class="full-width" }
   <figcaption markdown>[Alderman Francis Beattie, ca. 1870](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:19696/email?qu=Alderman+Francis+Beattie&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&d=ent%3A%2F%2FSD_ASSET%2F0%2FSD_ASSET%3A19696%7E%7E0&te=ASSET&lm=ALL_ASSETS). — Brisbane City Council.</figcaption>
 </figure>
+
+<!-- broken link -->

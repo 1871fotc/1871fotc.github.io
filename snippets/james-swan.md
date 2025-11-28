@@ -8,5 +8,6 @@ James married again on 10 January 1889 to Christina Meikle. James Swan [died](ht
 
 ![Alderman James Swan](../assets/james-swan.jpg){ width="35.05%" } ![The Colonist](../assets/colonist-1-January-1835.jpg){ width="40%" } 
 
-*<small>[Alderman James Swan](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:19691/one?qu=Alderman+James+Swan&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS) — Brisbane City Council.</small>* <br>
+*<small>[Alderman James Swan](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:19691/one?qu=Alderman+James+Swan&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS) — Brisbane City Council.</small>* <br> <!-- broken link -->
+
 *<small>[The Colonist](https://en.wikipedia.org/wiki/The_Colonist), 1 January 1835 — via Wikipedia. Public Domain.</small>*  

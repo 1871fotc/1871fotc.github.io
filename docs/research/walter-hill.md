@@ -19,6 +19,9 @@ hide:
 
 *<small>[Lord Mayor Clem Jones Unveiling the Walter Hill Plaque - Toowong Cemetery.](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:24873/one?qu=Lord+Mayor+Clem+Jones+Unveiling+the+Walter+Hill+Plaque+-+Toowong+Cemetery.&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS) - [Brisbane City Council](https://www.brisbane.qld.gov.au)</small>*
 
+<!-- broken link -->
+
+
 The plaque reads: 
 
 >Walter Hill, The first director of The Brisbane Botanic Gardens, was born in 1820 in Scotsdyke, Dumfriesshire, Scotland. After training at The Royal Botanic Gardens of Edinburgh and Kew, He was appointed Superintendent of The Brisbane Botanic Gardens on 20 February 1855. Later he was designated Director and Government Botanist. He retired in 1881 and died at Eight Mile Plains on 4 February 1904. 

@@ -13,3 +13,4 @@ By 1880 he had established a rolling stock workshop in Hope Street, South Brisba
 
 *<small>[Benjamin Harris Babbidge - Mayor of Brisbane, 1885](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/19780/0) — Brisbane City Council </small>* 
 
+<!-- broken link -->

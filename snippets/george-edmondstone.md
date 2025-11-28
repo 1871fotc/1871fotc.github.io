@@ -7,3 +7,5 @@
 
 *<small>[Monument erected to the memory of George Edmondstone](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218962980002061). Died 23 February 1883. His widow Mrs Alexa Edmondstone, who died in Brisbane in 1887, is also buried there. — State Library of Queensland.</small>*  <br>
 *<small>[Alderman George Edmonstone](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/results?qu=Alderman+George+Edmonstone&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS) — Brisbane City Council.</small>*
+
+<!-- broken link -->

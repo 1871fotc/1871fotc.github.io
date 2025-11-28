@@ -16,5 +16,6 @@ He married Anne Hunter in Sydney in 1885 before moving to Aberleigh, Kelvin Grov
 
 ![Lord Mayor William Macnaughton Galloway](../assets/william-macnaughton-galloway.jpg){ width="28%" }  ![Flood waters at the Breakfast Creek Hotel, Brisbane, 1893](../assets/breakfast-creek-hotel-1893.jpg){ width="60.8%" }  
 
-*<small>[Lord Mayor William Macnaughton Galloway](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:19488/one?qu=Lord+Mayor+William+Macnaughton+Galloway&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS), 1889 — Brisbane City Council.</small>* <br>
+*<small>[Lord Mayor William Macnaughton Galloway](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:19488/one?qu=Lord+Mayor+William+Macnaughton+Galloway&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS), 1889 — Brisbane City Council.</small>* <br> <!-- broken link -->
+
 *<small>[Flood waters at the Breakfast Creek Hotel, Brisbane, 1893](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218154110002061) — State Library of Queensland.</small>*
