@@ -15,9 +15,10 @@ Mayors, soldiers, politicians all fell victim to the clearance. At Toowong Cemet
 
 ![Toowong Cemetery - Dilapidated and Unsightly Graves](../assets/dilapidated-graves-1974.jpg){ width="69.6%" data-title="Dilapidated and Unsightly Graves at Toowong Cemetery, 1974" }  ![Letter about removing headstones from Toowong Cemetery, 1975](../assets/beautification-letter-19750319.jpg){ width="28.4%" } 
 
-*<small>[Toowong Cemetery - Dilapidated and Unsightly Graves](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:2165/one?qu=Toowong+Cemetery+-+Dilapidated+and+Unsightly+Graves&te=ASSET&lm=ALL_ASSETS), 3 July 1974 — [Brisbane City Council](https://www.brisbane.qld.gov.au)</small>* <br>
+*<small>Toowong Cemetery - Dilapidated and Unsightly Graves, 3 July 1974 — Brisbane City Council, Brisbane City Archives [BCC-B35Q-5-14]</small>* <br>
 *<small>A letter from Brisbane City Council giving 30 days notice before removal of grave enclosures and memorials.</small>*
 
+<!-- broken link -->
 
 ??? Warning "Work in progress"
 
