@@ -207,10 +207,7 @@ In 1978 construction started on the Toowong Cemetery Roundabout which, when comp
 
 ![Toowong Cemetery Roundabout Construction](assets/toowong-roundabout-construction-1978-sml.jpg){ width="100%" data-title="Toowong Cemetery Roundabout construction, 1978" }  
 
-*<small>[Toowong Cemetery Roundabout Construction](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/12265/0), 8 March 1978. Intersection of Mt Coot‑tha Road, Frederick Street, Milton Road and Miskin Street — Brisbane City Council</small>*
-
-<!-- broken link 
---8<-- "snippets/toowong-roundabout-construction-1978.md"  broken link -->
+*<small>[Toowong Cemetery Roundabout Construction](https://brisbane.recollectcms.com/nodes/view/26638), 8 March 1978. Intersection of Mt Coot‑tha Road, Frederick Street, Milton Road and Miskin Street — Brisbane City Council, Brisbane City Archives [BCC-B54-49626P].</small>*
 
 ## 1988 Mission: Impossible
 
