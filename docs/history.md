@@ -86,15 +86,16 @@ The Toowong Cemetery was officially opened on 5 July 1875 and was originally cal
 
 ## 1911 Paddington Cemetery Act
 
-The North Brisbane Burial Grounds (also known as [Paddington Cemetery][Paddington Cemetery]) were opened in 1844 and closed in 1875. By 1907 there were calls to turn the neglected into a park and sports field.
+The North Brisbane Burial Grounds (also known as Paddington Cemetery) were opened in 1844 and closed in 1875. By 1907 there were calls to turn the neglected into a park and sports field.
 
 
 In 1911 the Queensland Government passed the *[Paddington Cemetery Act][Paddington Cemetery Act]* allowing them to move the bodies to another location. Some **[Paddington Cemetery remains and headstones were moved to Toowong Cemetery](headstones/moved-paddington-headstones.md)**
 
 [Paddington Cemetery Act]: http://classic.austlii.edu.au/au/legis/qld/hist_act/pcao19112gvn9298/ "Read the 1911 Paddington Cemetery Act"
 
-
+<!-- broken link
 [Paddington Cemetery]: https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery 
+-->
 
 ![Paddington Cemetery 1910](assets/paddington-cemetery-goat-1910.jpg){ width="70%" loading=lazy data-title="Paddington Cemetery 1910" } 
 
@@ -121,7 +122,11 @@ Allotments on [Heussler Terrace][Heussler Terrace] (renamed Birdwood Terrace) on
 
 ![Chermside Park advertisement](assets/chermside-park.jpg){ width="96%" loading=lazy data-title="Chermside Park advertisement" }  
 
-*<small>[Chermside Park, second section : Auchenflower](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21190073930002061), 1921 — [State Library of Queensland](https://www.slq.qld.gov.au). Note in the Inset how the tram stopped at the Toowong Cemetery gates. [Third Avenue was renamed Couldrey St](assets/documents/new-streets-1939.pdf) in 1939 after a [Queensland Miner](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:24525/one?qu=Duplicated+Street+Names+-+Extracts+from+Council+Records+re+Final+Approval+and+ORIGINS+of+names+1938+-+1939&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS). </small>*
+*<small>[Chermside Park, second section : Auchenflower](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21190073930002061), 1921 — State Library of Queensland. Note in the Inset how the tram stopped at the Toowong Cemetery gates. [Third Avenue was renamed Couldrey St](assets/documents/new-streets-1939.pdf) in 1939 after a Queensland Miner. 
+
+<!-- broken link 
+[Queensland Miner](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:24525/one?qu=Duplicated+Street+Names+-+Extracts+from+Council+Records+re+Final+Approval+and+ORIGINS+of+names+1938+-+1939&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS). </small>*
+-->
 
 ![Tram passing the Toowong Cemetery with Mt Coot‑tha in the distance, Queensland, 1921](assets/tram-passing-the-toowong-cemetery-1921.jpg){ width="96%" loading=lazy data-title="Tram passing the Toowong Cemetery with Mt Coot‑tha in the distance, Queensland, 1921" }  
 
@@ -166,9 +171,16 @@ Garland, aged 75, died at Red Hill on 11 October 1939. His grave is located at P
 
 [Trams in Brisbane](https://en.wikipedia.org/wiki/Trams_in_Brisbane) changed over time. In 1962 the [Paddington Tram Depot was destroyed by fire](https://trove.nla.gov.au/newspaper/article/104296116) and 65 trams were lost. The Rainworth and Toowong [tram services were withdrawn](https://youtu.be/yD8thm6MECU) and replaced with buses.
 
---8<-- "snippets/toowong-cemetery-tram.md"
+![Tramcar 494 in Milton Road, Toowong](assets/toowong-cemetery-tram.jpg){ width="47%" data-title="Tramcar 494 in Milton Road, Toowong, 1948" }  ![Paddington Tram Depot - Destroyed by Fire](assets/paddington-tram-depot-fire.jpg){ width="50%" data-title="Paddington Tram Depot destroyed by fire, 1962" }  
 
-The [heritage-listed Paddington Tramways Substation](https://apps.des.qld.gov.au/heritage-register/detail/?id=601198) can still be found at 150 Enoggera Terrace, Paddington. [Trammies Corner Park](https://brismania.com/day-93-paddington-bare/) can be visited at 74 Prince Street, Paddington.
+*<small>[Tramcar 494 in Milton Road - Toowong](https://brisbane.recollectcms.com/nodes/view/36661), 2 December 1948. Outside Toowong Cemetery  — Brisbane City Council, Brisbane City Archives [BCC-B54-00056B]</small>* 
+<br> 
+*<small>[Paddington Tram Depot - Destroyed by Fire](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/results?qu=Paddington+Tram+Depot+-+Destroyed+by+Fire+1962&te=ASSET&lm=ALL_ASSETS), 28 September 1962 — Brisbane City Council</small>*
+
+ <!-- broken link -->
+
+
+The [heritage-listed Paddington Tramways Substation](https://apps.des.qld.gov.au/heritage-register/detail/?id=601198) can still be found at 150 Enoggera Terrace, Paddington. Trammies Corner Park can be visited at 74 Prince Street, Paddington.
 
 ## 1970's "Beautification Scheme"
 
@@ -176,9 +188,9 @@ By April 1975 the Cemetery was full with all plots sold. The Brisbane City Counc
 
 Mayors, soldiers, politicians all fell victim to the clearance. At Toowong Cemetery, headstones were demolished and buried in the canal. The [Toowong Cemetery heritage listing](https://apps.des.qld.gov.au/heritage-register/detail/?id=601773) suggests, "*approximately 1,000 memorials were removed from Toowong*". Intervention in 1979 saw an end to the organised vandalism. The Cemetery reopened in 1998 with approximately 450 plots for sale. 
 
-![Toowong Cemetery - Dilapidated and Unsightly Graves](assets/dilapidated-graves-1974.jpg){ width="69.6%" data-title="Dilapidated and Unsightly Graves at Toowong Cemetery, 1974" }  ![Letter about removing headstones from Toowong Cemetery, 1975](assets/beautification-letter-19750319.jpg){ width="28.4%" } 
+![Toowong Cemetery - Dilapidated and Unsightly Graves](assets/dilapidated-graves-1974.jpg){ width="69.6%" data-title="Dilapidated and Unsightly Graves at Toowong Cemetery, 1974" }  ![Letter about removing headstones from Toowong Cemetery, 1975](assets/beautification-letter-19750319.jpg){ width="28.4%" }  <!-- broken link -->
 
-*<small>[Toowong Cemetery - Dilapidated and Unsightly Graves](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:2165/one?qu=Toowong+Cemetery+-+Dilapidated+and+Unsightly+Graves&te=ASSET&lm=ALL_ASSETS), 3 July 1974 — [Brisbane City Council](https://www.brisbane.qld.gov.au)</small>* <br>
+*<small>[Toowong Cemetery - Dilapidated and Unsightly Graves](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:2165/one?qu=Toowong+Cemetery+-+Dilapidated+and+Unsightly+Graves&te=ASSET&lm=ALL_ASSETS), 3 July 1974 — Brisbane City Council</small>* <br>
 *<small>A letter from Brisbane City Council giving 30 days notice before removal of grave enclosures and memorials.</small>*
 
 Friends of Toowong Cemetery have counted 1039 graves that were marked for removal, and nearly all were demolished.
@@ -193,13 +205,20 @@ Friends of Toowong Cemetery have counted 1039 graves that were marked for remova
 
 In 1978 construction started on the Toowong Cemetery Roundabout which, when completed, made entry via the main gates difficult.
 
---8<-- "snippets/toowong-roundabout-construction-1978.md"
+![Toowong Cemetery Roundabout Construction](assets/toowong-roundabout-construction-1978-sml.jpg){ width="100%" data-title="Toowong Cemetery Roundabout construction, 1978" }  
+
+*<small>[Toowong Cemetery Roundabout Construction](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/12265/0), 8 March 1978. Intersection of Mt Coot‑tha Road, Frederick Street, Milton Road and Miskin Street — Brisbane City Council</small>*
+
+<!-- broken link 
+--8<-- "snippets/toowong-roundabout-construction-1978.md"  broken link -->
 
 ## 1988 Mission: Impossible
 
 In 1988 the first season of [Mission: Impossible](https://en.wikipedia.org/wiki/Mission:_Impossible_(1988_TV_series)) was filmed in Queensland. Some scenes where filmed in Toowong Cemetery.
 
---8<-- "snippets/mission-impossible.md"
+![Mission Impossible Television Series being Filmed at Toowong Cemetery](assets/mission-impossible-1988.jpg){ width="49%" data-title="Mission Impossible Television Series being filmed at Toowong Cemetery, 1988" } ![Mission Impossible Television Series being Filmed at Toowong Cemetery](assets/mission-impossible-1988-2.jpg){ width="49%" data-title="Mission Impossible Television Series being filmed at Toowong Cemetery, 1988" }  
+
+*<small>[Mission Impossible Television Series being Filmed at Toowong Cemetery](https://brisbane.recollectcms.com/nodes/view/9705), 21 September 1988   — Brisbane City Council, Brisbane City Archives [BCC-B35-6018.9] [BCC-B35-6020.21]</small>*
 
 ## 1991 The Sexton's office restoration 
 
@@ -208,8 +227,6 @@ The Toowong Cemetery Museum, located over the open drain, was formerly the Sexto
 [^1]: From [Toowong Cemetery](https://apps.des.qld.gov.au/heritage-register/detail/?id=601773) © The State of Queensland, used under a [CC BY 4.0][cc-by] licence.
 
 ![Toowong Cemetery Museum](assets/museum.jpg){ width="98%" loading=lazy data-title="Toowong Cemetery Museum, 2022" }
-
-You can visit the Museum as part of our **[Toowong Cemetery Guided Tours](guided-tours.md)**
 
 
 ## 1992 Friends of Toowong Cemetery formed 
@@ -240,7 +257,7 @@ In 1913 the headstones had been stored in good order behind Christ Church in Pad
 
 ![Paddington Cemetery ca. 1900's](assets/paddington-cemetery-ca-1900.jpg){ width="96%" loading=lazy data-title="Paddington Cemetery ca. 1900's" } 
 
-*<small>[Paddington Cemetery ca. 1900's](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/22186/1) — Brisbane City Council. Cropped.</small>*
+*<small>[Paddington Cemetery ca. 1900's](https://brisbane.recollectcms.com/nodes/view/17392#idx41189) — Brisbane City Council, Brisbane City Archives [BCC-D-20130035]</small>* 
 
 ![Headstones discovered in Toowong Cemetery Archaeological dig](assets/lost-and-found.jpg){ width="96%" loading=lazy data-title="Headstones discovered in Toowong Cemetery Archaeological dig" } 
 
