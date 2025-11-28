@@ -14,13 +14,15 @@ In the 1930s the Council decided to rename many streets in Brisbane to make thei
 - *River Road* was renamed *Coronation Drive* in honor of the coronation of King George VI.
 - *St. Lucia Road* was renamed *Sir Fred Schonell Drive* after the vice-chancellor of the University of Queensland from 1960 to 1969.
 
-For more information, see: 
+For more information, see [Renamed street directory - 1939](../assets/documents/Renamed-Streets-1939.pdf), Brisbane City Council, Brisbane City Archives [[BCA0124](https://brisbane.recollectcms.com/nodes/view/38478)]. 
 
-- [A Guide - History of Street Naming in Brisbane](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/24510/0) - A guide detailing the process for street naming by Council and a guide to using the street naming records held by the City Archives. [Brisbane City Council Archives]((https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:24510/one?qu=A+Guide+-+History+of+Street+Naming+in+Brisbane)).
+<!--
+- [A Guide - History of Street Naming in Brisbane](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/24510/0) - A guide detailing the process for street naming by Council and a guide to using the street naming records held by the City Archives. [Brisbane City Council Archives](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:24510/one?qu=A+Guide+-+History+of+Street+Naming+in+Brisbane).
 - [Duplicate Street Names - Extracts from Committee Reports with reasons 1938 - 1939](../assets/documents/street-renaming-extracts-from-council-records+re+origin+of+names.pdf) - Extracts from Minutes of Works Committee meetings where street renames were approved. Includes derivation of name. [Brisbane City Council Archives](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:24525/one?qu=Duplicated+Street+Names+-+Extracts+from+Council+Records+re+Final+Approval+and+ORIGINS+of+names+1938+-+1939&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS).
 - [Duplicated Street names - List Assigned New Street Names May 1939 arranged by NEW street Name](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/24528/0) - Final Schedule published by Council of duplicated streets approved to rename to May 1939. Entries arranged alphabetically by new name with reference to former name. [Brisbane City Council Archives](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:24528/one?qu=Duplicated+Street+names+-+List+Assigned+New+Street+Names+May+1939+arranged+by+NEW+street+Name&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS).
+-->
 
-<!-- broken link -->
+<!-- broken link check Brisbane City Archives in Q1 2026 -->
 
 ## Toowong Cemetery Reservation c1861
 
