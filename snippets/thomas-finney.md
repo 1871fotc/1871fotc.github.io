@@ -2,9 +2,11 @@
 
 [Thomas Finney](https://adb.anu.edu.au/biography/finney-thomas-3518) and his family lived in *Sidney House* (on the site of the former ABC Studios in Toowong) from 1882, one of the grandest houses in Toowong, surrounded by gardens and an orchard. He is buried next to his business partner James Isles with whom he [established Finney Isles & Co.](https://trove.nla.gov.au/newspaper/article/182631732) in 1864.
 
-![Sidney House in Toowong, viewed from the street, March, 1890](../assets/sidney-house-toowong-1890.jpg){ width="70%" }
+![Thomas Finney](../assets/thomas-finney.jpg){ width="23.8%" }
+![Sidney House in Toowong, viewed from the street, March, 1890](../assets/sidney-house-toowong-1890.jpg){ width="65%" }
 
-*<small>[Sidney House in Toowong, viewed from the street, March, 1890](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool127391) — State Library of Queensland </small>*
+*<small>[Thomas Finney](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool127391) — State Library of Queensland </small>* <br>
+*<small>[Sidney House in Toowong, viewed from the street, March, 1890](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/tqqf2h/alma99183506981502061) — State Library of Queensland </small>*
 
 <!--
 Sidney House, Toowong

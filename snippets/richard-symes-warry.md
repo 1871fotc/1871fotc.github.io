@@ -6,7 +6,10 @@ Richard Warry was a grocer and was one of the earliest of the Queen Street store
 
 ![Richard Symes Warry](../assets/richard-symes-warry.jpg){ width="40%" } 
 
+*<small>Richard Symes Warry — Brisbane City Council, Brisbane City Archives.</small>*
+
+<!-- broken link
 *<small>[Richard Symes Warry](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/results?qu=Richard+Warry&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS) — Brisbane City Council.</small>*
 
-<!-- broken link -->
+-->
 

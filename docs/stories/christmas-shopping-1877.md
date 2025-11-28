@@ -30,9 +30,16 @@ search:
 
 Another of Brisbane's earliest Queen Street shopkeepers was the grocer Richard Warry who was also Mayor of Brisbane 1866-1867. He was born in Somerset, England in 1829, the son of Thomas Warry and his wife Maria (née Symes). Richard married Mary Lydia Pratten on 25 January 1851 in Brisbane. He died on 12 March 1891 at his residence *Timsbury*, Samford Road, Enoggera aged 62, after a long and painful illness. In 1877 his grocery store was situated opposite the Brisbane GPO.
 
+<!--
 <figure markdown>
   ![Brisbane's General Post Office, ca. 1875](../assets/brisbane-general-post-office-1875.jpg){ width="70%"  class="full-width" }
   <figcaption markdown>[Brisbane's General Post Office, ca. 1875](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99183506926602061) — State Library of Queensland.</figcaption>
+</figure>
+-->
+
+<figure markdown>
+  ![Richard Symes Warry](../assets/richard-symes-warry.jpg){ width="60%"  class="full-width" } 
+  <figcaption markdown>Richard Symes Warry — Brisbane City Council, Brisbane City Archives.</figcaption>
 </figure>
 
 --8<-- "snippets/john-ure-mcnaught.md"
@@ -47,10 +54,10 @@ Another of Brisbane's earliest Queen Street shopkeepers was the grocer Richard W
 
 The merchant and politician, Thomas Finney was born on 10 January 1837 at *Currakeen House*, Tuam, Galway, Ireland, son of Thomas Finney and his wife Eliza, née Cornwall. In 1862 he arrived in Brisbane on the *Flying Cloud* with his friend, James Isles with whom he went into business as Finney Isles & Co two years later. [Thomas died on 16 December 1903](https://adb.anu.edu.au/biography/finney-thomas-3518) at his home, *Sidney House*, Toowong.
 
-<figure markdown>
-  ![Proposed sketch for the premises of Finney Isles & Co. on the corner of Adelaide Edward and Queen Streets, Brisbane, 1888](../assets/finney-and-isles-store-brisbane-proposed-1888.jpg){ width="70%"  class="full-width" }
-  <figcaption markdown>[Proposed sketch for the premises of Finney Isles & Co. on the corner of Adelaide Edward and Queen Streets, Brisbane, 1888](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99184003619702061) — State Library of Queensland.</figcaption>
-</figure>
+![Thomas Finney](../assets/thomas-finney.jpg){ width="24%" } ![Proposed sketch for the premises of Finney Isles & Co. on the corner of Adelaide Edward and Queen Streets, Brisbane, 1888](../assets/finney-and-isles-store-brisbane-proposed-1888.jpg){ width="61.5%" }
+
+*<small>[Thomas Finney](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool127391) — State Library of Queensland </small>* <br>
+*<small>[Proposed sketch for the premises of Finney Isles & Co. on the corner of Adelaide Edward and Queen Streets, Brisbane, 1888](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma99184003619702061) — State Library of Queensland.</small>* 
 
 <!--
 https://en.wikipedia.org/wiki/Thomas_Finney_(politician)#/media/File:StateLibQld_1_103590_Thomas_Finney_of_Finney,_Isles_and_Co.jpg
@@ -77,7 +84,7 @@ Written by Lyn Maddock
 [Christmas Eve in Brisbane](https://trove.nla.gov.au/newspaper/article/19763726), 1877, The Queenslander — National Library of Australia
 
 <!--
-- https://trove.nla.gov.au/newspaper/article/175544653 1871
+- https://trove.nla.gov.au/newspaper/article/175544653 1871 
 
 -->
 <!--
