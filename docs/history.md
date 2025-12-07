@@ -150,7 +150,7 @@ Garland, aged 75, died at Red Hill on 11 October 1939. His grave is located at P
 
 ![Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](assets/unveiling-cross-of-sacrifice.jpg){ width="96%" loading=lazy data-title="Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924"}  
 
-*<small>[Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?dps_pid=IE1400763&change_lng=) — State Library of Queensland. <!-- The Union Jack flag was placed on the building to mask the fact that it was the amenities. --> </small>*
+*<small>[Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/tqqf2h/alma99183857293402061) — State Library of Queensland. <!-- The Union Jack flag was placed on the building to mask the fact that it was the amenities. --> </small>*
 
 <!--
 ![Cross of Sacrifice and Stone of Remembrance memorials at Toowong Cemetery, Brisbane, 1924](assets/stone-of-remembrance.jpg){ width="96%" }  
