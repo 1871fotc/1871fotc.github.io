@@ -24,7 +24,7 @@ This licence allows you to distribute, remix, adapt, and build upon the material
 
 If you reuse this work, the preferred attribution is to follow the [Creative Commons - Best practices for attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution) format:
 
->"Page title *(link to page)*" by Friends of Toowong Cemetery Association Inc. *(link to https://www.fotc.org.au)* is licensed under CC BY 4.0 *(link to https://creativecommons.org/licenses/by/4.0/)*
+>"Page title *(link to page)*" by Friends of Toowong Cemetery Association Inc. *(link to https://www.fotc.au)* is licensed under CC BY 4.0 *(link to https://creativecommons.org/licenses/by/4.0/)*
 
 We ask that you respect the moral right of the original contributor to be acknowledged as the author and retain any Acknowledgements on the work you reuse.
 
@@ -49,9 +49,11 @@ An example attribution for work derived from the Toowong Cemetery History page i
 To contribute content, you can:
 
 - **[Share content via email][email]**
-- **[Contribute a story using a Google form](https://forms.gle/U94dcEj6RihM9BPq9)**
 - **[Share content in a GitHub issue][new-issue]** (login required)
 - **[Discuss or share your contribution in the GitHub discussion forum][forum]** (login required)
+<!--
+- **[Contribute a story using a Google form](https://forms.gle/U94dcEj6RihM9BPq9)**
+-->
 
 Contributions must be made under an open licence, preferably the [Creative Commons Attribution 4.0 licence][CC-BY] so you:
 
@@ -109,4 +111,6 @@ You can change your cookie settings at any time.
 [forum]: https://github.com/1871fotc/1871fotc.github.io/discussions
 [email]: mailto:inquiries@fotc.au
 [phone]: tel:0439998053
+<!--
 [form]: https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590= 
+-->
