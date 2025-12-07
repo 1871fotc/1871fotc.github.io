@@ -47,10 +47,10 @@ Friends of Toowong Cemetery and the [University of Queensland Archaeology Depart
 Headstones uncovered in the **[archaeological digs](archaeological-digs.md)** are believed to come from two sources: 
 
 - **[Headstones lost from Paddington Cemetery](lost-paddington-headstones.md)** in the 1930's 
-- Toowong Cemetery headstones destroyed and buried in the 1970's as part of the Brisbane City Council's 'Beautification Scheme'
+- Toowong Cemetery headstones demolished and buried in the 1970's as part of the Brisbane City Council's 'Beautification Scheme'
 
 <!--
-- **[Toowong Cemetery headstones destroyed and buried in the 1970's](../assets/documents/lost-toowong-cemetery-headstones.pdf)** as part of the Brisbane City Council's 'Beautification Scheme'
+- **[Toowong Cemetery headstones demolished and buried in the 1970's](../assets/documents/lost-toowong-cemetery-headstones.pdf)** as part of the Brisbane City Council's 'Beautification Scheme'
 --> 
 
 ![Toowong Cemetery Archaeological Dig, 2013](../assets/images/digs/2013/fotc-2013-dig-5.jpg){ width="100%" }
