@@ -34,7 +34,7 @@ Mayors, soldiers, politicians all fell victim to the clearance. At Toowong Cemet
     Stage 2: 
 
     1. Add all surnames of people buried in the grave to the Last Name entry. For example: for 18-35-24&25, record Dick, Lovelock, and Russell, instead of just Dick.
-    1. Update individual story pages, e.g.: [Magdalene Dick](../../research/magdalene-dick/), with:  
+    1. Update individual story pages, e.g.: [Magdalene Dick](../research/magdalene-dick.md), with:  
         - headstone photo (if appropriate). Reduce image size
         - inscription
         - grave marker number
@@ -45,7 +45,7 @@ Mayors, soldiers, politicians all fell victim to the clearance. At Toowong Cemet
 
     2. split the headstone record into multiple entries; one per person, separated by grave location (e.g. split 1-2-3&4 into 1-2-3 and 1-2-4)
         - link surname to individual story page if Friends of Toowong Cemetery have written one. 
-    1. Create a individual story page for each person and link from last name. (This could create ~3000 pages) For example: [Cecelia Head](../../research/17-11-11-cecelia-head/)
+    1. Create a individual story page for each person and link from last name. (This could create ~3000 pages) For example: [Cecelia Head](../research/17-11-11-cecelia-head.md)
     2. Add links to memorial search for each person in the table (~3000 links)
 -->
     
