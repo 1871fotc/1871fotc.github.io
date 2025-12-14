@@ -69,6 +69,10 @@ Two sailors from the Netherlands Merchant Navy are also buried at Toowong Cemete
 
 [Sailor Boesidien](https://www.cwgc.org/find-records/find-war-dead/casualty-details/7510728/boesidien/) was born in Bengkalan, Java in 1909. He died, aged 30, in Brisbane on 27 August 1942 while serving aboard the KPM line’s *MV Maetsuycker*. The vessel had evacuated from the Dutch East Indies and was redeployed transporting Australian troops to New Guinea.
 
+
+![Boesidien headstone](../assets/boesidien-headstone.jpg){ width="60%" }
+
+
 ## Samanuddin <small>[(29‑9‑11)](https://brisbane.discovereverafter.com/profile/31842498 "Go to Memorial Information" )</small>
 
 [Sailor Samanuddin](https://oorlogsgravenstichting.nl/personen/133335/samanuddin) was born in Dacca (now Dhaka, Bangladesh) in 1906 and was a sailor in the Dutch Merchant Navy. He died in Brisbane on 16 July 1943 aged 37.
