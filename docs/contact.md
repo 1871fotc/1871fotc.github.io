@@ -25,7 +25,7 @@ We use forms to help you:
 
 You can contact us via: 
 
-- Email: **[inquiries@fotc.au](mailto:inquiries@fotc.au)**
+- Email: **[president@fotc.au](mailto:president@fotc.au)**
 - Phone: **[0439998053](tel:0439998053)**
 <!-- Facebook: **[@1871fotc](https://www.facebook.com/1871fotc/)** -->
 
