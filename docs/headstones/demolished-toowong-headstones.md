@@ -3,8 +3,6 @@ title: Demolished Toowong Cemetery Headstones
 description: Headstones demolished by the Brisbane City Council as part of their "Beautification Scheme" in the 1970's 
 hide:
   - toc
-search:
-  exclude: true  
 ---
 
 # Demolished Toowong Cemetery Headstones
@@ -18,44 +16,11 @@ Mayors, soldiers, politicians all fell victim to the clearance. At Toowong Cemet
 *<small>Toowong Cemetery - Dilapidated and Unsightly Graves, 3 July 1974 — Brisbane City Council, Brisbane City Archives [BCC-B35Q-5-14]</small>* <br>
 *<small>A letter from Brisbane City Council giving 30 days notice before removal of grave enclosures and memorials.</small>*
 
-<!-- broken link -->
-
-??? Warning "Work in progress"
-
-    We're slowly checking the data and adding it to the table below. 
-
-    Our plans:
-
-    Stage 1:
-
-    1. Add 1 record per headstone.
-    2. Check that the headstone was actually demolished.
-
-    Stage 2: 
-
-    1. Add all surnames of people buried in the grave to the Last Name entry. For example: for 18-35-24&25, record Dick, Lovelock, and Russell, instead of just Dick.
-    1. Update individual story pages, e.g.: [Magdalene Dick](../research/magdalene-dick.md), with:  
-        - headstone photo (if appropriate). Reduce image size
-        - inscription
-        - grave marker number
-        - link to grave report 
-
-<!--
-    Backlog:
-
-    2. split the headstone record into multiple entries; one per person, separated by grave location (e.g. split 1-2-3&4 into 1-2-3 and 1-2-4)
-        - link surname to individual story page if Friends of Toowong Cemetery have written one. 
-    1. Create a individual story page for each person and link from last name. (This could create ~3000 pages) For example: [Cecelia Head](../research/17-11-11-cecelia-head.md)
-    2. Add links to memorial search for each person in the table (~3000 links)
--->
-    
-
-
 ## Toowong Cemetery Headstones demolished in the 1970's
 
-The table below lists the headstones that were demolished where there is an "Unsightly/Dangerous Grave report". 
+The table below lists the headstones listed an "Unsightly/Dangerous Grave report". 
 
-Friends of Toowong Cemetery have counted 1039 grave sites that were marked for removal - most were removed but their grave report is lost.
+Friends of Toowong Cemetery have counted 1039 grave sites that were marked for removal. There are 725 rows in the table below as some grave reports were lost.
 
 <!--  
 Search the table below to find who you're looking for. 
@@ -69,7 +34,9 @@ Search the table below to find who you're looking for.
 
 ??? directions "About the data"
 
-    The table has a row per Grave Report. Some Grave Reports have been lost, and although headstones and grave surrounds were removed, there is no entry in the table for these.
+    Source: Brisbane City Council, [Toowong Cemetery Demolished Graves Correspondence (1975-1978)](https://brisbane.recollectcms.com/nodes/view/38609), [BCA0423]. Brisbane City Archives. 
+
+    The table has a row per Grave Report. 
     
     **Headstone Location**
 
@@ -83,7 +50,7 @@ Search the table below to find who you're looking for.
 
     **Last Names(s)**
 
-    - Multiple people with different last names may be buried in a grave. Currently only one last name is recorded for a headstone. (We will fix this in time.)
+    - Multiple people with different last names may be buried in a grave. Each last name is listed in the entry.
 
     **Grave Report and Headstone Photo**
 
@@ -91,7 +58,7 @@ Search the table below to find who you're looking for.
 
     **Data quality** 
 
-    - There are different spellings of names in the grave report, headstone inscription, and Memorial Search record. (We use a judgement to choose the best name to publish.)
+    - There are different spellings of names in the grave report, headstone inscription, and Memorial Search record. (We use our judgement to choose the best name to publish.)
     - Some people in the grave report may be buried in another location. For example, reinterred to another cemetery. 
     - People are mentioned in the headstone inscription but may not be buried in Toowong Cemetery. 
     - People are buried in the grave but may not be mentioned in the headstone inscription.
