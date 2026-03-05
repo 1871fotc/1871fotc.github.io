@@ -18,7 +18,7 @@ Mayors, soldiers, politicians all fell victim to the clearance. At Toowong Cemet
 
 ## Toowong Cemetery Headstones demolished in the 1970's
 
-The table below lists the headstones listed an "Unsightly/Dangerous Grave report". 
+The table below lists the headstones listed in an "Unsightly/Dangerous Grave report". 
 
 Friends of Toowong Cemetery have counted 1039 grave sites that were marked for removal. There are 725 rows in the table below as some grave reports were lost.
 
@@ -54,7 +54,7 @@ Search the table below to find who you're looking for.
 
     **Grave Report and Headstone Photo**
 
-    - Headstone photos and Grave reports © Brisbane City Council. 
+    - Headstone photos and Grave reports are © Brisbane City Council. 
 
     **Data quality** 
 
