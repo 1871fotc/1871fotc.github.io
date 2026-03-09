@@ -23,8 +23,8 @@ The table below lists Paddington Cemetery headstones that were placed in the res
 
 ??? directions "About the data"
 
-    - Source: [Paddington Cemetery](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/24749/0). Appendix No.7 in Volume 2 of the 1914 Parliamentary papers — Brisbane City Archives. Edits shown in *italics*
-    - Appendix 1 in Volume 2 of the 1914 Parliamentary papers, states 505 headstones were placed in the reserved area:
+    - Source: Appendix 7 in the [QLD department of Public Lands, Report on Operations Undertaken at Paddington Cemeteries 1913 (1914). Brisbane City Archives](https://brisbane.recollectcms.com/nodes/view/38396). Edits shown in *italics*
+    - Appendix 1 in the source states 505 headstones were placed in the reserved area:
         - 278 Episcopalian (Anglican)
         - 78 Roman Catholic
         - 80 Presbyterian
