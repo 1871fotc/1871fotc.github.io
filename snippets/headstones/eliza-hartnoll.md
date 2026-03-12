@@ -4,7 +4,7 @@
 
 *<small>Eliza Hartnoll's headstone discovered in a Toowong Cemetery Archaeological Dig.</small>*
 
-- Erected: North Brisbane Burial Grounds, Episcopalian section. ca. 3 June 1871
+- Erected: North Brisbane Burial Grounds, Episcopalian section. ca. 3 June 1874
 - Moved to: North Brisbane Burial Grounds, Reserved Area. ca. 1914
 - Demolished and disposed of in: Toowong Cemetery, Portion 29A. ca. 1930
 - Discovered: Toowong Cemetery, Portion 29A near Section 72. ca. May 2014
