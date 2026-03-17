@@ -63,7 +63,7 @@ extra:
   generator: false
   social:
     - icon: fontawesome/solid/envelope
-      link: mailto:inquiries@fotc.au
+      link: mailto:president@fotc.au
       name: Email us
     - icon: fontawesome/brands/bluesky
       link: https://bsky.app/profile/fotc.au
