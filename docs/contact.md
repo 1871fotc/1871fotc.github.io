@@ -32,14 +32,13 @@ You can contact us via:
 <!--
 - Twitter: **[@1871fotc](https://twitter.com/1871fotc)**
 - GitHub: **[@1871fotc](https://github.com/1871fotc)**
--->
 
 You can send a letter to: 
 
 **Friends of Toowong Cemetery Association Inc.** <br>
 **PO Box 808** <br>
 **Toowong QLD 4066**
-
+-->
 <!--
 ![Woman typing on a typewriter, ca. 1915](../assets/woman-typing.jpg){ width="40%" }
 
