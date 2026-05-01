@@ -126,7 +126,7 @@ These signs, names or acronyms can be found on headstones in Toowong Cemetery.
 | ODT     | Order of the Daughters of Temperance                         | Temperance        | <!--pp-ss-gg-->          |
 | OES     | [Order of the Eastern Star][OES]                             | Freemasonry       | <a href="https://brisbane.discovereverafter.com/profile/31865987" title="Go to Memorial Information">28-42-26</a>          | <!-- 1-147-26 -->
 | OST     | Order of the Sons of Temperance                              | Temperance        | <!--pp-ss-gg-->          |
-| PAFS    | Protestant Alliance Friendly Society                         | Friendly Society  | <a href="https://brisbane.discovereverafter.com/profile/31813039"  title="Go to Memorial Information">4-31-19</a>          |
+| PAFS    | [Protestant Alliance Friendly Society][PAFS]                 | Friendly Society  | <a href="https://brisbane.discovereverafter.com/profile/31813039" title="Go to Memorial Information">4-31-19</a>          |
 | RA      | [Royal Arch][RA]                                             | Friendly Society  | <!--pp-ss-gg-->          | 
 | RAOB    | Royal Antediluvian Order of Buffaloes                        | Friendly Society  | <!--pp-ss-gg-->          |
 | RBP     | [Royal Black Preceptory][RBP] [^2]                           |                   | <!--pp-ss-gg-->          | <!-- TODO THOMAS HUGHES 5-59-10 --> 
@@ -201,6 +201,7 @@ You can find signs of Friendly Societies in the local area such as:
 [IOOR]: https://www.australianrechabites.org.au/states/qld-rechabites/
 [LOI]: https://www.facebook.com/pages/category/Religious-Organization/Loyal-Orange-Institution-of-Queensland-895315537148498/ "Loyal Orange Institute Queensland on Facebook"
 [MUIOOF]: https://www.facebook.com/groups/535759726633938/?ref=share
+[PAFS]: https://trove.nla.gov.au/newspaper/article/115332926
 [OES]: https://www.oesaustralia.org.au/index.php/state/qld/
 [RA]: https://www.royalarch.org.au
 [RBP]: http://royalblack.org/mission-statement/our-history/
