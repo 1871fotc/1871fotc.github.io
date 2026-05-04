@@ -4,7 +4,7 @@ search:
   boost: 3
 ---
 
---8<-- "snippets/sem/guided-tours.json"
+<!-- "snippets/sem/guided-tours.json" -->
 
 --8<-- "snippets/hide-nav.html"
 
@@ -28,7 +28,7 @@ There's no need to book, just meet under the flagpole in Canon Garland Place at 
 
 ## Upcoming Guided Tours
 
-Our next tour is on **Sunday 3 May 2026**.
+Our next tour is on **Sunday 7 June 2026**.
 
 The tour is limited to 20 people. 
 
@@ -51,7 +51,7 @@ Add it to your calendar.
 
 ## Toowong Cemetery Museum
 
-The Museum is open in conjunction with our guided tours if cemetery staff are on-site.
+The Museum may be open in conjunction with our guided tours if cemetery staff are on-site.
 
 ![Toowong Cemetery Museum](assets/museum.jpg){ width="98%" data-title="Toowong Cemetery Museum is open in conjunction with our guided tours"}
 
