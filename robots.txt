@@ -1,0 +1,39 @@
+User-agent: *
+Disallow: /snippets/*
+Disallow: /overrides/*
+Disallow: /fotc/*
+Disallow: /qr/*
+Disallow: /search/*
+Disallow: /assets/calendar/*
+Disallow: /assets/guides/*
+Disallow: /assets/documents/*
+Allow: /assets/documents/toowong-cemetery-map.pdf
+Disallow: /drafts/*
+Disallow: /walks/mount-blackall-walk/
+
+#
+# Images - Don't flood images with our social images
+#
+User-agent: Googlebot-Image
+User-agent: msnbot-media
+Disallow: /assets/images/social/*
+Disallow: /assets/fotc-qr-code.png
+Disallow: /assets/404-16x9.png
+Disallow: /assets/404.png
+Disallow: /assets/ACNC-Registered-Charity-Logo_RGB.png
+Allow: /assets/toowong-cemetery-map.jpg
+Allow: /assets/pioneer-childrens-graves-13-10-4.jpg
+
+#
+# Allow specific social images
+#
+# Allow: /assets/images/social/headstones/*
+# Allow: /assets/images/social/history.png
+# Allow: /assets/images/social/guided-tours.png
+# Allow: /assets/images/social/stories/index.png
+# Allow: /assets/images/social/about/federation-pavilion.png
+# Allow: /assets/images/social/about/extraordinary-stories.png
+# Allow: /assets/images/social/walks/federation-walk.png
+# Allow: /assets/images/social/walks/jewish-walk.png
+# Allow: /assets/images/social/walks/lilian-cooper-walk.png
+
