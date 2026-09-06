@@ -28,7 +28,7 @@ There's no need to book, just meet under the flagpole in Canon Garland Place at 
 
 ## Upcoming Guided Tours
 
-Our next tour is on **Sunday 6 September 2026**.
+Our next tour is on **Sunday 4 October 2026**.
 
 The tour is limited to 20 people. 
 
