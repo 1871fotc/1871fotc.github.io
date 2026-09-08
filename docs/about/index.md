@@ -17,6 +17,10 @@ search:
 ![Friends of Toowong Cemetery banner](../assets/fotc-banner-transparent-1280x320.png){ .off-glb }
 
 
+## Contact Us
+
+You can contact us via email: **[president@fotc.au](mailto:president@fotc.au)**
+
 ## What we do 
 
 The Friends of Toowong Cemetery:
