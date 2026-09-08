@@ -171,6 +171,9 @@ plugins:
       draggable: false
       auto_caption: true
       caption_position: bottom
+#  - redirects:
+#      redirect_maps:
+#        'contact.md': 'about/index.md'      
 
 # Page tree - only 2 levels allowed
 nav:
@@ -275,4 +278,4 @@ nav:
     - Federation Pavilion: about/federation-pavilion.md
     - Information Signs: about/information-signs.md
     - Legal: about/legal.md
-  - Contact Us: contact.md
+#  - Contact Us: contact.md
