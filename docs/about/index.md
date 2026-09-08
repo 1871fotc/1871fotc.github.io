@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: About
 description: Learn what Friends of Toowong Cemetery have done, what we're working on, and how you can join in 
 
 search:
