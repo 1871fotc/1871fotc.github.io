@@ -2,7 +2,7 @@
 title: Get Involved
 description: Learn how to get involved with Friends of Toowong Cemetery
 search:
-  boost: 3 
+  exclude: true  
 ---
 
 <!-- -8- "snippets/sem/contact.json" TODO or NOT NEEDED -->
