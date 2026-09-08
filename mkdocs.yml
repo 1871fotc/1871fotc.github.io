@@ -171,9 +171,9 @@ plugins:
       draggable: false
       auto_caption: true
       caption_position: bottom
-#  - redirects:
-#      redirect_maps:
-#        'contact.md': 'about/index.md'      
+  - redirects:
+      redirect_maps:
+        'contact.md': 'about/index.md'      
 
 # Page tree - only 2 levels allowed
 nav:
