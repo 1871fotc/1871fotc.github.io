@@ -2,6 +2,8 @@
 title: The Federation Walk 
 description: A Toowong Cemetery self-guided walk commemorating Queensland's contribution to Australia's federation
 icon: fontawesome/solid/person-walking
+hide:
+  - navigation
 ---
 
 --8<-- "snippets/sem/walks/federation-walk.json"
