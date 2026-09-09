@@ -136,7 +136,6 @@ These signs, names or acronyms can be found on headstones in Toowong Cemetery.
 | UGL     | [United Grand Lodge of Ancient, Free and Accepted][UGL]      | Freemasonry       | <a href="https://brisbane.discovereverafter.com/profile/31879481" title="Go to Memorial Information">25-46-17</a>           |
 
 
-
 !!! question "Volunteer - share a headstone photo"
 
     Have you found the location of a Friendly Society Sign? [Email us](mailto:president@fotc.au) with the details. 
@@ -147,7 +146,6 @@ These signs, names or acronyms can be found on headstones in Toowong Cemetery.
 https://trove.nla.gov.au/newspaper/article/1381382?searchTerm=William%20wayte
 Albion Hotel, Sandgate road
 Albert Hotel, Albert Street
-
 -->
 
 Unlike the [Clasped Hands symbol](symbols.md#clasped-hands) showing a man and women holding hands (based on the cuffs), on some Friendly Society official's headstones you'll find two men shaking hands.
