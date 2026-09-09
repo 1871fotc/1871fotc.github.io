@@ -90,7 +90,7 @@ We acknowledge Aboriginal and Torres Strait Islander peoples and their continuin
 
 ## Accessibility
 
-We try a make this website accessible to everyone. If anything on this site is inaccessible to you, or you are experiencing problems accessing content, please [contact us](../contact.md).
+We try a make this website accessible to everyone. If anything on this site is inaccessible to you, or you are experiencing problems accessing content, please [email us](mailto:president@fotc.au).
 
 <!--
 ## Your consent 
@@ -109,8 +109,7 @@ You can change your cookie settings at any time.
 [CC-BY]: https://creativecommons.org/licenses/by/4.0/
 [new-issue]: https://github.com/1871fotc/1871fotc.github.io/issues/new/choose
 [forum]: https://github.com/1871fotc/1871fotc.github.io/discussions
-[email]: mailto:inquiries@fotc.au
-[phone]: tel:0439998053
+[email]: mailto:president@fotc.au
 <!--
 [form]: https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590= 
 -->
