@@ -173,12 +173,19 @@ plugins:
       caption_position: bottom
   - redirects:
       redirect_maps:
-        'contact.md': 'about/index.md'      
+        'contact.md': 'about/index.md'
+        'walks/index.md': 'stories/index.md'
+#        'walks/federation-walk.md': 'stories/federation-walk.md'
+#        'walks/lilian-cooper-walk.md': 'stories/lilian-cooper-walk.md'
+#        'walks/jewish-walk.md': 'stories/jewish-walk.md'
+#        'walks/mount-blackall-walk.md': 'stories/mount-blackall-walk.md'
+#        'research/find-a-grave.md': 'find-a-grave.md'
 
 # Page tree - only 2 levels allowed
 nav:
   - Home: index.md
   - Cemetery History: history.md
+  - Find a Grave: research/find-a-grave.md
   - Stories:
     - Stories: stories/index.md
 # Politics
@@ -239,11 +246,11 @@ nav:
     - Portion 5 - part 2: stories/portion5-part2.md
     - Portion 6 and 24: stories/portion6-and-24.md
     - Portion 15 and 16: stories/portion15-and-16.md
-  - Walks:   
-    - Walks: walks/index.md 
-    - The Federation Walk: walks/federation-walk.md
-    - Dr. Lilian Cooper Walk: walks/lilian-cooper-walk.md 
-    - The Jewish Walk: walks/jewish-walk.md 
+#  - Walks:   
+#    - Walks: walks/index.md 
+#    - The Federation Walk: walks/federation-walk.md
+#    - Dr. Lilian Cooper Walk: walks/lilian-cooper-walk.md 
+#    - The Jewish Walk: walks/jewish-walk.md 
 #    - Mount Blackall Walk: walks/mount-blackall-walk.md
   - Guided Tours: guided-tours.md  
   - Headstones: 
