@@ -67,7 +67,7 @@ Friends of Toowong Cemetery meet at **[Mt Coot‑tha Botanical Gardens Auditoriu
 
 ![Mt Coot‑tha Botanical Gardens Auditorium](../assets/auditorium.jpg)
 
-**[Contact Us](../contact.md)** if you'd like to apply to join. Applications are subject Management Committee approval.
+**[Email Us](mailto:president@fotc.au)** if you'd like to apply to join. Applications are subject Management Committee approval.
 
 <!--
 
