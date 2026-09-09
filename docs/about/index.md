@@ -1,9 +1,9 @@
 ---
 title: About
 description: Learn what Friends of Toowong Cemetery have done, what we're working on, and how you can join in 
-
 search:
-  boost: 2  
+  boost: 2
+icon: fa-solid/fa-circle-info  
 ---
 
 --8<-- "snippets/sem/about.json"
