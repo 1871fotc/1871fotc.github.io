@@ -20,7 +20,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
 <div class="grid cards" markdown>  
 
--   :fontawesome-solid-person-walking:{ .lg .middle } **[The Federation Walk](federation-walk.md)** 
+-   :fontawesome-solid-person-walking:{ .lg .middle } **[The Federation Walk](../walks/federation-walk.md)** 
   
     ---
 
@@ -29,7 +29,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     :fontawesome-regular-clock: 30 minutes  
 
     
--   :fontawesome-solid-person-walking:{ .lg .middle } **[Dr. Lilian Cooper walk](lilian-cooper-walk.md)**
+-   :fontawesome-solid-person-walking:{ .lg .middle } **[Dr. Lilian Cooper walk](../walks/lilian-cooper-walk.md)**
   
     ---
 
@@ -38,20 +38,20 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     :fontawesome-regular-clock: 1 hour  
     
 
-<!--
 -   :material-face-woman-outline:{ .lg .middle } **[Notable Women][notable-women]**
 
     ---
 
     Women who shaped Queensland
 
-
+<!-- 
 -   :four_leaf_clover:{ .lg .middle } **[The Irish][irish]**
   
     ---
 
     Stories about the Irish remembered in Toowong Cemetery.
    
+-->
 
 -   :material-fire:{ .lg .middle } **[Fire! Fire!][fire-fighters]**
   
@@ -59,7 +59,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
     Fire fighters of early Brisbane.
 
--->
+
 
 <!-- January Australia Day
 
@@ -109,14 +109,14 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
     Remembering members of the Royal Australian Navy who gave their lives in service to this country.
 -->
-<!-- Nurses -->
+<!-- Nurses 
 
 -   :fontawesome-solid-user-nurse:{ .lg .middle } **[Nurses and Doctors][nurses]**
   
     ---
 
     Nurses and doctors - some who gave their life in the course of their duties.  
-
+-->
 <!--
 -   :fontawesome-solid-person-military-rifle:{ .lg .middle } **[Colonial Conflicts][colonial-conflicts]**
   
@@ -134,13 +134,13 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
     Shearers fought against wealthy squatters for better working conditions. 
 
--->
+
 -   :fontawesome-solid-scale-unbalanced:{ .lg .middle } **[Labor Luminaries][labor-luminaries]**
   
     ---
 
     Recognising people involved in the Labor movement. 
-
+-->
 
 <!--    -- July RAN founded 
 
@@ -158,7 +158,8 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     ---
 
     Commemorating the proclamation of the Town of Toowong in August 1903. 
-
+-->
+<!-- 
 -   :material-home-group:{ .lg .middle } **[More Toowong Identities][toowong-identities-2]**
   
     ---
@@ -172,7 +173,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
     Recalling the builders of early Brisbane.
 -->
 
-<!-- October -->
+<!-- October 
 
 -   :fontawesome-solid-scale-balanced:{ .lg .middle } **[Founding Fathers][founding-fathers]** 
   
@@ -180,7 +181,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
     Stories of Toowong Cemetery's first Trustees from 1870
 
-
+-->
 
 <!-- December 
 
@@ -192,14 +193,14 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
  -->
 
-<!-- Brisbane City Council Election March 2024 
+<!-- Brisbane City Council Election March 2024 -->
 
 -   :fontawesome-solid-building-columns:{ .lg .middle } **[Brisbane Mayors][brisbane-mayors]**
   
     ---
 
-    Read about 14 Brisbane Mayors from 1859 to 1931 who are buried in Toowong Cemetery.       
--->
+    Read about 14 Brisbane Mayors from 1859 to 1931 who are buried in Toowong Cemetery.
+    
 
 -   :fontawesome-solid-monument:{ .lg .middle } **[Monumental Masons][monumental-masons]**
 
