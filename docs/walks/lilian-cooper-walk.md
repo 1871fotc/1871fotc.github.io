@@ -2,6 +2,8 @@
 title: Dr. Lilian Cooper Walk
 description: Uncover Brisbane's history along the gently sloping Dr. Lilian Cooper Drive.
 icon: fontawesome/solid/person-walking
+hide:
+  - navigation
 ---
 
 --8<-- "snippets/sem/walks/lilian-cooper-walk.json"
