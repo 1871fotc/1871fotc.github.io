@@ -120,4 +120,4 @@ There are many unmarked graves in Toowong Cemetery. Take care when you walk acro
 
 ## Gravesite Care and Family History 
 
-Friends of Toowong Cemetery can help locate and photograph a gravesite, and, with family permission, clean the gravesite and re-letter the headstone. If you have a story or photo to share, we'd love to add it to our collection. **Need help? [Get in touch](mailto:president@fotc.au]**
+Friends of Toowong Cemetery can help locate and photograph a gravesite, and, with family permission, clean the gravesite and re-letter the headstone. If you have a story or photo to share, we'd love to add it to our collection. **Need help? [Get in touch](mailto:president@fotc.au)**
