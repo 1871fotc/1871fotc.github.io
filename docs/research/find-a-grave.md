@@ -63,12 +63,12 @@ Portion numbers are shown on signs throughout the cemetery. Section numbers are 
 
 Plan your visit to Toowong Cemetery.
 
-  - **[Check Office opening hours](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#officehours)**. 
+  - **[Check Office opening hours](https://www.brisbane.qld.gov.au/libraries-venues-and-facilities/cemeteries/cemetery-locations-and-services/toowong-cemetery#location)**. 
   - **[Decide how you'll travel to Toowong Cemetery](../index.md#visit-toowong-cemetery)**
 
 ### 4. Ask for help 
 
-**[Ask Friends of Toowong Cemetery for help](../about/index.md)**:
+**[Ask Friends of Toowong Cemetery for help](mailto:president@fotc.au)**:
 
 <!-- If you're visiting outside of office hours, we can mark the side of the road with the section number to help you locate the grave.  -->
 
@@ -78,7 +78,7 @@ Plan your visit to Toowong Cemetery.
 ### 5. Visit the grave
 
   - **[Travel to Toowong Cemetery](../index.md#visit-toowong-cemetery)**.
-  - When you arrive, **[ask the Toowong Cemetery Office to help find the grave](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#locatinggravesandashesmemorialsites)**.
+  - When you arrive, **[ask the Toowong Cemetery Office to help find the grave](https://www.brisbane.qld.gov.au/libraries-venues-and-facilities/cemeteries/cemetery-locations-and-services/toowong-cemetery#location)**.
 
 
 ## Unmarked Graves and Grave Markers
@@ -120,4 +120,9 @@ There are many unmarked graves in Toowong Cemetery. Take care when you walk acro
 
 ## Gravesite Care and Family History 
 
-Friends of Toowong Cemetery can help locate and photograph a gravesite, and, with family permission, clean the gravesite and re-letter the headstone. If you have a story or photo to share, we'd love to add it to our collection. **Need help? [Get in touch](mailto:president@fotc.au)**
+Friends of Toowong Cemetery can help 
+- locate and photograph a gravesite
+- clean the gravesite and re-letter the headstone, with family permission
+- add your story or photo to our collection.
+
+**Need help? [Get in touch](mailto:president@fotc.au)**
