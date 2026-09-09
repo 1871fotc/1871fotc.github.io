@@ -12,7 +12,11 @@ search:
 
 Heritage‑listed Toowong Cemetery is the largest cemetery in Queensland. It can be difficult to find a grave as some graves are unmarked and some headstones have been destroyed.
 
-## Search for a person's grave
+## Find a grave
+
+Find a grave in Toowong Cemetery in 5 steps: 
+
+### 1. Search for a person's grave
 
 Use the Brisbane City Council **[Memorial search](https://brisbane.discovereverafter.com)** to look up a person's name and find their location in Toowong Cemetery.
 
@@ -30,7 +34,7 @@ For example, Peter Jackson's grave is located at 5&nbsp;-&nbsp;28/#/1 or Portion
 
     The new BCC Memorial search is new and has some data quality issues, especially with locations shown on the aerial map. Note the plot location number and use the map below. If you find data issues, please report them to BCC.
 
-## Locate the grave on the map
+### 2. Locate the grave on the map
 
 Use the Toowong Cemetery Map to locate the Portion and Section where the person is buried.
 
@@ -55,29 +59,29 @@ Portion numbers are shown on signs throughout the cemetery. Section numbers are 
 </figure>
 
 
-## Plan your visit
+### 3. Plan your visit
 
 Plan your visit to Toowong Cemetery.
 
   - **[Check Office opening hours](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#officehours)**. 
   - **[Decide how you'll travel to Toowong Cemetery](../index.md#visit-toowong-cemetery)**
 
-## Ask for help 
+### 4. Ask for help 
 
-**[Ask Friends of Toowong Cemetery for help](../contact.md)**:
+**[Ask Friends of Toowong Cemetery for help](../about/index.md)**:
 
 <!-- If you're visiting outside of office hours, we can mark the side of the road with the section number to help you locate the grave.  -->
 
   - If the grave is unmarked, we can outline the grave using a surface spray. The spray does no harm and two mowings later it will disappear.
   - If you're unable to visit, we can to take a digital photograph of a grave and email it to you.
 
-## Visit the grave
+### 5. Visit the grave
 
   - **[Travel to Toowong Cemetery](../index.md#visit-toowong-cemetery)**.
   - When you arrive, **[ask the Toowong Cemetery Office to help find the grave](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#locatinggravesandashesmemorialsites)**.
 
 
-## Grave Markers
+## Unmarked Graves and Grave Markers
 
 Markers can be seen on, or embedded into, graves. A Marker represents a person buried in the grave. Historic Burial and Portion Registers link some people to markers and their grave. Unfortunately many markers are missing or have been moved.
 
@@ -105,7 +109,7 @@ Only the surname is recorded in the Portion Book so you can't link a marker to a
 
 -->
 
-## Unmarked Graves
+### Unmarked Graves
 
 There are many unmarked graves in Toowong Cemetery. Take care when you walk across the grass as unmarked graves can leave hidden hollows that are a trip hazard.
 
@@ -113,3 +117,7 @@ There are many unmarked graves in Toowong Cemetery. Take care when you walk acro
   ![Unmarked graves](../assets/unmarked-graves.jpg){ width="100%" data-title="Unmarked graves can be clearly seen after rain" data-description="There are many unmarked graves in Toowong Cemetery."}
   <figcaption markdown>Unmarked graves can be clearly seen after rain.</figcaption>
 </figure>
+
+## Gravesite Care and Family History 
+
+Friends of Toowong Cemetery can help locate and photograph a gravesite, and, with family permission, clean the gravesite and re-letter the headstone. If you have a story or photo to share, we'd love to add it to our collection. **Need help? [Get in touch](mailto:president@fotc.au]**
