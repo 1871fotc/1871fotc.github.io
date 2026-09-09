@@ -17,8 +17,26 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
 ## Featured Stories
 
+
 <div class="grid cards" markdown>  
 
+-   :fontawesome-solid-person-walking:{ .lg .middle } **[The Federation Walk](federation-walk.md)** 
+  
+    ---
+
+    Discover the stories of Queenslander's who contributed to Australia's federation and our constitution.
+
+    :fontawesome-regular-clock: 30 minutes  
+
+    
+-   :fontawesome-solid-person-walking:{ .lg .middle } **[Dr. Lilian Cooper walk](lilian-cooper-walk.md)**
+  
+    ---
+
+    Uncover Brisbane's history along the gently sloping Dr. Lilian Cooper Drive.<br><br>
+
+    :fontawesome-regular-clock: 1 hour  
+    
 
 <!--
 -   :material-face-woman-outline:{ .lg .middle } **[Notable Women][notable-women]**
