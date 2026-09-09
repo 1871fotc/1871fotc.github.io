@@ -21,7 +21,7 @@ Use the <a href="../../assets/toowong-cemetery-map-large.jpg" target="_blank" ti
 
 !!! question "Volunteer - report a damaged sign"
 
-    Unfortunately signs are often vandalised in the cemetery. **[Contact us](../contact.md)** if you find a damaged sign.
+    Unfortunately signs are often vandalised in the cemetery. **[Email us](mailto:president@fotc.au)** if you find a damaged sign.
 
     
 ### Layout
