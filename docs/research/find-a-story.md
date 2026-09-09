@@ -12,7 +12,7 @@ The table below lists over 550 people mentioned in our **[Toowong Cemetery stori
 
 ??? question "Volunteer - Contribute missing data"
 
-    Do you know about any of the missing data in the Story Index? Did you spot an error? **[Contact us](../contact.md)** with the details. 
+    Do you know about any of the missing data in the Story Index? Did you spot an error? **[Email us](mailto:president@fotc.au)** with the details. 
     
     **[Contribute a Story](https://forms.gle/U94dcEj6RihM9BPq9)** and share your discoveries with us.
 
