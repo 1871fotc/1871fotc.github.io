@@ -176,6 +176,7 @@ plugins:
         'contact.md': 'about/index.md'
         'walks/index.md': 'stories/index.md'
         'history.md': 'research/history.md'
+#        'guided-tour.md': 'visit/guided-tour.md'
 #        'walks/federation-walk.md': 'stories/federation-walk.md'
 #        'walks/lilian-cooper-walk.md': 'stories/lilian-cooper-walk.md'
 #        'walks/jewish-walk.md': 'stories/jewish-walk.md'
@@ -185,7 +186,7 @@ plugins:
 # Page tree - only 2 levels allowed
 nav:
   - Home: index.md
-#  - Visit Toowong Cemetery: visit.md
+  - Visit Toowong Cemetery: visit.md
 # moved Cemetery History to Research History 
 #  - Cemetery History: history.md
   - Find a Grave: research/find-a-grave.md
@@ -258,7 +259,7 @@ nav:
 #    - Dr. Lilian Cooper Walk: walks/lilian-cooper-walk.md 
 #    - The Jewish Walk: walks/jewish-walk.md 
 #    - Mount Blackall Walk: walks/mount-blackall-walk.md
-  - Guided Tours: guided-tours.md  
+#  - Guided Tours: guided-tours.md  
   - Discover Headstones: 
     - Discover Headstones: headstones/index.md  
     - Headstone Symbols: headstones/symbols.md
