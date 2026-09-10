@@ -246,7 +246,7 @@ Take the **[Federation self-guided walk](../walks/federation-walk.md)** to visit
 
 In 2006, in conjunction with the University of Queensland Archaeology Department, Friends of Toowong Cemetery started **[searching for demolished headstones][digs]** buried in the cemetery grounds.
 
-[digs]: headstones/archaeological-digs.md "Read about our archaeological digs"
+[digs]: ../headstones/archaeological-digs.md "Read about our archaeological digs"
 
 In 2011, while staff prepared a new grave, the headstone of a John Peel was discovered. Brisbane City Council had no record of John Peel and asked Friends of Toowong Cemetery for help. It was discovered that the headstone was one of **[505 missing headstones](../headstones/lost-paddington-headstones.md)** from the North Brisbane Burial Grounds (also known as the Paddington Cemetery). 
 
