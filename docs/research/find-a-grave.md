@@ -6,6 +6,7 @@ search:
 ---
 
 --8<-- "snippets/sem/research/find-a-grave.json"
+--8<-- "snippets/hide-nav.html"
 
 
 # How to find a grave in Toowong Cemetery
