@@ -186,8 +186,8 @@ nav:
   - Home: index.md
   - Cemetery History: history.md
   - Find a Grave: research/find-a-grave.md
-  - Stories:
-    - Stories: stories/index.md
+  - Explore Stories:
+    - Explore Stories: stories/index.md
 # Politics
     - Queensland Governors: stories/governors.md
     - Brisbane Mayors: stories/brisbane-mayors.md
@@ -253,8 +253,8 @@ nav:
 #    - The Jewish Walk: walks/jewish-walk.md 
 #    - Mount Blackall Walk: walks/mount-blackall-walk.md
   - Guided Tours: guided-tours.md  
-  - Headstones: 
-    - Headstones: headstones/index.md  
+  - Discover Headstones: 
+    - Discover Headstones: headstones/index.md  
     - Headstone Symbols: headstones/symbols.md
     - Headstone Signs: headstones/signs.md 
 #    - Shapes: headstones/shapes.md  
@@ -268,8 +268,8 @@ nav:
 #    - Conserving Headstones: headstones/conserving-headstones.md
 #    - Restored Headstones: headstones/restored-headstones.md
 #    - Celebrity Headstones: headstones/celebrities.md
-  - Research Hub:
-    - Research Hub: research/index.md
+  - Research History:
+    - Research History: research/index.md
     - Find a Grave: research/find-a-grave.md
     - Find a Story: research/find-a-story.md
     - Burial Registers: research/burial-register.md
