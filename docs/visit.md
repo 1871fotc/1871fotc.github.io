@@ -3,6 +3,8 @@ title: Visit Toowong Cemetery
 description: Visit Toowong Cemetery and explore its history and stories
 ---
 
+--8<-- "snippets/hide-nav.html"
+
 # Visit Toowong Cemetery
 
 <!-- 
