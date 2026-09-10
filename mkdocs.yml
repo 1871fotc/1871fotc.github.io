@@ -184,10 +184,15 @@ plugins:
 # Page tree - only 2 levels allowed
 nav:
   - Home: index.md
+#  - Visit Toowong Cemetery: visit.md
+# move Cemetery History to Research History or Stories
   - Cemetery History: history.md
   - Find a Grave: research/find-a-grave.md
   - Explore Stories:
     - Explore Stories: stories/index.md
+# Publications
+#    - Extraordinary Stories of Ordinary People: about/extraordinary-stories.md
+#    - 140th Anniversary Commemoration: about/140-commemoration.md
 # Politics
     - Queensland Governors: stories/governors.md
     - Brisbane Mayors: stories/brisbane-mayors.md
@@ -270,6 +275,7 @@ nav:
 #    - Celebrity Headstones: headstones/celebrities.md
   - Research History:
     - Research History: research/index.md
+#    - Cemetery History: research/history.md
     - Find a Grave: research/find-a-grave.md
     - Find a Story: research/find-a-story.md
     - Burial Registers: research/burial-register.md
@@ -281,8 +287,8 @@ nav:
   - About: 
     - About: about/index.md
     - Publications: about/publications.md
-    - Extraordinary Stories of Ordinary People: about/extraordinary-stories.md
-    - 140th Anniversary Commemoration: about/140-commemoration.md
+#    - Extraordinary Stories of Ordinary People: about/extraordinary-stories.md
+#    - 140th Anniversary Commemoration: about/140-commemoration.md
     - Federation Pavilion: about/federation-pavilion.md
     - Information Signs: about/information-signs.md
     - Legal: about/legal.md
