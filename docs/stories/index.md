@@ -197,7 +197,7 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
 </div>
 
-## Political stories
+## Shaping Queensland <!-- Political Stories -->
 
 - **[The Federation walk][federation-walk]** :fontawesome-solid-person-walking: - commemorating four Queensland delegates to the 1891 National Australasian Convention
 - **[Queensland Governors][governors]** - stories about some of Queensland's earliest Governors (1868 to 1919) 
@@ -217,7 +217,8 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 - **[Toowong Streets](toowong-street-name-origins.md)** - the origins of Toowong Street names 
 --> 
 
-## Stories by Profession
+## Work and Industry <!-- Stories by Profession -->
+
 
 - **[Artists][artists]** - discover famous local artists
 - **[Fire fighters][fire-fighters]** - Fire fighters of early Brisbane
@@ -233,8 +234,10 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 - **[Sporting Personalities][sporting-personalities]** 
 - **[Railway People][railway]** - A Journey from Sevastopol to Brunswick Street
 - **[Undertakers][undertakers]**
+- **[Steam](steam.md)** - stories about our steam-driven past
+- **[Building Brisbane][brisbane-open-house]** - recalling the builders of early Brisbane
 
-## Military stories
+## Service and Sacrifice
 
 - **[Colonial Conflicts][colonial-conflicts]**
 - **[Lest We Forget][lest-we-forget]** - remembering the men and women who gave their lives in service to their country
@@ -246,22 +249,20 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 
 <!-- - **[Toowong Cemetery Remembrance Walk][remembrance-walk]** - explore the lives of Queensland's volunteer troops and take a moment to reflect on the service and sacrifice for which the Anzac Legend is known. -->
 
-## Community stories 
+## Communities & Culture 
 
+- **[Convicts][convicts]** - connections to our convict past
 - **[The Irish][irish]** 
 - **[The Lutherans][lutheran]** 
 - **[The Jewish walk][jewish]** :fontawesome-solid-person-walking: - A self-guided walk around Portion 3
 
-## Other themed stories
 
+## Everyday Life
 - **[One Year: 1923](1923.md)**
 - **[Christmas Shopping 1877][christmas-shopping-1877]** - stories about shop keepers and Christmas in 1877
 - **[The Other Half][the-other-half]** - stories about women who made an impact on Queensland
-- **[Steam](steam.md)** - stories about our steam-driven past
-- **[Building Brisbane][brisbane-open-house]** - recalling the builders of early Brisbane
-- **[Convicts][convicts]** - connections to our convict past
+- **[Christmas](christmas.md)**
 - **[Erected by Family, Friends and Colleagues](erected-by-friends.md)** 
-- **[Christmas](christmas.md)** 
 - **[At the mercy of the weather](weather.md)** 
 - **[20/20 Vision](2020-vision.md)**  
 - **[Rich man, Poor man](rich-man-poor-man.md)** 
@@ -269,11 +270,8 @@ Individual stories have been grouped into **over 50 themed collections** below. 
 - **[Children][children]** - Suffer the little children, and forbid them not, to come unto me
 - **[Mothers](mothers.md)** 
 
-<!-- 
-- **[The Other Half][the-other-half]** - Women who made an impact on Queensland
---> 
 
-## Stories by Portion
+## Stories by location
 
 - **[Portion 5 - part 1](portion5-part1.md)** 
 - **[Portion 5 - part 2](portion5-part2.md)** 
@@ -311,7 +309,7 @@ Missing stories
 [lest-we-forget]: lest-we-forget.md
 [lest-we-forget-navy]: lest-we-forget-navy.md
 [rn]: men-of-the-royal-navy.md
-[remembrance-walk]: remembrance-walk.md
+[remembrance-walk]: remembrance-walk.md  <!-- missing -->
 [scots-ww1]: scots-in-the-aif-ww1.md
 [1919-soldiers]: 1919-soldiers.md
 [colonial-conflicts]: colonial-conflicts.md
@@ -337,7 +335,7 @@ Missing stories
 
 [convicts]: convict-connections.md
 [irish]: irish.md
-[jewish]: ../walks/jewish-walk.md
+[jewish]: ../walks/jewish-walk.md  <!-- move -->
 [lutheran]: lutheran.md
 [children]: children.md
 [brisbane-open-house]: brisbane-open-house.md
