@@ -98,16 +98,23 @@ Each self-guided walk has a map, directions, and shares stories about some of th
     :fontawesome-regular-clock: 1½ - 2 hours  
     
 
-
 </div>
-
 
 
 ## Guided Tours
 
 Friends of Toowong Cemetery provide free **[guided tours](guided-tours.md)**. Every tour is different. No need to book.
 
-<!-- image -->
+![Pat Hill's headstone][image11]{ width="32%" } ![Harry Potter's headstone][image9]{ width="32%" } ![Cherub headstone][image8]{ width="32%" }
+
+[image4]: assets/140-commemoration-sml.png
+[image5]: assets/museum.jpg
+[image6]: assets/federation-pavilion.jpg
+[image7]: assets/peter-jackson.jpg "Peter Jackson's Headstone"
+[image8]: assets/cherub.jpg
+[image9]: assets/harry-potter-16x9.jpg 
+[image10]: assets/clasped-hands.jpg "We Part To Meet Again"
+[image11]: assets/pat-hill-headstone.jpg 
 
 ## Headstone Symbolism Display
 
