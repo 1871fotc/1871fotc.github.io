@@ -62,9 +62,7 @@ The Museum has an extensive display of photographs and artefacts.
 ![Museum photo display](assets/museum-photos-1.jpg){ width="48.5%" } ![Museum photo display](assets/museum-photos-2.jpg){ width="48.5%" }
 ![Museum photo display](assets/museum-photos-3.jpg){ width="48.5%" } ![Museum photo display](assets/museum-photos-4.jpg){ width="48.5%" }
 
-## Guided Tour Alternatives
 
-If you can't join our guided tour, consider taking a **[Toowong Cemetery self-guided walk](walks/index.md)** or the visiting the **[headstone symbolism display](headstones/symbols.md)**.
 
 <!--
 !!! warning "COVID-19 Restrictions"
