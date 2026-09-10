@@ -27,6 +27,7 @@ hide:
 ### Learn more
 
 - Learn how Elizabeth's brother, Henry Harris Dodd, was [murdered by mistake](https://www.slq.qld.gov.au/blog/murder-st-helena-penal-establishment). Henry is buried in grave 11‑2‑28.
+- [Up hill and down Dale: Where did Elizabeth drown?](https://www.oncewasacreek.org/up-hill-and-down-dale-where-did-elizabeth-drown/)
   
 
 <!-- 
