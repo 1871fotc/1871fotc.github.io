@@ -22,11 +22,21 @@ description: Visit Toowong Cemetery and explore its history and stories
 
 ## Things to do at Toowong Cemetery
 
-At Toowong Cemetery you can:
+You can explore the cemetery between 6am and 6pm. It's lovely just to wander around, enjoy the green space and heritage that surrounds you.
 
-### Self-Guided Walks
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/41fWB0IvDKU?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>  
 
-**Free self-guided walks to help you explore the history and stories of Toowong Cemetery**
+<!--
+*<small>[Toowong Cemetery, Brisbane - DJI Mavic aerial](https://youtu.be/41fWB0IvDKU) by Drone Runner. </small>* **<small></small>**. 
+-->
+
+Toowong Cemetery is the largest cemetery in Queensland. On your walk you should wear a hat and enclosed shoes, and take a water bottle. 
+
+If you want to learn more, try some of these options:
+
+## Self-Guided Walks
 
 Each walk has a map, directions, and stories about people remembered in Toowong Cemetery. Choose a walk:
 
@@ -90,21 +100,11 @@ Each walk has a map, directions, and stories about people remembered in Toowong 
 
 </div>
 
-Self-guided walks in Toowong Cemetery are free. You can walk in the cemetery between 6am and 6pm.
 
-<div class="video-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/41fWB0IvDKU?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>  
-
-<!--
-*<small>[Toowong Cemetery, Brisbane - DJI Mavic aerial](https://youtu.be/41fWB0IvDKU) by Drone Runner. </small>* **<small></small>**. 
--->
-
-Toowong Cemetery is the largest cemetery in Queensland. On your walk you should wear a hat and enclosed shoes, and take a water bottle. Toilets are available at Canon Garland Place within the cemetery - they are not wheel-chair accessible.
 
 ## Guided Tours
 
-Friends of Toowong Cemetery give 10 free **[guided heritage tours](guided-tours.md)** each year
+Friends of Toowong Cemetery provide free **[guided tours](guided-tours.md)**. Every tour is different. No need to book.
 
 <!-- image -->
 
@@ -121,6 +121,7 @@ Discover the meaning of **[headstone symbols](headstones/symbols.md)** at the sy
 
 Visit the **[Federation Pavilion](about/federation-pavilion.md)** and learn about Queensland's role in the federation of Australia.
 
+![Federation Pavilion](assets/federation-pavilion.jpg)
 
 
 ## Plan your trip to Toowong Cemetery
