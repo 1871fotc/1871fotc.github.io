@@ -2,10 +2,11 @@
 description: Free tools to help you research family or local history 
 ---
 
-# Research Hub
+# Research Toowong Cemetery History
 
 Free tools to help you research family and local history:
 
+- **[Toowong Cemetery History](history.md)** - learn how the cemetery has changed over time
 - **[Find a grave](find-a-grave.md)** in Toowong Cemetery
 - **[Find an individual story](find-a-story.md)** in the index of the 550+ stories we've written
 - **[Toowong Cemetery Burial Registers](burial-register.md)** from Queensland State Archives
