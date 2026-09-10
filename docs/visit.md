@@ -20,7 +20,7 @@ description: Visit Toowong Cemetery and explore its history and stories
 **Visit Toowong Cemetery and explore its history and stories.** 
 
 
-## Things to do at Toowong Cemetery
+## Things to do
 
 You can explore the cemetery between 6am and 6pm. It's lovely just to wander around, enjoy the green space and heritage that surrounds you.
 
@@ -32,13 +32,12 @@ You can explore the cemetery between 6am and 6pm. It's lovely just to wander aro
 *<small>[Toowong Cemetery, Brisbane - DJI Mavic aerial](https://youtu.be/41fWB0IvDKU) by Drone Runner. </small>* **<small></small>**. 
 -->
 
-Toowong Cemetery is the largest cemetery in Queensland. On your walk you should wear a hat and enclosed shoes, and take a water bottle. 
+Toowong Cemetery is the largest cemetery in Queensland. We suggest wearing a hat, enclosed shoes, and bringing a water bottle. 
 
-If you want to learn more, try some of these options:
 
 ## Self-Guided Walks
 
-Each walk has a map, directions, and stories about people remembered in Toowong Cemetery. Choose a walk:
+Each self-guided walk has a map, directions, and shares stories about some of the people remembered in Toowong Cemetery. Choose a walk:
 
 <!--
 
@@ -108,9 +107,9 @@ Friends of Toowong Cemetery provide free **[guided tours](guided-tours.md)**. Ev
 
 <!-- image -->
 
-## Toowong Cemetery Symbolism Display
+## Headstone Symbolism Display
 
-Discover the meaning of **[headstone symbols](headstones/symbols.md)** at the symbolism display.
+Discover the meaning of **[headstone symbols](headstones/symbols.md)** at the headstone symbolism display.
 
 <figure markdown>
   ![Toowong Cemetery Headstone Symbolism Display](assets/symbolism-display.jpg){ class="full-width" }
@@ -124,7 +123,7 @@ Visit the **[Federation Pavilion](about/federation-pavilion.md)** and learn abou
 ![Federation Pavilion](assets/federation-pavilion.jpg)
 
 
-## Plan your trip to Toowong Cemetery
+## Plan your trip
 
 Toowong Cemetery is open everyday from 6am–6pm. Check the Brisbane City Council for [Office opening hours](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#officehours).
 
