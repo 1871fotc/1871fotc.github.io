@@ -1,9 +1,9 @@
 ---
-name: Toowong and Paddington Cemetery Headstones
+name: Discover Toowong and Paddington Cemetery Headstones
 description: Lost and found headstones, their symbology and secret signs
 ---
 
-# Headstones
+# Discover Headstones
 
 In cemeteries, people are often commemorated with a headstone or a plaque on a columbarium. Headstones can reflect a person's beliefs or values, their cultural identity, and their relationships to other people, organisations, or events.
 
