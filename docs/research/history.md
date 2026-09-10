@@ -22,7 +22,7 @@ https://trove.nla.gov.au/newspaper/article/213158447
 
 ## 1866 Toowong Cemetery land reserved
 
-The land for the cemetery was first reserved in 1866. [The reserve of 250 acres 1 rood][reserve], and an extension of 53 acres were [gazetted][gazette-93], and the [first Cemetery Trustees](stories/founding-fathers.md) were appointed on 7 October 1870.
+The land for the cemetery was first reserved in 1866. [The reserve of 250 acres 1 rood][reserve], and an extension of 53 acres were [gazetted][gazette-93], and the [first Cemetery Trustees](../stories/founding-fathers.md) were appointed on 7 October 1870.
 
 [gazette-93]: ../assets/documents/Queensland_Gov_Gazette_8_October_1870_v11_93.pdf "Read the Queensland Government Gazetter No. 93"
 [gazette-94]: ../assets/documents/Queensland_Gov_Gazette_10_October_1870_v11_94.pdf "Read the Queensland Government Gazetter No. 94"
@@ -56,7 +56,7 @@ The land for the cemetery was first reserved in 1866. [The reserve of 250 acres 
 The Toowong Cemetery was officially opened on 5 July 1875 and was originally called the Brisbane General Cemetery.  Toowong Cemetery is the largest cemetery in Queensland at 44 Hectares and is an important record of the history of Brisbane and Queensland. Over 119,000 people are buried in Toowong Cemetery in approximately 46,000 graves.
 
 <!--
-![Plan of Parish of Enoggera showing Brisbane General Cemetery, 1876](assets/enoggera-parish-1876.jpg){ width="96%" loading=lazy }
+![Plan of Parish of Enoggera showing Brisbane General Cemetery, 1876](../assets/enoggera-parish-1876.jpg){ width="96%" loading=lazy }
 
 *[Plan of portions no.s 830b, 865, 866, 866a, 867, 867a & 868 to 872, Parish of Enoggera, County of Stanley, District of Moreton](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/dls06p/alma997041034702061) showing Brisbane General Cemetery, 1876 — State Library of Queensland. Cropped.*
 -->
@@ -176,13 +176,15 @@ Garland, aged 75, died at Red Hill on 11 October 1939. His grave is located at P
 *<small>[Paddington Tram Depot smouldering after fire](https://brisbane.recollectcms.com/nodes/view/14562#idx33642), 28 September 1962 — Brisbane City Council, Brisbane City Archives [BCC-S35-9311217]</small>*
 
 
-The [heritage-listed Paddington Tramways Substation](https://apps.des.qld.gov.au/heritage-register/detail/?id=601198) can still be found at 150 Enoggera Terrace, Paddington. Trammies Corner Park can be visited at 74 Prince Street, Paddington.
+The [heritage-listed Paddington Tramways Substation](https://qhr.detsi.qld.gov.au/asset/?slug=qld-601198-the-substatio-4ea772&full=false) can still be found at 150 Enoggera Terrace, Paddington. Trammies Corner Park can be visited at 74 Prince Street, Paddington.
 
 ## 1970's "Beautification Scheme"
 
 By April 1975 the Cemetery was full with all plots sold. The Brisbane City Council Health Dept was ordered by the then Mayor to start a project to remove hundreds of family owned headstones and grave surrounds in Toowong, Lutwyche, South Brisbane, Balmoral, and God's Acre Pioneer cemetery. Headstones (most of which just needing weeding) were removed from these cemeteries with the aim to make open parklands.
 
-Mayors, soldiers, politicians all fell victim to the clearance. At Toowong Cemetery, headstones were demolished and buried in the canal. The [Toowong Cemetery heritage listing](https://apps.des.qld.gov.au/heritage-register/detail/?id=601773) suggests, "*approximately 1,000 memorials were removed from Toowong*". Intervention in 1979 saw an end to the organised vandalism. The Cemetery reopened in 1998 with approximately 450 plots for sale. 
+Mayors, soldiers, politicians all fell victim to the clearance. At Toowong Cemetery, headstones were demolished and buried in the canal. The [Toowong Cemetery heritage listing][Toowong Cemetery heritage listing] suggests, "*approximately 1,000 memorials were removed from Toowong*". Intervention in 1979 saw an end to the organised vandalism. The Cemetery reopened in 1998 with approximately 450 plots for sale. 
+
+[Toowong Cemetery heritage listing]: https://qhr.detsi.qld.gov.au/asset/?slug=qld-601773-toowong-cemet-5d086d&full=false
 
 ![Toowong Cemetery - Dilapidated and Unsightly Graves](../assets/dilapidated-graves-1974.jpg){ width="69.6%" data-title="Dilapidated and Unsightly Graves at Toowong Cemetery, 1974" }  ![Letter about removing headstones from Toowong Cemetery, 1975](../assets/beautification-letter-19750319.jpg){ width="28.4%" }  <!-- broken link -->
 
@@ -219,7 +221,7 @@ In 1988 the first season of [Mission: Impossible](https://en.wikipedia.org/wiki/
 
 The Toowong Cemetery Museum, located over the open drain, was formerly the Sexton's office and was built at the turn of the century. It is a single storey, single skin timber framed building with terracotta tile roof. The two room structure is located above the floor of an earlier structure identified as the flower shed which was associated with the cultivation and selling of flowers from Portion 10. The internal partition wall was reconstructed, windows replaced and an adjoining store room was demolished as part of the museum conversion project carried out by the Brisbane City Council Heritage Unit in 1991.[^1] 
 
-[^1]: From [Toowong Cemetery](https://apps.des.qld.gov.au/heritage-register/detail/?id=601773) © The State of Queensland, used under a [CC BY 4.0][cc-by] licence.
+[^1]: From [Toowong Cemetery][Toowong Cemetery heritage listing] © The State of Queensland, used under a [CC BY 4.0][cc-by] licence.
 
 ![Toowong Cemetery Museum](../assets/museum.jpg){ width="98%" loading=lazy data-title="Toowong Cemetery Museum, 2022" }
 
@@ -262,7 +264,7 @@ In 1913 the headstones had been stored in good order behind Christ Church in Pad
 
 In 2009, over 80 gravestones were damaged at Toowong Cemetery. Following a police investigation, four people were charged with wilful damage however at the defendants’ committal hearing in April 2010, the charges were dismissed due to a "loop-hole" in the law. **[Friends of Toowong Cemetery successfully partitioned for changes to be made to the law][Vandalism of Cemeteries]**.
 
-[Vandalism of Cemeteries]: assets/documents/2010-vandalism.pdf "Read the Vandalism of Cemeteries: Criminal Code and Other Legislation Amendment Bill 2010 (Qld)"
+[Vandalism of Cemeteries]: ../assets/documents/2010-vandalism.pdf "Read the Vandalism of Cemeteries: Criminal Code and Other Legislation Amendment Bill 2010 (Qld)"
 
 ## 2011 Governor Blackall's funeral re-enactment
 
@@ -303,11 +305,11 @@ Today, the Friends of Toowong Cemetery and the Brisbane City Council work togeth
 
 - **[Stories of the people remembered at Toowong Cemetery](../stories/index.md)**
 - **[Research Resources](index.md)** to discover new stories
-- **[Toowong Cemetery heritage listing](https://apps.des.qld.gov.au/heritage-register/results/?q=Toowong+Cemetery)** in the Queensland Heritage Register.
+- **[Toowong Cemetery heritage listing][Toowong Cemetery heritage listing]** in the Queensland Heritage Register.
 - **[Graveyard Games – Lang Park Cemetery](https://blogs.archives.qld.gov.au/2021/11/24/graveyard-games-lang-park-cemetery/)** by the Queensland State Archives
 - Watch **[Dying Out](https://youtu.be/r8b_DA_BkNs)** shown in 1986 on the ABC's Weekend Magazine
 - Watch Hilda MacLean, our second President, discuss Toowong Cemetery on **[Between the Lines](https://vimeo.com/7935322)**
-- Watch Darcy Maddock, our current President, **[Talk History](https://www.youtube.com/playlist?list=PLv0V6xrruq2kcliEjK1Kus3O4gFPthNKz)**
+- Watch Darcy Maddock, our third President, **[Talk History](https://www.youtube.com/playlist?list=PLv0V6xrruq2kcliEjK1Kus3O4gFPthNKz)**
 
 <!-- broken link
 - **[Toowong Cemetery citation](https://www.ww2places.qld.gov.au/place?id=2064)** on Queensland WWII Historic Places website.
