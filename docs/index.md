@@ -3,6 +3,7 @@ title: Friends of Toowong Cemetery
 description: Discover and share the history and stories of Toowong Cemetery
 hide:
   - navigation
+  - toc
 ---
 
 --8<-- "snippets/sem/home.json"
@@ -25,8 +26,8 @@ Heritage‑listed Toowong Cemetery is the largest cemetery in Queensland. The fi
 
 On this site you'll find information about:
 
-- **[Toowong Cemetery's history](history.md)** and the **[stories of people remembered here](stories/index.md)**.
-- **[how to find a grave in Toowong Cemetery](research/find-a-grave.md)** and a **[Toowong Cemetery map](index.md#toowong-cemetery-map)**.
+- **[Toowong Cemetery's history](research/history.md)** and the **[stories of people remembered here](stories/index.md)**.
+- **[how to find a grave in Toowong Cemetery](research/find-a-grave.md)** and a **[Toowong Cemetery map](visit.md#toowong-cemetery-map)**.
 - **[headstones](headstones/index.md)** including **[Queensland's oldest headstones](headstones/queenslands-oldest-headstones.md)**, and our **[archaeological digs](headstones/archaeological-digs.md)**.
 - **[research resources](research/index.md)** including an **[index of people in our stories](research/find-a-story.md)**.
 - **[Friends of Toowong Cemetery](about/index.md)** – what we do, what we've done, and how to join in.
@@ -37,7 +38,7 @@ The cemetery is maintained by the **[Brisbane City Council](https://www.brisbane
 
 At Toowong Cemetery you can:
 
-- take a **[self-guided walk](walks/index.md)** and explore the stories of people who shaped our local history.
+- take a **[self-guided walk](visit/index.md#self-guided-walks)** and explore the stories of people who shaped our local history.
 - join us on one of our regular **[guided heritage tours](guided-tours.md)**.
 - discover the meaning of **[headstone symbols](headstones/symbols.md)** at the Symbolism display.
 
@@ -46,6 +47,7 @@ At Toowong Cemetery you can:
   <figcaption markdown>Toowong Cemetery Headstone Symbolism Display</figcaption>
 </figure>
 
+<!-- 
 ## Visit Toowong Cemetery
 
 Toowong Cemetery is open everyday from 6am–6pm. Check the Brisbane City Council for [Office opening hours](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#officehours).
@@ -94,7 +96,7 @@ If you enter the main entrance, you'll find:
 - the **[Office](https://www.brisbane.qld.gov.au/libraries-venues-and-facilities/cemeteries/cemetery-locations-and-services/toowong-cemetery#location)**, where Brisbane City Council staff can help locate graves and answer your questions.
 - **Toilets** – the only ones available in the cemetery and are not wheel-chair accessible.
 
-<!--  LAVATORY BUILDING - https://trove.nla.gov.au/newspaper/article/178409657?searchTerm=%22Brisbane%20general%20cemetery%22%20trustee -->
+<!-  LAVATORY BUILDING - https://trove.nla.gov.au/newspaper/article/178409657?searchTerm=%22Brisbane%20general%20cemetery%22%20trustee ->
 
 <figure markdown>
   ![Canon Garland Place at Toowong Cemetery](assets/flag-pole.jpg){ class="full-width" }
@@ -154,12 +156,12 @@ Some cemetery road names have recently been changed to the names of notable peop
 | **[William Brown][Brown]** Avenue          | 14^th^ Avenue |                                                                      |
 | Federation Avenue                          | 15^th^ Avenue |                                                                      |
 
-<!-- Read about [local streets named after people buried in Toowong Cemetery](stories/toowong-street-name-origins.md).
+<!- Read about [local streets named after people buried in Toowong Cemetery](stories/toowong-street-name-origins.md).
 
 !!! question "Volunteer - report a damaged sign"
 
     Unfortunately signs are often vandalised in the cemetery. Please **[report damaged signs to the Brisbane City Council](https://ofpm.brisbane.qld.gov.au/site/wss/form/report-it-traffic-signs).**
--->
+->
 
 
 ## Attractions nearby
@@ -181,6 +183,7 @@ Combine your visit to Toowong Cemetery with a visit to other nearby attractions:
   <figcaption markdown>[Their Royal Highnesses, the Duke and Duchess of York enjoy a morning at Mt. Coot-tha, April 1927](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218197470002061) — State Library of Queensland. The Duke of York was later King George VI, and the Duchess of York was later Queen Elizabeth the Queen Mother.</figcaption>
 </figure>
 
+--> 
 
 <!-- Links -->
 
