@@ -1,6 +1,6 @@
 ---
-title:  Toowong Cemetery Stories 
-description: Discover the stories of people remembered in Toowong Cemetery
+title:  Explore Toowong Cemetery Stories 
+description: Explore the stories of people remembered in Toowong Cemetery
 ---
 
 --8<-- "snippets/sem/stories/index.json"
@@ -9,7 +9,7 @@ description: Discover the stories of people remembered in Toowong Cemetery
 --8<-- "snippets/hide-nav.html"
 
 
-# Toowong Cemetery Stories
+# Explore Toowong Cemetery Stories
 
 The Friends of Toowong Cemetery have published **[over 550 individual stories](../research/find-a-story.md)** about people remembered at the cemetery. 
 
