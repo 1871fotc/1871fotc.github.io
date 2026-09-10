@@ -175,6 +175,7 @@ plugins:
       redirect_maps:
         'contact.md': 'about/index.md'
         'walks/index.md': 'stories/index.md'
+        'history.md': 'research/history.md'
 #        'walks/federation-walk.md': 'stories/federation-walk.md'
 #        'walks/lilian-cooper-walk.md': 'stories/lilian-cooper-walk.md'
 #        'walks/jewish-walk.md': 'stories/jewish-walk.md'
@@ -185,8 +186,8 @@ plugins:
 nav:
   - Home: index.md
 #  - Visit Toowong Cemetery: visit.md
-# move Cemetery History to Research History or Stories
-  - Cemetery History: history.md
+# moved Cemetery History to Research History 
+#  - Cemetery History: history.md
   - Find a Grave: research/find-a-grave.md
   - Explore Stories:
     - Explore Stories: stories/index.md
@@ -275,7 +276,7 @@ nav:
 #    - Celebrity Headstones: headstones/celebrities.md
   - Research History:
     - Research History: research/index.md
-#    - Cemetery History: research/history.md
+    - Toowong Cemetery History: research/history.md
     - Find a Grave: research/find-a-grave.md
     - Find a Story: research/find-a-story.md
     - Burial Registers: research/burial-register.md
