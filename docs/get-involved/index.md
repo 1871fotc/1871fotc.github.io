@@ -22,31 +22,31 @@ Whether you're **[visiting](subscribe.md)** for the first time, looking to **[vo
     
     
 
--   :fontawesome-solid-map-location-dot:{ .lg .middle } **[Subscribe](subscribe.md)**
+-   :fontawesome-solid-map-location-dot:{ .lg .middle } **[Visit](subscribe.md)**
 
     ---
 
-    Get your free Toowong Cemetery Explorer Card — find graves, discover stories, and stay connected
+    **Get your free Toowong Cemetery Explorer Card** — find graves, discover stories, subscribe to news
     
 
 -   :fontawesome-solid-hand-holding-heart:{ .lg .middle } **[Volunteer](volunteer.md)**
   
     ---
 
-    Become a Heritage Hero and help preserve the cemetery's heritage
+    **Become a Heritage Hero**  — help preserve the cemetery's heritage at community volunteering events
 
 -   :fontawesome-solid-users:{ .lg .middle } **[Join](join.md)**
   
     ---
 
-    Become a Friends of Toowong Cemetery member and contribute to our vision
+    **Become a Friends of Toowong Cemetery member**  — contribute to our vision
     
 
 -   :fontawesome-solid-piggy-bank:{ .lg .middle } **[Donate](donate.md)**
   
     ---
 
-    Help fund conservation, research, and community engagement projects
+    **Donate**  — help fund conservation, research, and community engagement projects
 
 </div>
 
