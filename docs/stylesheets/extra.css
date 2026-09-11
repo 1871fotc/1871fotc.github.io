@@ -207,14 +207,12 @@ figcaption {
 .md-typeset .grid.cards>:-webkit-any(ul,ol)>li, .md-typeset .grid>.card::before {
   border: .05rem solid rgb(126, 86, 194);
   border-radius: .2rem;
-  background-color: #7e56c2; 
 }
 
 .md-typeset .grid.cards>:-webkit-any(ul,ol)>li:-webkit-any(:focus-within,:hover), 
 .md-typeset .grid>.card:-webkit-any(:focus-within,:hover) {
   border: .05rem solid rgb(126, 86, 194);
   border-radius: .2rem;
-  background-color: white;
 }
 
 /* increase radius on buttos */
