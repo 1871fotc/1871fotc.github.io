@@ -196,11 +196,13 @@ figcaption {
           mask-image: var(--md-admonition-icon--directions); 
 }
 
-/* set color of link in card to white */
+/* set color of link in card to white 
 
 .md-typeset .grid.cards a {
   color: white;
 }
+
+*/
 
 /* change card grid border https://github.com/squidfunk/mkdocs-material/discussions/4523 */
 
