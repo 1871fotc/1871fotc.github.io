@@ -13,10 +13,14 @@ The **Toowong Cemetery Explorer Card** is your digital companion for exploring t
 
 Add it to your Apple Wallet or Google Wallet to:
 
-:fontawesome-solid-map-location-dot: &nbsp; &nbsp; Find graves and get directions. <br>
-:fontawesome-solid-location-dot: &nbsp; &nbsp; Discover stories and interpretive displays nearby. <br>
-:fontawesome-solid-bell: &nbsp; &nbsp; Receive updates about guided tours and volunteer events. <br>
-:fontawesome-solid-envelope: &nbsp; &nbsp; Stay connected with Friends of Toowong Cemetery news. <br>
+<div class="grid cards" markdown>
+
+- :fontawesome-solid-map-location-dot: Find graves and get directions
+- :fontawesome-solid-location-dot: Discover stories and interpretive displays nearby
+- :fontawesome-solid-bell: &nbsp; &nbsp; Receive updates about guided tours and volunteer events
+- :fontawesome-solid-envelope: &nbsp; &nbsp; Stay connected with Friends of Toowong Cemetery news
+ 
+</div>
 
 Your card evolves as your involvement grows, from a Toowong Cemetery Explorer, to a Heritage Hero Volunteer, to a Friends of Toowong Cemetery Member.
 
