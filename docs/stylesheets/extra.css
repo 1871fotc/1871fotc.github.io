@@ -207,7 +207,6 @@ figcaption {
 .md-typeset .grid.cards>:-webkit-any(ul,ol)>li, .md-typeset .grid>.card::before {
   border: .05rem solid rgb(126, 86, 194);
   border-radius: .2rem;
-  color: white;
   background-color: #7e56c2; 
 }
 
@@ -215,7 +214,6 @@ figcaption {
 .md-typeset .grid>.card:-webkit-any(:focus-within,:hover) {
   border: .05rem solid rgb(126, 86, 194);
   border-radius: .2rem;
-  color: #df41fb; 
   background-color: white;
 }
 
