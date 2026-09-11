@@ -58,4 +58,17 @@ Whether you're **[visiting](subscribe.md)** for the first time, looking to **[vo
   <a href="join" class="card">Join</a>
   <a href="donate" class="card">Donate</a>
 </div>
+
+# Test 2 
+
+<div class="grid cards" markdown>
+-   <a class="card-link" href="subscribe" target="_blank" rel="noreferrer">
+        :material-credit-card-marker:{ .xxxl .middle .center }
+        <span class="card-title center">Subscribe</span>
+    </a>
+-   <a class="card-link" href="volunteer" target="_blank" rel="noreferrer">
+        :fontawesome-solid-hand-holding-heart:{ .xxxl .middle .center }
+        <span class="card-title center">Volunteer</span>
+    </a>  
+</div>
     
