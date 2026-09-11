@@ -17,6 +17,7 @@ hide:
 [image1]: assets/main-entrance.jpg "The main entrance to Toowong Cemetery"
 [image2]: assets/flag-pole.jpg "Canon Garland Place"
 [image3]: assets/symbolism-display.jpg "Headstone Symbolism Display"
+
 <!-- Anzac and Rememberance day -->
 [image4]: assets/stone-of-remembrance-with-children-1924.jpg "Remembering those who have died in the line of duty"
 [image5]: assets/unveiling-cross-of-sacrifice-16x9.jpg "Remembering those who have died in the line of duty"
