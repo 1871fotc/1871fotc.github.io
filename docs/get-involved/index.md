@@ -26,20 +26,20 @@ Whether you're **[visiting](subscribe.md)** for the first time, looking to **[vo
 
     ---
 
-    **Get your free Toowong Cemetery Explorer Card** — find graves, discover stories, subscribe to news
+    **[Get your free Toowong Cemetery Explorer Card](subscribe.md)** — find graves, discover stories, subscribe to news
     
 
 -   :fontawesome-solid-hand-holding-heart:{ .lg .middle } &nbsp; **[Volunteer](volunteer.md)**
   
     ---
 
-    **Become a Heritage Hero**  — help preserve the cemetery's heritage at community volunteering events
+    **[Become a Heritage Hero](volunteer.md)**  — help preserve the cemetery's heritage at community volunteering events
 
 -   :fontawesome-solid-users:{ .lg .middle } &nbsp; **[Join](join.md)**
   
     ---
 
-    **Become a Friends of Toowong Cemetery member**  — contribute to our vision
+    **[Join Friends of Toowong Cemetery member](join.md)**  — become a member and contribute to our vision
     
 
 -   :fontawesome-solid-piggy-bank:{ .lg .middle } &nbsp; **[Donate](donate.md)**
