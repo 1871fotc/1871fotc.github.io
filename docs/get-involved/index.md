@@ -22,11 +22,11 @@ Whether you're **[visiting](subscribe.md)** for the first time, looking to **[vo
     
     
 
--   :material-credit-card-marker:{ .lg .middle } **[Subscribe](subscribe.md)**
+-   :material-credit-card-marker:{ .lg .middle } **[Become a Toowong Cemetery Explorer](subscribe.md)**
 
     ---
 
-    Subscribe and get a free Toowong Cemetery Explorer Card
+    Subscribe to our newsletter, get a free Toowong Cemetery Explorer Card for your Apple or Google wallet, and discover the history and stories of Toowong Cemetery next time you visit. 
     
 
 -   :fontawesome-solid-hand-holding-heart:{ .lg .middle } **[Volunteer](volunteer.md)**
