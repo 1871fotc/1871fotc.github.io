@@ -26,7 +26,7 @@ Whether you're **[visiting](subscribe.md)** for the first time, looking to **[vo
 
     ---
 
-    Get your free Toowong Cemetery Explorer Card and stay connected with tours, stories and events. 
+    Get your free Toowong Cemetery Explorer Card — find graves, discover stories, and stay connected. 
     
 
 -   :fontawesome-solid-hand-holding-heart:{ .lg .middle } **[Volunteer](volunteer.md)**
@@ -39,7 +39,7 @@ Whether you're **[visiting](subscribe.md)** for the first time, looking to **[vo
   
     ---
 
-    Become a member and contribute to our vision for future generations
+    Become a Friends of Toowong Cemetery member and contribute to our vision
     
 
 -   :fontawesome-solid-piggy-bank:{ .lg .middle } **[Donate](donate.md)**
