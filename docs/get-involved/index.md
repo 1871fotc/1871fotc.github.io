@@ -26,14 +26,14 @@ Whether you're **[visiting](subscribe.md)** for the first time, looking to **[vo
 
     ---
 
-    Get your free Toowong Cemetery Explorer Card — find graves, discover stories, and stay connected. 
+    Get your free Toowong Cemetery Explorer Card — find graves, discover stories, and stay connected
     
 
 -   :fontawesome-solid-hand-holding-heart:{ .lg .middle } **[Volunteer](volunteer.md)**
   
     ---
 
-    Become a Heritage Hero and help preserve the cemetery's heritage.
+    Become a Heritage Hero and help preserve the cemetery's heritage
 
 -   :fontawesome-solid-users:{ .lg .middle } **[Join](join.md)**
   
@@ -46,7 +46,7 @@ Whether you're **[visiting](subscribe.md)** for the first time, looking to **[vo
   
     ---
 
-    Help fund conservation, research, and community engagement projects.
+    Help fund conservation, research, and community engagement projects
 
 </div>
 
