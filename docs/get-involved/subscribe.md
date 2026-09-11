@@ -18,4 +18,4 @@ Add it to your Apple Wallet or Google Wallet to:
 
 Your card evolves as your involvement grows, from an Toowong Cemetery explorer, to Heritage Hero volunteer, to Friends of Toowong Cemetery Member.
 
-[Get your free Toowong Cemetery Explorer Card](#){ .md-button }
+[Get your free Toowong Cemetery Explorer Card](#){ .md-button .md-button--primary }
