@@ -50,6 +50,7 @@ Whether you're **[visiting](subscribe.md)** for the first time, looking to **[vo
 
 </div>
 
+<!-- 
 ## Test 
 
 <div class="grid">
@@ -59,3 +60,5 @@ Whether you're **[visiting](subscribe.md)** for the first time, looking to **[vo
   <a href="#" class="card"><i class="fa-solid fa-users"></I> Join</a>
   <a href="#" class="card"><i class="fa-solid fa-piggy-bank"></I> Donate</a>
 </div>
+
+-->
