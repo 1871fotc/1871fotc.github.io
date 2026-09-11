@@ -38,7 +38,7 @@ The cemetery is maintained by the **[Brisbane City Council](https://www.brisbane
 
 At Toowong Cemetery you can:
 
-- take a **[self-guided walk](visit/index.md#self-guided-walks)** and explore the stories of people who shaped our local history.
+- take a **[self-guided walk](visit/#self-guided-walks)** and explore the stories of people who shaped our local history.
 - join us on one of our regular **[guided heritage tours](guided-tours.md)**.
 - discover the meaning of **[headstone symbols](headstones/symbols.md)** at the Symbolism display.
 
