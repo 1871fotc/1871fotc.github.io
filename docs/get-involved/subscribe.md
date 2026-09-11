@@ -1,3 +1,9 @@
+---
+search:
+  exclude: true 
+---
+
+
 # Toowong Cemetery Explorer Card - coming soon
 
 Get your free Toowong Cemetery Explorer Card to add to your Apple Wallet or Google Wallet. 
