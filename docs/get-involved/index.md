@@ -22,7 +22,7 @@ Whether you're **[visiting](subscribe.md)** for the first time, looking to **[vo
     
     
 
--   :material-credit-card-marker:{ .lg .middle } **[Subscribe](subscribe.md)**
+-   :fontawesome-solid-map-location-dot:{ .lg .middle } **[Subscribe](subscribe.md)**
 
     ---
 
@@ -42,7 +42,7 @@ Whether you're **[visiting](subscribe.md)** for the first time, looking to **[vo
     Become a member and contribute to our vision for future generations
     
 
--   :material-piggy-bank:{ .lg .middle } **[Donate](donate.md)**
+-   :fontawesome-solid-piggy-bank:{ .lg .middle } **[Donate](donate.md)**
   
     ---
 
@@ -53,7 +53,7 @@ Whether you're **[visiting](subscribe.md)** for the first time, looking to **[vo
 ## Test 
 
 <div class="grid">
-  <a href="#" class="card"><i class="fa-solid fa-compass"></i> Subscribe</a>
+  <i class="fa-solid fa-compass"></i><a href="#" class="card"> Subscribe</a>
   <a href="#" class="card"><i class="fa-solid fa-map-location-dot"></i> Subscribe</a>
   <a href="#" class="card"><i class="fa-solid fa-hand-holding-heart"></i> Volunteer</a>
   <a href="#" class="card"><i class="fa-solid fa-users"></I> Join</a>
