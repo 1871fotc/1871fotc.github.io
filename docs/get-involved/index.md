@@ -22,29 +22,29 @@ Whether you're **[visiting](subscribe.md)** for the first time, looking to **[vo
     
     
 
--   :material-credit-card-marker:{ .lg .middle } **[Become a Toowong Cemetery Explorer](subscribe.md)**
+-   :material-credit-card-marker:{ .lg .middle } **[Subscribe](subscribe.md)**
 
     ---
 
-    Subscribe to our newsletter, get a free Toowong Cemetery Explorer Card for your Apple or Google wallet, and discover the history and stories of Toowong Cemetery next time you visit. 
+    Get your free Toowong Cemetery Explorer Card and stay connected with tours, stories and events. 
     
 
 -   :fontawesome-solid-hand-holding-heart:{ .lg .middle } **[Volunteer](volunteer.md)**
   
     ---
 
-    Become a Heritage Hero 
-
+    Become a Heritage Hero and help preserve the cemetery's heritage.
 
 -   :fontawesome-solid-users:{ .lg .middle } **[Join](join.md)**
   
     ---
 
-    Apply to join Friends of Toowong Cemetery 
-
+    Become a member and contribute to our vision for future generations
+    
 
 -   :material-piggy-bank:{ .lg .middle } **[Donate](donate.md)**
   
     ---
 
-    Donate and support our work.
+    Help fund conservation, research, and community engagement projects.
+    
