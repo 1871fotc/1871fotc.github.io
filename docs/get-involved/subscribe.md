@@ -13,10 +13,10 @@ The **Toowong Cemetery Explorer Card** is your digital companion for exploring t
 
 Add it to your Apple Wallet or Google Wallet to:
 
-:fontawesome-solid-map-location-dot: <&nbsp;><&nbsp;> Find graves and get directions. <br>
-:fontawesome-solid-location-dot:  <&nbsp;><&nbsp;> Discover stories and interpretive displays nearby. <br>
-:fontawesome-solid-bell: <&nbsp;><&nbsp;> Receive updates about guided tours and volunteer events. <br>
-:fontawesome-solid-envelope: Stay connected with Friends of Toowong Cemetery news. <br>
+:fontawesome-solid-map-location-dot: &nbsp; &nbsp; Find graves and get directions. <br>
+:fontawesome-solid-location-dot: &nbsp; &nbsp; Discover stories and interpretive displays nearby. <br>
+:fontawesome-solid-bell: &nbsp; &nbsp; Receive updates about guided tours and volunteer events. <br>
+:fontawesome-solid-envelope: &nbsp; &nbsp; Stay connected with Friends of Toowong Cemetery news. <br>
 
 Your card evolves as your involvement grows, from a Toowong Cemetery Explorer, to a Heritage Hero Volunteer, to a Friends of Toowong Cemetery Member.
 
@@ -25,9 +25,8 @@ Your card evolves as your involvement grows, from a Toowong Cemetery Explorer, t
 
 **Add the Toowong Cemetery Explorer Card to your mobile wallet.**
 
-[![Add to Apple Wallet](../assets/add-to-apple-wallet.png){ width="150" }](https://demo.litecard.io/form/rLLtQ-yFcTNIMauB3wrU7)
-
-[![Add to Google Wallet](../assets/add-to-google-wallet.png){ width="150" }](https://demo.litecard.io/form/rLLtQ-yFcTNIMauB3wrU7)
+[![Add to Apple Wallet](../assets/add-to-apple-wallet.svg){ width="150" }](https://demo.litecard.io/form/rLLtQ-yFcTNIMauB3wrU7) &nbsp; &nbsp; &nbsp; &nbsp;  
+[![Add to Google Wallet](../assets/add-to-google-wallet.svg){ width="150" }](https://demo.litecard.io/form/rLLtQ-yFcTNIMauB3wrU7)
 
 **Scan this code to add the Toowong Cemetery Explorer Card to your mobile wallet.** 
 <!-- To scan, just open the Camera app on your phone and point it at the code. -->
