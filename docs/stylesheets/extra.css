@@ -215,8 +215,8 @@ figcaption {
 .md-typeset .grid>.card:-webkit-any(:focus-within,:hover) {
   border: .05rem solid rgb(126, 86, 194);
   border-radius: .2rem;
-  color: white;
-  background-color: #df41fb; 
+  color: #df41fb; 
+  background-color: white;
 }
 
 /* increase radius on buttos */
