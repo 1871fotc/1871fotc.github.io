@@ -70,5 +70,13 @@ Whether you're **[visiting](subscribe.md)** for the first time, looking to **[vo
         :fontawesome-solid-hand-holding-heart:{ .xxxl .middle .center }
         <span class="card-title center">Volunteer</span>
     </a>  
+-   <a class="card-link" href="join" target="_blank" rel="noreferrer">
+        :material-credit-card-marker:{ .xxxl .left .left }
+        <span class="card-title center">Join</span>
+    </a>
+-   <a class="card-link" href="donate" target="_blank" rel="noreferrer">
+        :fontawesome-solid-hand-holding-heart:{ .xxxl .middle .center }
+        <span class="card-title center">Donate</span>
+    </a>    
 </div>
     
