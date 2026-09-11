@@ -22,15 +22,18 @@ Add it to your Apple Wallet or Google Wallet to:
  
 </div>
 
-Your card evolves as your involvement grows, from a Toowong Cemetery Explorer, to a Heritage Hero Volunteer, to a Friends of Toowong Cemetery Member.
+Your card evolves as your involvement with Friends of Toowong Cemetery grows, from:
+
+- Toowong Cemetery Explorer, to… 
+- Heritage Hero volunteer, to…
+- Friends of Toowong Cemetery Member.
 
 ### Get your free Toowong Cemetery Explorer Card
 
 
 **Add the Toowong Cemetery Explorer Card to your mobile wallet.**
 
-[![Add to Apple Wallet](../assets/add-to-apple-wallet.svg){ width="150" }](https://demo.litecard.io/form/rLLtQ-yFcTNIMauB3wrU7) &nbsp; &nbsp; &nbsp; &nbsp;  
-[![Add to Google Wallet](../assets/add-to-google-wallet.svg){ width="150" }](https://demo.litecard.io/form/rLLtQ-yFcTNIMauB3wrU7)
+[![Add to Apple Wallet](../assets/add-to-apple-wallet.svg){ width="150" }](https://demo.litecard.io/form/rLLtQ-yFcTNIMauB3wrU7) &nbsp; &nbsp; [![Add to Google Wallet](../assets/add-to-google-wallet.svg){ width="150" }](https://demo.litecard.io/form/rLLtQ-yFcTNIMauB3wrU7)
 
 **Scan this code to add the Toowong Cemetery Explorer Card to your mobile wallet.** 
 <!-- To scan, just open the Camera app on your phone and point it at the code. -->
