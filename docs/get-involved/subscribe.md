@@ -28,5 +28,5 @@ Your card evolves as your involvement grows, from a Toowong Cemetery Explorer, t
 
 Scan the QR to add the Toowong Cemetery Explorer Card to your Apple or Google Wallet. 
 
-[![Scan the QR code to add the card to your phone's wallet](../assets/qr-code-test-fotc-digital-card.png){ width="300" }](#)
+[![Scan the QR code to add the card to your phone's wallet](../assets/qr-code-fotc-test-digital-card.png){ width="300" }](#)
 
