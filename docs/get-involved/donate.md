@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true 
+---
+
 # Donate
 
-placeholder
+Thinking about donating? [Email us](mailto:president@fotc.au) to chat about supporting our work.
