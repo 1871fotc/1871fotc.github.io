@@ -16,7 +16,7 @@ search:
 
 # Get Involved
 
-Whether you're visiting for the first time, looking to volunteer, considering membership, or wanting to support our work, there are many ways to get involved with the Friends of Toowong Cemetery.
+Whether you're **[visiting](subscribe.md)** for the first time, looking to **[volunteer](volunteer.md)**, considering **[membership](join.md)**, or wanting to **[support our work](donate.md)**, there are many ways to get involved with the Friends of Toowong Cemetery.
 
 <div class="grid cards" markdown>  
     
