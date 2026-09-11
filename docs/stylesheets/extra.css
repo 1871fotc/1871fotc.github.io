@@ -218,3 +218,9 @@ figcaption {
   color: white;
   background-color: #df41fb; 
 }
+
+/* increase radius on buttos */
+
+.md-typeset .md-button {
+  border-radius: 0.3rem !important;
+}
