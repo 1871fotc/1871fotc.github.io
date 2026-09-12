@@ -3,6 +3,10 @@ search:
   exclude: true 
 ---
 
-# Heritage Heroes - coming soon
+# Heritage Heroes 
+
+### Coming soon… 
 
 Friends of Toowong cemetery plan to run volunteer events to help preserve the heritage of the cemetery. 
+
+We're still organising the details and will share them here soon.
