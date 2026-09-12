@@ -33,7 +33,9 @@ Your card evolves as your involvement with Friends of Toowong Cemetery grows, fr
 
 **Add the Toowong Cemetery Explorer Card to your mobile wallet.**
 
-[![Add to Apple Wallet](../assets/add-to-apple-wallet.svg){ width="150" }](https://demo.litecard.io/form/rLLtQ-yFcTNIMauB3wrU7) &nbsp; &nbsp; [![Add to Google Wallet](../assets/add-to-google-wallet.svg){ width="150" }](https://demo.litecard.io/form/rLLtQ-yFcTNIMauB3wrU7)
+[![Add to Apple Wallet](../assets/add-to-apple-wallet.png){ width="200" }](https://demo.litecard.io/form/rLLtQ-yFcTNIMauB3wrU7)  &nbsp;
+
+[![Add to Google Wallet](../assets/add-to-google-wallet.png){ width="200" }](https://demo.litecard.io/form/rLLtQ-yFcTNIMauB3wrU7)
 
 **Scan this code to add the Toowong Cemetery Explorer Card to your mobile wallet.** 
 <!-- To scan, just open the Camera app on your phone and point it at the code. -->
