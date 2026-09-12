@@ -46,7 +46,7 @@ Whether you're **[visiting](subscribe.md)** for the first time, looking to **[vo
   
     ---
 
-    **Donate**  — help fund conservation, research, and community engagement projects
+    **[Support our work](donate.md)**  — help fund conservation, research, and community engagement projects
 
 </div>
 
