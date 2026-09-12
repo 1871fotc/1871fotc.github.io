@@ -24,7 +24,7 @@ description: Visit Toowong Cemetery and explore its history and stories
 
 ## Things to do
 
-You can explore the cemetery between 6am and 6pm. It's lovely just to wander around, enjoy the green space and heritage that surrounds you.
+You can explore the cemetery between 6am and 6pm every day. It's lovely just to wander around, enjoy the green space and heritage that surrounds you.
 
 <div class="video-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/41fWB0IvDKU?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -37,29 +37,26 @@ You can explore the cemetery between 6am and 6pm. It's lovely just to wander aro
 Toowong Cemetery is the largest cemetery in Queensland. We suggest wearing a hat, enclosed shoes, and bringing a water bottle. 
 
 
+## Guided Tours
+
+Friends of Toowong Cemetery provide **[free guided tours](guided-tours.md)**. Every tour is different. No need to book.
+
+![Pat Hill's headstone][image11]{ width="32%" } ![Harry Potter's headstone][image9]{ width="32%" } ![Cherub headstone][image8]{ width="32%" }
+
+[image4]: assets/140-commemoration-sml.png
+[image5]: assets/museum.jpg
+[image6]: assets/federation-pavilion.jpg
+[image7]: assets/peter-jackson.jpg "Peter Jackson's Headstone"
+[image8]: assets/cherub.jpg
+[image9]: assets/harry-potter-16x9.jpg 
+[image10]: assets/clasped-hands.jpg "We Part To Meet Again"
+[image11]: assets/pat-hill-headstone.jpg 
+
+
 ## Self-Guided Walks
 
 Explore graves of notable people that shape Queensland's past. Each self-guided walk has a map, directions, photos and stories about some of the people remembered in Toowong Cemetery. Choose a walk:
-
-<!--
-
--   :fontawesome-solid-person-walking:{ .lg .middle } **[Dr. Lilian Cooper walk](lilian-cooper-walk.md)**
-  
-    ---
-
-    Uncover the history along Dr. Lilian Cooper Drive
-
-    :fontawesome-regular-clock: 1 hour  
-    
-    :fontawesome-solid-stairs: Mostly flat
-
--   :fontawesome-solid-person-walking:{ .lg .middle } **[Mount Blackall walk](mount-blackall-walk.md)** 
  
-    ---
-
-    Explore some of the highlights on Mount Blackall
-
--->  
 
 <div class="grid cards" markdown>  
 
@@ -89,6 +86,8 @@ Explore graves of notable people that shape Queensland's past. Each self-guided 
 
     :fontawesome-regular-clock: 45 minutes  
 
+<!-- 
+
 -   :fontawesome-solid-person-walking:{ .lg .middle } **Mount Blackall walk**
   
     ---
@@ -96,25 +95,12 @@ Explore graves of notable people that shape Queensland's past. Each self-guided 
     Discover the historic highlights on and around Mount Blackall. <br>*A new walk coming soon...* 
 
     :fontawesome-regular-clock: 1½ - 2 hours  
-    
+
+-->    
 
 </div>
 
 
-## Guided Tours
-
-Friends of Toowong Cemetery provide **[free guided tours](guided-tours.md)**. Every tour is different. No need to book.
-
-![Pat Hill's headstone][image11]{ width="32%" } ![Harry Potter's headstone][image9]{ width="32%" } ![Cherub headstone][image8]{ width="32%" }
-
-[image4]: assets/140-commemoration-sml.png
-[image5]: assets/museum.jpg
-[image6]: assets/federation-pavilion.jpg
-[image7]: assets/peter-jackson.jpg "Peter Jackson's Headstone"
-[image8]: assets/cherub.jpg
-[image9]: assets/harry-potter-16x9.jpg 
-[image10]: assets/clasped-hands.jpg "We Part To Meet Again"
-[image11]: assets/pat-hill-headstone.jpg 
 
 ## Headstone Symbolism Display
 
@@ -134,11 +120,11 @@ Visit the **[Federation Pavilion](about/federation-pavilion.md)** and learn abou
 
 ## Queensland's Oldest Headstones
 
-**[Queensland's oldest surviving headstone](headstones/queenslands-oldest-headstones/)** is from 15 November 1831 and can be found in Toowong Cemetery.
+**[Queensland's oldest surviving headstone](headstones/queenslands-oldest-headstones.md)** is from 15 November 1831 and can be found in Toowong Cemetery.
 
 ## Archaeological Dig Finds
 
-Wander over to Portion 29A off Steele Rudd Avenue and see the [lost Paddington Cemetery headstones](https://www.fotc.au/headstones/lost-paddington-headstones/) we've uncovered in our [Archaeological Digs](/headstones/archaeological-digs/).
+Wander over to Portion 29A off Steele Rudd Avenue and see the [lost Paddington Cemetery headstones](headstones/lost-paddington-headstones.md) we've uncovered in our [Archaeological Digs](/headstones/archaeological-digs/).
 
 
 ## Plan your trip
