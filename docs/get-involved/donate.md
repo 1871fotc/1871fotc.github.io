@@ -5,4 +5,6 @@ search:
 
 # Donate
 
-Thinking about donating? [Email us](mailto:president@fotc.au) to chat about supporting our work.
+**Thinking about supporting our work?**
+
+[Email us to discuss your ideas :fontawesome-solid-paper-plane:](mailto:president@fotc.au){ .md-button .md-button--primary }
