@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="384px" height="512px" viewBox="0 0 384 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Untitled 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="hourglass" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M368,48 L372,48 C378.627,48 384,42.627 384,36 L384,12 C384,5.373 378.627,0 372,0 L12,0 C5.373,0 0,5.373 0,12 L0,36 C0,42.627 5.373,48 12,48 L16,48 C16,128.564 48.188,213.807 113.18,256 C47.899,298.381 16,383.9 16,464 L12,464 C5.373,464 0,469.373 0,476 L0,500 C0,506.627 5.373,512 12,512 L372,512 C378.627,512 384,506.627 384,500 L384,476 C384,469.373 378.627,464 372,464 L368,464 C368,383.436 335.812,298.193 270.82,256 C336.102,213.619 368,128.1 368,48 Z M64,48 L320,48 C320,149.62 262.693,232 192,232 C121.307,232 64,149.621 64,48 Z M320,464 L64,464 C64,362.38 121.308,280 192,280 C262.692,280 320,362.38 320,464 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

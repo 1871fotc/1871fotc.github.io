@@ -1,0 +1,23 @@
+[data-md-color-scheme="ghost"] {
+  --md-primary-fg-color: #1f1334; 
+/*  --md-primary-fg-color--light: #ffee57; */  /* set via config? */
+/*  --md-primary-fg-color--dark: #fbc02d; */
+  --md-default-bg-color: hsla(232,15%,21%,1); /* grey background in dark mode */
+  --md-typeset-color: #fff;
+  --md-typeset-a-color: hsla(43, 96%, 58%, 1);  /* orange links #ff9100 */
+  --md-accent-fg-color: hsla(43, 96%, 65%, 1);  /* link hover color - needed to override default value */
+/*  --md-typeset-a-color: hsla(34, 100%, 50%, 1);  /* orange links #ff9100 */
+/*  --md-accent-fg-color: hsla(34, 100%, 60%, 1);  /* link hover color - needed to override default value */
+  --md-default-fg-color--light: #fff;
+  --md-admonition-fg-color: #fff;
+
+
+/*  
+  --md-default-fg-color--dark: #000;
+  --md-default-fg-color--light: #fff;
+  --md-default-fg-color--dark: #000;
+  --md-typeset-a-color--dark: #ffec3d;;
+  --md-typeset-color--light: #fff;
+  --md-typeset-color--dark: #fff;
+  --md-default-bg-color: hsla(232,15%,21%,1); */
+}
