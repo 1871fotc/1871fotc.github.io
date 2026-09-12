@@ -39,7 +39,7 @@ Toowong Cemetery is the largest cemetery in Queensland. We suggest wearing a hat
 
 ## Self-Guided Walks
 
-Each self-guided walk has a map, directions, and shares stories about some of the people remembered in Toowong Cemetery. Choose a walk:
+Explore graves of notable people that shape Queensland's past. Each self-guided walk has a map, directions, photos and stories about some of the people remembered in Toowong Cemetery. Choose a walk:
 
 <!--
 
@@ -103,7 +103,7 @@ Each self-guided walk has a map, directions, and shares stories about some of th
 
 ## Guided Tours
 
-Friends of Toowong Cemetery provide free **[guided tours](guided-tours.md)**. Every tour is different. No need to book.
+Friends of Toowong Cemetery provide **[free guided tours](guided-tours.md)**. Every tour is different. No need to book.
 
 ![Pat Hill's headstone][image11]{ width="32%" } ![Harry Potter's headstone][image9]{ width="32%" } ![Cherub headstone][image8]{ width="32%" }
 
@@ -118,7 +118,7 @@ Friends of Toowong Cemetery provide free **[guided tours](guided-tours.md)**. Ev
 
 ## Headstone Symbolism Display
 
-Discover the meaning of **[headstone symbols](headstones/symbols.md)** at the headstone symbolism display.
+Discover the meaning of **[headstone symbols](headstones/symbols.md)** at the Toowong Cemetery Symbolism display.
 
 <figure markdown>
   ![Toowong Cemetery Headstone Symbolism Display](assets/symbolism-display.jpg){ class="full-width" }
@@ -127,7 +127,7 @@ Discover the meaning of **[headstone symbols](headstones/symbols.md)** at the he
 
 ## Federation Pavilion
 
-Visit the **[Federation Pavilion](about/federation-pavilion.md)** and learn about Queensland's role in the federation of Australia.
+Visit the **[Federation Pavilion](about/federation-pavilion.md)** and learn about Queenslanders who played a lead role in the federation of Australia.
 
 ![Federation Pavilion](assets/federation-pavilion.jpg)
 
