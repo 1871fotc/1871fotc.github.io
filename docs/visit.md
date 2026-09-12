@@ -24,7 +24,7 @@ description: Visit Toowong Cemetery and explore its history and stories
 
 ## Things to do
 
-You can explore the cemetery between 6am and 6pm every day. It's lovely just to wander around, enjoy the green space and heritage that surrounds you.
+You can explore the cemetery every day between 6am and 6pm. It's lovely just to wander around, enjoy the green space and heritage that surrounds you.
 
 <div class="video-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/41fWB0IvDKU?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -86,17 +86,17 @@ Explore graves of notable people that shape Queensland's past. Each self-guided 
 
     :fontawesome-regular-clock: 45 minutes  
 
-<!-- 
+
 
 -   :fontawesome-solid-person-walking:{ .lg .middle } **Mount Blackall walk**
   
     ---
 
-    Discover the historic highlights on and around Mount Blackall. <br>*A new walk coming soon...* 
+    Discover the historic highlights on and around Mount Blackall. <br>*A new walk coming soon…* 
 
     :fontawesome-regular-clock: 1½ - 2 hours  
 
--->    
+  
 
 </div>
 
@@ -124,7 +124,7 @@ Visit the **[Federation Pavilion](about/federation-pavilion.md)** and learn abou
 
 ## Archaeological Dig Finds
 
-Wander over to Portion 29A off Steele Rudd Avenue and see the [lost Paddington Cemetery headstones](headstones/lost-paddington-headstones.md) we've uncovered in our [Archaeological Digs](/headstones/archaeological-digs/).
+Wander over to Portion 29A off Steele Rudd Avenue and see the **[lost Paddington Cemetery headstones](headstones/lost-paddington-headstones.md)** we've uncovered in our **[Archaeological Digs](/headstones/archaeological-digs/)**.
 
 
 ## Plan your trip
@@ -173,7 +173,7 @@ If you enter the main entrance, you'll find:
 - **Canon Garland Place** named after **[Canon David John Garland][Garland]**. The flagpole is the departure point for our **[guided tours](guided-tours.md)**.
 - a **Museum** operated by the Friends of Toowong Cemetery.
 - the **[Office](https://www.brisbane.qld.gov.au/libraries-venues-and-facilities/cemeteries/cemetery-locations-and-services/toowong-cemetery#location)**, where Brisbane City Council staff can help locate graves and answer your questions.
-- **Toilets** – the only ones available in the cemetery and are not wheel-chair accessible.
+- **Toilets** – the only ones available in the cemetery are not wheel-chair accessible.
 
 <!--  LAVATORY BUILDING - https://trove.nla.gov.au/newspaper/article/178409657?searchTerm=%22Brisbane%20general%20cemetery%22%20trustee -->
 
