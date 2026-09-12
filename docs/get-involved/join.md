@@ -15,5 +15,5 @@ search:
 
 **Thinking about joining?**
 
-[Email us to apply :fontawesome-solid-paper-plane:](mailto:president@fotc.au){ .md-button .md-button--primary }
+[Email us to apply &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au){ .md-button .md-button--primary }
 
