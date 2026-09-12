@@ -19,8 +19,8 @@ search:
 
 - You must register at volunteering events
 - Always follow instructions from Friends of Toowong Cemetery members
-- You must attend a safety briefing
-- You must follow the Friends of Toowong Cemetery **[Gravesite Cleaning Instructions](#)**
+- You must follow the **[Safety Instructions](#)**
+- You must follow the **[Gravesite Cleaning Instructions](#)**
 
 ## Joining Friends of Toowong Cemetery  
 
