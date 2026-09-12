@@ -132,6 +132,15 @@ Visit the **[Federation Pavilion](about/federation-pavilion.md)** and learn abou
 ![Federation Pavilion](assets/federation-pavilion.jpg)
 
 
+## Queensland's Oldest Headstones
+
+**[Queensland's oldest surviving headstone](headstones/queenslands-oldest-headstones/)** is from 15 November 1831 and can be found in Toowong Cemetery.
+
+## Archaeological Dig Finds
+
+Wander over to Portion 29A off Steele Rudd Avenue and see the [lost Paddington Cemetery headstones](https://www.fotc.au/headstones/lost-paddington-headstones/) we've uncovered in our [Archaeological Digs](/headstones/archaeological-digs/).
+
+
 ## Plan your trip
 
 Toowong Cemetery is open everyday from 6am–6pm. Check the Brisbane City Council for [Office opening hours](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#officehours).
