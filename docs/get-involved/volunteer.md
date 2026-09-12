@@ -11,6 +11,9 @@ Friends of Toowong cemetery plan to run volunteer events to help preserve the he
 
 We're still organising the details and will share them here soon.
 
+[Email us to be kept informed &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au){ .md-button .md-button--primary }
+
+
 <!-- 
 
 - Add cleaning instructions
