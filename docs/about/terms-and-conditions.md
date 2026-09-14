@@ -45,7 +45,7 @@ If a task could remove original material, change the appearance of a monument, o
 - Don't move, remove or alter headstones, grave markers, railings, kerbing or historic metalwork.
 - Don't over-clean, disturb archaeological material, or remove historic metal patinas and finishes.
 
-** The Formal Rules:**
+**The Formal Rules:**
 
 Friends of Toowong Cemetery volunteer activities work under a [General Exemption Certificate: Queensland Heritage Places](https://www.qld.gov.au/environment/land/heritage/development/exemptions) from the Queensland Government and will comply with all [applicable requirements](https://www.qld.gov.au/environment/land/heritage/publications), including: 
 
