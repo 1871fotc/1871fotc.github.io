@@ -23,7 +23,27 @@ search:
 - You must follow the **[Safety Instructions](#)**
 - You must follow the **[Gravesite Care Instructions](#)**
 
-Friends of Toowong Cemetery volunteer activities work under a [General Exemption Certificate: Queensland Heritage Places](https://www.qld.gov.au/environment/land/heritage/development/exemptions) from the Queensland Government. 
+Friends of Toowong Cemetery volunteer activities work under a [General Exemption Certificate: Queensland Heritage Places](https://www.qld.gov.au/environment/land/heritage/development/exemptions) from the Queensland Government and will comply with all [applicable requirements](https://www.qld.gov.au/environment/land/heritage/publications), including: 
+
+- Technical Note: [Inspection cleaning and maintenance](https://www.qld.gov.au/__data/assets/pdf_file/0030/67755/tn-inspect-clean-maintenance.pdf)
+- Technical Note: [Parks, gardens and landscapes – maintenance](https://www.qld.gov.au/__data/assets/pdf_file/0028/66295/tn-parks-gardens.pdf)
+- Technical Note: [Painting - Maintenance](https://www.qld.gov.au/__data/assets/pdf_file/0022/67153/tn-painting-maintenance.pdf)
+- Technical Note: [Painting - surface preparation](https://www.qld.gov.au/__data/assets/pdf_file/0023/67433/tn-painting-surface-prep.pdf)
+- Technical Note: [Painting - glossary](https://www.qld.gov.au/__data/assets/pdf_file/0027/66618/tn-painting-glossary.pdf)
+- Technical Note: [Painting - lead paint](https://qldgov.softlinkhosting.com.au:443/liberty/go/ynSEfjpU) 
+- Technical Note: [Minor repairs stone and masonry](https://qldgov.softlinkhosting.com.au:443/liberty/go/BAJT49BH)
+- Technical note: [Minor repairs metalwork](https://www.qld.gov.au/__data/assets/pdf_file/0031/67639/tn-minor-repairs-metal-work.pdf)
+- Online Application form: [Notification of a discovery](https://www.qld.gov.au/environment/land/heritage/archaeology/notification-of-a-discovery)
+
+<!-- 
+Others that may apply to Friends of Toowong Cemetery projects
+
+- Technical Note: [Signage - installing new signs]()
+- Guideline: [Archaeology investigations](https://www.qld.gov.au/__data/assets/pdf_file/0030/68628/archaeological-investigations-guideline.pdf)
+
+Friends of Toowong Cemetery maintain Toowong Cemetery in accordance with the Toowong Cemetery Conservation Management Plan
+
+-->
 
 <!-- which has the following conditions: 
 
