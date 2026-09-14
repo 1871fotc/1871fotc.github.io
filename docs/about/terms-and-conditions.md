@@ -23,6 +23,30 @@ search:
 - You must follow the **[Safety Instructions](#)**
 - You must follow the **[Gravesite Care Instructions](#)**
 
+**One Simple Rule:**
+
+If a task could remove original material, change the appearance of a monument, or requires chemicals, power tools or force, stop and seek specialist advice. Preserve as much original fabric as possible.
+
+✅ DO
+
+- Take photographs before and after any work.
+- Check for unstable, cracked or damaged monuments and report concerns before starting work.
+- Test any cleaning method on a small, inconspicuous area first.
+- Use clean water, soft brushes and mild or neutral detergents only.
+- Weed and tidy graves carefully.
+- Leave historic stone, metalwork, kerbing, railings and memorials in place and protect them from damage while working.
+
+❌ DON'T
+
+- Don't use pressure washers, water blasting or abrasive cleaning methods.
+- Don't use wire brushes, grinders, sanders or other power tools.
+- Don't use acids, bleach-based cleaners, caustic products or harsh chemicals.
+- Don't paint, re-cut, trace or fill engraved inscriptions.
+- Don't move, remove or alter headstones, grave markers, railings, kerbing or historic metalwork.
+- Don't over-clean, disturb archaeological material, or remove historic metal patinas and finishes.
+
+** The Formal Rules:**
+
 Friends of Toowong Cemetery volunteer activities work under a [General Exemption Certificate: Queensland Heritage Places](https://www.qld.gov.au/environment/land/heritage/development/exemptions) from the Queensland Government and will comply with all [applicable requirements](https://www.qld.gov.au/environment/land/heritage/publications), including: 
 
 - Technical Note: [Inspection cleaning and maintenance](https://www.qld.gov.au/__data/assets/pdf_file/0030/67755/tn-inspect-clean-maintenance.pdf)
@@ -35,8 +59,9 @@ Friends of Toowong Cemetery volunteer activities work under a [General Exemption
 - Technical note: [Minor repairs metalwork](https://www.qld.gov.au/__data/assets/pdf_file/0031/67639/tn-minor-repairs-metal-work.pdf)
 - Online Application form: [Notification of a discovery](https://www.qld.gov.au/environment/land/heritage/archaeology/notification-of-a-discovery)
 
+<!-- 
 Friends of Toowong Cemetery maintain Toowong Cemetery in accordance with the [Toowong Cemetery : a heritage management protocol](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:808981/one) by Author Allom Lovell Architects.
-
+-->
 
 <!-- 
 Others that may apply to Friends of Toowong Cemetery projects
