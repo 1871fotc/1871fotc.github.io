@@ -23,9 +23,13 @@ search:
 - You must follow the **[Safety Instructions](#)**
 - You must follow the **[Gravesite Care Instructions](#)**
 
+<!-- 
 **One Simple Rule:**
 
 If a task could remove original material, change the appearance of a monument, or requires chemicals, power tools or force, stop and seek specialist advice. Preserve as much original fabric as possible.
+-->
+
+### Gravesite Care Instructions Summary:
 
 ✅ DO
 
@@ -45,7 +49,7 @@ If a task could remove original material, change the appearance of a monument, o
 - Don't move, remove or alter headstones, grave markers, railings, kerbing or historic metalwork.
 - Don't over-clean, disturb archaeological material, or remove historic metal patinas and finishes.
 
-**The Formal Rules:**
+### The Formal Rules:
 
 Friends of Toowong Cemetery volunteer activities work under a [General Exemption Certificate: Queensland Heritage Places](https://www.qld.gov.au/environment/land/heritage/development/exemptions) from the Queensland Government and will comply with all [applicable requirements](https://www.qld.gov.au/environment/land/heritage/publications), including: 
 
@@ -68,8 +72,6 @@ Others that may apply to Friends of Toowong Cemetery projects
 
 - Technical Note: [Signage - installing new signs]()
 - Guideline: [Archaeology investigations](https://www.qld.gov.au/__data/assets/pdf_file/0030/68628/archaeological-investigations-guideline.pdf)
-
-
 
 -->
 
@@ -97,6 +99,19 @@ Others that may apply to Friends of Toowong Cemetery projects
 -->
 
 
-## Joining Friends of Toowong Cemetery  
+## Joining Friends of Toowong Cemetery
 
-- You must follow the **[Friends of Toowong Cemetery Rules](#)**
+The Friends of Toowong Cemetery is a community of people who share an interest in the history, heritage and preservation of Toowong Cemetery. Members help support the association's work by taking an active interest in its activities and objectives.
+
+As a member, you are asked to:
+
+- Keep your membership current and pay any membership fees when due.
+- Support the association's aims and contribute positively to its activities.
+- Treat fellow members with respect and act in a way that reflects well on the association.
+- Participate in meetings and vote on association matters if you wish to help guide the organisation's future.
+- Respect the privacy of other members and use membership information responsibly.
+- Work through the association's grievance process if any disputes arise.
+
+Members are encouraged to become involved in research projects, cemetery tours, heritage events, preservation activities, and other opportunities that keep the cemetery’s heritage and stories alive.
+
+For full details, read the [Friends of Toowong Cemetery Association Rules](#).
