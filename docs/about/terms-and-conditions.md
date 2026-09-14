@@ -23,7 +23,9 @@ search:
 - You must follow the **[Safety Instructions](#)**
 - You must follow the **[Gravesite Care Instructions](#)**
 
-Friends of Toowong Cemetery volunteer activities work under the [General Exemption Certificate: Queensland Heritage Places](https://www.qld.gov.au/environment/land/heritage/development/exemptions) from the Queensland Government. <!-- which has the following conditions: 
+Friends of Toowong Cemetery volunteer activities work under a [General Exemption Certificate: Queensland Heritage Places](https://www.qld.gov.au/environment/land/heritage/development/exemptions) from the Queensland Government. 
+
+<!-- which has the following conditions: 
 
 
 ✅ You must:
