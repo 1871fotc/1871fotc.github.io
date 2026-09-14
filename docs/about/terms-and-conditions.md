@@ -100,17 +100,20 @@ Others that may apply to Friends of Toowong Cemetery projects
 
 ## Joining Friends of Toowong Cemetery
 
-The Friends of Toowong Cemetery is a community of people who share an interest in the history, heritage and preservation of Toowong Cemetery. Members help support the association's work by taking an active interest in its activities and objectives.
+The Friends of Toowong Cemetery is a community of people who share a passion for discovering stories, preserving heritage, and helping others connect with Queensland's past.
 
-As a member, you are asked to:
+As a member, you are expected to:
 
-- Keep your membership current and pay any membership fees when due.
-- Support the association's aims and contribute positively to its activities.
-- Treat fellow members with respect and act in a way that reflects well on the association.
-- Participate in meetings and vote on association matters if you wish to help guide the organisation's future.
-- Respect the privacy of other members and use membership information responsibly.
-- Work through the association's grievance process if any disputes arise.
+- Support the association's work and contribute to its activities and objectives.
+- Share discoveries and knowledge, and help preserve the cemetery's heritage in ways that benefit current and future generations.
+- Conduct yourself in a way that supports the reputation, interests, and values of the association.
+- Treat fellow members with courtesy and respect and seek to resolve disagreements constructively.
+- Use association information and resources responsibly.
+- Maintain your membership and keep your contact details and membership fees up to date.
 
-Members are encouraged to become involved in research projects, cemetery tours, heritage events, preservation activities, and other opportunities that keep the cemetery’s heritage and stories alive.
+Every member contributes in their own way. Whether researching a story, sharing knowledge, supporting events, caring for heritage, or simply encouraging others to value the cemetery's history, your involvement helps keep Toowong Cemetery's heritage and stories alive for future generations.
 
-For full details, read the [Friends of Toowong Cemetery Association Rules](#).
+For full details, read the Friends of Toowong Cemetery [Association Rules](#) and [Strategy](#).
+
+
+
