@@ -23,7 +23,28 @@ search:
 - You must follow the **[Safety Instructions](#)**
 - You must follow the **[Gravesite Care Instructions](#)**
 
-<!-- Friends of Toowong Cemetery has permission from Brisbane City Council, and a Heritage Exemption Certificate from the Queensland Government, to clean gravesites in Toowong Cemetery in accordance with our Gravesite Care Instructions. -->
+Friends of Toowong Cemetery volunteer activities work under the [General Exemption Certificate](https://www.brisbane.qld.gov.au/content/dam/brisbanecitycouncil/corpwebsite/building-and-planning/documents/general-exemption-certificate-local-heritage-places.pdf) from the Brisbane City Council which has the following conditions: 
+
+
+✅ You must:
+
+- photograph and record monument condition before and after care
+- report unstable monuments, damaged masonry, unsafe trees or vandalism
+- gently clean monuments only using water, pH-neutral detergent and soft brushes
+- only lightly prune small vegetation
+- only hand weed around graves, remove leaf litter and debris
+
+❌ You must not:
+
+- pressure washing monuments
+- use bleach, acids or commercial masonry cleaners
+- repaint inscriptions without family permission
+- reset, glue or straightening headstones
+- perform any stone repairs or repointing work 
+- remove mature vegetation without approval
+- excavate around graves
+
+
 
 ## Joining Friends of Toowong Cemetery  
 
