@@ -35,13 +35,16 @@ Friends of Toowong Cemetery volunteer activities work under a [General Exemption
 - Technical note: [Minor repairs metalwork](https://www.qld.gov.au/__data/assets/pdf_file/0031/67639/tn-minor-repairs-metal-work.pdf)
 - Online Application form: [Notification of a discovery](https://www.qld.gov.au/environment/land/heritage/archaeology/notification-of-a-discovery)
 
+Friends of Toowong Cemetery maintain Toowong Cemetery in accordance with the [Toowong Cemetery : a heritage management protocol](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:808981/one) by Author Allom Lovell Architects.
+
+
 <!-- 
 Others that may apply to Friends of Toowong Cemetery projects
 
 - Technical Note: [Signage - installing new signs]()
 - Guideline: [Archaeology investigations](https://www.qld.gov.au/__data/assets/pdf_file/0030/68628/archaeological-investigations-guideline.pdf)
 
-Friends of Toowong Cemetery maintain Toowong Cemetery in accordance with the Toowong Cemetery Conservation Management Plan
+
 
 -->
 
