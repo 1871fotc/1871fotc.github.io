@@ -11,17 +11,20 @@ search:
 -	Walk carefully — look out for machinery and subsided graves.
 -	Don’t stand on graves or under monuments.
 -	Don’t lean on headstones.
+
+<!-- left out as these don't relate to exploring
+
 -	No glass, ceramic, or breakable items on graves.
 -	Grave maintenance needs [family permission or a Brisbane City Council permit](https://www.legislation.qld.gov.au/view/html/inforce/current/act-2005-004#sec.26A).
 
+-->
 
 
 ## Volunteering with Friends of Toowong Cemetery  
 
 - You must register at volunteering events or you will not be covered by our public liability insurance.
 - Always follow instructions from Friends of Toowong Cemetery members.
-- You must follow the **[Safety Instructions](#)**.
-- You must follow the **[Gravesite Care Instructions](#)**.
+- You must follow the **[Safety Instructions](#)** and **[Gravesite Care Instructions](#)**.
 
 <!-- 
 **One Simple Rule:**
@@ -43,11 +46,11 @@ If a task could remove original material, change the appearance of a monument, o
 ❌ DON'T
 
 - Don't use pressure washers, water blasting or abrasive cleaning methods.
-- Don't use wire brushes, grinders, sanders or other power tools.
+- Don't use wire brushes or power tools.
 - Don't use acids, bleach-based cleaners, caustic products or harsh chemicals.
 - Don't paint, re-cut, trace or fill engraved inscriptions.
 - Don't move, remove or alter headstones, grave markers, railings, kerbing or historic metalwork.
-- Don't over-clean, disturb archaeological material, or remove historic metal patinas and finishes.
+- Don't over-clean or remove historic metal patinas and finishes.
 
 ### The Formal Rules:
 
