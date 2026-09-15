@@ -49,6 +49,7 @@ If a task could remove original material, change the appearance of a monument, o
 - Don't use wire brushes or power tools.
 - Don't use acids, bleach-based cleaners, caustic products or harsh chemicals.
 - Don't paint, re-cut, trace or fill engraved inscriptions.
+- Don't paint surfaces that aren't already painted.
 - Don't move, remove or alter headstones, grave markers, railings, kerbing or historic metalwork.
 - Don't over-clean or remove historic metal patinas and finishes.
 
@@ -64,6 +65,16 @@ Friends of Toowong Cemetery volunteer activities work under a [General Exemption
 - Technical Note: [Minor repairs stone and masonry](https://qldgov.softlinkhosting.com.au:443/liberty/go/BAJT49BH)
 - Technical note: [Minor repairs metalwork](https://www.qld.gov.au/__data/assets/pdf_file/0031/67639/tn-minor-repairs-metal-work.pdf)
 - Online Application form: [Notification of a discovery](https://www.qld.gov.au/environment/land/heritage/archaeology/notification-of-a-discovery)
+
+<!-- 
+If you don't have family permission, DON'T:
+
+- paint the headstone, grave markers, railings, kerbing or historic metalwork.
+- Don't use pressure washers, water blasting or abrasive cleaning methods.
+- Don't use wire brushes or power tools.
+- Don't use acids, bleach-based cleaners, caustic products or harsh chemicals.
+
+-->
 
 <!-- 
 Friends of Toowong Cemetery maintain Toowong Cemetery in accordance with the [Toowong Cemetery : a heritage management protocol](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:808981/one) by Author Allom Lovell Architects.
