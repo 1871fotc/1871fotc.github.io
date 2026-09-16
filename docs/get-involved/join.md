@@ -28,13 +28,17 @@ We need your:
     - Account Number: 522327844
     - Reference: your Surname 
 
+Let us know why Toowong Cemetery interests you and if you have any ideas on how you'd like to help.
+
 [Apply to join &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au){ .md-button .md-button--primary }
 
 
 ### Important information
 
+<!-- 
 - Members must follow the [Friends of Toowong Cemetery Association Rules](#)
 - [Friends of Toowong Cemetery Strategy](#) describes our vision, purpose, values, and goals.
+-->
 - Friends of Toowong Cemetery has Public Liability Insurance cover up to $20 million.
 - You resign your membership if your annual fee is 2 months overdue. Renewals are due on 1 July every year.
 
