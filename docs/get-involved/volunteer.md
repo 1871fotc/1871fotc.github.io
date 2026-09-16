@@ -1,8 +1,3 @@
----
-search:
-  exclude: true 
----
-
 # Heritage Heroes 
 
 ### Coming soon… 
