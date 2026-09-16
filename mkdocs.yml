@@ -164,6 +164,7 @@ plugins:
 #        - Freemasons
 #        - Ancient Order of Foresters
 # Doesn't work locally
+  - tags
   - social:
       cards_layout: default/variant
   - glightbox:
