@@ -1,9 +1,3 @@
----
-search:
-  exclude: true 
----
-
-
 # Join Friends of Toowong Cemetery 
 
 ### Why Join?
