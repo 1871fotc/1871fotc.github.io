@@ -285,7 +285,12 @@ nav:
     - Cemetery Maps: research/historic-cemetery-maps.md
     - Real-Estate Maps: research/historic-real-estate-maps.md
     - Data: research/data.md
-  - Get Involved: get-involved.md  
+  - Get Involved: 
+    - Get Involved: get-involved/index.md
+#    - Explorer: get-involved/explorer.md  
+    - Volunteer: get-involved/volunteer.md  
+    - Join: get-involved/join.md  
+    - Donate: get-involved/donate.md  
   - About: 
     - About: about/index.md
     - Publications: about/publications.md
