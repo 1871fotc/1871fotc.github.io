@@ -20,11 +20,13 @@ We need your:
 - full name
 - postal or residential address
 - email address
-- membership fee payment - $11 or $5.50 for Students and Pensioners. Our Bank details are: 
-  - Branch: NAB Brisbane
-  - BSB: 084034
-  - Account Number: 522327844
-  - Reference: your Surname 
+- membership fee payment - $11 or $5.50 for Students and Pensioners.
+- our Bank details are:
+  
+    - Branch: NAB Brisbane
+    - BSB: 084034
+    - Account Number: 522327844
+    - Reference: your Surname 
 
 [Apply to join &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au){ .md-button .md-button--primary }
 
@@ -53,7 +55,7 @@ Only information visible to other members is a list of names
 
 ### Management Committee meetings
 
-Friends of Toowong Cemetery meet at **[Mt Coot‑tha Botanical Gardens Auditorium](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/botanic-gardens-in-brisbane/brisbane-botanic-gardens-mt-Coot-tha)** on the last Wednesday of the month (except December) from 6pm to 7pm.
+Friends of Toowong Cemetery meet at Mt. Coot‑tha Botanical Gardens Auditorium on the last Wednesday of the month (except December) from 6pm to 7pm.
 
 All members are welcome to attend.
 
