@@ -1,8 +1,6 @@
 ---
 title: Get Involved
 description: Learn how to get involved with Friends of Toowong Cemetery
-search:
-  exclude: true 
 ---
 
 
