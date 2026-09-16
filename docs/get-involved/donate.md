@@ -14,4 +14,6 @@ Our Bank details are:
 - Branch: NAB Brisbane
 - BSB: 084034
 - Account Number: 522327844
-- Reference: your Surname
+- Reference: *your name*
+
+Donations are not tax deductible.
