@@ -61,11 +61,6 @@ theme:
 # Customization
 extra:
   generator: false
-  tags:
-    Freemason: freemason
-    Foresters: forester
-    Odd Fellows: oddfellow
-    United Ancient Order of Druids: druid
   social:
     - icon: fontawesome/solid/envelope
       link: mailto:president@fotc.au
@@ -164,7 +159,6 @@ plugins:
 #        - Freemasons
 #        - Ancient Order of Foresters
 # Doesn't work locally
-  - tags
   - social:
       cards_layout: default/variant
   - glightbox:
