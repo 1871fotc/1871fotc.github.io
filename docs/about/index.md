@@ -1,6 +1,6 @@
 ---
 title: About
-description: Learn what Friends of Toowong Cemetery have done, what we're working on, and how you can join in 
+description: Learn what Friends of Toowong Cemetery have done and what we're working on 
 search:
   boost: 2
 ---
@@ -9,7 +9,7 @@ search:
 
 # About Us 
 
-**Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.**
+**Friends of Toowong Cemetery keep the cemetery's history and stories alive.**
 
 <br>
 
@@ -27,7 +27,7 @@ The Friends of Toowong Cemetery:
 - **research the [history of Toowong Cemetery](../history.md)**, its [headstones](../headstones/symbols.md), and the [stories](../stories/index.md) of the people remembered here. 
 - **share our discoveries** with the community through our [guided tours](../guided-tours.md), museum, [self-guided walks](../walks/index.md), [publications](publications.md), and [data](../research/data.md).
 - **contribute stories** of people remembered at the Toowong and Paddington cemeteries to other publications, biographical databases, and information signs around the cemetery.
-- **clean and conserve headstones**.
+- **clean gravesites and preserve headstones**.
 - **search for buried headstones** in [archaeological digs](../headstones/archaeological-digs.md) in the cemetery grounds. 
 - **consult with the Brisbane City Council** on future plans and the restoration of graves.
 - **locate marked and unmarked graves**.
@@ -78,19 +78,6 @@ Apply to join in, complete the **[Application form](https://forms.gle/iwFKCnpNYR
 [Apply to Join Friends of Toowong Cemetery](https://forms.gle/iwFKCnpNYRTSeHLb8){ .md-button .md-button--primary }
 -->
 
-<!-- considered combining About and Contact but many pages link to Contact Us 
-## Contact us
-
-Email: **[inquiries@fotc.au](mailto:inquiries@fotc.au)**
-
-Phone: **[0439998053](tel:0439998053)**
-
-Write: 
-
-**Friends of Toowong Cemetery Association Inc.** <br>
-**PO Box 808** <br>
-**Toowong QLD 4066**
---->
 
 ## Our details
 
