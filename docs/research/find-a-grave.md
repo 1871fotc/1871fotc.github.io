@@ -129,4 +129,4 @@ Friends of Toowong Cemetery can help:
 
 **Need help?**
 
-[I need help with a family grave &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=I%20need%20help%20with%20a%20family%20grave) { .md-button .md-button--primary }
+[I need help with a family grave &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=I%20need%20help%20with%20a%20family%20grave){ .md-button .md-button--primary }
