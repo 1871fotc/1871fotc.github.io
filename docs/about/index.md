@@ -24,13 +24,16 @@ You can contact us via email: **[president@fotc.au](mailto:president@fotc.au)**
 
 The Friends of Toowong Cemetery:
 
-- **research the [history of Toowong Cemetery](../history.md)**, its [headstones](../headstones/symbols.md), and the [stories](../stories/index.md) of the people remembered here. 
+- **research the [history of Toowong Cemetery](../research/history.md)**, its [headstones](../headstones/symbols.md), and the [stories](../stories/index.md) of the people remembered here. 
 - **share our discoveries** with the community through our [guided tours](../guided-tours.md), museum, [self-guided walks](../walks/index.md), [publications](publications.md), and [data](../research/data.md).
 - **contribute stories** of people remembered at the Toowong and Paddington cemeteries to other publications, biographical databases, and information signs around the cemetery.
-- **clean gravesites and preserve headstones**.
 - **search for buried headstones** in [archaeological digs](../headstones/archaeological-digs.md) in the cemetery grounds. 
 - **consult with the Brisbane City Council** on future plans and the restoration of graves.
-- **locate marked and unmarked graves**.
+- **[help families locate and clean graves](mailto:president@fotc.au?subject=I%20need%20help%20with%20a%20family%20grave)**.
+
+<!-- 
+- run volunteer events to **clean gravesites and preserve headstones**.
+-->
 
 ## What we've done
 
