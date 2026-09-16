@@ -2,7 +2,10 @@
 title: Theodore Oscar Unmack
 hide:
   - toc
-  - navigation 
+  - navigation
+  - tags
+tags:
+  - freemason
 ---
 
 # Theodore Oscar Unmack
