@@ -1,6 +1,6 @@
 ---
 search:
-  exclude: true 
+  boost: 2
 ---
 
 # Donate
