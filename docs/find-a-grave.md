@@ -52,7 +52,7 @@ There are 34 Portions in the cemetery, numbered 1 to 30 and also 2A, 7A, 15A, 29
 
 Portion numbers are shown on signs throughout the cemetery. Section numbers are painted on the road.
 
-[Historic maps](historic-cemetery-maps.md) may help you find graves within a section. A current map of graves within sections has not been published by the Brisbane City Council.
+[Historic maps](research/historic-cemetery-maps.md) may help you find graves within a section. A current map of graves within sections has not been published by the Brisbane City Council.
 
 <figure markdown>
   ![Portion Sign](assets/portion-sign.jpg){ width="100%" data-title="Portion 10 Sign" data-description="Portion numbers are shown on signs throughout the cemetery."}
@@ -79,7 +79,7 @@ Plan your visit to Toowong Cemetery.
 
 ### 5. Visit the grave
 
-  - **[Travel to Toowong Cemetery](../index.md#visit-toowong-cemetery)**.
+  - **[Travel to Toowong Cemetery](visit.md)**.
   - When you arrive, **[ask the Toowong Cemetery Office to help find the grave](https://www.brisbane.qld.gov.au/libraries-venues-and-facilities/cemeteries/cemetery-locations-and-services/toowong-cemetery#location)**.
 
 
@@ -88,12 +88,12 @@ Plan your visit to Toowong Cemetery.
 Markers can be seen on, or embedded into, graves. A Marker represents a person buried in the grave. Historic Burial and Portion Registers link some people to markers and their grave. Unfortunately many markers are missing or have been moved.
 
 <figure markdown>
-  ![Markers embedded into a grave](../assets/many-markers.jpg){ width="100%" data-title="Markers embedded into a grave" data-description="A Marker represents a person buried in the grave." } 
+  ![Markers embedded into a grave](assets/many-markers.jpg){ width="100%" data-title="Markers embedded into a grave" data-description="A Marker represents a person buried in the grave." } 
   <figcaption>Grave markers embedded into a grave surround.</figcaption>
 </figure>
 
 <figure markdown>
-  ![Grave markers found on the grass](../assets/markers.jpg){ width="100%" data-title="Grave markers found on the grass, separated from their graves" data-description="Unfortunately many markers are missing or have been moved." }
+  ![Grave markers found on the grass](assets/markers.jpg){ width="100%" data-title="Grave markers found on the grass, separated from their graves" data-description="Unfortunately many markers are missing or have been moved." }
   <figcaption>Grave markers found on the grass, separated from their graves.</figcaption>
 </figure>
 
@@ -116,7 +116,7 @@ Only the surname is recorded in the Portion Book so you can't link a marker to a
 There are many unmarked graves in Toowong Cemetery. Take care when you walk across the grass as unmarked graves can leave hidden hollows that are a trip hazard.
 
 <figure markdown>
-  ![Unmarked graves](../assets/unmarked-graves.jpg){ width="100%" data-title="Unmarked graves can be clearly seen after rain" data-description="There are many unmarked graves in Toowong Cemetery."}
+  ![Unmarked graves](assets/unmarked-graves.jpg){ width="100%" data-title="Unmarked graves can be clearly seen after rain" data-description="There are many unmarked graves in Toowong Cemetery."}
   <figcaption markdown>Unmarked graves can be clearly seen after rain.</figcaption>
 </figure>
 
