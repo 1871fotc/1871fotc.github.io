@@ -8,7 +8,7 @@ search:
 
 # Get Involved
 
-Whether you're <!-- **[visiting](explorer.md)** for the first time, looking to **[volunteer](volunteer.md)**, --> considering **[membership](join.md)**, or wanting to **[support our work](donate.md)**, there are many ways to get involved with the Friends of Toowong Cemetery, and more coming soon.
+Whether you're <!-- **[visiting](explorer.md)** for the first time,--> looking to **[volunteer](volunteer.md)**, considering **[membership](join.md)**, or wanting to **[support our work](donate.md)**, there are many ways to get involved with the Friends of Toowong Cemetery, and more coming soon.
 
 <div class="grid cards" markdown>  
     
@@ -19,7 +19,8 @@ Whether you're <!-- **[visiting](explorer.md)** for the first time, looking to *
     ---
 
     **[Get your free Toowong Cemetery Explorer Card](subscribe.md)** — find graves, discover stories, subscribe to news
-    
+
+-->    
 
 -   :fontawesome-solid-hand-holding-heart:{ .lg .middle } &nbsp; **[Volunteer](volunteer.md)**
   
@@ -27,7 +28,6 @@ Whether you're <!-- **[visiting](explorer.md)** for the first time, looking to *
 
     **[Become a Heritage Hero](volunteer.md)**  — help preserve the cemetery's heritage at community volunteering events
 
--->
 
 -   :fontawesome-solid-users:{ .lg .middle } &nbsp; **[Join](join.md)**
   
