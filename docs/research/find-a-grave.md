@@ -119,13 +119,13 @@ There are many unmarked graves in Toowong Cemetery. Take care when you walk acro
   <figcaption markdown>Unmarked graves can be clearly seen after rain.</figcaption>
 </figure>
 
-## Gravesite Care and Family History 
+## Get help cleaning a family grave 
 
-Friends of Toowong Cemetery can help:
+Friends of Toowong Cemetery can help families:
 
-- locate and photograph a gravesite.
-- clean the gravesite and re-letter the headstone, with family permission.
-- add your story or photo to our collection.
+- locate and photograph a grave.
+- clean a grave and re-letter the headstone.
+- add a story or photos to our collection.
 
 **Need help?**
 
