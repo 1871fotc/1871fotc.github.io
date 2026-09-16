@@ -19,7 +19,7 @@ We need your:
 
 - full name
 - postal or residential address
-- email address
+- email address 
 - membership fee payment - $11 or $5.50 for Students and Pensioners.
 - our Bank details are:
   
