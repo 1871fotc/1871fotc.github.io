@@ -1,6 +1,8 @@
 ---
 title: Toowong Cemetery History
 description: Discover the history of Toowong Cemetery
+search:
+  boost: 2
 ---
 
 --8<-- "snippets/sem/history.json"
