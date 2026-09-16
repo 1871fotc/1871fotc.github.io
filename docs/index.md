@@ -31,7 +31,7 @@ On this site you'll find information about:
 - **[how to find a grave in Toowong Cemetery](research/find-a-grave.md)** and a **[Toowong Cemetery map](visit.md#toowong-cemetery-map)**.
 - **[headstones](headstones/index.md)** including **[Queensland's oldest headstones](headstones/queenslands-oldest-headstones.md)**, and our **[archaeological digs](headstones/archaeological-digs.md)**.
 - **[research resources](research/index.md)** including an **[index of people in our stories](research/find-a-story.md)**.
-- **[how to get involved](get-involved/index.md]** — explore Toowong Cemetery, become a Heritage Hero volunteer, join us, or support our work.
+- **[how to get involved](get-involved/index.md)** — explore Toowong Cemetery, become a Heritage Hero volunteer, join us, or support our work.
 - **[Friends of Toowong Cemetery](about/index.md)** – what we do and what we've done.
 
 <!-- **[how to get involved](get-involved/index.md]** - explore Toowong Cemetery, become a Heritage Hero volunteer, join us, or support our work.-->
