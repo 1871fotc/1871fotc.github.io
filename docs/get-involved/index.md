@@ -6,21 +6,13 @@ search:
 ---
 
 
----
-title: Get Involved
-description: Learn how to get involved with Friends of Toowong Cemetery
-search:
-  exclude: true 
----
-
-
 # Get Involved
 
-Whether you're **[visiting](subscribe.md)** for the first time, looking to **[volunteer](volunteer.md)**, considering **[membership](join.md)**, or wanting to **[support our work](donate.md)**, there are many ways to get involved with the Friends of Toowong Cemetery.
+Whether you're <!-- **[visiting](explorer.md)** for the first time, looking to **[volunteer](volunteer.md)**, --> considering **[membership](join.md)**, or wanting to **[support our work](donate.md)**, there are many ways to get involved with the Friends of Toowong Cemetery, and more coming soon.
 
 <div class="grid cards" markdown>  
     
-    
+<!--     
 
 -   :fontawesome-solid-map-location-dot:{ .lg .middle } &nbsp; **[Visit](subscribe.md)**
 
@@ -34,6 +26,8 @@ Whether you're **[visiting](subscribe.md)** for the first time, looking to **[vo
     ---
 
     **[Become a Heritage Hero](volunteer.md)**  — help preserve the cemetery's heritage at community volunteering events
+
+-->
 
 -   :fontawesome-solid-users:{ .lg .middle } &nbsp; **[Join](join.md)**
   
@@ -50,15 +44,3 @@ Whether you're **[visiting](subscribe.md)** for the first time, looking to **[vo
 
 </div>
 
-<!-- 
-## Test 
-
-<div class="grid">
-  <i class="fa-solid fa-compass"></i><a href="#" class="card"> Subscribe</a>
-  <a href="#" class="card"><i class="fa-solid fa-map-location-dot"></i> Subscribe</a>
-  <a href="#" class="card"><i class="fa-solid fa-hand-holding-heart"></i> Volunteer</a>
-  <a href="#" class="card"><i class="fa-solid fa-users"></I> Join</a>
-  <a href="#" class="card"><i class="fa-solid fa-piggy-bank"></I> Donate</a>
-</div>
-
--->
