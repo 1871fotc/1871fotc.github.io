@@ -181,7 +181,7 @@ plugins:
 #        'walks/lilian-cooper-walk.md': 'stories/lilian-cooper-walk.md'
 #        'walks/jewish-walk.md': 'stories/jewish-walk.md'
 #        'walks/mount-blackall-walk.md': 'stories/mount-blackall-walk.md'
-#        'research/find-a-grave.md': 'find-a-grave.md'
+        'research/find-a-grave.md': 'find-a-grave.md'
 
 # Page tree - only 2 levels allowed
 nav:
@@ -189,7 +189,7 @@ nav:
   - Visit Toowong Cemetery: visit.md
 # moved Cemetery History to Research History 
 #  - Cemetery History: history.md
-  - Find a Grave: research/find-a-grave.md
+  - Find a Grave: find-a-grave.md
   - Explore Stories:
     - Explore Stories: stories/index.md
 # Publications
