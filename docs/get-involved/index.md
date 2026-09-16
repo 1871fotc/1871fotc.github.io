@@ -31,16 +31,21 @@ Whether you're <!-- **[visiting](explorer.md)** for the first time,--> looking t
     ---
 
     **[Support our work](donate.md)**  — help fund conservation, research, and community engagement projects
+    
 
-</div>
-
-<!--     
-
--   :fontawesome-solid-map-location-dot:{ .lg .middle } &nbsp; **[Visit](subscribe.md)**
+-   :material-map-marker-question:{ .lg .middle } &nbsp; Coming soon…
 
     ---
 
-    **[Get your free Toowong Cemetery Explorer Card](subscribe.md)** — find graves, discover stories, subscribe to news
+    A new way to explore Toowong Cemetery 
 
+
+</div>
+
+
+<!-- 
+
+-   :fontawesome-solid-map-location-dot:{ .lg .middle } &nbsp; **Coming soon…**
+    
 -->
 
