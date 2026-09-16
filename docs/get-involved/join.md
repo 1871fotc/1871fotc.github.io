@@ -8,10 +8,10 @@ search:
 
 ### Why Join?
 
-- Connect with like-minded history and heritage enthusiasts
-- Gain exclusive access to members-only research resources
-- Discover and share stories on our website and guided tours
-- Contribute to our projects the help ensure Toowong Cemetery is treasured by the community
+- Connect with like-minded history and heritage enthusiasts.
+- Discover new stories with exclusive access to members-only research resources.
+- Share stories on our website and guided tours.
+- Contribute to our projects and keep Toowong Cemetery's heritage and stories alive.
 
 **Thinking about joining?**
 
@@ -30,34 +30,19 @@ We need your:
 
 [Apply to join &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au){ .md-button .md-button--primary }
 
-<!-- 
-Must provide, according to the Rules: 
-
-- Name
-- postal or residential address
-- signature
-
-and we require:
-
-- email (if not provided then mail costs must be paid)
-- phone number (optional)
-
-Only information visible to other members is a list of names
-
--->
 
 ### Important information
 
-- [Friends of Toowong Cemetery Association Rules](#)
-- [Friends of Toowong Cemetery Strategy](#)
-- Friends of Toowong Cemetery has Public Liability Insurance cover of $20 million
-- You resign as a member if your membership fee is 2 months overdue. Renewals are due on 1 July every year.
+- Members must follow the [Friends of Toowong Cemetery Association Rules](#)
+- [Friends of Toowong Cemetery Strategy](#) describes our vision, purpose, values, and goals.
+- Friends of Toowong Cemetery has Public Liability Insurance cover up to $20 million.
+- You resign your membership if your annual fee is 2 months overdue. Renewals are due on 1 July every year.
 
 ### Management Committee meetings
 
-Friends of Toowong Cemetery meet at Mt. Coot‑tha Botanical Gardens Auditorium on the last Wednesday of the month (except December) from 6pm to 7pm.
+Friends of Toowong Cemetery meet at Mt. Coot‑tha Botanical Gardens Auditorium on the last Wednesday of the month (except December) from 6pm to 7pm. New member applications are considered at this meeting.
 
-All members are welcome to attend.
+All current members are welcome to attend.
 
 <!--
 :fontawesome-regular-calendar-plus: **[Add the 2022 meetings to your Calendar](../assets/calendar/meetings-2022.ics)**
