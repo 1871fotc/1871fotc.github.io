@@ -30,7 +30,7 @@ We need your:
 
 Let us know why Toowong Cemetery interests you and if you have any ideas on how you'd like to help.
 
-[Apply to join &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au){ .md-button .md-button--primary }
+[Apply to join &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=I'd%20like%20to%20join%20Friends%20of%20Toowong%20Cemetery&body=Hi%2C%20%0AI'd%20like%20to%20join%20Friends%20of%20Toowong%20Cemetery.%0A%0AFull%20name%3A%0AAddress%3A%0AEmail%3A%0A%0AI'm%20interested%20in%20Toowong%20Cemetery%20because...){ .md-button .md-button--primary }
 
 
 ### Important information
