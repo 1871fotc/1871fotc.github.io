@@ -2,9 +2,6 @@
 hide:
   - toc
   - navigation
-  - tags
-tags:
-  - freemason
 ---
 
 # Silvester Diggles
