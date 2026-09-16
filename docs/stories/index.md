@@ -309,7 +309,11 @@ Missing stories
 [lest-we-forget]: lest-we-forget.md
 [lest-we-forget-navy]: lest-we-forget-navy.md
 [rn]: men-of-the-royal-navy.md
-[remembrance-walk]: remembrance-walk.md  <!-- missing -->
+
+<!-- 
+[remembrance-walk]: remembrance-walk.md 
+-->
+
 [scots-ww1]: scots-in-the-aif-ww1.md
 [1919-soldiers]: 1919-soldiers.md
 [colonial-conflicts]: colonial-conflicts.md
@@ -335,7 +339,7 @@ Missing stories
 
 [convicts]: convict-connections.md
 [irish]: irish.md
-[jewish]: ../walks/jewish-walk.md  <!-- move -->
+[jewish]: ../walks/jewish-walk.md  
 [lutheran]: lutheran.md
 [children]: children.md
 [brisbane-open-house]: brisbane-open-house.md
