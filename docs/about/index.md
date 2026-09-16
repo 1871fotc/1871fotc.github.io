@@ -56,26 +56,19 @@ Currently we are:
 - **photographing every headstone** in the cemetery.
 -->
 
+<!-- 
 ## Join in
 
 Friends of Toowong Cemetery meet at **[Mt Coot‑tha Botanical Gardens Auditorium](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/botanic-gardens-in-brisbane/brisbane-botanic-gardens-mt-Coot-tha)** on the last Wednesday of the month (except December) from 6pm to 7pm.
 
-<!--
+<!-
 :fontawesome-regular-calendar-plus: **[Add the 2022 meetings to your Calendar](../assets/calendar/meetings-2022.ics)**
--->
+->
 
 ![Mt Coot‑tha Botanical Gardens Auditorium](../assets/auditorium.jpg)
 
 **[Email Us](mailto:president@fotc.au)** if you'd like to apply to join. Applications are subject Management Committee approval.
 
-<!--
-
-Apply to join in, complete the **[Application form](https://forms.gle/iwFKCnpNYRTSeHLb8)** and pay the annual membership subscription (includes GST):
-
-- $11 Individuals
-- $5.50 Students and Pensioners
-
-[Apply to Join Friends of Toowong Cemetery](https://forms.gle/iwFKCnpNYRTSeHLb8){ .md-button .md-button--primary }
 -->
 
 
