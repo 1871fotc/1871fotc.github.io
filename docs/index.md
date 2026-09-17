@@ -29,7 +29,7 @@ On this site you'll find information about:
 
 - **[Toowong Cemetery's history](research/history.md)** and the **[stories of people remembered here](stories/index.md)**.
 - **[how to find a grave in Toowong Cemetery](research/find-a-grave.md)** and a **[Toowong Cemetery map](visit.md#toowong-cemetery-map)**.
-- **[headstones](headstones/index.md)** including **[Queensland's oldest headstones](headstones/queenslands-oldest-headstones.md)**, and our **[archaeological digs](headstones/archaeological-digs.md)**.
+- **[headstones](headstones/index.md)** including Paddington Cemetery headstones found in our **[archaeological digs](headstones/archaeological-digs.md)**.
 - **[research resources](research/index.md)** including an **[index of people in our stories](research/find-a-story.md)**.
 - **[Friends of Toowong Cemetery](about/index.md)** — what we do and what we've done.
 
@@ -43,8 +43,9 @@ The cemetery is maintained by the **[Brisbane City Council](https://www.brisbane
 At Toowong Cemetery you can:
 
 - take a **[self-guided walk](visit/#self-guided-walks)** and explore the stories of people who shaped our local history.
-- join us on one of our regular **[guided heritage tours](guided-tours.md)**.
+- join us on one of our regular **[guided heritage tours](visit.md#guided-tours)**.
 - discover the meaning of **[headstone symbols](headstones/symbols.md)** at the Symbolism display.
+- see **[Queensland's oldest headstones](headstones/queenslands-oldest-headstones.md)**
 
 <figure markdown>
   ![Toowong Cemetery Headstone Symbolism Display](assets/symbolism-display.jpg){ class="full-width" }
