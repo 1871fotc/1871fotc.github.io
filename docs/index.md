@@ -28,12 +28,12 @@ Heritage‑listed Toowong Cemetery is the largest cemetery in Queensland. The fi
 On this site you'll find information about:
 
 - **[Toowong Cemetery's history](research/history.md)** and the **[stories of people remembered here](stories/index.md)**.
-- **[how to find a grave in Toowong Cemetery](research/find-a-grave.md)** and a **[Toowong Cemetery map](visit.md#toowong-cemetery-map)**.
+- **[how to find a grave in Toowong Cemetery](find-a-grave.md)** and a **[Toowong Cemetery map](visit.md#toowong-cemetery-map)**.
 - **[headstones](headstones/index.md)** including Paddington Cemetery headstones found in our **[archaeological digs](headstones/archaeological-digs.md)**.
 - **[research resources](research/index.md)** including an **[index of people in our stories](research/find-a-story.md)**.
+- **[how to get involved](get-involved/index.md)** — become a Heritage Hero, join Friends of Toowong Cemetery, or donate and support our work.
 - **[Friends of Toowong Cemetery](about/index.md)** — what we do and what we've done.
 
-<!-- - **[how to get involved](get-involved/index.md)** — become a Toowong Cemetery Explorer, Heritage Hero, Member, or support our work. -->
 
 
 The cemetery is maintained by the **[Brisbane City Council](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery)**.
