@@ -13,9 +13,9 @@ There are 52 information signs beside memorials and graves of notable people rem
 ![information sign](../assets/information sign.jpg){ width="32.33%"  class="full-width" }
 -->
 
-The table below lists people described in the information signs, their location, and any known damage.
+The table below lists people described in the information signs, their location, and any known damage. Last inspected 18 September 2026.
 
-Use the <a href="../../assets/toowong-cemetery-map-large.jpg" target="_blank" title="View the map in a new tab">Toowong Cemetery map</a> to help locate the information signs.
+Use the <a href="../../assets/toowong-cemetery-map-large.jpg" target="_blank" title="View the map in a new tab">Toowong Cemetery map</a> or click the location in the table to help locate the information signs.
 
 --8<-- "snippets/information-signs.html"
 
@@ -33,13 +33,16 @@ The signs are 25cm high by 35cm wide and are printed on 2mm Stainless Steel.
 - An image, if available, is on the right of the text and masked in an oval.
 - The right edge of the text should follow the curve of the oval image.
 - The rounded rectangle border is inset ~10mm from the edge of the sign.
+- Despite the surface of the support the sign is attached to having holes to attach the sign, most signs are glued to the supporting surface.
 
 ![Example Information Sign with image](../assets/anthony-musgrave-information-sign.jpg){ width="70%" }
 
 ![Example Information Sign](../assets/joseph-darragh-information-sign.jpg){ width="70%" }
 
 <!--
-Manufactured by [Armsign](https://www.armsign.com.au)  
+-[Armsign](https://www.armsign.com.au) P/L Goonellabah NSW made the metal etched signs. 
+- JTS Engineering Brisbane installed them on the posts.
+- Langford Metal Industries Eagle Farm  made the posts.
 -->
 
 ### Download the data 
