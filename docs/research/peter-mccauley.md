@@ -13,7 +13,8 @@ hide:
 
 ### Inscription
 
-> To the memory of Peter, son of Peter Macauley, private in H.M. 17^th^ Regiment of Foot, who was accidentally drowned on 5th January, 1832, aged 15 years and 8 months. <br>
+> To the memory of Peter, son of Peter Macauley, private in H.M. 17^th^ Regiment of Foot, <br>
+> who was accidentally drowned on 5th January, 1832, aged 15 years and 8 months. <br>
 > A lovely boy, possessed of every charm, <br>
 > Could not thy tyrant's fatal dart disarm. <br>
 > Engaging sweetness met the destined foe, <br>
@@ -25,4 +26,10 @@ hide:
 > But, humbly hopeful, through an Almighty grace. <br>
 > One day to fold thee in a sweet embrace. <br>
 
+
+### Learn more
+
+- [Commandants of Moreton Bay](http://nla.gov.au/nla.news-article20647428). (1923, September 8). The Brisbane Courier (Qld. : 1864 - 1933), p. 19.
+
+  
 --8<-- "snippets/add-to-this-story.md"
