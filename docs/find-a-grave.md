@@ -75,7 +75,7 @@ Plan your visit to Toowong Cemetery.
   - If the grave is unmarked, we can outline the grave using a surface spray. The spray does no harm and two mowings later it will disappear.
   - If you're unable to visit, we can to take a digital photograph of a grave and email it to you.
 
-[I need help with a family grave &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=I%20need%20help%20with%20a%20family%20grave){ .md-button .md-button--primary }
+[Help me find a family grave &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=I%20need%20help%20with%20a%20family%20grave){ .md-button .md-button--primary }
 
 ### 5. Visit the grave
 
@@ -130,4 +130,4 @@ Friends of Toowong Cemetery can help families:
 
 **Need help?**
 
-[I need help with a family grave &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=I%20need%20help%20with%20a%20family%20grave){ .md-button .md-button--primary }
+[Help me clean a family grave &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=I%20need%20help%20with%20a%20family%20grave){ .md-button .md-button--primary }
