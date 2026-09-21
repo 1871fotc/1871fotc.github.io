@@ -136,7 +136,7 @@ These signs, names or acronyms can be found on headstones in Toowong Cemetery.
 | UGL     | [United Grand Lodge of Ancient, Free and Accepted][UGL]      | Freemasonry       | <a href="https://brisbane.discovereverafter.com/profile/31879481" title="Go to Memorial Information">25-46-17</a>           |
 
 
-[I've found a missing sign :fontawesome-solid-pen:](mailto:president@fotc.au?subject=I've%20found%20a%20missing%20sign&body=Hi%2C%20%0AI've%20found%20a%20missing%20headstone%20sign%20in%20Toowong%20Cemetery.%20Here's%20what%20I%20know.%0A%0AName%20of%20person(s)%20on%20the%20headstone%3A%20%0ASign%3A%0APortion%3A%0ARow%3A%20%0ASection%3A%0A%0AAttach%20a%20photo%20if%20you%20have%20one.){ .md-button .md-button--primary }
+[I've found a missing sign :fontawesome-solid-pen:](mailto:president@fotc.au?subject=I've%20found%20a%20missing%20sign&body=Hi%2C%20%0AI've%20found%20a%20missing%20headstone%20sign%20in%20Toowong%20Cemetery.%20Here's%20what%20I%20know.%0A%0AName%20of%20person%20on%20the%20headstone%3A%20%0ASign%3A%0APortion%3A%0ARow%3A%20%0ASection%3A%0A%0AAttach%20a%20photo%20if%20you%20have%20one){ .md-button .md-button--primary }
 
 ![William Wayte Headstone 1-29-8][1-29-8]{ width="32%" }  ![The Eye of Providence 9-16-9][eye-of-providence]{ width="32%" } [![William Thomas Birkbeck 9-16-9][9-16-9]{ width="32%" }](https://trove.nla.gov.au/newspaper/article/186543823) 
 
