@@ -32,7 +32,7 @@ Where practical, we link to authoritative data sources, rather than duplicate da
 
 - **[Graves and Human Remains](https://brisbane.discovereverafter.com)** - who is buried in which grave and associated dates
 - **Cemetery Location data**:
-    - [Cemetery boundary](https://www.spatial-data.brisbane.qld.gov.au/datasets/d9879ce7dce842ce8d5d3b50e3b702bf_0/explore?location=-27.476664%2C152.985658%2C16.53) is available as  open data
+    - [Cemetery boundary](https://www.spatial-data.brisbane.qld.gov.au/datasets/d9879ce7dce842ce8d5d3b50e3b702bf_0/explore?location=-27.476664%2C152.985658%2C16.53) is available as open data
     - Portion and Section boundaries 
     - Cemetery Road casements - [centrelines](https://www.spatial-data.brisbane.qld.gov.au/datasets/46bbc7521e7949f68ef4b69d87e89ebc_0/explore?location=-27.475228%2C152.985532%2C15.84) are available as open data
     - Toowong Cemetery Pedestrian Entrance off Mt Coot‑tha Road.
@@ -49,7 +49,7 @@ Where practical, we link to authoritative data sources, rather than duplicate da
 ### Other location data 
       
 - Features of Interest (polygon or point) - Symbology display, honour board
-- Information Signs (point) - grave-side, walks, general information
+- Information Signs (point) - graveside, walks, general information
 - Trees (point) - especially weed trees and those destroying graves
 - Historic Dam (polygon) - if exact [location](http://www.oncewasacreek.org/2014/08/up-hill-and-down-dale-where-did-elizabeth-drown/) is known
 - [Local Bus stops](https://www.data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-seq) 
@@ -74,15 +74,13 @@ Our data is published as Comma Separated Value (.csv) data files.
     - the Comma Separated Value data file 
     - a JSON [Table Schema](https://specs.frictionlessdata.io/table-schema/) file describing the structure of the data 
     - a [Markdown](https://commonmark.org/help/) file describing the provenance of the data
--->
+
 
 We plan to experiment publishing our data as [Linked Data](https://en.wikipedia.org/wiki/Linked_data) to enable semantic queries and visualisations. We are considering using the following specifications: 
 
 - [Bio vocabulary](https://vocab.org/bio/) [:fontawesome-brands-github:](https://github.com/iand/vocab-bio)
 - [Graves ontology](https://rdf.muninn-project.org/ontologies/graves-en.html)  [:fontawesome-brands-github:](https://github.com/muninn/graves) 
 
-
-<!--
 Geographic locations should be described as latitude, longitude coordinates in the [WGS84 datum](https://www.spatial.nsw.gov.au/__data/assets/pdf_file/0008/224396/WGS84_and_Australias_misaligned_web-maps_Information_Sheet.pdf) to aid integration and presentation on the web. Alternatively all data should be supplied in a common Datum, ideally [GDA2020](https://www.icsm.gov.au/gda2020), or  the dated GDA94.
 --> 
 
@@ -111,17 +109,17 @@ When we work things out, we'll look to follow the W3C [Best Practices for Publis
 
 --> 
 
+<!-- 
 ## Data Visualisation
 
 Static Visualisations we are considering include: 
 
 - A Mobility map to provide accessibility information to cemetery visitors
-- Grave locations and images <!-- https://vega.github.io/vega-lite/examples/geo_layer.html -->
-- Timelines for an individual, family, or group of related people <!-- https://bl.ocks.org/jakevdp/1643ebb6853e76c32e47a969f415f3ea -->
+- Grave locations and images - https://vega.github.io/vega-lite/examples/geo_layer.html 
+- Timelines for an individual, family, or group of related people -  https://bl.ocks.org/jakevdp/1643ebb6853e76c32e47a969f415f3ea
 
-<!--
 We are considering [Vega-Lite](https://vega.github.io/vega-lite/) to specify our own visualisations. These may be represented as static images on the website as the data does not change often but we are also exploring [tools for embedding vega-lite visualizations](https://vega.github.io/vega-lite/ecosystem.html#tools-for-embedding-vega-lite-visualizations).
--->
+
 
 Dynamic visualisations we are considering include:
 
@@ -134,6 +132,7 @@ We are inspired by the works of others who share and create with open data, incl
 - [Visualising linked data from 'A biographical record of Queensland women', 1939](https://www.slq.qld.gov.au/blog/visualising-linked-data-biographical-record-queensland-women-1939) by the State Library of Queensland. This was our initial inspiration for exploring linked data.
 - [Loud Numbers](https://www.loudnumbers.net/sonification) and [Sonic Pi](https://sonic-pi.net). What could Toowong Cemetery sound like?
 - [Family Tree Timeline](https://blog.myheritage.com/2022/03/introducing-the-family-tree-timeline/) by MyHeritage.com
+-->
 <!-- [Auckland Museum](https://www.aucklandmuseum.com/discover/collections-online/our-data) who publish the collection data in many different ways -->
 <!-- LeanIX https://youtu.be/av5FL6gJBu4?t=126 -->
 
