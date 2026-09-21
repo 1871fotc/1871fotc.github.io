@@ -136,9 +136,7 @@ These signs, names or acronyms can be found on headstones in Toowong Cemetery.
 | UGL     | [United Grand Lodge of Ancient, Free and Accepted][UGL]      | Freemasonry       | <a href="https://brisbane.discovereverafter.com/profile/31879481" title="Go to Memorial Information">25-46-17</a>           |
 
 
-!!! question "Volunteer - share a headstone photo"
-
-    Have you found the location of a Friendly Society Sign? [Email us](mailto:president@fotc.au) with the details. 
+[I've found a missing sign :fontawesome-solid-pen:](mailto:president@fotc.au?subject=I've%20found%20a%20missing%20sign!&body=Hi%2C%20%0AI've%20found%20a%20missing%20headstone%20sign%20in%20Toowong%20Cemetery.%20Here's%20what%20I%20know.%0A%0AName%20of%20person(s)%20on%20the%20headstone%3A%20%0ASign%3A%0APortion%3A%0ARow%3A%20%0ASection%3A%0A%0AAttach%20a%20photo%20if%20you%20have%20one%20%F0%9F%99%8F%F0%9F%8F%BC){ .md-button .md-button--primary }
 
 ![William Wayte Headstone 1-29-8][1-29-8]{ width="32%" }  ![The Eye of Providence 9-16-9][eye-of-providence]{ width="32%" } [![William Thomas Birkbeck 9-16-9][9-16-9]{ width="32%" }](https://trove.nla.gov.au/newspaper/article/186543823) 
 
