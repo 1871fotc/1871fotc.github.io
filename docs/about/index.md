@@ -18,7 +18,7 @@ search:
 
 ## Contact Us
 
-You can contact us via email: **[president@fotc.au](mailto:president@fotc.au)**
+[Say Hello, send us an email :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=Hello%20Friends%20of%20Toowong%20Cemetery&body=Hello%20Friends%20of%20Toowong%20Cemetery%2C%0A%0A){ .md-button .md-button--primary }
 
 ## What we do 
 
