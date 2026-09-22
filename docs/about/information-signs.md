@@ -33,11 +33,14 @@ The signs are 25cm high by 35cm wide and are printed on 2mm Stainless Steel.
 - An image, if available, is on the right of the text and masked in an oval.
 - The right edge of the text should follow the curve of the oval image.
 - The rounded rectangle border is inset ~10mm from the edge of the sign.
-- Despite the surface of the support the sign is attached to having holes to attach the sign, most signs are glued to the supporting surface.
+- Despite the surface of the sign support having holes to attach the sign, most signs are glued to the supporting surface.
+- [Art work for some signs](../../assets/documents/toowong-cemetery-information-signs.pdf)
 
 ![Example Information Sign with image](../assets/anthony-musgrave-information-sign.jpg){ width="70%" }
 
 ![Example Information Sign](../assets/joseph-darragh-information-sign.jpg){ width="70%" }
+
+
 
 <!--
 -[Armsign](https://www.armsign.com.au) P/L Goonellabah NSW made the metal etched signs. 
