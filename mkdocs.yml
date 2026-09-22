@@ -142,7 +142,7 @@ markdown_extensions:
   - footnotes
   - meta
 
-# Sortable data table
+# Sortable data table - upgrade to https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.7.1/tablesort.min.js
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
   - javascripts/tablesort.js
