@@ -5,7 +5,7 @@ search:
 
 # Heritage Heroes 
 
-### Our first event is on 11^th^ October 2026
+## Our first event is on 11^th^ October 2026
 
 Friends of Toowong Cemetery run regular volunteer events to help preserve the heritage of the cemetery. 
 
