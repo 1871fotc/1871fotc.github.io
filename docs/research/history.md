@@ -226,11 +226,11 @@ The Toowong Cemetery Museum, located over the open drain, was formerly the Sexto
 ![Toowong Cemetery Museum](../assets/museum.jpg){ width="98%" loading=lazy data-title="Toowong Cemetery Museum, 2022" }
 
 
-## 1992 Friends of Toowong Cemetery formed 
+## 1994 Friends of Toowong Cemetery formed  <!-- should this be 1992? -->
 
 Cr. Judy Magub was the first President of the Friends of Toowong Cemetery. Judy was the councillor for the Toowong ward since it was formed in 1994 until she retired in 2007.
 
-Learn more about **[Friends of Toowong Cemetery](../about/index.md)** - what we do, what we've done, and how to join in. 
+Learn more about **[Friends of Toowong Cemetery](../about/index.md)** - what we do and what we've done. 
 
 ## 2001 Federation Pavilion
 
