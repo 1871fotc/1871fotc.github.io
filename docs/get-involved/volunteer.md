@@ -31,9 +31,9 @@ This is a first event so there may be some "bumps" on the day.
 - We'll ask you to register so you're covered by our public liability insurance.
 - You'll receive a safety briefing and instructions on how to clean gravesites while respecting heritage standards.
 - We'll give a demonstration of re-lettering a headstone where we have received the families permission to do so. If you're interested, you can have a go under our guidance. 
-- You'll care for graves by removing vegetation, and possibly gently washing headstones (we're still working out permission for this).
 - We'll share a story about one of the people remembered in the area we're caring for.
 - We'll take before and after photos to show the difference you've made. You can choose if you want to be in photos. Photos may be published on our website or social media.
+- We'll finish with a simple morning tea and a chat about how you'd like these events to evolve.
   
 
 ## Directions to Toowong Cemetery  
