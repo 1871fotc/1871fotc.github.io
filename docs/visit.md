@@ -39,7 +39,7 @@ Toowong Cemetery is the largest cemetery in Queensland. We suggest wearing a hat
 
 ## Guided Tours
 
-Friends of Toowong Cemetery provide **[free guided tours](guided-tours.md)**. Every tour is different. No need to book.
+Friends of Toowong Cemetery provide **[free guided tours](guided-tours.md)**. Every tour is different. 
 
 ![Pat Hill's headstone][image11]{ width="32%" } ![Harry Potter's headstone][image9]{ width="32%" } ![Cherub headstone][image8]{ width="32%" }
 
@@ -51,6 +51,41 @@ Friends of Toowong Cemetery provide **[free guided tours](guided-tours.md)**. Ev
 [image9]: assets/harry-potter-16x9.jpg 
 [image10]: assets/clasped-hands.jpg "We Part To Meet Again"
 [image11]: assets/pat-hill-headstone.jpg 
+
+
+**Guided tours are free** but donations are appreciated to help us continue **[our work](about/index.md)**.
+
+Tours are on the **first Sunday of each month** (February to December) from **10:30am to 12:00**. 
+
+There's no need to book, just meet under the flagpole in Canon Garland Place at the Toowong Cemetery. Parking is available inside the cemetery.
+
+![Canon Garland Place](assets/flag-pole.jpg){ width="98%" data-title="Guided tours start at Canon Garland Place" }
+
+*<small>The Flagpole in Canon Garland Place</small>*
+
+## Upcoming Guided Tours
+
+Our next tour is on **Sunday 4 October 2026** and is titled, "**Odd Jobs**".
+
+The tour is limited to 20 people. 
+
+!!! Warning "What to bring"
+
+    Wear enclosed shoes, a hat and sunscrean or bring an umbrella, and don't forget a bottle of water. 
+    Some tours include steep hills and a walking stick or walking poles may be helpful.
+
+## Toowong Cemetery Museum
+
+The Museum may be open in conjunction with our guided tours if cemetery staff are on-site.
+
+![Toowong Cemetery Museum](assets/museum.jpg){ width="98%" data-title="Toowong Cemetery Museum is open in conjunction with our guided tours"}
+
+*<small>The Toowong Cemetery Museum is the former Sexton's office.</small>*
+
+The Museum has an extensive display of photographs and artefacts.
+
+![Museum photo display](assets/museum-photos-1.jpg){ width="48.5%" } ![Museum photo display](assets/museum-photos-2.jpg){ width="48.5%" }
+![Museum photo display](assets/museum-photos-3.jpg){ width="48.5%" } ![Museum photo display](assets/museum-photos-4.jpg){ width="48.5%" }
 
 
 ## Self-Guided Walks
