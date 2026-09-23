@@ -68,7 +68,7 @@ The tour is limited to 20 people.
 
 !!! Warning "What to bring"
 
-    Wear enclosed shoes, a hat and sunscrean or bring an umbrella, and don't forget a bottle of water. 
+    Wear enclosed shoes, a hat and sunscreen or bring an umbrella, and don't forget a bottle of water. 
     Some tours include steep hills and a walking stick or walking poles may be helpful.
 
 ## Toowong Cemetery Museum
