@@ -24,7 +24,7 @@ description: Visit Toowong Cemetery and explore its history and stories
 
 ## Things to do
 
-You can explore the cemetery every day between 6am and 6pm. It's lovely just to wander around, enjoy the green space and heritage that surrounds you.
+You can explore the largest cemetery in Queensland every day between 6am and 6pm. It's lovely just to wander around, enjoy the green space and heritage that surrounds you.
 
 <div class="video-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/41fWB0IvDKU?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -34,12 +34,9 @@ You can explore the cemetery every day between 6am and 6pm. It's lovely just to 
 *<small>[Toowong Cemetery, Brisbane - DJI Mavic aerial](https://youtu.be/41fWB0IvDKU) by Drone Runner. </small>* **<small></small>**. 
 -->
 
-Toowong Cemetery is the largest cemetery in Queensland. We suggest wearing a hat, enclosed shoes, and bringing a water bottle. 
-
-
 ## Guided Tours
 
-Friends of Toowong Cemetery provide **[free guided tours](guided-tours.md)**. Every tour is different. 
+Friends of Toowong Cemetery provide **free guided tours** — every tour is different. 
 
 ![Pat Hill's headstone][image11]{ width="32%" } ![Harry Potter's headstone][image9]{ width="32%" } ![Cherub headstone][image8]{ width="32%" }
 
@@ -53,7 +50,7 @@ Friends of Toowong Cemetery provide **[free guided tours](guided-tours.md)**. Ev
 [image11]: assets/pat-hill-headstone.jpg 
 
 
-**Guided tours are free** but donations are appreciated to help us continue **[our work](about/index.md)**.
+**Guided tours are free** but [donations](get-involved/donate.md) are appreciated to help us continue **[our work](about/index.md)**.
 
 Tours are on the **first Sunday of each month** (February to December) from **10:30am to 12:00**. 
 
@@ -63,7 +60,7 @@ There's no need to book, just meet under the flagpole in Canon Garland Place at 
 
 *<small>The Flagpole in Canon Garland Place</small>*
 
-## Upcoming Guided Tours
+### Upcoming Guided Tours
 
 Our next tour is on **Sunday 4 October 2026** and is titled, "**Odd Jobs**".
 
