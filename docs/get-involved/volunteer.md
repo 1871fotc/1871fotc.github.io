@@ -27,11 +27,11 @@ Meet under the flagpole in Canon Garland Place at the Toowong Cemetery. Parking 
 
 ## Directions to Toowong Cemetery  
 
-**[:fontawesome-solid-map: $nbsp; Plan your trip](../visit.md/#plan-your-trip)** $nbsp; or  $nbsp; **[:fontawesome-solid-map-marker-alt: $nbsp; Get directions on Google Maps](https://www.google.com/maps/dir//Toowong+Cemetery,+Frederick+St,+Toowong+QLD+4066/@-27.4770477,152.9844187,17.94z/data=!4m17!1m7!3m6!1s0x6b9150c2f0f2e23f:0xf02a35bd720a310!2sToowong+Cemetery!8m2!3d-27.4772797!4d152.984017!16zL20vMGgwczB3!4m8!1m0!1m5!1m1!1s0x6b9150c2f0f2e23f:0xf02a35bd720a310!2m2!1d152.9840719!2d-27.4772878!3e0?entry=ttu&g_ep=EgoyMDI2MDkyMC4wIKXMDSoASAFQAw%3D%3D)**
+**[:fontawesome-solid-map: &nbsp; Plan your trip](../visit.md/#plan-your-trip)** &nbsp; or  &nbsp; **[:fontawesome-solid-map-marker-alt: &nbsp; Get directions on Google Maps](https://www.google.com/maps/dir//Toowong+Cemetery,+Frederick+St,+Toowong+QLD+4066/@-27.4770477,152.9844187,17.94z/data=!4m17!1m7!3m6!1s0x6b9150c2f0f2e23f:0xf02a35bd720a310!2sToowong+Cemetery!8m2!3d-27.4772797!4d152.984017!16zL20vMGgwczB3!4m8!1m0!1m5!1m1!1s0x6b9150c2f0f2e23f:0xf02a35bd720a310!2m2!1d152.9840719!2d-27.4772878!3e0?entry=ttu&g_ep=EgoyMDI2MDkyMC4wIKXMDSoASAFQAw%3D%3D)**
 
 ## Plan ahead
 
-Our second will be in November (probably the 15^th^).
+Our second will be in November – probably the 15^th^.
 
 <!-- 
 
