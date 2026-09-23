@@ -28,7 +28,7 @@ The allegorical figure, Hope, is often shown holding an anchor. Anchors may be s
 
 --8<-- "snippets/jessie-blanche-and-george-prentice.md"
 
-![George and Mrs. Prentice](../assets/george-prentice-snr.jpg){ class="full-width" width="44%"} ![George Prentice and family](../assets/george-prentice.jpg){ class="full-width" width="54%"}
+![George and Mrs. Prentice](../assets/george-prentice-snr.jpg){ class="full-width" width="42%"} ![George Prentice (jnr) and family](../assets/george-prentice.jpg){ class="full-width" width="56%"}
 
 <small>[George and Mrs. Prentice](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/60a0pp/alma99183513698202061) - State Library of Queensland <br>
 [George Prentice and family](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1fr80lo/alma99183513700802061) - State Library of Queensland </small>
