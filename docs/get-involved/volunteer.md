@@ -20,7 +20,7 @@ Meet under the flagpole in Canon Garland Place at the Toowong Cemetery. Parking 
     Wear enclosed shoes, a hat and sunscreen, and don't forget a bottle of water.
 
 
-**Can you help?**
+### Can you help?
 
 [I want to be a Heritage Hero &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=I%20want%20to%20be%20a%20Heritage%20Hero&body=Please%20keep%20me%20informed%20of%20Heritage%20Hero%20events){ .md-button .md-button--primary }
 
