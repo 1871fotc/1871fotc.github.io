@@ -13,11 +13,11 @@ Our first event will be on **Sunday 11 October from 8:00–10:30am**. Arrive whe
 
 Meet under the flagpole in Canon Garland Place at the Toowong Cemetery. Parking is available inside the cemetery.
 
-![Canon Garland Place](assets/flag-pole.jpg){ width="98%" data-title="Heritage Hero events start at Canon Garland Place" }
+![Canon Garland Place](../assets/flag-pole.jpg){ width="98%" data-title="Heritage Hero events start at Canon Garland Place" }
 
-!! Warning "What to bring"
+!!! Warning "What to bring"
 
-    Wear enclosed shoes, a hat and sunscrean, and don't forget a bottle of water. 
+    Wear enclosed shoes, a hat and sunscreen, and don't forget a bottle of water.
 
 
 **Can you help?**
