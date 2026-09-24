@@ -153,12 +153,7 @@ plugins:
 #  - search:
 #      lang: en
 #      separator: '[\s,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
-# - tags:
-#      tags_file: tags.md
-#      tags_allowed:
-#        - Freemasons
-#        - Ancient Order of Foresters
-# Doesn't work locally
+
   - social:
       cards_layout: default/variant
   - glightbox:
@@ -177,7 +172,7 @@ plugins:
         'guided-tour.md': 'visit/guided-tour.md'
         'find-a-grave.md': 'find-a-grave.md/index.md'
         'research/find-a-grave.md': 'find-a-grave.md/index.md'
-        'walks/index.md': 'stories/index.md'
+        'walks/index.md': 'visit/walks.md'
         'history.md': 'research/history.md'
 #        'walks/federation-walk.md': 'stories/federation-walk.md'
 #        'walks/lilian-cooper-walk.md': 'stories/lilian-cooper-walk.md'
@@ -193,10 +188,9 @@ nav:
     - Visit Toowong Cemetery: visit/index.md
     - Guided Tours: visit/guided-tours.md
     - Federation Pavilion: visit/federation-pavilion.md
+    - Self-Guided Walks: visit/walks.md
     - Headstone Symbology Display: headstones/symbology-display.md   
     - Queensland's Oldest Headstones: headstones/queenslands-oldest-headstones.md
-# moved Cemetery History to Research History 
-#  - Cemetery History: history.md
   - Find a Grave: 
     - Find a Grave: find-a-grave/index.md
 #   - Get holp cleaning graves: find-a-grave/cleaning.md
