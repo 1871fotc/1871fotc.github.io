@@ -33,6 +33,37 @@ You can explore the largest cemetery in Queensland every day between 6am and 6pm
 *<small>[Toowong Cemetery, Brisbane - DJI Mavic aerial](https://youtu.be/41fWB0IvDKU) by Drone Runner. </small>* **<small></small>**. 
 -->
 
+<div class="grid cards" markdown>  
+
+-   :fontawesome-solid-person-burst:{ .lg .middle } **[Guided Tours](guided-tours.md)** 
+  
+    ---
+
+    Our free guided tours are different every time. No need to book. 
+
+    
+-   :fontawesome-solid-balance-scale:{ .lg .middle } **[Federation Pavilion](federation-pavilion.md)**
+  
+    ---
+
+    Learn about Queenslanders who played a lead role in the federation of Australia.
+    
+
+-   :fontawesome-solid-person-walking:{ .lg .middle } **[Self-Guided Walks](walks.md)**
+ 
+    ---
+
+    Explore Toowong Cemetery in your own way. Choose from our collection of self-guided walks.
+
+  
+-   :material-grave-stone:{ .lg .middle } **[Queensland's Oldest Headstones](../headstones/queenslands-oldest-headstones.md)**
+ 
+    ---
+
+    Visit Queenslands oldest headstone in Queensland is from 15 November 1831. 
+    
+</div>
+
 <!-- 
 ## Guided Tours
 
@@ -85,7 +116,7 @@ The Museum has an extensive display of photographs and artefacts.
 ![Museum photo display](../assets/museum-photos-3.jpg){ width="48.5%" } ![Museum photo display](../assets/museum-photos-4.jpg){ width="48.5%" }
 
 -->
-
+<!-- 
 ## Self-Guided Walks
 
 Explore graves of notable people that shape Queensland's past. Each self-guided walk has a map, directions, photos and stories about some of the people remembered in Toowong Cemetery. Choose a walk:
@@ -133,6 +164,7 @@ Explore graves of notable people that shape Queensland's past. Each self-guided 
 
 </div>
 
+-->
 <!-- 
 
 ## Headstone Symbolism Display
