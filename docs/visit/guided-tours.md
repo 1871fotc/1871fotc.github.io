@@ -14,7 +14,7 @@ search:
 
 ![Pat Hill's headstone][image11]{ width="32%" } ![Harry Potter's headstone][image9]{ width="32%" } ![Cherub headstone][image8]{ width="32%" }
 
-**Guided tours are free** but donations are appreciated to help us continue **[our work](../about/index.md)**.
+**Guided tours are free** but [:fontawesome-solid-piggy-bank: donations](get-involved/donate.md) are appreciated to help us continue **[our work](../about/index.md)**.
 
 Tours are on the **first Sunday of each month** (February to December) from **10:30am to 12:00**. 
 
