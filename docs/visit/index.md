@@ -20,14 +20,13 @@ description: Visit Toowong Cemetery and explore its history and stories
 
 **Visit Toowong Cemetery and explore its history and stories.** 
 
-
-## Things to do
-
 You can explore the largest cemetery in Queensland every day between 6am and 6pm. It's lovely just to wander around, enjoy the green space and heritage that surrounds you.
 
 <div class="video-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/41fWB0IvDKU?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>  
+
+## Things to do
 
 <!--
 *<small>[Toowong Cemetery, Brisbane - DJI Mavic aerial](https://youtu.be/41fWB0IvDKU) by Drone Runner. </small>* **<small></small>**. 
