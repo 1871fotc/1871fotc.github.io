@@ -173,10 +173,10 @@ plugins:
       caption_position: bottom
   - redirects:
       redirect_maps:
-#        'about/federation-pavilion.md': 'visit/federation-pavilion.md' 
+        'about/federation-pavilion.md': 'visit/federation-pavilion.md' 
         'guided-tour.md': 'visit/guided-tour.md'
-        'research/find-a-grave.md': 'find-a-grave.md/index.md'
         'find-a-grave.md': 'find-a-grave.md/index.md'
+        'research/find-a-grave.md': 'find-a-grave.md/index.md'
         'walks/index.md': 'stories/index.md'
         'history.md': 'research/history.md'
 #        'walks/federation-walk.md': 'stories/federation-walk.md'
@@ -193,7 +193,8 @@ nav:
     - Visit Toowong Cemetery: visit/index.md
     - Guided Tours: visit/guided-tours.md
     - Federation Pavilion: visit/federation-pavilion.md
-#    - Queensland's Oldest Headstones: headstones/queenslands-oldest-headstones.md
+    - Headstone Symbology Display: headstones/symbology-display.md   
+    - Queensland's Oldest Headstones: headstones/queenslands-oldest-headstones.md
 # moved Cemetery History to Research History 
 #  - Cemetery History: history.md
   - Find a Grave: 
