@@ -201,7 +201,7 @@ Wander over to Portion 29A off Steele Rudd Avenue and see the **[lost Paddington
 Toowong Cemetery is open everyday from 6am–6pm. Check the Brisbane City Council for [Office opening hours](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#officehours).
 
 <figure markdown>
-  ![Toowong Cemetery main entrance](assets/main-entrance.jpg){ class="full-width" }
+  ![Toowong Cemetery main entrance](../assets/main-entrance.jpg){ class="full-width" }
   <figcaption markdown>The Toowong Cemetery Main Entrance was designed by the Colonial Architect **[F.D.G. Stanley](research/francis-drummond-grenville-stanley.md)** and erected in 1873–1874</figcaption>
 </figure>
 
@@ -223,7 +223,7 @@ If you're walking to Toowong Cemetery, in addition to the entries above, you can
 - the many informal entries off Birdwood Terrace.
 
 <figure markdown>
-  ![Toowong Cemetery Pedestrian Entrance](assets/pedestrian-ramp.jpg){ class="full-width" }
+  ![Toowong Cemetery Pedestrian Entrance](../assets/pedestrian-ramp.jpg){ class="full-width" }
   <figcaption markdown>Toowong Cemetery Pedestrian Entrance off Mt Coot‑tha Road. <b>[Bus stop 17, Mt Coot‑tha Rd](https://jp.translink.com.au/plan-your-journey/stops/001403/timetable/)</b> is nearby.</figcaption>
 </figure>
 
@@ -239,7 +239,7 @@ If you're using public transport to get here, use the **[TransLink Journey Plann
 
 If you enter the main entrance, you'll find: 
 
-- **Canon Garland Place** named after **[Canon David John Garland][Garland]**. The flagpole is the departure point for our **[guided tours](../guided-tours.md)**.
+- **Canon Garland Place** named after **[Canon David John Garland][Garland]**. The flagpole is the departure point for our **[guided tours](guided-tours.md)**.
 - a **Museum** operated by the Friends of Toowong Cemetery.
 - the **[Office](https://www.brisbane.qld.gov.au/libraries-venues-and-facilities/cemeteries/cemetery-locations-and-services/toowong-cemetery#location)**, where Brisbane City Council staff can help locate graves and answer your questions.
 - **Toilets** – the only ones available in the cemetery are not wheel-chair accessible.
@@ -247,7 +247,7 @@ If you enter the main entrance, you'll find:
 <!--  LAVATORY BUILDING - https://trove.nla.gov.au/newspaper/article/178409657?searchTerm=%22Brisbane%20general%20cemetery%22%20trustee -->
 
 <figure markdown>
-  ![Canon Garland Place at Toowong Cemetery](assets/flag-pole.jpg){ class="full-width" }
+  ![Canon Garland Place at Toowong Cemetery](../assets/flag-pole.jpg){ class="full-width" }
   <figcaption markdown>The Stone of Remembrance, Cross of Sacrifice, and Flagpole in Canon Garland Place</figcaption>
 </figure>
 
@@ -327,7 +327,7 @@ Combine your visit to Toowong Cemetery with a visit to other nearby attractions:
 
 
 <figure markdown>
-  ![Their Royal Highnesses, the Duke and Duchess of York enjoy a morning at Mt. Coot-tha, April 1927](assets/duke-and-duchess-of-york-mt-coot-tha-adjusted.jpg){ class="full-width" width="70%"}
+  ![Their Royal Highnesses, the Duke and Duchess of York enjoy a morning at Mt. Coot-tha, April 1927](../assets/duke-and-duchess-of-york-mt-coot-tha-adjusted.jpg){ class="full-width" width="70%"}
   <figcaption markdown>[Their Royal Highnesses, the Duke and Duchess of York enjoy a morning at Mt. Coot-tha, April 1927](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218197470002061) — State Library of Queensland. The Duke of York was later King George VI, and the Duchess of York was later Queen Elizabeth the Queen Mother.</figcaption>
 </figure>
 
