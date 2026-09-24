@@ -6,8 +6,6 @@ search:
 
 <!-- "snippets/sem/guided-tours.json" -->
 
---8<-- "snippets/hide-nav.html"
-
 # Toowong Cemetery Guided Tours
 
 ## Guided Tours
