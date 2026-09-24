@@ -173,23 +173,33 @@ plugins:
       caption_position: bottom
   - redirects:
       redirect_maps:
-        'contact.md': 'about/index.md'
+        'visit.md': 'visit/index.md'
+#        'about/federation-pavilion.md': 'visit/federation-pavilion.md' 
+        'guided-tour.md': 'visit/guided-tour.md'
+        'research/find-a-grave.md': 'find-a-grave.md/index.md'
+        'find-a-grave.md': 'find-a-grave.md/index.md'
         'walks/index.md': 'stories/index.md'
         'history.md': 'research/history.md'
-#        'guided-tour.md': 'visit/guided-tour.md'
 #        'walks/federation-walk.md': 'stories/federation-walk.md'
 #        'walks/lilian-cooper-walk.md': 'stories/lilian-cooper-walk.md'
 #        'walks/jewish-walk.md': 'stories/jewish-walk.md'
 #        'walks/mount-blackall-walk.md': 'stories/mount-blackall-walk.md'
-        'research/find-a-grave.md': 'find-a-grave.md'
+        'contact.md': 'about/index.md'
+
 
 # Page tree - only 2 levels allowed
 nav:
   - Home: index.md
-  - Visit Toowong Cemetery: visit.md
+  - Visit Toowong Cemetery: 
+    - Visit Toowong Cemetery: visit/index.md
+    - Guided Tours: visit/guided-tours.md
+    - Federation Pavilion: visit/federation-pavilion.md
+#    - Queensland's Oldest Headstones: headstones/queenslands-oldest-headstones.md
 # moved Cemetery History to Research History 
 #  - Cemetery History: history.md
-  - Find a Grave: find-a-grave.md
+  - Find a Grave: 
+    - Find a Grave: find-a-grave/index.md
+#   - Get holp cleaning graves: find-a-grave/cleaning.md
   - Explore Stories:
     - Explore Stories: stories/index.md
 # Publications
@@ -296,7 +306,7 @@ nav:
     - Publications: about/publications.md
 #    - Extraordinary Stories of Ordinary People: about/extraordinary-stories.md
 #    - 140th Anniversary Commemoration: about/140-commemoration.md
-    - Federation Pavilion: about/federation-pavilion.md
+#    - Federation Pavilion: about/federation-pavilion.md
     - Information Signs: about/information-signs.md
     - Legal: about/legal.md
 #  - Contact Us: contact.md
