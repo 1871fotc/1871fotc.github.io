@@ -233,6 +233,7 @@ figcaption {
     transform: scale(1.15);
   }
 }
+
 .heart {
   animation: heart 1000ms infinite;
   color: #7e56c2;
