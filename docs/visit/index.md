@@ -18,9 +18,9 @@ description: Visit Toowong Cemetery and explore its history and stories
 
 -->
 
-**Visit Toowong Cemetery and explore its history and stories.** 
+**Explore Queensland's largest cemetery and discover its history and stories.** 
 
-You can explore the largest cemetery in Queensland every day between 6am and 6pm. It's lovely just to wander around, enjoy the green space and heritage that surrounds you.
+Toowong Cemetery is open every day from 6am to 6pm. It's lovely to wander around and enjoy the green space and heritage that surrounds you.
 
 <div class="video-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/41fWB0IvDKU?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
