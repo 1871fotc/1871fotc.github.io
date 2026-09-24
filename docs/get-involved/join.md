@@ -1,6 +1,6 @@
 # Join Friends of Toowong Cemetery 
 
-Thanks for thinking about joining Friends of Toowong Cemetery :octicons-heart-fill-24:{ .heart }
+**Thanks for thinking about joining Friends of Toowong Cemetery** :octicons-heart-fill-24:{ .heart }
 
 ### Why Join?
 
