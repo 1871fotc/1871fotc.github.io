@@ -133,7 +133,7 @@ Explore graves of notable people that shape Queensland's past. Each self-guided 
 
 </div>
 
-
+<!-- 
 
 ## Headstone Symbolism Display
 
@@ -143,6 +143,7 @@ Discover the meaning of **[headstone symbols](../headstones/symbols.md)** at the
   ![Toowong Cemetery Headstone Symbolism Display](assets/symbolism-display.jpg){ class="full-width" }
   <figcaption markdown>Toowong Cemetery Headstone Symbolism Display</figcaption>
 </figure>
+-->
 
 <!-- 
 ## Federation Pavilion
@@ -152,7 +153,7 @@ Visit the **[Federation Pavilion](../about/federation-pavilion.md)** and learn a
 ![Federation Pavilion](../assets/federation-pavilion.jpg)
 
 -->
-
+<!-- 
 ## Queensland's Oldest Headstones
 
 **[Queensland's oldest surviving headstone](../headstones/queenslands-oldest-headstones.md)** is from 15 November 1831 and can be found in Toowong Cemetery.
@@ -160,7 +161,7 @@ Visit the **[Federation Pavilion](../about/federation-pavilion.md)** and learn a
 ## Archaeological Dig Finds
 
 Wander over to Portion 29A off Steele Rudd Avenue and see the **[lost Paddington Cemetery headstones](../headstones/lost-paddington-headstones.md)** we've uncovered in our **[Archaeological Digs](../headstones/archaeological-digs/)**.
-
+-->
 
 
 ## Plan your trip
