@@ -235,6 +235,6 @@ figcaption {
 }
 
 .heart {
-  animation: heart 1000ms infinite;
+  animation: heart 1000ms 10;
   color: #7e56c2;
 }
