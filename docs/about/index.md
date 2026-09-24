@@ -39,7 +39,7 @@ The Friends of Toowong Cemetery:
 
 The Friends of Toowong Cemetery have:
 
-- **established the [Federation Pavilion](federation-pavilion.md)**, which commemorates the contribution of the delegates who attended the 1891 Australian Federation Convention that are buried at the Toowong Cemetery. 
+- **established the [Federation Pavilion](../visit/federation-pavilion.md)**, which commemorates the contribution of the delegates who attended the 1891 Australian Federation Convention that are buried at the Toowong Cemetery. 
 - **commemorated the [140^th^ Anniversary of the cemetery](140-commemoration.md)**. We received an Award from the National Trust of Queensland for our work.
 - provided stories for **[information signs](information-signs.md)** at significant grave sites.
 - **renamed cemetery roads** after notable people buried nearby, added the road names to [Google Maps](https://goo.gl/maps/7VX36iDLFNnShN6D8), [Apple Maps](https://maps.apple.com/?ll=-27.474621,152.982575&spn=0.005187,0.008217&t=m), and improved the <a href="../../assets/toowong-cemetery-map-large.jpg" target="_blank">Toowong Cemetery map</a> to make it easier to for you to find your way around the cemetery.
