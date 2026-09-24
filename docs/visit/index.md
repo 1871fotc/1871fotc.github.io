@@ -33,6 +33,7 @@ You can explore the largest cemetery in Queensland every day between 6am and 6pm
 *<small>[Toowong Cemetery, Brisbane - DJI Mavic aerial](https://youtu.be/41fWB0IvDKU) by Drone Runner. </small>* **<small></small>**. 
 -->
 
+<!-- 
 ## Guided Tours
 
 Friends of Toowong Cemetery provide **free guided tours** — every tour is different. 
@@ -83,6 +84,7 @@ The Museum has an extensive display of photographs and artefacts.
 ![Museum photo display](../assets/museum-photos-1.jpg){ width="48.5%" } ![Museum photo display](../assets/museum-photos-2.jpg){ width="48.5%" }
 ![Museum photo display](../assets/museum-photos-3.jpg){ width="48.5%" } ![Museum photo display](../assets/museum-photos-4.jpg){ width="48.5%" }
 
+-->
 
 ## Self-Guided Walks
 
@@ -142,12 +144,14 @@ Discover the meaning of **[headstone symbols](../headstones/symbols.md)** at the
   <figcaption markdown>Toowong Cemetery Headstone Symbolism Display</figcaption>
 </figure>
 
+<!-- 
 ## Federation Pavilion
 
 Visit the **[Federation Pavilion](../about/federation-pavilion.md)** and learn about Queenslanders who played a lead role in the federation of Australia.
 
 ![Federation Pavilion](../assets/federation-pavilion.jpg)
 
+-->
 
 ## Queensland's Oldest Headstones
 
@@ -156,6 +160,7 @@ Visit the **[Federation Pavilion](../about/federation-pavilion.md)** and learn a
 ## Archaeological Dig Finds
 
 Wander over to Portion 29A off Steele Rudd Avenue and see the **[lost Paddington Cemetery headstones](../headstones/lost-paddington-headstones.md)** we've uncovered in our **[Archaeological Digs](../headstones/archaeological-digs/)**.
+
 
 
 ## Plan your trip
