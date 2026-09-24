@@ -45,7 +45,7 @@ Each walk has a map, directions, and stories about people remembered in Toowong 
 
 <div class="grid cards" markdown>  
 
--   :fontawesome-solid-person-walking:{ .lg .middle } **[The Federation Walk](federation-walk.md)** 
+-   :fontawesome-solid-person-walking:{ .lg .middle } **[The Federation Walk](../walks/federation-walk.md)** 
   
     ---
 
@@ -54,7 +54,7 @@ Each walk has a map, directions, and stories about people remembered in Toowong 
     :fontawesome-regular-clock: 30 minutes  
 
     
--   :fontawesome-solid-person-walking:{ .lg .middle } **[Dr. Lilian Cooper walk](lilian-cooper-walk.md)**
+-   :fontawesome-solid-person-walking:{ .lg .middle } **[Dr. Lilian Cooper walk](../walks/lilian-cooper-walk.md)**
   
     ---
 
@@ -63,7 +63,7 @@ Each walk has a map, directions, and stories about people remembered in Toowong 
     :fontawesome-regular-clock: 1 hour  
     
 
--   :fontawesome-solid-person-walking:{ .lg .middle } **[The Jewish Walk](jewish-walk.md)**
+-   :fontawesome-solid-person-walking:{ .lg .middle } **[The Jewish Walk](../walks/jewish-walk.md)**
  
     ---
 
