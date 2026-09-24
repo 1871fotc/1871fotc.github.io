@@ -1,4 +1,4 @@
-# Join Friends of Toowong Cemetery 
+# Join Friends of Toowong Cemetery :octicons-heart-fill-24:{ .heart }
 
 ### Why Join?
 
@@ -36,7 +36,7 @@ Let us know why Toowong Cemetery interests you and if you have any ideas on how 
 - Friends of Toowong Cemetery has Public Liability Insurance cover up to $20 million.
 - You resign your membership if your annual fee is 2 months overdue. Renewals are due on 1 July every year.
 
-### Management Committee meetings
+### Meetings
 
 Friends of Toowong Cemetery meet at Mt. Coot‑tha Botanical Gardens Auditorium on the last Wednesday of the month (except December) from 6pm to 7pm. New member applications are considered at this meeting.
 
