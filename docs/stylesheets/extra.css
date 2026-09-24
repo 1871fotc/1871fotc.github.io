@@ -222,3 +222,18 @@ figcaption {
 .md-typeset .md-button {
   border-radius: 0.3rem !important;
 }
+
+/* pulsing heart */
+
+@keyframes heart {
+  0%, 40%, 80%, 100% {
+    transform: scale(1);
+  }
+  20%, 60% {
+    transform: scale(1.15);
+  }
+}
+.heart {
+  animation: heart 1000ms infinite;
+  color: #7e56c2;
+}
