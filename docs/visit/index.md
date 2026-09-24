@@ -53,14 +53,14 @@ You can explore the largest cemetery in Queensland every day between 6am and 6pm
  
     ---
 
-    Explore Toowong Cemetery in your own way. Choose from our collection of self-guided walks.
+    Explore Toowong Cemetery your way. Choose from our collection of self-guided walks.
 
   
 -   :material-grave-stone:{ .lg .middle } **[Queensland's Oldest Headstones](../headstones/queenslands-oldest-headstones.md)**
  
     ---
 
-    Visit Queenslands oldest headstone in Queensland is from 15 November 1831. 
+    Visit Queenslands oldest headstone from 1831. 
     
 </div>
 
