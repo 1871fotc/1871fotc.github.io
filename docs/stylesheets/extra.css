@@ -238,3 +238,9 @@ figcaption {
   animation: heart 1000ms 5;
   color: #7e56c2;
 }
+
+@media (max-width: 600px) {
+    .mobile-break {
+    display: block;
+    }
+}
