@@ -62,9 +62,7 @@ E. Griffith Oxley, F.C.P.A., F.A.I.S.
 
 <!-- -- p2 -->
 
-entrance-gates.jpeg
-
-
+![](../assets/BGC1924/entrance-gates.jpeg)
 
 
 <!--  p3 -->
@@ -90,11 +88,11 @@ Brisbane's old cemetery used to be situated in the once restful hollow between P
 
 <!-- p4 -->
 
-new-building.jpeg
+![](../assets/BGC1924/new-building.jpeg)
 
 <!--  The New Building -->
 
-offices-and-flower-shed.jpeg
+![](../assets/BGC1924/offices-and-flower-shed.jpeg)
 
 <!--  View showing Offices and Flower Shed on right -->
 
@@ -125,7 +123,7 @@ a view of the city so extensive and varied that one might almost fancy the depar
 
 Other Cemeteries are laid out at Lutwyche (Kedron Park tram), Nudgee (Sandgate railway), Nundah (railway), Hemmant (motor), and in some of the older churchyards (following a homeland custom) a God's acre is sometimes found.
 
-https://www.fotc.au/assets/toowong-cemetery-trustees-1924.jpg
+![](../assets/toowong-cemetery-trustees-1924.jpg)
 
 ## Formation of Trust.
 
@@ -167,7 +165,7 @@ marks the genesis of the present Trust:—
 
 <!-- 8 2 images -->
 
-two-cemetery-landmarks.jpeg
+![](../assets/BGC1924/two-cemetery-landmarks.jpeg)
 
 <!-- 
 
@@ -232,7 +230,7 @@ Following is the complete list of Trustees, according to the date of appointment
 <!-- 10  images cross of sacrifice -->
 
 
-cross-of-sacrifice-and-stone-of-remembrance.jpeg
+![](../assets/BGC1924/cross-of-sacrifice-and-stone-of-remembrance.jpeg)
 
 <!-- 
 
@@ -288,7 +286,7 @@ On October 10th, 1922, the Trustees held a special meeting at the residence of H
 ---
  p12 13 center image -->
 
-panoramic-view-of-the-cemetery-1924.jpeg
+![](../assets/BGC1924/panoramic-view-of-the-cemetery-1924.jpeg)
 
 <!-- 
 > " How well he fell asleep!
@@ -373,7 +371,7 @@ In August, 1885, there was a proposal for a new cemetery at Goodna. On 24th Sept
 
 <!-- p 15  2 images -->
 
-henry-oxley.jpeg
+![](../assets/BGC1924/henry-oxley.jpeg)
 
 <!-- 
 
@@ -381,7 +379,8 @@ henry-oxley,
 Secretary for 41 years (1875 till his decease in 1916).
 -->
 
-e-griffith-oxley.jpeg
+![](../assets/BGC1924/e-griffith-oxley.jpeg)
+
 <!-- 
 
 E. GRIFFITH OXLEY,
@@ -450,7 +449,7 @@ Included in the plans for future development (when finances allow) is the erecti
 ---
  p17 2 images -->
 
-john-melville.jpeg
+![](../assets/BGC1924/john-melville.jpeg)
 
 <!-- 
 
@@ -458,7 +457,7 @@ john melville,
 Overseer for 38 years (1874 till his decease in 1912).
 -->
 
-j-l-melville.jpeg
+![](../assets/BGC1924/j-l-melville.jpeg)
 
 <!-- 
 
@@ -827,7 +826,7 @@ Land in portion 22, and in such higher part of portion 7A as may be defined by t
 Map
 -->
 
-plan-of-cemetery.jpeg
+![](../assets/BGC1924/plan-of-cemetery.jpeg)
 
 <!-- 
 ---
