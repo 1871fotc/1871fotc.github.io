@@ -28,7 +28,7 @@ Meet under the flagpole in Canon Garland Place at the Toowong Cemetery. Parking 
 
 This is a first event so there may be some "bumps" on the day.
 
-- We'll ask you to register so you're covered by our public liability insurance.
+- We'll ask you to register.
 - You'll receive a safety briefing and instructions on how to clean gravesites while respecting heritage standards.
 - We'll give a demonstration of re-lettering a headstone where we have received the families permission to do so. If you're interested, you can have a go under our guidance. 
 - We'll share a story about one of the people remembered in the area we're caring for.
