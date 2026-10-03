@@ -16,18 +16,25 @@ We need your:
 - full name
 - postal or residential address
 - email address 
-- membership fee payment - $11 or $5.50 for Students and Pensioners.
-- our Bank details are:
-  
-    - Branch: NAB Brisbane
-    - BSB: 084034
-    - Account Number: 522327844
-    - Reference: your Surname 
 
 Let us know why Toowong Cemetery interests you and if you have any ideas on how you'd like to help.
 
 [Apply to join &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=I'd%20like%20to%20join%20Friends%20of%20Toowong%20Cemetery&body=Hi%2C%20%0AI'd%20like%20to%20join%20Friends%20of%20Toowong%20Cemetery.%0A%0AFull%20name%3A%0AAddress%3A%0AEmail%3A%0A%0AI'm%20interested%20in%20Toowong%20Cemetery%20because...){ .md-button .md-button--primary }
 
+### After you apply
+
+Your application is considered and we will contact you with the outcome.
+
+If accepted, once we receive your membership fee, your a member of Friends of Toowong Cemetery.
+
+Annual Membership fee is $11. Students and Pensioners - $5.50.
+
+Our Bank details are:
+  
+- Branch: NAB Brisbane
+- BSB: 084034
+- Account Number: 522327844
+- Reference: your Surname 
 
 ### Important information
 
@@ -36,13 +43,11 @@ Let us know why Toowong Cemetery interests you and if you have any ideas on how 
 - [Friends of Toowong Cemetery Strategy](#) describes our vision, purpose, values, and goals.
 -->
 - Friends of Toowong Cemetery has Public Liability Insurance cover up to $20 million.
-- You resign your membership if your annual fee is 2 months overdue. Renewals are due on 1 July every year.
+- You automatically resign your membership if your annual fee is 2 months overdue. Renewals are due on 1 July every year.
 
 ### Meetings
 
-Friends of Toowong Cemetery meet at Mt. Coot‑tha Botanical Gardens Auditorium on the last Wednesday of the month (except December) from 6pm to 7pm. New member applications are considered at this meeting.
-
-All current members are welcome to attend.
+Friends of Toowong Cemetery meet at Mt. Coot‑tha Botanical Gardens Auditorium from 6pm to 7pm on the last Wednesday of the month (except December). All current members are welcome to attend.
 
 <!--
 :fontawesome-regular-calendar-plus: **[Add the 2022 meetings to your Calendar](../assets/calendar/meetings-2022.ics)**
