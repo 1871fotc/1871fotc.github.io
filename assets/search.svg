@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="513px" height="513px" viewBox="0 0 513 513" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>search-white</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="search" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M508.5,468.9 L387.1,347.5 C384.8,345.2 381.8,344 378.6,344 L365.4,344 C396.9,307.5 416,260 416,208 C416,93.1 322.9,0 208,0 C93.1,0 0,93.1 0,208 C0,322.9 93.1,416 208,416 C260,416 307.5,396.9 344,365.4 L344,378.6 C344,381.8 345.3,384.8 347.5,387.1 L468.9,508.5 C473.6,513.2 481.2,513.2 485.9,508.5 L508.5,485.9 C513.2,481.2 513.2,473.6 508.5,468.9 Z M208,368 C119.6,368 48,296.4 48,208 C48,119.6 119.6,48 208,48 C296.4,48 368,119.6 368,208 C368,296.4 296.4,368 208,368 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
