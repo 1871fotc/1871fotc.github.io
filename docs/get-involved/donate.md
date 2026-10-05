@@ -42,7 +42,7 @@ Transfer your donation directly into our bank account:
 
 
 
-### Donate for a specific purposw
+### Donate for a specific purpose
 
 Would you like to make a donation for a specific purpose.
   
