@@ -26,9 +26,19 @@ We're raising funds for an Honour Board and Pavilion in Toowong Cemetery to reco
 [Donate to the Honour Board &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=I'd%20like%20to%20support%20the%20Honour%20Board){ .md-button .md-button--primary }
 -->
 
+### Donate online using Square
+
+Choose the amount you'd like to donate. Pay with Apple Pay, Google Pay, or your Credit Card.
+
+
+[Donate :fontawesome-solid-piggy-bank:](https://square.link/u/BZsUb6ck){ .md-button .md-button--primary }
+
+
+
+
 ### Bank details
 
-You can deposit directly into our bank account: 
+Donate directly into our bank account: 
 
 - Branch: NAB Brisbane
 - BSB: 084034
