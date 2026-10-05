@@ -42,7 +42,7 @@ This is a first event so there may be some "bumps" on the day.
 
 ## Plan ahead
 
-Our second will be in November – probably the 15^th^.
+Our next Heritage Heroes event will be on 15 November 2026.
 
 <!-- 
 
