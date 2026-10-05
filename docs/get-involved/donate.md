@@ -7,7 +7,7 @@ search:
 
 **Thanks for thinking about supporting our work** :fontawesome-solid-piggy-bank:{ .heart }
 
-### Why donate?
+## Why donate?
 
 - To show your appreciation for Friends of Toowong Cemetery finding, cleaning, or re-lettering a family grave.
 - To say thank you for a guided tour you attended.
@@ -25,7 +25,7 @@ We're raising funds for an Honour Board and Pavilion in Toowong Cemetery to reco
 [Donate to the Honour Board &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=I'd%20like%20to%20support%20the%20Honour%20Board){ .md-button .md-button--primary }
 -->
 
-### Donate online using Square :simple-square:
+## Donate online using Square :simple-square:
 
 Choose the amount you'd like to donate. Pay with Apple Pay, Google Pay, or your Credit Card.
 
@@ -42,7 +42,7 @@ Transfer your donation directly into our bank account:
 
 
 
-### Donate for a specific purpose
+## Donate for a specific purpose
 
 Would you like to make a donation for a specific purpose.
   
