@@ -13,8 +13,7 @@ search:
 - To say thank you for a guided tour you attended.
 - To help fund our improvement ideas or one of your own.
 
-  
-[Email us to discuss your ideas &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=I'd%20like%20to%20support%20Friends%20of%20Toowong%20Cemetery){ .md-button .md-button--primary }
+Sorry: Donations are not tax deductible.
 
 <!-- 
 ### Help fund the Toowong Cemetery Honour Board
@@ -32,7 +31,7 @@ Choose the amount you'd like to donate. Pay with Apple Pay, Google Pay, or your 
 
 [Donate :fontawesome-solid-piggy-bank:](https://square.link/u/BZsUb6ck){ .md-button .md-button--primary }
 
-### Donate by Direct Deposit :fontawesome-solid-money-check-alt:
+### Donate using Direct Deposit :fontawesome-solid-money-check-alt:
 
 Transfer your donation directly into our bank account: 
 
@@ -41,4 +40,12 @@ Transfer your donation directly into our bank account:
 - Account Number: 522327844
 - Reference: *your name*
 
-Sorry: Donations are not tax deductible.
+
+
+### Donate for a specific purposw
+
+Would you like to make a donation for a specific purpose.
+  
+[Email us to discuss your ideas &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=I'd%20like%20to%20support%20Friends%20of%20Toowong%20Cemetery){ .md-button .md-button--primary }
+
+
