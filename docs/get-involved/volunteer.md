@@ -35,12 +35,12 @@ After you arrive:
 - We'll finish with a simple morning tea and a chat about how you'd like these events to evolve.
 
 ## Photos from our October 2026 event
-![Relettering a headstone](../assets/relettering-before.jpg){ width="49%" } ![A headstone partially relettered](../assets/relettering-during-2.jpg){ width="49%" }
-![Relettering a headstone](../assets/relettering-during.jpg){ width="49%" } ![A headstone partially relettered](../assets/relettering-after.jpg){ width="49%" }
+![The headstone before we sttarted](../assets/relettering-before.jpg){ width="49%" } ![The headstone partially relettered](../assets/relettering-during-2.jpg){ width="49%" }
+![The headstone partially relettered](../assets/relettering-during.jpg){ width="49%" } ![Where we finished the relettered on the day](../assets/relettering-after.jpg){ width="49%" }
 <small>*Relettering a headstone - still some more work to do*</small>
 
 
-![Gravesite before cleaning](../assets/albert-edward-willcock-headstone-before-cleaning.jpg){ width="49%" } ![Gravesite before cleaning](../assets/albert-edward-willcock-headstone-after-cleaning.jpg){ width="49%" }
+![Gravesite before cleaning](../assets/albert-edward-willcock-headstone-before-cleaning.jpg){ width="49%" } ![Gravesite after cleaning](../assets/albert-edward-willcock-headstone-after-cleaning.jpg){ width="49%" }
 <small>*Before and after gravesite cleaning. We found some green painted tin leaves that belong in the urn on top of the headstone*</small>
 
 
