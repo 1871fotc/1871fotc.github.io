@@ -33,7 +33,11 @@ This is a first event so there may be some "bumps" on the day.
 - We'll share a story about one of the people remembered in the area we're caring for.
 - We'll take before and after photos to show the difference you've made. You can choose if you want to be in photos. Photos may be published on our website or social media.
 - We'll finish with a simple morning tea and a chat about how you'd like these events to evolve.
-  
+
+![Relettering a headstone](../assets/relettering-during.jpg){ width="49%" }![A headstone partially relettered](../assets/relettering-after.jpg){ width="49%" }
+
+![Gravesite before cleaning](../assets/albert-edward-willcock-headstone-before-cleaning.jpg){ width="49%" }![Gravesite before cleaning](../assets/albert-edward-willcock-headstone-after-cleaning.jpg){ width="49%" }
+
 
 ## Directions to Toowong Cemetery  
 
