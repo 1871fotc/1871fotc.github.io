@@ -35,7 +35,7 @@ After you arrive:
 - We'll finish with a simple morning tea and a chat about how you'd like these events to evolve.
 
 ## Photos from our October 2026 event
-
+![Relettering a headstone](../assets/relettering-before.jpg){ width="49%" } ![A headstone partially relettered](../assets/relettering-during-2.jpg){ width="49%" }
 ![Relettering a headstone](../assets/relettering-during.jpg){ width="49%" } ![A headstone partially relettered](../assets/relettering-after.jpg){ width="49%" }
 <small>*Relettering a headstone - still some more work to do*</small>
 
