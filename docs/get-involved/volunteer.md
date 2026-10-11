@@ -39,7 +39,7 @@ This is a first event so there may be some "bumps" on the day.
 
 
 ![Gravesite before cleaning](../assets/albert-edward-willcock-headstone-before-cleaning.jpg){ width="49%" } ![Gravesite before cleaning](../assets/albert-edward-willcock-headstone-after-cleaning.jpg){ width="49%" }
-<small>*Before and after gravesite cleaning. We found some green painting tin leaves that belong in the urn on top of the headstone*</small>
+<small>*Before and after gravesite cleaning. We found some green painted tin leaves that belong in the urn on top of the headstone*</small>
 
 
 ## Directions to Toowong Cemetery  
