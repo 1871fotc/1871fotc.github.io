@@ -5,13 +5,12 @@ search:
 
 # Heritage Heroes 
 
-## Our first event is on 11^th^ October 2026
 
 Friends of Toowong Cemetery run regular volunteer events to help preserve the heritage of the cemetery. 
 
-Our first event will be on **Sunday 11 October from 8:00–10:30am**. Arrive when it suits you if 8am is too early.
+Our next event, and last for 2026, will be on **15 November from 8:00–10:30am**. Arrive when it suits you if 8am is too early.
 
-Meet under the flagpole in Canon Garland Place at the Toowong Cemetery. Parking is available inside the cemetery.
+Meet under the flagpole in Canon Garland Place at the Toowong Cemetery near the Frederick St entrance. Parking is available inside the cemetery.
 
 ![Canon Garland Place](../assets/flag-pole.jpg){ width="98%" data-title="Heritage Hero events start at Canon Garland Place" }
 
@@ -40,9 +39,6 @@ This is a first event so there may be some "bumps" on the day.
 
 **[:fontawesome-solid-map: Plan your trip](../visit.md/#plan-your-trip)** &nbsp; or  &nbsp; **[:fontawesome-solid-map-marker-alt: Get directions on Google Maps](https://www.google.com/maps/dir//Toowong+Cemetery,+Frederick+St,+Toowong+QLD+4066/@-27.4770477,152.9844187,17.94z/data=!4m17!1m7!3m6!1s0x6b9150c2f0f2e23f:0xf02a35bd720a310!2sToowong+Cemetery!8m2!3d-27.4772797!4d152.984017!16zL20vMGgwczB3!4m8!1m0!1m5!1m1!1s0x6b9150c2f0f2e23f:0xf02a35bd720a310!2m2!1d152.9840719!2d-27.4772878!3e0?entry=ttu&g_ep=EgoyMDI2MDkyMC4wIKXMDSoASAFQAw%3D%3D)**
 
-## Plan ahead
-
-Our next Heritage Heroes event will be on 15 November 2026.
 
 <!-- 
 
