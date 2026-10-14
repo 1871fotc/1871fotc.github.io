@@ -27,12 +27,9 @@ We're raising funds for an Honour Board and Pavilion in Toowong Cemetery to reco
 
 ## Donate online using Square :simple-square:
 
-*Coming soon*
-<!-- 
 Choose the amount you'd like to donate. Pay with Apple Pay, Google Pay, or your Credit Card.
 
 [Donate :fontawesome-solid-piggy-bank:](https://square.link/u/BZsUb6ck){ .md-button .md-button--primary }
--->
 
 ## Donate using Direct Deposit :fontawesome-solid-money-check-alt:
 
