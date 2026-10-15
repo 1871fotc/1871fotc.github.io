@@ -46,6 +46,6 @@ Transfer your donation directly into our bank account:
 
 Would you like to make a donation for a specific purpose.
   
-[Email us to discuss your ideas &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=I'd%20like%20to%20support%20Friends%20of%20Toowong%20Cemetery){ .md-button .md-button--primary }
+[Email to discuss your idea &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=I'd%20like%20to%20support%20Friends%20of%20Toowong%20Cemetery){ .md-button .md-button--primary }
 
 
