@@ -31,6 +31,8 @@ Choose the amount you'd like to donate. Pay with Apple Pay, Google Pay, or your 
 
 [Donate :fontawesome-solid-piggy-bank:](https://square.link/u/BZsUb6ck){ .md-button .md-button--primary }
 
+![Scan to donate using Square](../assets/donation-link-qr-code.png)
+
 ## Donate using Direct Deposit :fontawesome-solid-money-check-alt:
 
 Transfer your donation directly into our bank account: 
