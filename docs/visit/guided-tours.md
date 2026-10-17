@@ -49,7 +49,7 @@ Add it to your calendar.
 
 ## Toowong Cemetery Museum
 
-The Museum may be open in conjunction with our guided tours if cemetery staff are on-site.
+The Museum may open after our guided tours if voluteers are available.
 
 ![Toowong Cemetery Museum](../assets/museum.jpg){ width="98%" data-title="Toowong Cemetery Museum is open in conjunction with our guided tours"}
 
