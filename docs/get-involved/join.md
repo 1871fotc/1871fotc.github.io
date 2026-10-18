@@ -6,8 +6,8 @@
 
 - Connect with like-minded history and heritage enthusiasts.
 - Discover new stories with exclusive access to members-only research resources.
-- Share stories on our website and guided tours.
-- Contribute to our projects and keep Toowong Cemetery's heritage and stories alive.
+- Share stories on our website and on guided tours.
+- Get involved in projects to keep Toowong Cemetery's heritage and stories alive.
 
 **Thinking about joining?**
 
