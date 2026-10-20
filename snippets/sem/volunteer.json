@@ -84,7 +84,7 @@
         "name": "Toowong Cemetery"
       },
       "startDate": "2026-11-15T08:00:00+10:00",
-      "endDate": "2026-11-15T10:30:00+10:00Z",
+      "endDate": "2026-11-15T10:30:00+10:00",
       "description": "Free Guided Tour of Toowong Cemetery visiting graves and telling stories of the past.",
       "eventStatus": "https://schema.org/EventScheduled",
       "isAccessibleForFree": true,
