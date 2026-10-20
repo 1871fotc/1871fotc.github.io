@@ -1,12 +1,10 @@
-[![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
-
 # Friends of Toowong Cemetery website
 
 The Friend of Toowong Cemetery site `fotc.au` replaces `https://fotc.org.au/`.
 
 ## About
 
-- This site is built using [Material for MkDocs Insiders](https://squidfunk.github.io/mkdocs-material/). 
+- This site is built using [Zensical](https://zensical.org). 
 - [Pages](https://github.com/1871fotc/1871fotc.github.io/tree/main/docs) are written in Markdown
 - Snippets are used to modularise content
 - Images are stored in [/assets](https://github.com/1871fotc/1871fotc.github.io/tree/main/docs/assets)
@@ -33,12 +31,8 @@ Thanks to everyone for their contributions on [Github](https://github.com/1871fo
 
 ## Development
 
-Run locally `$ mkdocs serve` to preview your site before publishing
+Run locally `$ zensical serve` to preview your site before publishing
 
-Build `$ mkdocs build` creates html files locally in \site
+Build `$ zensical build` creates html files locally in \site
 
-Deploy occurs when there is a commit to the main branch which triggers a [workflow](https://github.com/1871fotc/1871fotc.github.io/blob/main/.github/workflows/ci.yml)
-
-Keep things up-to-date:
-
-`pip3  install --upgrade git+https://{GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git`
+Deploy occurs when there is a commit to the main branch which triggers a [workflow](https://github.com/1871fotc/1871fotc.github.io/blob/main/.github/workflows/docs.yml)
