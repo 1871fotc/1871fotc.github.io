@@ -5,7 +5,8 @@ search:
   boost: 4
 ---
 
---8<-- "snippets/sem/research/find-a-grave.json"
+<!-- "snippets/sem/research/find-a-grave.json" -->
+
 --8<-- "snippets/hide-nav.html"
 
 
