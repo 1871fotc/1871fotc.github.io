@@ -37,7 +37,7 @@ The tour is limited to 20 people.
 
 ## Directions to Toowong Cemetery
 
-Use the map to get directions to Toowong Cemetery. Learn more about [visiting Toowong Cemetery](index.md#visit-toowong-cemetery).
+Use the map to get directions to Toowong Cemetery. Learn more about [visiting Toowong Cemetery](visit/#toowong-cemetery-map).
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d3943.6078757500636!2d152.9825477508893!3d-27.474338574253586!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sau!4v1642488281276!5m2!1sen!2sau" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
