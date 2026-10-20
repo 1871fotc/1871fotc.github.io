@@ -1,0 +1,112 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph":[
+    {
+      "@type": "Organization",
+      "@id": "https://www.fotc.au/#/schema/organization/1",
+      "name": "Friends of Toowong Cemetery Association Inc.",
+      "url": "https://www.fotc.au/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.fotc.au/#/schema/website/1",
+      "name": "Friends of Toowong Cemetery",
+      "url": "https://www.fotc.au/",
+      "publisher": {
+          "@id": "https://www.fotc.au/#/schema/organization/1"
+      }
+    },  
+    {
+      "@type": "WebPage",
+      "@id": "https://www.fotc.au/get-involved/volunteer/",
+      "url": "https://www.fotc.au/get-involved/volunteer/",
+      "name": "Heritage Heroes",
+      "isPartOf": {
+          "@id": "https://www.fotc.au/#/schema/website/1"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.fotc.au/#/article/get-involved/volunteer/",
+      "name": "Heritage Heroes",
+      "headline": "Volunteer and help preserve the heritage of Toowong Cemetery.",
+      "description": "Become a Heritage Hero by volunteering to clean gravesites and preserve the memory of people buried in the cemetery.",
+      "mainEntityOfPage": "https://www.fotc.au/visit/guided-tours/",
+      "keywords": "Toowong Cemetery Volunteer Event",
+      "dateModified": "2026-10-20",
+      "datePublished": "2026-10-20",
+      "author": {
+          "@id": "https://www.fotc.au/#/schema/organization/1"
+        },  
+      "publisher": {
+          "@id": "https://www.fotc.au/#/schema/organization/1"
+        },
+      "isPartOf": {
+           "@id": "https://www.fotc.au/get-involved/volunteer/"
+        },  
+      "image": ["https://www.fotc.au/assets/logo/fotc-1x1.png", "https://www.fotc.au/assets/logo/fotc-banner-4x3.png", "https://www.fotc.au/assets/images/social/guided-tours.png"],
+      "about": {
+          "@type": [
+              "Cemetery",
+              "TouristAttraction"
+            ],
+          "name": "Toowong Cemetery",
+          "url": "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery",
+          "description": "Heritage‑listed Toowong Cemetery was officially opened on 5 July 1875",
+          "touristType": {
+              "@type": "Audience",
+              "audienceType" : "Memorial Tourism"
+            },
+          "hasMap": "https://www.fotc.au/assets/documents/toowong-cemetery-map.pdf", 
+          "publicAccess": true,
+          "isAccessibleForFree": true,
+          "openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 06:00-18:00",
+          "tourBookingPage": "https://www.fotc.au/get-involved/volunteer/"
+        },
+        "mentions": [
+          {"@type": "Place","name": "Toowong Cemetery","sameAs": "https://en.wikipedia.org/wiki/Toowong_Cemetery"}
+          ]
+    },
+    {
+      "@type": "Event",
+      "name": "Become a Heritage Hero by volunteering to clean gravesites and preserve the memory of people buried in the cemetery.",
+      "location": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Frederick St",
+          "addressCountry": "Australia",
+          "addressRegion": "Queensland",
+          "addressLocality": "Toowong"
+        },
+        "image": ["https://www.fotc.au/assets/flag-pole.jpg"],
+        "name": "Toowong Cemetery"
+      },
+      "startDate": "2026-11-15T08:00:00+10:00",
+      "endDate": "2026-11-15T10:30:00+10:00Z",
+      "description": "Free Guided Tour of Toowong Cemetery visiting graves and telling stories of the past.",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "isAccessibleForFree": true,
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "image": "https://www.fotc.au/assets/flag-pole.jpg",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.fotc.au/get-involved/volunteer/",
+        "priceCurrency": "AUD",
+        "price": "0",
+        "availability": "https://schema.org/InStock",
+        "validFrom": "2026-10-20T12:00"
+      },
+      "performer": {
+        "@id": "https://www.fotc.au/#/schema/organization/1"
+      },
+      "organizer": {
+        "@id": "https://www.fotc.au/#/schema/organization/1"
+      },
+      "maximumAttendeeCapacity": "20",
+      "inLanguage": "EN"
+    }
+  ]
+}
+</script>
