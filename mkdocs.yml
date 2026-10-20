@@ -171,7 +171,7 @@ plugins:
       caption_position: bottom
   - redirects:
       redirect_maps:
-        'about/federation-pavilion.md': 'visit/federation-pavilion.md' 
+#        'about/federation-pavilion.md': 'visit/federation-pavilion.md' 
         'guided-tour.md': 'visit/guided-tour.md'
         'find-a-grave.md': 'find-a-grave.md/index.md'
         'research/find-a-grave.md': 'find-a-grave.md/index.md'
