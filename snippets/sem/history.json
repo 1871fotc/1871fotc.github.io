@@ -19,8 +19,8 @@
     },  
     {
       "@type": "WebPage",
-      "@id": "https://www.fotc.au/history/",
-      "url": "https://www.fotc.au/history/",
+      "@id": "https://www.fotc.au/research/history/",
+      "url": "https://www.fotc.au/research/history/",
       "name": "Toowong Cemetery History",
       "isPartOf": {
           "@id": "https://www.fotc.au/#/schema/website/1"
@@ -32,9 +32,9 @@
       "name": "Toowong Cemetery History",
       "headline": "Discover the history of Toowong Cemetery",
       "description": "The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the largest cemetery in Queensland at 44 Hectares and is an important record of the history of Brisbane and Queensland. It was officially opened on 5 July 1875 and over 119,000 people are buried in approximately 46,000 graves.",
-      "mainEntityOfPage": "https://www.fotc.au/history/",
+      "mainEntityOfPage": "https://www.fotc.au/research/history/",
       "keywords": "Toowong Cemetery History",
-      "dateModified": "2023-02-18",
+      "dateModified": "2026-10-21",
       "datePublished": "2022-08-29",
       "author": {
           "@id": "https://www.fotc.au/#/schema/organization/1"
@@ -43,7 +43,7 @@
           "@id": "https://www.fotc.au/#/schema/organization/1"
         },
       "isPartOf": {
-           "@id": "https://www.fotc.au/history/"
+           "@id": "https://www.fotc.au/research/history/"
         },  
       "image": ["https://www.fotc.au/assets/logo/fotc-1x1.png", "https://www.fotc.au/assets/logo/fotc-banner-4x3.png", "https://www.fotc.au/assets/images/social/history.png"],
       "about": {
@@ -82,7 +82,7 @@
     {
       "@type": "VideoObject",
       "name": "Toowong Cemetary: Resting place of Governor Samuel Blackall (One Minute Archive)",
-      "description": "This spring, Google is introducing the self-driving bicycle in Amsterdam, the world's premier cycling city. The Dutch cycle more than any other nation in the world, almost 900 kilometres per year per person, amounting to over 15 billion kilometres annually. The self-driving bicycle enables safe navigation through the city for Amsterdam residents, and furthers Google's ambition to improve urban mobility with technology. Google Netherlands takes enormous pride in the fact that a Dutch team worked on this innovation that will have great impact in their home country.",
+      "description": "A one minute history of Toowong Cemetery",
       "thumbnailUrl": [
         "https://fotc.au/assets/toowong-cemetary-one-minute-archive-16x9.jpg"
        ],
