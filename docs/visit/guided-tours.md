@@ -4,7 +4,7 @@ search:
   boost: 3
 ---
 
-<!-- "snippets/sem/guided-tours.json" -->
+--8<-- "snippets/sem/guided-tours.json"
 
 # Toowong Cemetery Guided Tours
 
