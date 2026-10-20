@@ -96,10 +96,11 @@ Self-guided walks in Toowong Cemetery are free. You can walk in the cemetery bet
 
 Toowong Cemetery is the largest cemetery in Queensland. On your walk you should wear a hat and enclosed shoes, and take a water bottle. Toilets are available at Canon Garland Place within the cemetery - they are not wheel-chair accessible.
 
+<!-- 
 [Visit Toowong Cemetery](../visit/index.md#plan-your-trip){ .md-button .md-button--primary }
 
-<!-- 
+
 ## Self-guided walk alternatives
 
 Consider joining a **[Toowong Cemetery Guided Tour](../visit/guided-tours.md)** or the visiting the **[headstone symbolism display](../headstones/symbols.md)**.
---.
+-->
