@@ -3,6 +3,9 @@ search:
   boost: 2
 ---  
 
+--8<-- "snippets/sem/volunteer.json"
+
+
 # Heritage Heroes 
 
 
