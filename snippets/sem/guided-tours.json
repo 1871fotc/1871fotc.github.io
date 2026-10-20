@@ -19,8 +19,8 @@
     },  
     {
       "@type": "WebPage",
-      "@id": "https://www.fotc.au/guided-tours/",
-      "url": "https://www.fotc.au/guided-tours/",
+      "@id": "https://www.fotc.au/visit/guided-tours/",
+      "url": "https://www.fotc.au/visit/guided-tours/",
       "name": "Toowong Cemetery Guided Tours",
       "isPartOf": {
           "@id": "https://www.fotc.au/#/schema/website/1"
@@ -28,13 +28,13 @@
     },
     {
       "@type": "Article",
-      "@id": "https://www.fotc.au/#/article/guided-tours/",
+      "@id": "https://www.fotc.au/#/article/visit/guided-tours/",
       "name": "Toowong Cemetery Guided Tours",
       "headline": "Volunteers guide you on a different heritage tour each month",
       "description": "Volunteers guide you on a different heritage tour each month",
-      "mainEntityOfPage": "https://www.fotc.au/guided-tours/",
+      "mainEntityOfPage": "https://www.fotc.au/visit/guided-tours/",
       "keywords": "Toowong Cemetery Guided Tours",
-      "dateModified": "2026-09-06",
+      "dateModified": "2026-10-20",
       "datePublished": "2022-08-29",
       "author": {
           "@id": "https://www.fotc.au/#/schema/organization/1"
@@ -43,7 +43,7 @@
           "@id": "https://www.fotc.au/#/schema/organization/1"
         },
       "isPartOf": {
-           "@id": "https://www.fotc.au/guided-tours/"
+           "@id": "https://www.fotc.au/visit/guided-tours/"
         },  
       "image": ["https://www.fotc.au/assets/logo/fotc-1x1.png", "https://www.fotc.au/assets/logo/fotc-banner-4x3.png", "https://www.fotc.au/assets/images/social/guided-tours.png"],
       "about": {
@@ -62,7 +62,7 @@
           "publicAccess": true,
           "isAccessibleForFree": true,
           "openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 06:00-18:00",
-          "tourBookingPage": "https://www.fotc.au/guided-tours/"
+          "tourBookingPage": "https://www.fotc.au/visit/guided-tours/"
         },
         "mentions": [
           {"@type": "Place","name": "Toowong Cemetery","sameAs": "https://en.wikipedia.org/wiki/Toowong_Cemetery"}, 
@@ -80,14 +80,13 @@
           "streetAddress": "Frederick St",
           "addressCountry": "Australia",
           "addressRegion": "Queensland",
-          "addressLocality": "Toowong",
-          "telephone": "0439998053"
+          "addressLocality": "Toowong"
         },
         "image": ["https://www.fotc.au/assets/flag-pole.jpg"],
         "name": "Toowong Cemetery"
       },
-      "startDate": "2026-10-04T00:30:00.000Z",
-      "endDate": "2026-10-04T02:00:00.000Z",
+      "startDate": "2026-11-01T00:30:00.000Z",
+      "endDate": "2026-11-01T02:00:00.000Z",
       "description": "Free Guided Tour of Toowong Cemetery visiting graves and telling stories of the past.",
       "eventStatus": "https://schema.org/EventScheduled",
       "isAccessibleForFree": true,
@@ -95,11 +94,11 @@
       "image": "https://www.fotc.au/assets/flag-pole.jpg",
       "offers": {
         "@type": "Offer",
-        "url": "https://www.fotc.au/guided-tours/",
+        "url": "https://www.fotc.au/visit/guided-tours/",
         "priceCurrency": "AUD",
         "price": "0",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-09-06T12:00"
+        "validFrom": "2026-10-20T12:00"
       },
       "performer": {
         "@id": "https://www.fotc.au/#/schema/organization/1"
