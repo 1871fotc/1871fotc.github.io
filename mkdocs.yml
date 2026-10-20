@@ -53,7 +53,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.indexes
 #    - search.highlight
-    - search.suggest
+#    - search.suggest
     - content.code.annotate
     - content.tooltips
     - content.footnote.tooltips    
@@ -154,10 +154,6 @@ extra_javascript:
 # Plugins
 plugins:
   - search
-#  - search:
-#      lang: en
-#      separator: '[\s,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
-
   - social:
       cards_layout: default/variant
   - glightbox:
