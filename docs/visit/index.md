@@ -9,12 +9,12 @@ description: Visit Toowong Cemetery and explore its history and stories
 <!-- 
 ![Toowong Cemetery main entrance][image4]{ width="32.33%" .off-glb } ![Canon Garland Place][image5]{ width="32.33%" .off-glb } ![Headstone Symbolism Display][image6]{ width="32.33%" .off-glb }
 
-[image1]: assets/main-entrance.jpg "The main entrance to Toowong Cemetery"
-[image2]: assets/flag-pole.jpg "Canon Garland Place"
-[image3]: assets/symbolism-display.jpg "Headstone Symbolism Display"
-[image4]: assets/stone-of-remembrance-with-children-1924.jpg "Remembering those who have died in the line of duty"
-[image5]: assets/unveiling-cross-of-sacrifice-16x9.jpg "Remembering those who have died in the line of duty"
-[image6]: assets/unveiling-memorials-1924.jpg "Remembering those who have died in the line of duty"
+[image1]: ../assets/main-entrance.jpg "The main entrance to Toowong Cemetery"
+[image2]: ../assets/flag-pole.jpg "Canon Garland Place"
+[image3]: ../assets/symbolism-display.jpg "Headstone Symbolism Display"
+[image4]: ../assets/stone-of-remembrance-with-children-1924.jpg "Remembering those who have died in the line of duty"
+[image5]: ../assets/unveiling-cross-of-sacrifice-16x9.jpg "Remembering those who have died in the line of duty"
+[image6]: ../assets/unveiling-memorials-1924.jpg "Remembering those who have died in the line of duty"
 
 -->
 
@@ -201,7 +201,7 @@ Toowong Cemetery is open everyday from 6am–6pm. Check the Brisbane City Counci
 
 <figure markdown>
   ![Toowong Cemetery main entrance](../assets/main-entrance.jpg){ class="full-width" }
-  <figcaption markdown>The Toowong Cemetery Main Entrance was designed by the Colonial Architect **[F.D.G. Stanley](research/francis-drummond-grenville-stanley.md)** and erected in 1873–1874</figcaption>
+  <figcaption markdown>The Toowong Cemetery Main Entrance was designed by the Colonial Architect **[F.D.G. Stanley](../research/francis-drummond-grenville-stanley.md)** and erected in 1873–1874</figcaption>
 </figure>
 
 ### Driving
