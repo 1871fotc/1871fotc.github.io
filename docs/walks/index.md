@@ -99,4 +99,4 @@ Toowong Cemetery is the largest cemetery in Queensland. On your walk you should 
 
 ## Self-guided walk alternatives
 
-Consider joining a **[Toowong Cemetery Guided Tour](../guided-tours.md)** or the visiting the **[headstone symbolism display](../headstones/symbols.md)**.
+Consider joining a **[Toowong Cemetery Guided Tour](../visit/guided-tours.md)** or the visiting the **[headstone symbolism display](../headstones/symbols.md)**.
