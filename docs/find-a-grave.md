@@ -65,7 +65,7 @@ Portion numbers are shown on signs throughout the cemetery. Section numbers are 
 Plan your visit to Toowong Cemetery.
 
   - **[Check Office opening hours](https://www.brisbane.qld.gov.au/libraries-venues-and-facilities/cemeteries/cemetery-locations-and-services/toowong-cemetery#location)**. 
-  - **[Decide how you'll travel to Toowong Cemetery](visit.md)**
+  - **[Decide how you'll travel to Toowong Cemetery](visit/index.md)**
 
 ### 4. Ask for help 
 
@@ -79,7 +79,7 @@ Plan your visit to Toowong Cemetery.
 
 ### 5. Visit the grave
 
-  - **[Travel to Toowong Cemetery](visit.md)**.
+  - **[Travel to Toowong Cemetery](/visit/index.md)**.
   - When you arrive, **[ask the Toowong Cemetery Office to help find the grave](https://www.brisbane.qld.gov.au/libraries-venues-and-facilities/cemeteries/cemetery-locations-and-services/toowong-cemetery#location)**.
 
 
