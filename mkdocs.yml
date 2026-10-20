@@ -171,16 +171,16 @@ plugins:
       caption_position: bottom
   - redirects:
       redirect_maps:
-        about/federation-pavilion.md: visit/federation-pavilion.md
+#        about/federation-pavilion.md: visit/federation-pavilion.md
         guided-tour.md: visit/guided-tour.md
         research/find-a-grave.md: find-a-grave.md/index.md
-        walks/index.md': visit/walks.md
-        history.md': research/history.md
+        walks/index.md: visit/walks.md
+        history.md: research/history.md
 #        'walks/federation-walk.md': 'stories/federation-walk.md'
 #        'walks/lilian-cooper-walk.md': 'stories/lilian-cooper-walk.md'
 #        'walks/jewish-walk.md': 'stories/jewish-walk.md'
 #        'walks/mount-blackall-walk.md': 'stories/mount-blackall-walk.md'
-        contact.md: about/index.md
+#        contact.md: about/index.md
 
 
 # Page tree - only 2 levels allowed
