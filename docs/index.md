@@ -28,7 +28,7 @@ Heritage‑listed Toowong Cemetery is the largest cemetery in Queensland. The fi
 On this site you'll find information about:
 
 - **[Toowong Cemetery's history](research/history.md)** and the **[stories of people remembered here](stories/index.md)**.
-- **[how to find a grave in Toowong Cemetery](find-a-grave.md)** and a **[Toowong Cemetery map](visit.md#toowong-cemetery-map)**.
+- **[how to find a grave in Toowong Cemetery](find-a-grave.md)** and a **[Toowong Cemetery map](visit/#toowong-cemetery-map)**.
 - **[headstones](headstones/index.md)** including Paddington Cemetery headstones found in our **[archaeological digs](headstones/archaeological-digs.md)**.
 - **[research resources](research/index.md)** including an **[index of people in our stories](research/find-a-story.md)**.
 - **[how to get involved](get-involved/index.md)** — become a Heritage Hero, join Friends of Toowong Cemetery, or donate and support our work.
@@ -43,7 +43,7 @@ The cemetery is maintained by the **[Brisbane City Council](https://www.brisbane
 At Toowong Cemetery you can:
 
 - take a **[self-guided walk](visit/#self-guided-walks)** and explore the stories of people who shaped our local history.
-- join us on one of our regular **[guided tours](visit.md#guided-tours)**.
+- join us on one of our regular **[guided tours](visit/guided-tours.md)**.
 - discover the meaning of **[headstone symbols](headstones/symbols.md)** at the Symbolism display.
 - see **[Queensland's oldest headstones](headstones/queenslands-oldest-headstones.md)**.
 
@@ -96,7 +96,7 @@ If you're using public transport to get here, use the **[TransLink Journey Plann
 
 If you enter the main entrance, you'll find: 
 
-- **Canon Garland Place** named after **[Canon David John Garland][Garland]**. The flagpole is the departure point for our **[guided tours](guided-tours.md)**.
+- **Canon Garland Place** named after **[Canon David John Garland][Garland]**. The flagpole is the departure point for our **[guided tours](visit/guided-tours.md)**.
 - a **Museum** operated by the Friends of Toowong Cemetery.
 - the **[Office](https://www.brisbane.qld.gov.au/libraries-venues-and-facilities/cemeteries/cemetery-locations-and-services/toowong-cemetery#location)**, where Brisbane City Council staff can help locate graves and answer your questions.
 - **Toilets** – the only ones available in the cemetery and are not wheel-chair accessible.
