@@ -12,6 +12,7 @@ watch:
 
 # Configuration
 theme:
+  variant: classic
   language: en
   name: material
   logo: assets/fotc-logo.png
