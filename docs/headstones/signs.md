@@ -103,7 +103,7 @@ These signs, names or acronyms can be found on headstones in Toowong Cemetery.
         - where a Section number is unknown, a placeholder value of "ss" is used
         - where a Grave number is unknown, a placeholder value of "gg" is used. 
         
-    Learn more about [finding graves at Toowong Cemetery](../research/find-a-grave.md).
+    Learn more about [finding graves at Toowong Cemetery](../find-a-grave.md).
 
 
 | Acronym | Name                                                         | Organisation Type | Location |
