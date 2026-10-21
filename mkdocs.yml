@@ -154,7 +154,7 @@ extra_javascript:
 # Plugins
 plugins:
   - search:
-    enabled: true
+      enabled: true
   - social:
       cards_layout: default/variant
   - glightbox:
