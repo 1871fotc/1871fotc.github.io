@@ -153,7 +153,8 @@ extra_javascript:
   
 # Plugins
 plugins:
-#  - search
+  - search:
+    enabled: true
   - social:
       cards_layout: default/variant
   - glightbox:
