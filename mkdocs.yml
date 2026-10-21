@@ -42,7 +42,7 @@ theme:
       question: fontawesome/solid/hand-holding-heart
       example: fontawesome/regular/compass
 
-#  custom_dir: overrides
+  custom_dir: overrides
   
   features:
     - navigation.instant
