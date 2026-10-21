@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 
 <!--  indexing policies for search engines -->
+
 {% block extrahead %}
 <!-- link rel="mask-icon" href="assets/fotc_icon.svg" -->
 
@@ -9,7 +10,6 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#7e56c2">
-<!-- add fontawesome ? -->
 <meta name="apple-mobile-web-app-title" content="Friends of Toowong Cemetery">
 <meta name="application-name" content="Friends of Toowong Cemetery">
 <meta name="msapplication-TileColor" content="#603cba">
@@ -20,32 +20,9 @@
 <!--   announcement bar including arbitrary HTML and text at the top of the page  -->
 
 {% block announce %}
-<!--
-<p><b>Due to Tropical Cyclone Alfred, Toowong Cemetery is closed until Saturday 8 March, 2025.</b></p>
--->
 
-<!-- 
-<p><b><a href="https://www.fotc.au/guided-tours/">Free Guided Tour</a> Sunday 1 June 2025, 10:30-12:00</b></p>
--->
-
-<!-- 
-couldn't get working <p><b><i class="fa-solid fa-person-burst" style="color:#7e56c2;"></i> <a href="https://www.fotc.au/visit/guided-tours">Free Guided Tour</a>: Sun 4 Oct, 10:30–12:00</b><br> 
--->
-
-<span>
-    <!--
-        <b><a href="https://www.fotc.au/get-involved/volunteer">Be a Heritage Hero</a></b>: Sun 11 Oct, 8:00am. <span class="mobile-break">
-        <b><a href="https://www.fotc.au/visit/guided-tours">Free Guided Tour</a></b>: Sun 1 Nov, 10:30am. 
-    -->  
-        <b><a href="https://www.fotc.au/visit/guided-tours">Free Guided Tour</a></b>: Sun 1 Nov, 10:30am. <span class="mobile-break">
-        <b><a href="https://www.fotc.au/get-involved/volunteer">Be a Heritage Hero</a></b>: Sun 15 Nov, 8:00am.
+<span> 
+    <b><a href="https://www.fotc.au/visit/guided-tours">Free Guided Tour</a></b>: Sun 1 Nov, 10:30am. <span class="mobile-break">
+    <b><a href="https://www.fotc.au/get-involved/volunteer">Be a Heritage Hero</a></b>: Sun 15 Nov, 8:00am.
 </span>
-
-<!--
-<p><b><a href="https://www.fotc.au/headstones/archaeological-digs/">Free Archaeological Dig</a></b>: Saturday 25 May 2024.</p>
--->
-<!--
-<p><b><a href="https://www.fotc.au/guided-tours/">Free Guided Tour</a></b>: Sunday 2 June. <b> &nbsp; <a href="https://www.fotc.au/headstones/archaeological-digs/">Free&nbsp;Archaeological&nbsp;Dig</a></b>:&nbsp;Saturday&nbsp;20&nbsp;May.</p>
--->
-
 {% endblock %}
