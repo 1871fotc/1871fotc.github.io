@@ -379,7 +379,7 @@ In August, 1885, there was a proposal for a new cemetery at Goodna. On 24th Sept
 
 ![Henry Oxley, Secretary for 41 years (1875 till his decease in 1916).](../assets/BGC1924/henry-oxley-lo-res.jpg){ width="40%" } ![E. GRIFFITH OXLEY, Present Secretary.](../assets/BGC1924/e-griffith-oxley-lo-res.jpg){ width="40%" }
 
-*Henry Oxley, Secretary for 41 years (1875 till his decease in 1916).* *E. GRIFFITH OXLEY, Present Secretary.*
+<!-- *Henry Oxley, Secretary for 41 years (1875 till his decease in 1916).* *E. GRIFFITH OXLEY, Present Secretary.* -->
 
 
 Mr. Robert Lindsay was auditor during 1884—1889; Mr. Blakeston Robinson held the office 1889—1917; and Mr. Walter E. Savage from 1917 to date.
@@ -444,9 +444,9 @@ Included in the plans for future development (when finances allow) is the erecti
 ---
  p17 2 images -->
 
-![John mMelville, Overseer for 38 years (1874 till his decease in 1912).](../assets/BGC1924/john-melville-lo-res.jpg){ width="40%" } ![J. L. MELVILLE, Present Overseer.](../assets/BGC1924/j-l-melville-lo-res.jpg){ width="40%" }
+![John mMelville, Overseer for 38 years (1874 till his decease in 1912).](../assets/BGC1924/john-melville-lo-res.jpg){ width="38%" } ![J. L. MELVILLE, Present Overseer.](../assets/BGC1924/j-l-melville-lo-res.jpg){ width="40%" }
 
-*John mMelville, Overseer for 38 years (1874 till his decease in 1912).* *J. L. MELVILLE, Present Overseer.*
+<!-- *John mMelville, Overseer for 38 years (1874 till his decease in 1912).* *J. L. MELVILLE, Present Overseer.* -->
 
 
 ## Garden 
@@ -506,11 +506,11 @@ The undertakers decided that after April 1st, 1903, no funerals would be conduct
 
 The list of first burials at Toowong includes the names of —
 
-
+| Name | Buried |
 |:--|:--|
 | Samuel Wensley Blackall | January 3, 1871 |
 | Ann Hill | November 2, 1871 |
-| Thos. <!-- Kinasmill--> Kingsmill McCulloch | November 19, 1873 |
+| Thos. Kingsmill McCulloch | November 19, 1873 |
 | Martha McCulloch | November 19, 1873 |
 | Teresa Maria Love | March 16, 1875 |
 | Florence Caroline Gordon | July 4, 1875 |
@@ -520,6 +520,7 @@ The list of first burials at Toowong includes the names of —
 The average number of burials per month (on a basis of the years 1919-
 1923) is as follows :—
 
+|   |   |
 |:--|--:|
 | January |  139  |
 | February | 118 |
@@ -545,6 +546,7 @@ The average number of burials per month (on a basis of the years 1919-
 
 The total of interments per month during 1919 was—
 
+| | |
 |:--|--:|
 | January |  146  |
 | February | 113 |
@@ -562,7 +564,7 @@ The total of interments per month during 1919 was—
 
 and during 1923 was—
 
-
+| | |
 |:--|--:|
 | January |  150  |
 | February | 106 |
@@ -580,6 +582,7 @@ and during 1923 was—
 
 The number of burials for the past ten years (during which Brisbane has grown from 154,000 to 230,000, but no new metropolitan cemeteries have been opened) have been :—
 
+| | |
 |--:|--:|
 | 1913 | 1385 |
 | 1914 | 1266 |
@@ -595,6 +598,7 @@ The number of burials for the past ten years (during which Brisbane has grown fr
 
 The total interments for respective individual years are as follows :—
 
+| | |
 |--:|--:|
 | 1875 | 417 |
 | 1890 | 1122 |
@@ -612,7 +616,7 @@ The memorials to 31st December, 1923, number 7710.
 
 The Great Reaper reaps the bearded grain as well as " the flowers that grow between, " and all ages are represented in the graves, from the infant who perchance never opened its eyes to the great grandfather who has seen a hundred summers come and go. Centenarians buried at Toowong include the following records: —
 
-
+| | | |
 |--:|:--|:--|
 | July 4, 1894  | Margaret Jane Brennan | 103 years 5 months |
 | March 10, 1900 | Michael Ryan | 101 years |
