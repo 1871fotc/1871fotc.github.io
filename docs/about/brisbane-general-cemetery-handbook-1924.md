@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 
 # The Brisbane General Cemetery Handbook of Public Information - Illustrated
 
@@ -62,7 +68,7 @@ E. Griffith Oxley, F.C.P.A., F.A.I.S.
 
 <!-- -- p2 -->
 
-![](../assets/BGC1924/entrance-gates.jpeg)
+![](../assets/BGC1924/entrance-gates-lo-res.jpg)
 
 
 <!--  p3 -->
@@ -88,11 +94,11 @@ Brisbane's old cemetery used to be situated in the once restful hollow between P
 
 <!-- p4 -->
 
-![](../assets/BGC1924/new-building.jpeg)
+![](../assets/BGC1924/new-building-lo-res.jpg)
 
 <!--  The New Building -->
 
-![](../assets/BGC1924/offices-and-flower-shed.jpeg)
+![](../assets/BGC1924/offices-and-flower-shed-lo-res.jpg)
 
 <!--  View showing Offices and Flower Shed on right -->
 
@@ -165,7 +171,7 @@ marks the genesis of the present Trust:—
 
 <!-- 8 2 images -->
 
-![](../assets/BGC1924/two-cemetery-landmarks.jpeg)
+![](../assets/BGC1924/two-cemetery-landmarks-lo-res.jpg)
 
 <!-- 
 
@@ -230,7 +236,7 @@ Following is the complete list of Trustees, according to the date of appointment
 <!-- 10  images cross of sacrifice -->
 
 
-![](../assets/BGC1924/cross-of-sacrifice-and-stone-of-remembrance.jpeg)
+![](../assets/BGC1924/cross-of-sacrifice-and-stone-of-remembrance-lo-res.jpg)
 
 <!-- 
 
@@ -286,7 +292,7 @@ On October 10th, 1922, the Trustees held a special meeting at the residence of H
 ---
  p12 13 center image -->
 
-![](../assets/BGC1924/panoramic-view-of-the-cemetery-1924.jpeg)
+![](../assets/BGC1924/panoramic-view-of-the-cemetery-1924-lo-res.jpg)
 
 <!-- 
 > " How well he fell asleep!
@@ -371,7 +377,7 @@ In August, 1885, there was a proposal for a new cemetery at Goodna. On 24th Sept
 
 <!-- p 15  2 images -->
 
-![](../assets/BGC1924/henry-oxley.jpeg)
+![](../assets/BGC1924/henry-oxley-lo-res.jpg)
 
 <!-- 
 
@@ -379,7 +385,7 @@ henry-oxley,
 Secretary for 41 years (1875 till his decease in 1916).
 -->
 
-![](../assets/BGC1924/e-griffith-oxley.jpeg)
+![](../assets/BGC1924/e-griffith-oxley-lo-res.jpg)
 
 <!-- 
 
@@ -449,7 +455,7 @@ Included in the plans for future development (when finances allow) is the erecti
 ---
  p17 2 images -->
 
-![](../assets/BGC1924/john-melville.jpeg)
+![](../assets/BGC1924/john-melville-lo-res.jpg)
 
 <!-- 
 
@@ -457,7 +463,7 @@ john melville,
 Overseer for 38 years (1874 till his decease in 1912).
 -->
 
-![](../assets/BGC1924/j-l-melville.jpeg)
+![](../assets/BGC1924/j-l-melville-lo-res.jpg)
 
 <!-- 
 
@@ -826,7 +832,7 @@ Land in portion 22, and in such higher part of portion 7A as may be defined by t
 Map
 -->
 
-![](../assets/BGC1924/plan-of-cemetery.jpeg)
+![](../assets/BGC1924/plan-of-cemetery-lo-res.jpg)
 
 <!-- 
 ---
