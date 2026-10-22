@@ -118,7 +118,7 @@ South Brisbane Cemetery, Boggo Road.— Gladstone Road tram from North Quay to C
 > "We sail the sea of life; a calm one finds, and one a tempest;
 > And, the voyage o'er, death is the quiet haven of us all." — Wordsworth.
 
--->
+
 <!-- 6 The Board of Trustees 1924 -->
 <!-- 7 -->
 the prettier view — the river from the Cemetery, or the green slopes dotted with their silent stones of white viewed from the river. No new ground is now available in this Cemetery, the only burials taking place being those where graves are reopened. An extensive area of land for a new Cemetery is held by the Trustees at Mt. Gravatt.
@@ -363,7 +363,7 @@ A pavilion was erected in 1885.
 A public Meeting was held at Toowong, July 16th, 1885, to discuss the closing of the Cemetery at Toowong.
 
 The Secretary then stated that the value of private graves would be
-about 65000, and of headstones about $25,000. The Secretary then stated the value of the private graves would be about £5000, and of headstones £25,000.
+about 65000, and of headstones about £25,000. The Secretary then stated the value of the private graves would be about £5000, and of headstones £25,000.
 
 In August, 1885, there was a proposal for a new cemetery at Goodna. On 24th September, 1885, a party visited Woolston to inspect the proposed site.
 
@@ -377,7 +377,7 @@ In August, 1885, there was a proposal for a new cemetery at Goodna. On 24th Sept
 
 <!-- p 15  2 images -->
 
-![](../assets/BGC1924/henry-oxley-lo-res.jpg)
+![](../assets/BGC1924/henry-oxley-lo-res.jpg){ width="40%" }
 
 <!-- 
 
@@ -385,7 +385,7 @@ henry-oxley,
 Secretary for 41 years (1875 till his decease in 1916).
 -->
 
-![](../assets/BGC1924/e-griffith-oxley-lo-res.jpg)
+![](../assets/BGC1924/e-griffith-oxley-lo-res.jpg){ width="40%" }
 
 <!-- 
 
@@ -455,7 +455,7 @@ Included in the plans for future development (when finances allow) is the erecti
 ---
  p17 2 images -->
 
-![](../assets/BGC1924/john-melville-lo-res.jpg)
+![](../assets/BGC1924/john-melville-lo-res.jpg){ width="40%" }
 
 <!-- 
 
@@ -463,7 +463,7 @@ john melville,
 Overseer for 38 years (1874 till his decease in 1912).
 -->
 
-![](../assets/BGC1924/j-l-melville-lo-res.jpg)
+![](../assets/BGC1924/j-l-melville-lo-res.jpg){ width="40%" }
 
 <!-- 
 
@@ -832,7 +832,7 @@ Land in portion 22, and in such higher part of portion 7A as may be defined by t
 Map
 -->
 
-![](../assets/BGC1924/plan-of-cemetery-lo-res.jpg)
+![](../assets/BGC1924/plan-of-cemetery-lo-res.jpg){ width="40%" }
 
 <!-- 
 ---
