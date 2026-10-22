@@ -13,11 +13,7 @@ hide:
 
 ### Headstone
 
-<!-- reduce image size -->
-
-<!--
-![Magdalene Dick's headstone](../../assets/demolished-toowong-headstones/18-35-24&25-dick/18-35-24&25-dick-headstone.jpg){ width="40%" class="full-width" } 
--->
+![Magdalene Dick's headstone](../../assets/magdalene-dick-headstone.jpg){ width="40%" class="full-width" } 
 
 --8<-- "snippets/demolished-in-beautification-scheme.md"
 
