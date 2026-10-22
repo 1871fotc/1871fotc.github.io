@@ -14,7 +14,7 @@ hide:
 ### Headstone
 
 
-![Caroline Carter's headstone](../../assets/demolished-toowong-headstones/8-50-14-carter/8-50-14-carter-headstone.jpg){ width="40%" class="full-width" }
+![Caroline Carter's headstone](https://raw.githubusercontent.com/1871fotc/images/main/demolished-toowong-headstones/8-50-14-carter/8-50-14-carter-headstone.jpg){ width="40%" class="full-width" }
 
 *<small>Caroline Carter's headstone in Toowong Cemetery.</small>*
 
@@ -31,6 +31,6 @@ I2 887
 
 ### Learn more
 
-- [Unsightly/Dangerous Grave Report](../../assets/demolished-toowong-headstones/8-50-14-carter/8-50-14-carter-report.jpg)
+- [Unsightly/Dangerous Grave Report](https://raw.githubusercontent.com/1871fotc/images/main/demolished-toowong-headstones/8-50-14-carter/8-50-14-carter-report.jpg)
 
 --8<-- "snippets/add-to-this-story.md"
