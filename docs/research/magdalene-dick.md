@@ -32,7 +32,7 @@ V1 924
 
 ### Learn more
 
-- [Unsightly/Dangerous Grave Report](../../assets/demolished-toowong-headstones/18-35-24&25-dick/18-35-24&25-dick-report.jpg)
+- [Unsightly/Dangerous Grave Report](https://raw.githubusercontent.com/1871fotc/images/main/demolished-toowong-headstones/18-35-24&25-dick/18-35-24&25-dick-report.jpg)
 
 
 
