@@ -377,21 +377,10 @@ In August, 1885, there was a proposal for a new cemetery at Goodna. On 24th Sept
 
 <!-- p 15  2 images -->
 
-![](../assets/BGC1924/henry-oxley-lo-res.jpg){ width="40%" }
+![Henry Oxley, Secretary for 41 years (1875 till his decease in 1916).](../assets/BGC1924/henry-oxley-lo-res.jpg){ width="40%" } ![E. GRIFFITH OXLEY, Present Secretary.](../assets/BGC1924/e-griffith-oxley-lo-res.jpg){ width="40%" }
 
-<!-- 
+*Henry Oxley, Secretary for 41 years (1875 till his decease in 1916).* *E. GRIFFITH OXLEY, Present Secretary.*
 
-henry-oxley,
-Secretary for 41 years (1875 till his decease in 1916).
--->
-
-![](../assets/BGC1924/e-griffith-oxley-lo-res.jpg){ width="40%" }
-
-<!-- 
-
-E. GRIFFITH OXLEY,
-Present Secretary.
--->
 
 Mr. Robert Lindsay was auditor during 1884—1889; Mr. Blakeston Robinson held the office 1889—1917; and Mr. Walter E. Savage from 1917 to date.
 
@@ -455,20 +444,10 @@ Included in the plans for future development (when finances allow) is the erecti
 ---
  p17 2 images -->
 
-![](../assets/BGC1924/john-melville-lo-res.jpg){ width="40%" }
+![John mMelville, Overseer for 38 years (1874 till his decease in 1912).](../assets/BGC1924/john-melville-lo-res.jpg){ width="40%" } ![J. L. MELVILLE, Present Overseer.](../assets/BGC1924/j-l-melville-lo-res.jpg){ width="40%" }
 
-<!-- 
+*John mMelville, Overseer for 38 years (1874 till his decease in 1912).* *J. L. MELVILLE, Present Overseer.*
 
-john melville,
-Overseer for 38 years (1874 till his decease in 1912).
--->
-
-![](../assets/BGC1924/j-l-melville-lo-res.jpg){ width="40%" }
-
-<!-- 
-
-J. L. MELVILLE, Present Overseer.
--->
 
 ## Garden 
 
