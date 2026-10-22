@@ -28,6 +28,14 @@ To mark the anniversary of Toowong Cemetery's first year of operation, there was
 
 ***[The Toowong Cemetery 140^th^ Anniversary Commemoration DVD](140-commemoration.md)*** is available for purchase.
 
+
+## The Brisbane General Cemetery Handbook of Public Information - Illustrated
+
+In 1924 Dr. E. W. H. FOWLES, M.A., LL.B., LITT. D., a trustee of the cemetery, complied its history. ***[Download The Brisbane General Cemetery Handbook of Public Information](../assets/BGC1924/brisbane-general-cemetery-handbook-1924.pdf)*** (.pdf 35MB) or ***[read it online](brisbane-general-cemetery-handbook-1924.md)***.
+
+<!-- Don't use this link as the file is downloaded instead of being displayed on screen - https://raw.githubusercontent.com/1871fotc/images/main/BGC1924/brisbane-general-cemetery-handbook-1924.pdf -->
+
+
 <!--
 
 ## Toowong Cemetery Resource Manual: a guide for exploring the cemetery
