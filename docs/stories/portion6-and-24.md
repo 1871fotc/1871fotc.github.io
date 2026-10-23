@@ -85,7 +85,7 @@ Thomas took a deep interest in the work and welfare of the Toowong Presbyterian 
 ![William John Dunstan](../assets/william-john-dunstan.png)
 -->
 
-![William John Dunstan](../assets/william-john-dunstan-awu-executive-1922.png){ width="70%" }  
+![William John Dunstan](../assets/william-john-dunstan-awu-executive-1922-lo-res.jpg){ width="70%" }  
 
 *<small>[AWU Executive](http://nla.gov.au/nla.news-article184236615) W.J. Dunstan seated in the front row, second on the left. — THE ONE BIG UNION IDEAL (1922, October 28). Daily Standard (Brisbane, Qld. : 1912 - 1936), p. 8.</small>*
 
