@@ -14,7 +14,7 @@ hide:
 
 ### Headstone 
 
-![Stephen Alonzo Spragg's headstone](../assets/stephen-alonzo-spragg-headstone.jpg){ width="30%" }
+![Stephen Alonzo Spragg's headstone](../assets/stephen-alonzo-spragg-headstone-lo-res.jpg){ width="30%" }
 <!--
 https://trove.nla.gov.au/newspaper/article/23146010
 
