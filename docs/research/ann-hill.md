@@ -20,6 +20,14 @@ description: She has gone to her grave when our hopes were the Strongest
 
 ### Inscription
 
+> In memory of <br>
+> Ann Hill <br>
+> The only beloved <br>
+> daughter of <br>
+> Walter & Jane Hill <br>
+> Botanic Gardens Brisbane <br>
+> Born 25^th^ April 1850 <br>
+> Died 1^st^ November 1871 <br>
 >
 Forget her not <br>
 She has gone to her grave when our  <br>
