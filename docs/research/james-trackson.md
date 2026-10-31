@@ -26,7 +26,7 @@ hide:
 </figure>
 
 <figure markdown>
-  ![James Trackson's headstone in Toowong Cemetery](../assets/james-trackson-headstone.jpeg){ width="40%" class="full-width" }
+  ![James Trackson's headstone in Toowong Cemetery](../assets/james-trackson-headstone.jpg){ width="40%" class="full-width" }
   <figcaption markdown>James Trackson's headstone in Toowong Cemetery.</figcaption>
 </figure>
 
