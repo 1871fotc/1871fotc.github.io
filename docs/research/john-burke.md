@@ -12,17 +12,11 @@ hide:
 
 --8<-- "snippets/john-burke.md"
 
-# Headstone
+### Headstone
 
 ![John Burke's headstone](../assets/john-burke-headstone.jpg){ width="33%" } 
 
 *<small>John Burke's headstone</small>* 
-
-### Learn more 
-
-- [Burke's flaming ocean - coastal shipping in Queensland](https://www.slq.qld.gov.au/blog/burkes-flaming-ocean-coastal-shipping-queensland) — State Library Of Queensland.
-  
-<!--
 
 ### Inscription
 
@@ -31,7 +25,10 @@ hide:
 > ??? John Burke Limited <br>
 > Born Cork Ireland 1888 <br>
 > Died 3^rd^ June 1919 <br>
-> ??? 
 
--->
+### Learn more 
+
+- [Burke's flaming ocean - coastal shipping in Queensland](https://www.slq.qld.gov.au/blog/burkes-flaming-ocean-coastal-shipping-queensland) — State Library Of Queensland.
+  
+
 --8<-- "snippets/add-to-this-story.md"
