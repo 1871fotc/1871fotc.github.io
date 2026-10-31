@@ -15,7 +15,7 @@ hide:
 
 *<small>[John Gordon Smith](http://nla.gov.au/nla.news-article70815303), 1905</small>*
 
-# Headstone
+### Headstone
 
 ![John Gordon Smith's headstone](../assets/john-gordon-smith-headstone.jpg){ width=33% }
 
