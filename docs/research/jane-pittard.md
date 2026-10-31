@@ -11,16 +11,40 @@ hide:
 
 --8<-- "snippets/jane-pittard.md"
 
+
+
+### Headstone
+
+![Jane Pittard's headstone](../assets/jane-pittard-headstone.jpg){ width="30%" }
+
 ### Inscription
 
-> Sacred to the memory of Jane Pittard, <br>
-> daughter of John Pittard, late Colour-Sergeant of the 57^th^ Regiment, <br>
-> who departed this life January 23rd, 1833, <br>
-> aged, 12 months and 13 days.
+> Sacred  <br>
+> to  <br>
+> the memory of <br>
+> Jane Pittard  <br>
+> daughter of John Pittard  <br>
+> late colour sergeant of the 57^th^ Reg <br>
+> who departed this life  <br>
+> January 29^th^ 1833  <br>
+> Aged 12 Months & 13 Days <br>
+
+### Footstone
+
+> JP
+
+### Plaque
+
+> SACRED TO THE MEMORY OF <br> 
+JANE PITTARD <br>
+DAUGHTER OF JOHN PITTARD <br>
+LATE COLOUR SERGEANT OF THE 57^TH.^ REGIMENT,  <br>
+DIED 27^TH.^ JANUARY 1833 <br>
+AT THE AGE OF 12 MONTHS 13 DAYS AND WAS BURIED AT NORTH QUAY, BRISBANE. <br>
+HER REMAINS WERE REVERENTLY EXHUMED <br>
+AND RE INTERRED IN THIS GRAVE <br>
+ON 5^TH.^ OCTOBER 1881.
 
 
-### Learn more
-
-- [Commandants of Moreton Bay](http://nla.gov.au/nla.news-article20647428). (1923, September 8). The Brisbane Courier (Qld. : 1864 - 1933), p. 19.
 
 --8<-- "snippets/add-to-this-story.md"

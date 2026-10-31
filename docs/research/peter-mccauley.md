@@ -11,25 +11,36 @@ hide:
 
 --8<-- "snippets/peter-mccauley.md"
 
+<!--
+
+### Headstone
+
+![Peter McCauley's headstone](../assets/peter-mccauley-headstone.jpg){ width="30%" }
+
 ### Inscription
 
-> To the memory of Peter, son of Peter Macauley, private in H.M. 17^th^ Regiment of Foot, <br>
-> who was accidentally drowned on 5th January, 1832, aged 15 years and 8 months. <br>
-> A lovely boy, possessed of every charm, <br>
-> Could not thy tyrant's fatal dart disarm. <br>
-> Engaging sweetness met the destined foe, <br>
-> And bid farewell to every human woe. <br>
-> His spotless soul now to his God restored, <br>
-> Bliss inconceivable his rich reward. <br>
-> Then, happy child, my soul no more <br>
-> Shall, lost in poignant grief, thy life deplore, <br>
-> But, humbly hopeful, through an Almighty grace. <br>
-> One day to fold thee in a sweet embrace. <br>
+> Sacred to the memory of
+> Peter (Son of Peter McCauley <br>
+> Private in H.M. 17^th^ Reg' of Foot who <br>
+> was accidentally drowned on 5^th^ day of <br>
+> Jan 1832 Aged 3 years and 8 months. <br>
+>
+> A Lovely Boy Possess'd of every charm <br>
+> Could not the Tyrannts fatal dart disarm <br>
+> Engaging sweetness met the destined ??? <br>
+> And bid farewell to every human ??? <br>
+> His Spotless Soul now to his God restor'd <br>
+> Bliss inconceivable's his rich reward <br>
+> Then happy child my soul no more <br>
+> Shall lest in poignant grief thy life deplore <br>
+> But humbly hope thro' an Almighty grace <br>
+> One day to fold the in a sweet embrace <br>
+>
 
+### Footstone
 
-### Learn more
+> PM
 
-- [Commandants of Moreton Bay](http://nla.gov.au/nla.news-article20647428). (1923, September 8). The Brisbane Courier (Qld. : 1864 - 1933), p. 19.
+--> 
 
-  
 --8<-- "snippets/add-to-this-story.md"
