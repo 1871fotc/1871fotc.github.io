@@ -3,19 +3,19 @@ title: William Betz
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 # William Betz
 
-#foundHeadstones #done #checkInscription
-
 **3 June 1868 — 26 February 1870**
 
-## William Betz <small>(29A)</small>
+## William Betz <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="william-betz-headstone-2021.jpg" width="50%" />
+![William Betz's headstone](../../assets/dig-finds/william-betz-headstone-2021.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragments of William Betz's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.* </small>
 
