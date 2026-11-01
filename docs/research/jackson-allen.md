@@ -13,14 +13,14 @@ search:
 
 **Died 25 October 1862**
 
-## Jackson Allen <small>(29A)</small>
+## Jackson Allen <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499)</small>
 
 ### Headstone
 
 
-<figure markdown="span">
+<figure markdown="span" align="left">
 
-![Jackson Allen's headstone](../../assets/dig-finds/jackson-allen-headstone-2023.jpg){ align=left width="40%" class="full-width" loading=lazy } 
+![Jackson Allen's headstone](../../assets/dig-finds/jackson-allen-headstone-2023.jpg){width="40%" class="full-width" loading=lazy } 
 
 <figcaption>A fragment of Jackson Allen's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.</figcaption>
 
