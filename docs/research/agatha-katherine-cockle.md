@@ -7,15 +7,13 @@ hide:
 
 # Agatha Katherine Cockle
 
-#foundHeadstones #done
-
 **ca. February 1863 — 17 November 1863** 
 
-## Agatha Katherine Cockle <small>(29A)</small>
+## Agatha Katherine Cockle <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="agatha-katherine-cockle-headstone-2012.jpg" width="50%" />
+![Fragment of Agatha Katherine Cockle's headstone](../../assets/dig-finds/agatha-katherine-cockle-headstone-2012.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragment of Agatha Katherine Cockle's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.* </small>
 
@@ -53,7 +51,7 @@ Note the differences in the spelling of the middle name between the inscription 
 > DEATHS. <br>
 > On the 17th November, 1863, at Brisbane, in her ninth month, Agatha Katharine, fourth daughter of His Honor James Cockle, the Chief Justice of Queensland.
 
-<img src="james-cockle.jpg" width="50%" /> 
+![Sir James Cockle](../../assets/dig-finds/james-cockle.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*[Sir James Cockle](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1cmbrig/alma99183512839702061) - State Library of Queensland. James Cockle was a mathematician and lawyer and was the first Chief Justice of Queensland from 1863 to 1879.* </small>
 
