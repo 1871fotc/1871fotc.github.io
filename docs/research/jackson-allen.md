@@ -17,11 +17,13 @@ search:
 
 ### Headstone
 
-<img src="../../assets/jackson-allen-headstone-2023.jpg" width="50%" />
+<img src="../../assets/dig-finds/jackson-allen-headstone-2023.jpg" width="50%" />
+
+<small>*A fragment of Jackson Allen's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.* </small>
 
 <figure markdown="span">
 
-!['Jackson Allens headstone]../../assets/jackson-allen-headstone-2023.jpg){ align=left width="50%" }
+!['Jackson Allens headstone](../../assets/dig-finds/jackson-allen-headstone-2023.jpg){ align=left width="50%" }
 
 <figcaption><small>*A fragment of Jackson Allen's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.* </small> Image caption</figcaption>
 
