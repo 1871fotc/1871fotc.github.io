@@ -7,15 +7,13 @@ hide:
 
 # Clarence Charles Cockerell
 
-#foundHeadstones #done
-
 **22 October 1861 — 29 February 1872**
 
-## Clarence Charles Cockerell <small>(29A)</small>
+## Clarence Charles Cockerell <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="cockerell-headstone-2026.jpg" width="50%" />
+![A fragment of Clarence Charles Cockerell's headstone](../../assets/dig-finds/cockerell-headstone-2026.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Clarence Charles Cockerell's headstone discovered in a Toowong Cemetery Archaeological Dig in 2024* </small>
 
