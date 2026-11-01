@@ -2,20 +2,23 @@
 title: Arthur William Bennett
 hide:
   - toc
-  - navigation 
+  - navigation
+search:
+  exclude: true
 ---
 
 # Arthur William Bennett
 
-#foundHeadstones
 
 **21 November 1866 — 9 January 1868**
 
-## Arthur William Bennett <small>(29A)</small>
+## Arthur William Bennett <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="arthur-william-bennett-headstone.jpg" width="50%" />
+<!-- move to /dig-finds -->
+
+![Arthur William Bennett's headstone](../../assets/arthur-william-bennett-headstone.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Arthur William Bennett's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012*</small>
 
