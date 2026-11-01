@@ -13,11 +13,10 @@ hide:
 
 ### Headstone
 
-<img src="charlotte-letitia-franklin-headstone-2021.jpg" width="49%" /> 
-<img src="charlotte-letitia-franklin-headstone-2012.jpg" width="39%" /> 
+<!-- move to /dig-finds -->
 
 ![Fragment of Charlotte Letitia Franklin's headstone](../../assets/dig-finds/charlotte-letitia-franklin-headstone-2021.jpg){ width="49%" class="full-width" loading=lazy }
-![Fragment of Charlotte Letitia Franklin's headstone](../../assets/dig-finds/charlotte-letitia-franklin-headstone-2012.jpg){ width="39%" class="full-width" loading=lazy }
+![Fragment of Charlotte Letitia Franklin's headstone](../../assets/charlotte-letitia-franklin-headstone-2012.jpg){ width="39%" class="full-width" loading=lazy }
 
 <small>*Fragments of Charlotte Letitia Franklin's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021 (left) and 2012.* </small>
 
