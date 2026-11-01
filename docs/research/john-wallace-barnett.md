@@ -2,20 +2,20 @@
 title: John Wallace Barnett
 hide:
   - toc
-  - navigation 
+  - navigation
+search:
+  exclude: true
 ---
 
 # John Wallace Barnett
 
-#foundHeadstones #done
-
 **ca. 1828 — 3 September 1874**
 
-## John Wallace Barnett <small>(29A)</small>
+## John Wallace Barnett <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="john-wallace-barnett-headstone-2023.jpg" width="50%" />
+![John Wallace Barnett's headstone](../../assets/dig-finds/john-wallace-barnett-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of John Wallace Barnett's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.* </small>
 
