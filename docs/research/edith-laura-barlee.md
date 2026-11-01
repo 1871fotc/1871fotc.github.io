@@ -2,21 +2,21 @@
 title: Edith Laura Barlee
 hide:
   - toc
-  - navigation 
+  - navigation
+search:
+  exclude: true
 ---
 
 
 # Edith Laura Barlee
 
-#foundHeadstones
-
 **10 August 1869 — 23 October 1870**
 
-## Edith Laura Barlee <small>(29A)</small>
+## Edith Laura Barlee <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="barlee-headstone-2021.jpg" width="50%" />
+![==Name=='s headstone](../../assets/dig-finds/barlee-headstone-2021.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Edith Laura Barlee's headstone discovered in a Toowong Cemetery Archaeological Dig in 2016.* </small>
 
