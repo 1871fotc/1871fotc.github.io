@@ -2,25 +2,24 @@
 title: John Lewis Ashworth
 hide:
   - toc
-  - navigation 
+  - navigation
+search:
+  exclude: true
 ---
 
 # John Lewis Ashworth
 
-#foundHeadstones #done #newPhoto
-
 **ca. 1830 — 4 February 1869**
 
-## John Lewis Ashworth <small>(29A)</small>
+## John Lewis Ashworth <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="john-lewis-ashworth-headstone-2023-1.jpg" width="50%" />
+![](../../assets/dig-finds/john-lewis-ashworth-headstone-2023-1.jpg){ width="40%" class="full-width" loading=lazy }
 
-<img src="john-lewis-ashworth-headstone-2023-2.jpg" width="50%" />
+![](../../assets/dig-finds/john-lewis-ashworth-headstone-2023-2.jpg){ width="40%" class="full-width" loading=lazy }
 
-
-<small>*Fragments of John Lewis Ashworth's headstone discovered in a Toowong Cemetery Archaeological Dig in 2015.* </small>
+<small>*Fragments of John Lewis Ashworth's headstone discovered in a Toowong Cemetery Archaeological Dig in 2015.*</small>
 
 - Erected: North Brisbane Burial Grounds, Episcopalian section. After 4 February 1869
 - Moved to: North Brisbane Burial Grounds, Reserved Area. ca. 1914. Recorded as John Ashworth
