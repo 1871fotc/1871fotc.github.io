@@ -8,15 +8,15 @@ hide:
 
 # Charles Robert Clay
 
-#foundHeadstones
-
 **7 November 1867 — 31 July 1872**
 
-## Charles Robert Clay <small>(29A)</small>
+## Charles Robert Clay <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="charles-robert-clay-headstone-2023-1.jpg" width="36.7%" /> <img src="charles-robert-clay-headstone-2023-3.jpg" width="36.7%" />
+<!-- move to /dig-finds -->
+
+![Fragments of Charles Robert Clay's headstone](../../assets/charles-robert-clay-headstone-2023-1.jpg){ width="40%" class="full-width" loading=lazy } ![Fragments of Charles Robert Clay's headstone](../../assets/dig-finds/charles-robert-clay-headstone-2023-3.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragments of Charles Robert Clay's headstone discovered in a Toowong Cemetery Archaeological Dig in 2014.* </small>
 
