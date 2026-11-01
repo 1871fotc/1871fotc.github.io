@@ -2,20 +2,20 @@
 title: Edward Humphrey Barlee
 hide:
   - toc
-  - navigation 
+  - navigation
+search:
+  exclude: true
 ---
 
 # Edward Humphrey Barlee
 
-#foundHeadstones
-
 **ca. November 1862 — 31 January 1869**
 
-## Edward Humphrey Barlee (29A)
+## Edward Humphrey Barlee ([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))
 
 ### Headstone
 
-<img src="barlee-headstone-2021.jpg" width="50%" />
+![==Name=='s headstone](../../assets/dig-finds/barlee-headstone-2021.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Edward Humphrey Barlee's headstone discovered in a Toowong Cemetery Archaeological Dig in 2016.* </small>
 
