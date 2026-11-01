@@ -7,15 +7,13 @@ hide:
 
 # James Joseph Fitzgerald
 
-#foundHeadstones   #indexInPDF
-
 **Died 19 April 1867**
 
-## James Joseph Fitzgerald <small>(29A)</small>
+## James Joseph Fitzgerald <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="james-joseph-fitzgerald-headstone-2026.jpg" width="50%" />
+![Fragment of James Joseph Fitzgerald's headstone headstone](../../assets/dig-finds/james-joseph-fitzgerald-headstone-2026.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragment of James Joseph Fitzgerald's headstone discovered in a Toowong Cemetery Archaeological Dig in 2014.* </small>
 
@@ -36,7 +34,7 @@ hide:
 
 - [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/dbd1a400ecf828d497ebd7be187758de2db5c6fa3a49766b010cb4b0361c17eb)
 
->  Death registration: James Joseph Fitzgerald <br>
+> Death registration: James Joseph Fitzgerald <br>
 > Death date: 19/04/1867 <br>
 > Mother's name: Martha Beys <br>
 > Father/parent's name: William Fitzgerald <br>
