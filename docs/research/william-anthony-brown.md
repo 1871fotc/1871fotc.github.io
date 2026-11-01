@@ -58,9 +58,9 @@ The Friends of the Queensland Police Museum arranged the
 
 ### Learn more 
 
+<!-- move to /dig-finds -->
 
-![William Anthony Brown](../../assets/dig-finds/william-anthony-brown.jpg){ width="40%" class="full-width" loading=lazy }
-
+![William Anthony Brown](../../assets/william-anthony-brown.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*[No title (1907, April 20). The Brisbane Courier (Qld. : 1864 - 1933), p. 13.](https://trove.nla.gov.au/newspaper/article/19487155#). William Anthony Brown was appointed Sheriff for the district of Moreton Bay on 15 April 1857* </small>
 
