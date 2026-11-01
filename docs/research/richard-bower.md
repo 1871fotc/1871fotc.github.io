@@ -15,7 +15,7 @@ search:
 
 ### Headstone
 
-![Richard Bower's headstone](../../assets/dig-finds/richard-bower-headstone-2023.jpg.jpg){ width="40%" class="full-width" loading=lazy }
+![Richard Bower's headstone](../../assets/dig-finds/richard-bower-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Richard Bower's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.*</small>
 
