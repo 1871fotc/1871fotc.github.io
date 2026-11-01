@@ -2,22 +2,21 @@
 title: Amy Winifred Barlee
 hide:
   - toc
-  - navigation 
+  - navigation
+search:
+  exclude: true
 ---
 
 
 # Amy Winifred Barlee
 
-#foundHeadstones #done #newPhoto
-
-
 **7 February 1862 — 17 March 1862**
 
-## Amy Winifred Barlee <small>(29A)</small>
+## Amy Winifred Barlee <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="barlee-headstone-2021.jpg" width="50%" />
+![](../../assets/dig-finds/barlee-headstone-2021.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Amy Winifred Barlee's headstone discovered in a Toowong Cemetery Archaeological Dig in 2016.*</small>
 
