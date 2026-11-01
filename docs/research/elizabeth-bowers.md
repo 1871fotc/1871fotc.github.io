@@ -3,25 +3,25 @@ title: Elizabeth Bowers
 hide:
   - toc
   - navigation  
+search:
+  exclude: true
 ---
 
 # Elizabeth Bowers
 
-#foundHeadstones  #oldest 
-
 **ca. 1789 — 30 June 1859**
 
-## Elizabeth Bowers <small>(29A)</small>
+## Elizabeth Bowers <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="william-jackson-sparkes-headstone.jpg" width="50%" /> 
+![Elizabeth Bowers' headstone](../../assets/dig-finds/william-jackson-sparkes-headstone.jpg){ width="40%" class="full-width" loading=lazy }
 
-<img src="elizabeth-bowers-headstone-2023.jpg" width="50%" /> 
+![Elizabeth Bowers' headstone](../../assets/dig-finds/elizabeth-bowers-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragments of Elizabeth Bowers' headstone discovered in Toowong Cemetery Archaeological Digs in 2023.*</small>
 
-<img src="william-jackson-sparkes-footstone.jpg" width="50%" /> 
+![William Jackson Sparkes and Elizabeth Bowers' footstone](../../assets/dig-finds/william-jackson-sparkes-footstone.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*William Jackson Sparkes and Elizabeth Bowers' footstone discovered in Toowong Cemetery Archaeological Digs in 2023*</small>
 
