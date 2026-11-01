@@ -17,15 +17,9 @@ search:
 
 ### Headstone
 
+![Jackson Allen's headstone](../../assets/dig-finds/jackson-allen-headstone-2023.jpg){ width="50%" class="full-width" loading=lazy }
 
-<figure markdown="span" align="left">
-
-![Jackson Allen's headstone](../../assets/dig-finds/jackson-allen-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy } <br><br>
-
-<figcaption>A fragment of Jackson Allen's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.</figcaption>
-
-</figure>
-
+*<small>A fragment of Jackson Allen's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.</small>*
 
 
 - Erected: North Brisbane Burial Grounds, Episcopalian section. After 25 October 1862
