@@ -59,7 +59,7 @@ search:
 > Caroline Jane Blakeney, buried on March 23, 1866, was a little girl, six years and 20 days, of age, daughter of William and Eliza Blakeney. Blakeney was the once well-known Registrar-General, and son of Judge Blakeney. One of his daughters married T. H. B. Barron, and another married S. B. Leishman, the squatter. Both were fine looking women. One of Mrs. Barron's daughters is the wife of one of Sir Arthur Palmer's sons. C.J. Blakeney, a once well-known lawyer at Brisbane, Cairns, and Cooktown, was another son of the Judge. 
 
 
-![Caroline Jane Blakeney's headstone](../../assets/dig-finds/charles-william-blakeney.jpg"){ width="40%" class="full-width" loading=lazy }
+![Charles William Blakeney](../../assets/dig-finds/charles-william-blakeney.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*[Charles William Blakeney](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1cmbrig/alma99183507599802061) - State Library of Queensland. He was Caroline's grandfather.* </small>
 
