@@ -3,19 +3,19 @@ title: Richard Bower
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 # Richard Bower
 
-#foundHeadstones #done
-
 **ca. 1832 — 12 July 1866**
 
-## Richard Bower <small>(29A)</small>
+## Richard Bower <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="richard-bower-headstone-2023.jpg" width="50%" />
+![Richard Bower's headstone](../../assets/dig-finds/richard-bower-headstone-2023.jpg.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Richard Bower's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.*</small>
 
