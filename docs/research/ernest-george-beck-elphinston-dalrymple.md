@@ -7,17 +7,15 @@ hide:
 
 # Ernest George Beck Elphinston Dalrymple
 
-#foundHeadstones  #newPhoto #symbology #headstoneStory
-
 **ca. 1820 — 4 November 1844**
 
 ## Ernest George Beck Elphinston Dalrymple <small>[(Toowong Cemetery Symbology Display)](https://maps.app.goo.gl/yDA2J7YJrrdirAJ4A)</small>
 
 ### Headstone
 
-<img src="ernest-george-elphinstone-dalrymple-headstone-2023-3.jpg" width="50%" />
+![Fragments of Ernest George Beck Elphinston Dalrymple's headstone](../../assets/dig-finds/ernest-george-elphinstone-dalrymple-headstone-2023-3.jp){ width="40%" class="full-width" loading=lazy }
 
-<img src="ernest-george-elphinstone-dalrymple-headstone-2023-2.jpg" width="50%" />
+![Fragments of Ernest George Beck Elphinston Dalrymple's headstone](../../assets/dig-finds/ernest-george-elphinstone-dalrymple-headstone-2023-2.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragments of Ernest George Beck Elphinston Dalrymple's headstone discovered in a Toowong Cemetery Archaeological Dig in 2014 (Top) and 2023*</small>
 
