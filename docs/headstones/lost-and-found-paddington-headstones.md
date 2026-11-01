@@ -3,6 +3,8 @@ title: Lost and Found Paddington Cemetery Headstones
 description: Headstones from Paddington Cemetery that were lost in the 1930's and rediscovered in the next century
 hide:
   - toc
+search:
+  exclude: true
 ---
 
 --8<-- "snippets/sem/headstones/lost-and-found-paddington-headstones.json"
