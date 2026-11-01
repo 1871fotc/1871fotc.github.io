@@ -11,8 +11,6 @@ hide:
 
 --8<-- "snippets/peter-mccauley.md"
 
-<!--
-
 ### Headstone
 
 ![Peter McCauley's headstone](../assets/peter-mccauley-headstone.jpg){ width="30%" }
@@ -40,7 +38,5 @@ hide:
 ### Footstone
 
 > PM
-
---> 
 
 --8<-- "snippets/add-to-this-story.md"

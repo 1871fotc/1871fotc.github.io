@@ -11,12 +11,10 @@ hide:
 
 --8<-- "snippets/william-henry-roberts.md"
 
-<!--
 
-### Sources
+### Learn more
 
 - [Australian Royalty: Genealogy of the colony of NSW](https://australianroyalty.net.au/tree/purnellmccord.ged/individual/I31369/William-Henry-Roberts)
 
--->
 
 --8<-- "snippets/add-to-this-story.md"
