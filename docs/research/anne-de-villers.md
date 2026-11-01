@@ -8,15 +8,15 @@ hide:
 
 # Anne De Villers
 
-#foundHeadstones #done
-
 **ca. 1804 — 30 April 1873**
 
-## Anne De Villers <small>(29A)</small>
+## Anne De Villers <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
 <img src="anne-de-villers-headstone-2023.jpg" width="50%" />
+
+![A fragment of Anne De Villers' headstone](../../assets/dig-finds/anne-de-villers-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Anne De Villers' headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.* </small>
 
