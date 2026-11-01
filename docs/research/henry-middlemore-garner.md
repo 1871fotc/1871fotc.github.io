@@ -29,8 +29,9 @@ hide:
 > of Stoke on Trent <br>
 > Staffordshire <br>
 > who died 26^th^ April 1865 <br>
-> aged ==?==3 years <br>
-> ==…== <br>
+> aged …3 years <br>
+> <br>
+> … <br>
 
 
 
