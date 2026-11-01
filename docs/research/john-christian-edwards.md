@@ -7,15 +7,13 @@ hide:
 
 # John Christian Edwards
 
-#foundHeadstones
-
 **25 December 1868 — 21 July 1873** 
 
-## John Christian Edwards <small>(29A)</small>
+## John Christian Edwards <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="john-christian-edwards-headstone-2023.jpg" width="50%" />
+![John Christian Edwards' headstone](../../assets/dig-finds/john-christian-edwards-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*John Christian Edwards' headstone discovered in a Toowong Cemetery Archaeological Dig in 2016.* </small>
 
