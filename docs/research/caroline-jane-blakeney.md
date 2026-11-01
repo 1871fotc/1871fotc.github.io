@@ -3,20 +3,20 @@ title: Caroline Jane Blakeney
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 
 # Caroline Jane Blakeney
 
-#foundHeadstones #done
-
 **ca. 3 March 1863 — 23 March 1866**
 
-## Caroline Jane Blakeney <small>(29A)</small>
+## Caroline Jane Blakeney <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="caroline-jane-blakeney-headstone-2016.jpg" width="50%" />
+![Caroline Jane Blakeney's headstone](../../assets/dig-finds/caroline-jane-blakeney-headstone-2016.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Caroline Jane Blakeney's headstone discovered in a Toowong Cemetery Archaeological Dig in 2016.* </small>
 
