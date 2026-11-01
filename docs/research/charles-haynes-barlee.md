@@ -16,8 +16,6 @@ search:
 
 ### Headstone
 
-<img src="barlee-headstone-2021.jpg" width="50%" />
-
 ![](../../assets/dig-finds/barlee-headstone-2021.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Charles Haynes Barlee's headstone discovered in a Toowong Cemetery Archaeological Dig in 2016.*</small>
