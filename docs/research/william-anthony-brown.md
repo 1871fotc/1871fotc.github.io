@@ -3,25 +3,26 @@ title: William Anthony Brown
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 # William Anthony Brown
 
 
 <!-- 
-When the HS was originally dug up [2012], Darcy contacted the Police Museum group to advise them it had been found but unfortunately had to be re-buried.  The Police group were devastated and asked if it was ever retrieved again, could it be salvaged. It was brought up again a few years later [2014] but the separate fragment was missing. The missing piece did come up again in a later dig but too late to be reunited with the larger piece as the Police had already done the restoration . Story in the link below
- https://www.friendsqpmuseum.com.au/project/restoration-and-placement-of-samuel-seymour-headstone/
- -->
-
-#foundHeadstones #done
+When the Headstone was originally dug up [2012], Darcy contacted the Police Museum group to advise them it had been found but unfortunately had to be re-buried.  The Police group were devastated and asked if it was ever retrieved again, could it be salvaged. It was brought up again a few years later [2014] but the separate fragment was missing. The missing piece did come up again in a later dig but too late to be reunited with the larger piece as the Police had already done the restoration . Story in the link below  https://www.friendsqpmuseum.com.au/project/restoration-and-placement-of-samuel-seymour-headstone/
+-->
 
 **ca. 1824 — 12 February 1864**
 
-## William Anthony Brown <small>(29A)</small>
+## William Anthony Brown <small>([13-37-12](https://brisbane.discovereverafter.com/profile/31857430))</small>
 
 ### Headstone
 
-<img src="william-anthony-brown-headstone-2012.jpg" width="50%" />
+<!-- move to /dig-finds -->
+
+![William Anthony Brown's headstone](../../assets/william-anthony-brown-headstone-2012.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragments of William Anthony Brown's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.* </small>
 
@@ -35,7 +36,8 @@ When the HS was originally dug up [2012], Darcy contacted the Police Museum grou
 The Friends of the Queensland Police Museum arranged the 
 [restoration of  William Anthony Brown's headstone](https://www.friendsqpmuseum.com.au/project/restoration-and-placement-of-samuel-seymour-headstone). 
 
-<img src="william-anthony-brown-headstone-2026.jpg" width="50%" />
+![William Anthony Brown's headstone](../../assets/dig-finds/william-anthony-brown-headstone-2026.jpg){ width="40%" class="full-width" loading=lazy }
+
 
 
 ### Inscription
@@ -56,7 +58,9 @@ The Friends of the Queensland Police Museum arranged the
 
 ### Learn more 
 
-<img src="william-anthony-brown.jpg" width="50%" />
+
+![William Anthony Brown](../../assets/dig-finds/william-anthony-brown.jpg){ width="40%" class="full-width" loading=lazy }
+
 
 <small>*[No title (1907, April 20). The Brisbane Courier (Qld. : 1864 - 1933), p. 13.](https://trove.nla.gov.au/newspaper/article/19487155#). William Anthony Brown was appointed Sheriff for the district of Moreton Bay on 15 April 1857* </small>
 
