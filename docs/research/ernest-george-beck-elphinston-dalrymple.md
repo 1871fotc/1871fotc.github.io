@@ -13,7 +13,7 @@ hide:
 
 ### Headstone
 
-![Fragments of Ernest George Beck Elphinston Dalrymple's headstone](../../assets/dig-finds/ernest-george-elphinstone-dalrymple-headstone-2023-3.jp){ width="40%" class="full-width" loading=lazy }
+![Fragments of Ernest George Beck Elphinston Dalrymple's headstone](../../assets/dig-finds/ernest-george-elphinstone-dalrymple-headstone-2023-3.jpg){ width="40%" class="full-width" loading=lazy }
 
 ![Fragments of Ernest George Beck Elphinston Dalrymple's headstone](../../assets/dig-finds/ernest-george-elphinstone-dalrymple-headstone-2023-2.jpg){ width="40%" class="full-width" loading=lazy }
 
