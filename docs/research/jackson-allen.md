@@ -7,6 +7,8 @@ hide:
 
 # Jackson Allen
 
+#foundHeadstones
+
 **Died 25 October 1862**
 
 ## Jackson Allen <small>(29A)</small>
@@ -16,18 +18,18 @@ hide:
 <img src="jackson-allen-headstone-2023.jpg" width="50%" />
 
 
-<small>*A fragment of Jackson Allen's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.*</small>
+<small>*A fragment of Jackson Allen's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.* </small>
 
 - Erected: North Brisbane Burial Grounds, Episcopalian section. After 25 October 1862
 - Moved to: North Brisbane Burial Grounds, Reserved Area. ca. 1914. Recorded as J. Allen
 - Demolished and disposed of in: Toowong Cemetery, Portion 29A. ca. 1930
-- Discovered: Toowong Cemetery, Portion 29A near Section 72. ca. May 2014
+- Discovered: Toowong Cemetery, Portion 29A near Section 72. ca. May 2021
 
 ### Inscription
 
 > …acred <br>
 > … memory of <br>
-> … on Allen <br>
+> …on Allen <br>
 > … Oct 25^th^ 1862 <br>
 
 ### Learn more 
