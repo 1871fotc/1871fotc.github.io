@@ -2,20 +2,21 @@
 title: Henry Robert Barltrop
 hide:
   - toc
-  - navigation 
+  - navigation
+search:
+  exclude: true
 ---
 
 # Henry Robert Barltrop
 
-#foundHeadstones #done
-
 **Died 20 December 1872**
 
-## Henry Robert Barltrop <small>(29A)</small>
+## Henry Robert Barltrop <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
 <img src="henry-robert-barltrop-headstone-2023.jpg" width="50%" />
+![==Name=='s headstone](../../assets/dig-finds/henry-robert-barltrop-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Henry Robert Barltrop's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.* </small>
 
