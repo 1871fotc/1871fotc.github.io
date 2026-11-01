@@ -20,7 +20,7 @@ search:
 
 <figure markdown="span">
 
-![Jackson Allen's headstone](../../assets/dig-finds/jackson-allen-headstone-2023.jpg){align="left" width="40%" class="full-width" loading=lazy }
+![Jackson Allen's headstone](../../assets/dig-finds/jackson-allen-headstone-2023.jpg){align="left" width="40%" class="full-width" loading=lazy } <br>
 
 <figcaption>A fragment of Jackson Allen's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.</figcaption>
 
