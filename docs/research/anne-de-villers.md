@@ -14,8 +14,6 @@ hide:
 
 ### Headstone
 
-<img src="anne-de-villers-headstone-2023.jpg" width="50%" />
-
 ![A fragment of Anne De Villers' headstone](../../assets/dig-finds/anne-de-villers-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Anne De Villers' headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.* </small>
