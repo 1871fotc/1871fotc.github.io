@@ -2,7 +2,9 @@
 title: Jackson Allen
 hide:
   - toc
-  - navigation 
+  - navigation
+search:
+  exclude: true
 ---
 
 # Jackson Allen
@@ -15,10 +17,17 @@ hide:
 
 ### Headstone
 
-<img src="jackson-allen-headstone-2023.jpg" width="50%" />
+<img src="../../assets/jackson-allen-headstone-2023.jpg" width="50%" />
+
+<figure markdown="span">
+
+!['Jackson Allens headstone]../../assets/jackson-allen-headstone-2023.jpg){ align=left width="50%" }
+
+<figcaption><small>*A fragment of Jackson Allen's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.* </small> Image caption</figcaption>
+
+</figure>
 
 
-<small>*A fragment of Jackson Allen's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.* </small>
 
 - Erected: North Brisbane Burial Grounds, Episcopalian section. After 25 October 1862
 - Moved to: North Brisbane Burial Grounds, Reserved Area. ca. 1914. Recorded as J. Allen
