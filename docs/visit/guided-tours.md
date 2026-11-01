@@ -26,7 +26,7 @@ There's no need to book, just meet under the flagpole in Canon Garland Place at 
 
 ## Upcoming Guided Tours
 
-Our next tour is on **Sunday 6 December 2026**, the last for 2026.
+Our next tour is on **Sunday 6 December 2026**, the last for 2026, is titled **'Bubonic Plague by the Years'**.
 
 The tour is limited to 20 people. 
 
