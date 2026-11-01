@@ -3,19 +3,21 @@ title: John Brakenridge
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 # John Brakenridge
 
-#foundHeadstones #done
-
 **ca. 1833 — 26 March 1864**
 
-## John Brakenridge <small>(29A)</small>
+## John Brakenridge <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="john-brakenridge-headstone-2012.jpg" width="50%" />
+<!-- move to /dig-finds -->
+
+![John Brakenridge's headstone](../../assets/john-brakenridge-headstone-2012.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of John Brakenridge's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.* </small>
 
@@ -54,7 +56,9 @@ hide:
 
 > DEATH. March 26th, at St. John's Parsonage, Brisbane, the Rev. John Brakenridge, M.A., of Christ's College, Cambridge, aged 31.
 
-st-johns-cathedral-1876.jpg
+<!-- move to /dig-finds -->
+
+![St John's Cathedral facing William Street, Brisbane taken about 1876](../../assets/st-johns-cathedral-1876.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*[St John's Cathedral facing William Street, Brisbane taken about 1876](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1cmbrig/alma99183505767602061) - State Library of Queensland.* </small>
 
