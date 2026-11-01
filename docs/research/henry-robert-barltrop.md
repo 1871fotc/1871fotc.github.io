@@ -15,8 +15,9 @@ search:
 
 ### Headstone
 
-<img src="henry-robert-barltrop-headstone-2023.jpg" width="50%" />
-![==Name=='s headstone](../../assets/dig-finds/henry-robert-barltrop-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
+<!-- move to /dig-finds -->
+
+![](../../assets/henry-robert-barltrop-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Henry Robert Barltrop's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.* </small>
 
