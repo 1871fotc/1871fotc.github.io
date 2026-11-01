@@ -43,7 +43,7 @@ The table below lists Paddington Cemetery headstones that were placed in the res
 
 <!-- broken link -->
 
---8<-- "snippets/paddington-cemetery-reserved-area-memorials.html"
+--8<-- "snippets/paddington-cemetery-reserved-area-memorials-new.html"
 
 ## Abbreviations
 
