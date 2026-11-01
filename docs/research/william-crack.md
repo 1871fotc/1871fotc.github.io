@@ -29,14 +29,14 @@ hide:
 > the memory of <br>
 > William Crack <br>
 > eldest son of <br>
-> William & Ellen C… <br>
+> William & Ellen Crack <br>
 > Died 27^th^ August 1874  <br>
 > Aged 18 years & 6 months<br>
 > 
 > My days were few on earth but like <br> 
 > a flower did pass away. Therefore <br>
 > … I hope this life … <br>
-> …  not be part <br>
+> … not to part <br>
 
 
 
