@@ -7,15 +7,13 @@ hide:
 
 # William Crack
 
-#foundHeadstones #done #checkInscription
-
 **ca. 1856 — 27 August 1874**
 
-## William Crack <small>(29A)</small>
+## William Crack <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="william-crack-headstone-2023.jpg" width="50%" />
+![Fragments of William Crack's headstone](../../assets/dig-finds/william-crack-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragments of William Crack's headstone discovered in a Toowong Cemetery Archaeological Dig in 2013.*</small>
 
