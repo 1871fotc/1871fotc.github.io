@@ -26,7 +26,7 @@ search:
 
 ### Inscription
 
-> … <br>
+> To <br>
 > the loving memory <br>
 > of <br>
 > James Willes Brown <br>
