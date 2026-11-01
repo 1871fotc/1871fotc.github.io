@@ -80,8 +80,8 @@ search:
 > The finding was in accordance with the …cal evidence,  <br>
 > An order was made that all the property of the deceased should be handed over to George Edward O'Brien, acting for the Curator of Intestate Estates.
 
-sportsmans-arms-hotel-brisbane-ca-1882.jpg
+![](../../assets/dig-finds/sportsmans-arms-hotel-brisbane-ca-1882.jpg){ width="40%" class="full-width" loading=lazy } 
 
-*[Sportsmans Arms Hotel, Brisbane, ca. 1882](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1eg89sm/alma99183505769802061) - State Library of Queensland. Scene in Edward Street, Brisbane. The Sportsmans Arms is situated on the right, on the corner of Queen Street and Edward Street, Brisbane. Erected for Mary Ahearn in 1863 the hotel was demolished ca. 1885 to make way for the new Courier Building.* 
+*<small>[Sportsmans Arms Hotel, Brisbane, ca. 1882](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1eg89sm/alma99183505769802061) - State Library of Queensland. Scene in Edward Street, Brisbane. The Sportsmans Arms is situated on the right, on the corner of Queen Street and Edward Street, Brisbane. Erected for Mary Ahearn in 1863 the hotel was demolished ca. 1885 to make way for the new Courier Building.</small>* 
 
 --8<-- "snippets/add-to-this-story.md"
