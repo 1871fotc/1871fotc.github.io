@@ -7,8 +7,6 @@ hide:
 
 # Charlotte Letitia Franklin
 
-#foundHeadstones #toDoHeadstones #newPhoto
-
 **ca. 1835 — 16 July 1867**
 
 ## Charlotte Letitia Franklin <small>(29A)</small>
@@ -17,6 +15,9 @@ hide:
 
 <img src="charlotte-letitia-franklin-headstone-2021.jpg" width="49%" /> 
 <img src="charlotte-letitia-franklin-headstone-2012.jpg" width="39%" /> 
+
+![Fragment of Charlotte Letitia Franklin's headstone](../../assets/dig-finds/charlotte-letitia-franklin-headstone-2021.jpg){ width="49%" class="full-width" loading=lazy }
+![Fragment of Charlotte Letitia Franklin's headstone](../../assets/dig-finds/charlotte-letitia-franklin-headstone-2012.jpg){ width="39%" class="full-width" loading=lazy }
 
 <small>*Fragments of Charlotte Letitia Franklin's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021 (left) and 2012.* </small>
 
@@ -29,8 +30,8 @@ hide:
 
 > Sac…ed
 > to the …ory of   <br>
-> Charl… Letitia<br>
-> …d wife of  <br>
+> Charl… Letitia <br>
+> …d wife of <br>
 > …anklin <br>
 > … this life <br>
 > … 32 years <br>
