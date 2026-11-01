@@ -2,23 +2,25 @@
 title: Charles Haynes Barlee
 hide:
   - toc
-  - navigation 
+  - navigation
+search:
+  exclude: true
 ---
 
 
 # Charles Haynes Barlee
 
-#foundHeadstones  #newPhoto
-
 **9 February 1861 — 9 April 1961**
 
-## Charles Haynes Barlee <small>(29A)</small>
+## Charles Haynes Barlee <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
 <img src="barlee-headstone-2021.jpg" width="50%" />
 
-<small>*A fragment of Charles Haynes Barlee's headstone discovered in a Toowong Cemetery Archaeological Dig in 2016.* </small>
+![](../../assets/dig-finds/barlee-headstone-2021.jpg){ width="40%" class="full-width" loading=lazy }
+
+<small>*A fragment of Charles Haynes Barlee's headstone discovered in a Toowong Cemetery Archaeological Dig in 2016.*</small>
 
 - Erected: North Brisbane Burial Grounds, Episcopalian section. After 9 April 1961
 - Moved to: North Brisbane Burial Grounds, Reserved Area. ca. 1914. Recorded as C. H. Barlee
