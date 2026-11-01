@@ -17,7 +17,9 @@ search:
 
 ![Elizabeth Bowers' headstone](../../assets/dig-finds/william-jackson-sparkes-headstone.jpg){ width="40%" class="full-width" loading=lazy }
 
-![Elizabeth Bowers' headstone](../../assets/dig-finds/elizabeth-bowers-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
+<!-- move to dig-finds/ -->
+
+![Elizabeth Bowers' headstone](../../assets/elizabeth-bowers-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragments of Elizabeth Bowers' headstone discovered in Toowong Cemetery Archaeological Digs in 2023.*</small>
 
