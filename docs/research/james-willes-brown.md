@@ -3,19 +3,19 @@ title: James Willes Brown
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 # James Willes Brown
 
-#foundHeadstones #done
-
 **Died 18 March 1866**
 
-## James Willes Brown <small>(29A)</small>
+## James Willes Brown <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="james-willes-brown-headstone-2023.jpg" width="50%" />
+![James Willes Brown's headstone](../../assets/dig-finds/james-willes-brown-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Base of James Willes Brown's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.* </small>
 
