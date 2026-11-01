@@ -3,19 +3,21 @@ title: Amos Braysher
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 # Amos Braysher
 
-#foundHeadstones #done #newPhoto
-
 **ca. 1836 — 27 September 1871**
 
-## Amos Braysher <small>(29A)</small>
+## Amos Braysher <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="amos-braysher-headstone-2012.jpg" width="50%" />
+<!-- move to /dig-finds -->
+
+![Amos Braysher's headstone](../../assets/amos-braysher-headstone-2012.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Amos Braysher's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.*</small>
 
@@ -60,7 +62,8 @@ hide:
 > The Paddington Cemetery. <br>
 > Amos Braysher, who died on September 27, 1871, aged 35, was the landlord of "Braysher’s Hotel," now the Metropolitan, Edward-street. His widow married Duncan, and after Duncan died, Mrs. Duncan KEPT THE HOTEL FOR YEARS. Mrs. Duncan's Metropolitan Hotel was the favorite hotel for squatters in those days and probably then the best hotel in Brisbane.
 
-metropolitan-hotel-brisbane-ca-1864.jpg
+
+![Metropolitan Hotel, Brisbane, ca. 1864](../../assets/dig-finds/metropolitan-hotel-brisbane-ca-1864.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*[Metropolitan Hotel, Brisbane, ca. 1864](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1cmbrig/alma99183513680702061) — State Library of Queensland.*</small>
 
