@@ -7,6 +7,8 @@ hide:
 
 # Joshua Gillson
 
+<!-- Research needed. Where did the estimate of his birth year come from? -->
+
 **ca. 1821 — 2 September 1867**
 
 ## Joshua Gillson <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
