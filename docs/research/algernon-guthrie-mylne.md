@@ -7,8 +7,6 @@ hide:
 
 # Algernon Guthrie Mylne
 
-#foundHeadstones #done #newPhoto #symbology
-
 **22 December 1867 — 31 May 1868**
 
 ## Algernon Guthrie Mylne <small>[(Toowong Cemetery Symbology Display)](https://maps.app.goo.gl/yDA2J7YJrrdirAJ4A)</small>
@@ -19,7 +17,7 @@ hide:
 
 ### Headstone
 
-<img src="algernon-guthrie-mylne-headstone-2014.jpg" width="50%" />
+![A fragment of Algernon Guthrie Mylne's headstone](../../assets/dig-finds/algernon-guthrie-mylne-headstone-2014.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Algernon Guthrie Mylne's headstone discovered in a Toowong Cemetery Archaeological Dig in 2014.* </small>
 
@@ -69,15 +67,13 @@ Note the difference in the last name ("Milne") in the [Paddington Cemetery Heads
 
 > DEATH. MYLNE.—On the 31st May, Algernon Guthrie, youngest son of Graham Mylne, Esq., aged 5 months. <br>
 
-
 <!-- 
 Graham DOUGLAS Mylne d. 1876 - https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1cmbrig/alma99183513966202061
 
 --> 
 
-<img src="helena-mylne.jpg" width="45.7%" />
-<img src="graham-douglas-mylne.jpg" width="49%" />  
-
+![Helena Mylne](../../assets/dig-finds/helena-mylne.jpg.jpg){ width="45.7%" class="full-width" loading=lazy } 
+![Graham Douglas Mylne](../../assets/dig-finds/graham-douglas-mylne.jpg){ width="49%" class="full-width" loading=lazy }
 
 <small>*[Helena Mylne](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1cmbrig/alma99183513839702061) - State Library of Queensland.* </small><br> 
 
