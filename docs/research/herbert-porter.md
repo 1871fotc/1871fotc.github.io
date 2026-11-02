@@ -7,15 +7,13 @@ hide:
 
 # Herbert Porter
 
-#foundHeadstones
-
 **27 October 1863 — 17 November 1863**
 
-## Herbert Porter <small>(29A)</small>
+## Herbert Porter <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="porter-headstone-2023.jpg" width="50%" />
+![A fragment of Herbert Porter's headstone](../../assets/dig-finds/porter-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Herbert Porter's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023* </small>
 
@@ -29,7 +27,7 @@ hide:
 > Sacred <br>
 > to memory of <br>
 > Herbert & Edgar  <br>
-> twin sons  of <br> 
+> twin sons of <br> 
 > Nicholas & Rebecca Porter <br>
 > who died in infancy <br>
 
@@ -42,8 +40,6 @@ hide:
 > Mother's name: Rebecca Anne Wyer <br>
 > Father/parent's name: Nicholas Ellis Porter <br>
 > Registration details: 1863/B/2128 <br>
-
-
 
 
 - [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/16a334fdd53f98828cef425d3f3d113d85ff54b59a5fc024bb2f24249f962a8f) 
