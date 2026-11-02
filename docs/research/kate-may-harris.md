@@ -7,17 +7,17 @@ hide:
 
 # Kate May Harris 
 
-#foundHeadstones  #newPhoto
-
 **16 May 1862 — 19 August 1862**
 
-## Kate May Harris <small>(29A)</small>
+## Kate May Harris <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-kate-may-harris-headstone-2012.jpg
+<!-- move to /dig-finds -->
 
-sarah-emily-harris-headstone-2012-2.jpg
+![Fragment of Sarah Emily Harris' headstone](../../assets/kate-may-harris-headstone-2012.jpg){ width="40%" class="full-width" loading=lazy }
+
+![Fragment of Sarah Emily Harris' headstone](../../assets/sarah-emily-harris-headstone-2012-2.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Kate May Harris' headstone  discovered in a Toowong Cemetery Archaeological Dig in 2012.*</small>
 
