@@ -7,15 +7,15 @@ hide:
 
 # Charlotte Greenwood
 
-#foundHeadstones
-
 **ca. 1832 — 16 March 1857**
 
-## Charlotte Greenwood <small>(29A)</small>
+## Charlotte Greenwood <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="charlotte-greenwood-headstone-2023.jpg" width="50%" />
+<!-- move to /dig-finds -->
+
+![A fragment of Charlotte Greenwood's headstone](../../assets/charlotte-greenwood-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Charlotte Greenwood's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.* </small>
 
