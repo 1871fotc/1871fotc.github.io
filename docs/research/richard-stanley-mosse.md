@@ -7,15 +7,14 @@ hide:
 
 # Richard Stanley Mosse
 
-#foundHeadstones #done
-
 **ca. 1852 — 7 May 1872**
 
-##  Richard Stanley Mosse <small>(29A)</small>
+##  Richard Stanley Mosse <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="richard-stanley-mosse-headstone-2014.jpg" width="50%" />
+![Richard Stanley Mosse's headstone](../../assets/dig-finds/richard-stanley-mosse-headstone-2014.jpg){ width="40%" class="full-width" loading=lazy }
+
 
 <small>*Richard Stanley Mosse's headstone discovered in a Toowong Cemetery Archaeological Dig in 2014.* </small>
 
