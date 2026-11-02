@@ -7,15 +7,13 @@ hide:
 
 # Thomas Seymour
 
-#foundHeadstones #done
-
 **9 September 1865 — 18 June 1866**
 
-## Thomas Seymour <small>(29A)</small>
+## Thomas Seymour <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="william-anthony-brown-headstone-2012.jpg" width="50%" />
+![Fragments of Thomas Seymour's headstone](../../assets/dig-finds/william-anthony-brown-headstone-2012.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragments of Thomas Seymour's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.* </small>
 
