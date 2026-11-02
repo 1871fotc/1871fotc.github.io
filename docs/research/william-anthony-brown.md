@@ -3,8 +3,6 @@ title: William Anthony Brown
 hide:
   - toc
   - navigation 
-search:
-  exclude: true
 ---
 
 # William Anthony Brown
