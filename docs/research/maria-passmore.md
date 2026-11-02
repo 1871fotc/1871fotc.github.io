@@ -7,17 +7,15 @@ hide:
 
 # Maria Passmore
 
-#foundHeadstones #done
-
 **ca. 1845 — 30 August 1872**
 
-## Maria Passmore <small>(29A)</small>
+## Maria Passmore <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="maria-passmore-headstone-2023.jpg" width="50%" />
+![Maria Passmore's headstone](../../assets/dig-finds/maria-passmore-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
-*Maria Passmore's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023*
+<small>*Maria Passmore's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023*</small>
 
 - Erected: North Brisbane Burial Grounds, Episcopalian section.  After 30 August 1872
 - Moved to: North Brisbane Burial Grounds, Reserved Area. ca. 1914. Recorded as M. Passmore
@@ -68,13 +66,10 @@ Note the differences in last name, aged and death date across the records and he
 > DEATHS. <br>
 > PASSMORE.—On the 30th August, at her late residence, Fortescue-street, Spring Hill, Brisbane, Maria the beloved wife of Mr. Hugh Passmore, aged 28 years. [ Darling Downs papers please copy. ]
 
-<!-- 
+
 - [BY GONE BRISBANE. (1908, February 9). Truth (Brisbane, Qld. : 1900 - 1954), p. 7.](https://trove.nla.gov.au/newspaper/article/206486731?searchTerm=Passmore)
 
-> Maria Passmore, who died on ==April 11, 1872==, aged ==27==, was the wife of Hugh Passmore, one of a family well-known in the <br>
-> EARLY DAYS OF TOOWOOMBA, <br>
-> where they were prominent citizens.
--->
+> Maria Passmore, who died on ==April 11, 1872==, aged ==27==, was the wife of Hugh Passmore, one of a family well-known in the EARLY DAYS OF TOOWOOMBA, where they were prominent citizens.
 
 
 --8<-- "snippets/add-to-this-story.md"
