@@ -7,15 +7,16 @@ hide:
 
 # Reuben Oliver
 
-#foundHeadstones #done
-
 **4 May 1867 — 21 September 1871**
 
-## Reuben Oliver <small>(29A)</small>
+## Reuben Oliver <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="reuben-oliver-headstone-2014.jpg" width="50%" />
+<img src="" width="50%" />
+
+![Reuben Oliver's headstone](../../assets/dig-finds/reuben-oliver-headstone-2014.jpg){ width="40%" class="full-width" loading=lazy }
+
 
 <small>*Reuben Oliver's headstone discovered in a Toowong Cemetery Archaeological Dig in 2014.* </small>
 
@@ -32,7 +33,7 @@ hide:
 > son of <br>
 > Reuben & Ann Oliver
 > who died <br>
-> September 21^st^ 1871<br>
+> September 21^st^ 1871 <br>
 > Aged 4 years  <br>
 
 ### Learn more 
