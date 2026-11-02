@@ -7,17 +7,15 @@ hide:
 
 # James Paish
 
-#foundHeadstones #done
-
 **ca. 1842 — 15 November 1868**
 
-## James Paish <small>(29A)</small>
+## James Paish <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="james-paish-headstone-2023.jpg" width="50%" />
+![James Paish's headstone](../../assets/dig-finds/james-paish-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
-*James Paish's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.*
+<small>*James Paish's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.*</small>
 
 - Erected: North Brisbane Burial Grounds, Episcopalian section. After 15 November 1868
 - Moved to: North Brisbane Burial Grounds, Reserved Area. ca. 1914. Recorded as P. Paish
@@ -29,10 +27,10 @@ hide:
 > Sacred <br>
 > to the <br>
 > memory <br>
-> of   <br>
+> of <br>
 > P^te^ James Paish <br>
 > late of the  <br>
-> 50^th^ Queens Own Reg.<br>
+> 50^th^ Queens Own Reg. <br>
 > who died at <br>
 > Brisbane <br>
 > Queensland <br>
@@ -54,7 +52,7 @@ hide:
 
 > A MILITARY funeral took place yesterday, the deceased being a private in the 50th Regiment, named James Paish. The ceremony was conducted in the usual way, and attracted a considerable number of spectators. The procession started from the barracks about 5 o'clock p.m., the Volunteer Band watch formed part of it playing the "Dead March" as it slowly moved along. All the detachment that could be spared attended, commanded by Captain Eden. The deceased had been about four years in the regiment and had always been a sober, steady man. The cause of his death was dropsy. 
 
-victoria-barracks-brisbane-ca-1868.jpg
+![Victoria Barracks, Brisbane, ca. 1868](../../assets/dig-finds/victoria-barracks-brisbane-ca-1868.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*[Victoria Barracks, Brisbane, ca. 1868](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1cmbrig/alma99183857334802061) - State Library of Queensland. 
 View from where the Roma Street Railway Yards are now situated. Countess Street in the foreground. Background is of the Victoria Barracks. At the back row are the Officers' Mess on the left the Senior Officer's residence in the centre and the Soldiers' Barracks on the right. In the front row is the Powder House.*</small>
