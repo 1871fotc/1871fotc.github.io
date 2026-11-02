@@ -5,20 +5,17 @@ hide:
   - navigation 
 ---
 
-
 # Edmund Morris Lockyer
-
-#foundHeadstones 
 
 **ca. 1810 — 28 June 1872**
 
-##  Edmund Morris Lockyer <small>(29A)</small>
+##  Edmund Morris Lockyer <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="edmund-morris-lockyer-headstone-2012.jpg" width="50%" />
+![Fragments of Edmund Morris Lockyer's headstone](../../assets/dig-finds/edmund-morris-lockyer-headstone-2012.jpg){ width="40%" class="full-width" loading=lazy }
 
-<small>*Fragments of  Edmund Morris Lockyer's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.* </small>
+<small>*Fragments of Edmund Morris Lockyer's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.* </small>
 
 - Erected: North Brisbane Burial Grounds, Episcopalian section. After 28 June 1872
 - Moved to: North Brisbane Burial Grounds,  Reserved Area. ca. 1914. Recorded as E. M. Lockyer
