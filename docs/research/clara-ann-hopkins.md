@@ -13,9 +13,7 @@ hide:
 
 ### Headstone
 
-
 ![A fragment of Clara Ann Hopkins' headstone](../../assets/dig-finds/clara-ann-hopkins-headstone-2021.jpg){ width="40%" class="full-width" loading=lazy }
-
 
 <small>*A fragment of Clara Ann Hopkins' headstone discovered in a Toowong Cemetery Archaeological Dig in 2016.* </small>
 
@@ -32,10 +30,8 @@ hide:
 > …nn Hopkins <br>
 > … April 1874 <br>
 > … 29 years <br>
-> …   <br>
-> …   <br>
-
-
+> … saw her last <br>
+> … dying bed <br>
 
 ### Learn more 
 
@@ -46,7 +42,6 @@ hide:
 > Mother's name: Melinda Clothier <br>
 > Father/parent's name: Thomas Hopkins <br>
 > Registration details: 1874/B/8434 <br>
-
 
 - [Family Notices (1874, April 13). The Brisbane Courier (Qld. : 1864 - 1933), p. 1.](https://trove.nla.gov.au/newspaper/article/1381715?searchTerm=Clara%20Ann%20Hopkins)
 
@@ -59,7 +54,6 @@ hide:
 > HOPKINS.—On the 12th April, at her father's residence, Petrie-terrace, Brisbane, Clara Ann, eldest daughter of Thomas and Melinda Hopkins, late of Bishop Sutton, Chew Magna, Somersetshire, England, after a long and painful illness, aged 29 years. <br> 
 > [Bristol papers please copy.]
 
-
 - [BYGONE BRISBANE. (1908, January 26). Truth (Brisbane, Qld. : 1900 - 1954), p. 11.](https://trove.nla.gov.au/newspaper/article/206483699?searchTerm=hopkins)
 
 > Can anyone enlighten us concerning Clara Ann Hopkins, who died on April 12, 1874, aged 29, and on whose grave is this extraordinary verse — <br> <br>
@@ -70,6 +64,5 @@ hide:
 > If the writer of this had seen the look in the eyes of those who read it, he would <br>
 > HAVE FLED AWAY SOMEWHERE <br>
 > In the middle of the night. <br>
-
 
 --8<-- "snippets/add-to-this-story.md"
