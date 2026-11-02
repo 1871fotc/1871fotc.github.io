@@ -7,15 +7,14 @@ hide:
 
 # Edgar Porter
 
-#foundHeadstones
 
 **27 October 1863 — 27 November 1863**
 
-## Edgar Porter <small>(29A)</small>
+## Edgar Porter <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="porter-headstone-2023.jpg" width="50%" />
+![A fragment of Edgar Porter's headstone](../../assets/dig-finds/porter-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Edgar Porter's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023* </small>
 
