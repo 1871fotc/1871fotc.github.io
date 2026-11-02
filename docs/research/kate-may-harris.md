@@ -48,10 +48,10 @@ hide:
 
 - [Marriage Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/cd3c2c3f82ddd7da5927d4cbd53942ba8d35195f29202ab034a26639dcd7bebf)
 
-> Marriage registration: George Harris
-> Marriage date: 13/10/1860
-> Spouse's name: Jane Thorn
-> Registration details: 1860/C/128
+> Marriage registration: George Harris <br>
+> Marriage date: 13/10/1860 <br>
+> Spouse's name: Jane Thorn <br>
+> Registration details: 1860/C/128 <br>
 
 
 - [Birth Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/0bbe56b9e70223500383a84c1ae7bf03e09ee4e9a08fb21477f5c6e1325a8d80) 
