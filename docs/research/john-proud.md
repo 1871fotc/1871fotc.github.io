@@ -7,15 +7,14 @@ hide:
 
 # John Proud
 
-#foundHeadstones #done #checkInscription
-
 **==ca. 1819== — 14 July 1872**
 
-## John Proud <small>(29A)</small>
+## John Proud <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="john-proud-headstone-2023.jpg" width="50%" />
+![A fragment of John Proud's headstone](../../assets/dig-finds/john-proud-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
+
 
 <small>*A fragment of John Proud's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.* </small>
 
