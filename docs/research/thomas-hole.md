@@ -7,15 +7,15 @@ hide:
 
 # Thomas Hole
 
-#foundHeadstones
-
 **ca. 1819 — 7 December 1874**
 
-## Thomas Hole <small>(29A)</small>
+## Thomas Hole <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="thomas-hole-headstone-2023.jpg" width="50%" />
+<!-- move to /dig-finds -->
+
+![A fragment of Thomas Hole's headstone](../../assets/dig-finds/thomas-hole-headstone-2023.jpg"){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Thomas Hole's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.* </small>
 
