@@ -7,15 +7,13 @@ hide:
 
 # Charlotte McKeand
 
-#foundHeadstones
-
 **ca. 1801 — 14 April 1866**
 
-## Charlotte McKeand <small>(29A)</small>
+## Charlotte McKeand <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="charlotte-mckeand-headstone-2012.jpg" width="50%" />
+![Fragments of Charlotte McKeand's headstone](../../assets/dig-finds/charlotte-mckeand-headstone-2012.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragments of Charlotte McKeand's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.* </small>
 
