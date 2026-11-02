@@ -7,15 +7,14 @@ hide:
 
 # Muriella Louisa Perry
 
-#foundHeadstones #done
-
 **12 October 1865 — 11 November 1866** 
 
-## Muriella Louisa Perry <small>(29A)</small>
+## Muriella Louisa Perry <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="muriella-louisa-perry-headstone-2023.jpg" width="50%" /> 
+
+![A fragment of Muriella Louisa Perry's headstone](../../assets/dig-finds/muriella-louisa-perry-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Muriella Louisa Perry's headstone discovered in Toowong Cemetery Archaeological Digs in 2016.*</small>
 
