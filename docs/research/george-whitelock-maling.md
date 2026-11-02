@@ -7,15 +7,13 @@ hide:
 
 # George Whitelock Maling
 
-#foundHeadstones  #newPhoto
-
 **20 May 1871 — 23 December 1871**
 
-## George Whitelock Maling <small>(29A)</small>
+## George Whitelock Maling <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="george-whitelock-maling-headstone-2024.jpg" width="50%" /> 
+![The base of George Whitelock Maling's headstone](../../assets/dig-finds/george-whitelock-maling-headstone-2024.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*The base of George Whitelock Maling's headstone discovered in Toowong Cemetery Archaeological Digs in 2024.* </small>
 
