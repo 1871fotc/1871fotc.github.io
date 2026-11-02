@@ -8,15 +8,13 @@ hide:
 
 # Augusta Robinson
 
-#foundHeadstones #done
-
 **Died 30 October 1863**
 
-## Augusta Robinson <small>(29A)</small>
+## Augusta Robinson <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="augusta-john-robinson-headstone-2012.jpg" width="50%" />
+![Fragments of Augusta Robinson's headstone](../../assets/dig-finds/augusta-john-robinson-headstone-2012.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragments of Augusta Robinson's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012*</small>
 
@@ -65,7 +63,9 @@ hide:
 > Verdict— "Accidentally drowned by the sinking of the yacht, the accident being caused by the careless stowing of the casks taken on board at Raff's wharf."
 
 
-brisbane-city-panorama-1865.jpg
+
+![Part of an early panorama of the city of Brisbane 1865](../../assets/dig-finds/brisbane-city-panorama-1865.jpg){ width="60%" class="full-width" loading=lazy }
+
 
 <small>*[Part of an early panorama of the city of Brisbane 1865](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1cmbrig/alma99183788416902061) - State Library of Queensland. Some buildings viewed across the Brisbane River including Raff's Wharf.* </small>
 
