@@ -7,17 +7,15 @@ hide:
 
 # John Parker
 
-#foundHeadstones #done #newPhoto
-
 **ca. 1823 — 15 March 1872**
 
 ## John Parker <small>(29A)</small>
 
 ### Headstone
 
-<img src="john-parker-headstone-2013.jpg" width="50%" />
+![Fragment of John Parker's headstone](../../assets/dig-finds/john-parker-headstone-2013.jpg){ width="40%" class="full-width" loading=lazy }
 
-<img src="thomas-parker-headstone-2023.jpg" width="50%" />
+![Fragment of John Parker's headstone](../../assets/dig-finds/thomas-parker-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragments of John Parker's headstone discovered in a Toowong Cemetery Archaeological Dig in 2013 (Top) and 2014.*</small>
 
