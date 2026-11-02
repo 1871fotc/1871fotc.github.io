@@ -13,11 +13,7 @@ hide:
 
 ### Headstone
 
-<img src="thomas-william-hatton-headstone-2021-1.jpg" width="50%" /> <img src="thomas-william-hatton-headstone-2021-2.jpg" width="28%" />
-
-<!-- move to /dig-finds -->
-
-![Fragment of Thomas William Hatton's headstone](../../assets/dig-finds/name-headstone-yearTaken.jpg){ width="50%" class="full-width" loading=lazy } 
+![Fragment of Thomas William Hatton's headstone](../../assets/dig-finds/thomas-william-hatton-headstone-2021-1.jpg){ width="50%" class="full-width" loading=lazy } 
 ![Fragment of Thomas William Hatton's headstone](../../assets/dig-finds/thomas-william-hatton-headstone-2021-2.jpg){ width="28%" class="full-width" loading=lazy }
 
 <small>*Fragments of Thomas William Hatton's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.* </small>
