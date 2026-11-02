@@ -14,7 +14,7 @@ hide:
 ### Headstone
 
 ![Fragments of Annie Hodge's headstone](../../assets/dig-finds/samuel-hodge-headstone-1.jpg){ width="30%" class="full-width" loading=lazy } 
-![Fragments of Annie Hodge's headstone](../../assets/dig-finds/samuel-hodge-headstone.jpg){ width="35%" class="full-width" loading=lazy }
+![Fragments of Annie Hodge's headstone](../../assets/dig-finds/samuel-hodge-headstone.jpg){ width="34%" class="full-width" loading=lazy }
 
 
 ![Fragments of Annie Hodge's headstone](../../assets/dig-finds/annie-hodge-headstone-2023.jpg){ width="65%" class="full-width" loading=lazy }
