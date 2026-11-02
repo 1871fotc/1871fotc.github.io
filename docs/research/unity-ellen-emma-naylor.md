@@ -7,15 +7,13 @@ hide:
 
 # Unity Ellis Ellen Naylor
 
-#foundHeadstones #done #checkInscription
-
 **20 January 1872 — 28 February 1873**
 
-## Unity Ellis Ellen Naylor <small>(29A)</small>
+## Unity Ellis Ellen Naylor <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="unity-ellen-emma-naylor-headstone-2014.jpg" width="50%" />
+![A fragment of Unity Naylor's headstone](../../assets/dig-finds/unity-ellen-emma-naylor-headstone-2014.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Unity Naylor's headstone discovered in a Toowong Cemetery Archaeological Dig in 2014.* </small>
 
@@ -28,13 +26,13 @@ hide:
 
 > Sacred <br>
 > to <br>
-> the memory of   <br>
+> the memory of  <br>
 > Unity Ellen Emma  <br>
 > Naylor <br>
 > Born 20^th^ January 1872 <br>
-> Died 28^th^ February 1873<br>
+> Died 28^th^ February 1873 <br>
 > <br>
-> ==…== <br>
+> … <br>
 
 ### Learn more 
 
