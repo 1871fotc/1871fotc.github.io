@@ -7,18 +7,17 @@ hide:
 
 # Samuel Hodge
 
-#foundHeadstones #checkInscription #newPhoto #toDoHeadstones
-#headstoneStory
-
 **ca. 1827 — 1 April 1863**
 
-## Samuel Hodge <small>(29A)</small>
+## Samuel Hodge <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="samuel-hodge-headstone-1.jpg" width="45%" /> <img src="samuel-hodge-headstone.jpg" width="45%" />
+![Fragments of Annie Hodge's headstone](../../assets/dig-finds/samuel-hodge-headstone-1.jpg){ width="30%" class="full-width" loading=lazy } 
+![Fragments of Annie Hodge's headstone](../../assets/dig-finds/samuel-hodge-headstone.jpg){ width="34.5%" class="full-width" loading=lazy }
 
-<img src="annie-hodge-headstone-2023.jpg" width="90%" />
+
+![Fragments of Annie Hodge's headstone](../../assets/dig-finds/annie-hodge-headstone-2023.jpg){ width="65.5%" class="full-width" loading=lazy }
 
 <small>*Fragments of Samuel Hodge's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.*</small>
 
