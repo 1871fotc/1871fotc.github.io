@@ -42,6 +42,8 @@ hide:
 
 <br>
 
+<!-- Research needed. Inscription may say "Relect of" -->
+
 > …   <br>
 > Sarah Emily  <br>
 > … wife of <br>
