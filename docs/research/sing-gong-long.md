@@ -7,13 +7,11 @@ hide:
 
 # Sing Gong Long
 
-#foundHeadstones
-
-## Sing Gong Long <small>(29A)</small>
+## Sing Gong Long <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="sing-gong-long-headstone-2026.jpg" width="50%" />
+![Fragments of Sing Gong Long's headstone](../../assets/dig-finds/sing-gong-long-headstone-2026.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragments of Sing Gong Long's headstone discovered in a Toowong Cemetery Archaeological Dig* </small>
 
