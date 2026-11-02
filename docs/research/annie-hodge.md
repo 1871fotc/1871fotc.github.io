@@ -7,11 +7,9 @@ hide:
 
 # Annie Hodge
 
-#foundHeadstones #done #checkInscription #newPhoto #toDoHeadstones
-
 **ca. October 1862 — 19 November 1863**
 
-## Annie Hodge <small>(29A)</small>
+## Annie Hodge <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
@@ -19,7 +17,14 @@ hide:
 
 <img src="annie-hodge-headstone-2023.jpg" width="50%" />
 
-<small>*A fragment of Annie Hodge's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.*</small>
+![Fragments of Annie Hodge's headstone](../../assets/dig-finds/samuel-hodge-headstone-1.jpg){ width="40%" class="full-width" loading=lazy } 
+![Fragments of Annie Hodge's headstone](../../assets/dig-finds/samuel-hodge-headstone.jpg){ width="40%" class="full-width" loading=lazy }
+
+
+![Fragments of Annie Hodge's headstone](../../assets/dig-finds/annie-hodge-headstone-2023.jpg){ width="50%" class="full-width" loading=lazy }
+
+
+<small>*Fragments of Annie Hodge's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.*</small>
 
 - Erected: North Brisbane Burial Grounds, Episcopalian section. After 19 November 1863
 - Moved to: North Brisbane Burial Grounds, Reserved Area. ca. 1914. Recorded as A. Hodge
