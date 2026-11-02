@@ -7,15 +7,13 @@ hide:
 
 # Frederick Robert Carter
 
-#foundHeadstones #done
-
 **ca. 1851 — 26 June 1874**
 
-## Frederick Robert Carter <small>(29A)</small>
+## Frederick Robert Carter <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="frederick-robert-carter-sharpe-headstone-2012.jpg" width="50%" />
+![A fragment of Frederick Robert Carter's headstone](../../assets/dig-finds/frederick-robert-carter-sharpe-headstone-2012.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Frederick Robert Carter's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.* </small>
 
