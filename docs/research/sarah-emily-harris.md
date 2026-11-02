@@ -8,16 +8,18 @@ hide:
 
 # Sarah Emily Harris
 
-#foundHeadstones #done
-
 **ca. 1787 — 17 September 1866** 
 
-## Sarah Emily Harris <small>(29A)</small>
+## Sarah Emily Harris <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="kate-may-harris-headstone-2012.jpg" width="50%" />
-<img src="sarah-emily-harris-headstone-2012-2.jpg" width="50%" />
+<!-- move to /dig-finds -->
+
+![Fragment of Sarah Emily Harris' headstone](../../assets/kate-may-harris-headstone-2012.jpg){ width="40%" class="full-width" loading=lazy }
+
+![Fragment of Sarah Emily Harris' headstone](../../assets/sarah-emily-harris-headstone-2012-2.jpg){ width="40%" class="full-width" loading=lazy }
+
 
 <small>*Fragments of Sarah Emily Harris' headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.* <small>
 
