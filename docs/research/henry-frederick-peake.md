@@ -7,15 +7,13 @@ hide:
 
 # Henry Frederick Peake
 
-#foundHeadstones #done
-
 **Died 2 May 1871**
 
 ## Henry Frederick Peake <small>(29A)</small>
 
 ### Headstone
 
-<img src="amelia-isabel-peake-headstone-2012.jpg" width="50%" />
+![A fragment of Henry Frederick Peake's headstone](../../assets/dig-finds/amelia-isabel-peake-headstone-2012.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Henry Frederick Peake's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.* </small>
 
