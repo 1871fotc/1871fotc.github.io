@@ -7,15 +7,14 @@ hide:
 
 # Joshua Gillson
 
-#foundHeadstones
-
 **ca. 1821 — 2 September 1867**
 
-## Joshua Gillson <small>(29A)</small>
+## Joshua Gillson <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="joshua-gillson-headstone-2024.jpg" width="42%" /> <img src="joshua-gillson-headstone-2023.jpg" width="49.1%" />
+![Fragment of Joshua Gillson's headstone](../../assets/dig-finds/joshua-gillson-headstone-2024.jpg){ width="42%" class="full-width" loading=lazy }
+![Fragment of Joshua Gillson's headstone](../../assets/dig-finds/joshua-gillson-headstone-2023.jpg){ width="49.1%" class="full-width" loading=lazy }
 
 <small>*Fragments of Joshua Gillson's headstone discovered in a Toowong Cemetery Archaeological Dig in 2024 (left) and 2023.* </small>
 
