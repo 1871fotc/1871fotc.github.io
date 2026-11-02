@@ -9,7 +9,7 @@ hide:
 
 **9 September 1865 — 18 June 1866**
 
-## Thomas Seymour <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
+## Thomas Seymour <small>([13-37-12](https://brisbane.discovereverafter.com/profile/31857430))</small>
 
 ### Headstone
 
@@ -21,6 +21,11 @@ hide:
 - Moved to: North Brisbane Burial Grounds, Reserved Area. ca. 1914. Recorded as Thomas Seymour
 - Demolished and disposed of in: Toowong Cemetery, Portion 29A. ca. 1930
 - Discovered: Toowong Cemetery, Portion 29A near Section 72. ca. May 2012
+- Restored: Toowong Cemetery, 13-37-12. 2015
+
+The Friends of the Queensland Police Museum arranged the [restoration of William Anthony Brown's headstone](https://www.friendsqpmuseum.com.au/project/restoration-and-placement-of-samuel-seymour-headstone), shared with Thomas Seymour.
+
+![Thomas Seymour's headstone relo](../../assets/dig-finds/william-anthony-brown-headstone-2026.jpg){ width="40%" class="full-width" loading=lazy }
 
 ### Inscription
 
