@@ -7,15 +7,15 @@ hide:
 
 # Clara Ann Hopkins
 
-#foundHeadstones
-
 **ca. 1845 — 12 April 1874**
 
-## Clara Ann Hopkins <small>(29A)</small>
+## Clara Ann Hopkins <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="clara-ann-hopkins-headstone-2021.jpg" width="50%" />
+
+![A fragment of Clara Ann Hopkins' headstone](../../assets/dig-finds/clara-ann-hopkins-headstone-2021.jpg){ width="40%" class="full-width" loading=lazy }
+
 
 <small>*A fragment of Clara Ann Hopkins' headstone discovered in a Toowong Cemetery Archaeological Dig in 2016.* </small>
 
