@@ -32,7 +32,7 @@ The tour is limited to 20 people.
 
 !!! Warning "What to bring"
 
-    Wear enclosed shoes, a hat and sunscrean or bring an umbrella, and don't forget a bottle of water. 
+    Wear enclosed shoes, a hat and sunscreen or bring an umbrella, and don't forget a bottle of water. 
     Some tours include steep hills and a walking stick or walking poles may be helpful.
 
 ## Directions to Toowong Cemetery
@@ -55,11 +55,12 @@ The Museum may open after our guided tours if voluteers are available.
 
 *<small>The Toowong Cemetery Museum is the former Sexton's office.</small>*
 
+<!-- 
 The Museum has an extensive display of photographs and artefacts.
 
 ![Museum photo display](../assets/museum-photos-1.jpg){ width="48.5%" } ![Museum photo display](../assets/museum-photos-2.jpg){ width="48.5%" }
 ![Museum photo display](../assets/museum-photos-3.jpg){ width="48.5%" } ![Museum photo display](../assets/museum-photos-4.jpg){ width="48.5%" }
-
+-->
 
 
 <!--
