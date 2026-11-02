@@ -7,8 +7,6 @@ hide:
 
 # George Hutchison
 
-<!-- Research needed. Age and derived birth date -->
-
 **ca. 1828 — 7 June 1872**
 
 ## George Hutchison <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
