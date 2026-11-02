@@ -7,15 +7,13 @@ hide:
 
 # Arthur William Scarr
 
-#foundHeadstones #done  #newPhoto
-
 **14 November 1868 — 4 December 1869**
 
-## Arthur William Scarr <small>(29A)</small>
+## Arthur William Scarr <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="scarr-headstone-2012.jpg" width="50%" /> 
+![Fragments of Arthur William Scarr's headstone](../../assets/dig-finds/scarr-headstone-2012.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragments of Arthur William Scarr's headstone discovered in Toowong Cemetery Archaeological Digs in 2012.*</small>
 
@@ -26,7 +24,7 @@ hide:
 
 ### Inscription
 
-> …red
+> …red <br>
 > … memory of  <br>
 > … ur William    <br>
 > …ed only child of <br>
