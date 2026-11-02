@@ -54,9 +54,9 @@ hide:
 > FUNERAL.-The Friends of Mr. SHARPE are respectfully invited to attend the Funeral of his deceased Step-son, FREDERICK CARTER; the procession to move from his residence, Skinner-street, Gregory-terrace, THIS DAY, at half-past 3 o'clock, p m. 6257 F. MURRAY, Undertaker, Queen-street.
 
 
-> I. O. O. F. M. U. THE OFFICERS and BROTHERS of the PRINCE OF WALES LODGE are requested to attend the FUNERAL of late Bro. F. CARTER, to move at half-past 3 o'clock THIS (Wednesday) AFTERNOON, from Skinner-street, Gregory-terrace (near the Rev. B, G. Wilson's). Officers and Brethren of sister Lodges are respectfully invited to attend. By order of the N.G., 6265 GEO. WRIDE, Secretary. 
+> I.O.O.F.M.U. THE OFFICERS and BROTHERS of the PRINCE OF WALES LODGE are requested to attend the FUNERAL of late Bro. F. CARTER, to move at half-past 3 o'clock THIS (Wednesday) AFTERNOON, from Skinner-street, Gregory-terrace (near the Rev. B, G. Wilson's). Officers and Brethren of sister Lodges are respectfully invited to attend. By order of the N.G., 6265 GEO. WRIDE, Secretary. 
 
-*[I. O. O. F. M. U.]: Independent Order of Odd Fellows Manchester Unity
+*[I.O.O.F.M.U.]: Independent Order of Odd Fellows Manchester Unity
 *[N.G.]: Noble Grand — the elected head officer of a local lodge
 
 --8<-- "snippets/add-to-this-story.md"
