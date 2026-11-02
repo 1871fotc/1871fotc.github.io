@@ -7,15 +7,14 @@ hide:
 
 # William Frederick Robinson
 
-#foundHeadstones #done
-
 **Died 17 September 1874**
 
-## William Frederick Robinson <small>(29A)</small>
+## William Frederick Robinson <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="william-frederick-robinson-headstone-2023.jpg" width="50%" />
+![Fragments of William Frederick Robinson's headstone](../../assets/dig-finds/william-frederick-robinson-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
+
 
 <small>*Fragments of William Frederick Robinson's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.*</small>
 
@@ -26,7 +25,7 @@ hide:
 
 ### Inscription
 
-> Sacred
+> Sacred <br>
 > to the memory of  <br>
 > William Fred^k^ Robinson <br>
 > who…  this…  <br>
