@@ -7,15 +7,15 @@ hide:
 
 # Edward Linthwaite
 
-#foundHeadstones #checkInscription
-
 **ca. 1821 — 4 March 1872**
 
-## Edward Linthwaite (29A)
+## Edward Linthwaite ([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))
 
 ### Headstone
 
 <img src="edward-linthwaite-headstone-2013.jpg" width="50%" />
+
+![Edward Linthwaite's headstone](../../assets/dig-finds/edward-linthwaite-headstone-2013.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Edward Linthwaite's headstone discovered in a Toowong Cemetery Archaeological Dig in 2013.* </small>
 
@@ -32,13 +32,12 @@ hide:
 > (Native of Coventry England) <br>
 > who was accidentally killed <br>
 > by the falling of a house <br>
-> on the 4^th^ March 1872
-> aged 51 years
->
+> on the 4^th^ March 1872  <br>
+> aged 51 years <br>
+> <br>
 > … 
 
 ### Learn more 
-
 
 - [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/2d91927230f72f50939b1d741c13ae712583fc3190aaca91abd11f8bb85de9ff)
 
