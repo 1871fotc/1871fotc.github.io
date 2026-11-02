@@ -37,7 +37,7 @@ hide:
 
 ### Learn more 
 
-Note the differences in last name, aged and death date across the records and headstone.
+Note the differences in last name, age and death date across the records and headstone.
 
 - [Marriage Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/0602c02864fb391a834d9b458ca0742dd06790dcc266695dbf0cb007923d5251)
 
@@ -69,7 +69,7 @@ Note the differences in last name, aged and death date across the records and he
 
 - [BY GONE BRISBANE. (1908, February 9). Truth (Brisbane, Qld. : 1900 - 1954), p. 7.](https://trove.nla.gov.au/newspaper/article/206486731?searchTerm=Passmore)
 
-> Maria Passmore, who died on ==April 11, 1872==, aged ==27==, was the wife of Hugh Passmore, one of a family well-known in the EARLY DAYS OF TOOWOOMBA, where they were prominent citizens.
+> Maria Passmore, who died on April 11, 1872, aged 27, was the wife of Hugh Passmore, one of a family well-known in the EARLY DAYS OF TOOWOOMBA, where they were prominent citizens.
 
 
 --8<-- "snippets/add-to-this-story.md"
