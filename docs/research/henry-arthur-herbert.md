@@ -7,15 +7,13 @@ hide:
 
 # Henry Arthur Herbert
 
-#foundHeadstones #done
-
 **4 February 1869 — 25 April 1872** 
 
-## Henry Arthur Herbert <small>(29A)</small>
+## Henry Arthur Herbert <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="henry-arthur-herbert-headstone-2012.jpg" width="50%" />
+![Henry Arthur Herbert's headstone](../../assets/dig-finds/henry-arthur-herbert-headstone-2012.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Henry Arthur Herbert's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.* </small>
 
@@ -38,7 +36,7 @@ hide:
 > aged 3 years & 2 months <br>
 > <br>
 > … <br>
-> …  <br>
+> … <br>
 
 ### Learn more 
 
