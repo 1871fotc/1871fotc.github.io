@@ -13,8 +13,6 @@ hide:
 
 ### Headstone
 
-<img src="edward-linthwaite-headstone-2013.jpg" width="50%" />
-
 ![Edward Linthwaite's headstone](../../assets/dig-finds/edward-linthwaite-headstone-2013.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Edward Linthwaite's headstone discovered in a Toowong Cemetery Archaeological Dig in 2013.* </small>
