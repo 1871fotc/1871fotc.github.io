@@ -7,7 +7,7 @@ hide:
 
 # Betsy Mather
 
-**ca. ==1833== — 1 February 1863**
+**ca. 1833 — 1 February 1863**
 
 ## Betsy Mather <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
@@ -26,11 +26,10 @@ hide:
 
 > Sacred  <br>
 > to the memory of  <br>
-> Betsey the beloved wife of     <br>
+> Betsey the beloved wife of <br>
 > Robert Mather  <br>
-> who departed this life   <br>
-> life at … <br>
-> Feb 2 1863 aged  ==30== years<br>
+> who departed this life  <br>
+> Feb 2 1863 aged 30 years <br>
 
 
 ### Learn more 
