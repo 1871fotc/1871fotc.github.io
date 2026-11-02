@@ -7,15 +7,13 @@ hide:
 
 # Thomas Priestley Mitchison
 
-#foundHeadstones #done
-
 **ca. 1830 — 14 April 1858**
 
 ## Thomas Priestley Mitchison <small>(29A)</small>
 
 ### Headstone
 
-<img src="thomas-priestley-mitchinson-headstone-2012-2.jpg" width="50%" />
+![Fragments of Thomas Priestley Mitchison's headstone](../../assets/dig-finds/thomas-priestley-mitchinson-headstone-2012-2.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragments of Thomas Priestley Mitchison's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.* </small>
 
