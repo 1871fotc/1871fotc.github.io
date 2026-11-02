@@ -7,15 +7,13 @@ hide:
 
 # William Hugh Morris
 
-#foundHeadstones  #done
-
 **ca. 1840 — 17 September 1866**
 
-## William Hugh Morris <small>(29A)</small>
+## William Hugh Morris <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="william-morris-headstone-2023.jpg" width="50%" />
+![A fragment of William Hugh Morris' headstone](../../assets/dig-finds/william-morris-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of William Hugh Morris' headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.* </small>
 
@@ -26,12 +24,12 @@ hide:
 
 ### Inscription
 
-> In memory of   <br>
+> In memory of  <br>
 > William Morris  <br>
-> late of Penisarwaen <br>
-> Arvon, North Wales <br>
-> Died Sep^t^ 17^th^ 1866<br>
-> …ged 26 years <br>
+> late of Penisarwaen  <br>
+> Arvon, North Wales  <br>
+> Died Sep^t^ 17^th^ 1866. <br>
+> …ged 26 years  <br>
 
 ### Learn more 
 
