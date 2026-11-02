@@ -7,15 +7,15 @@ hide:
 
 # Daniel Peterson
 
-#foundHeadstones #done
-
 **ca. 1809 — 21 January 1855**
 
-## Daniel Peterson <small>(29A)</small>
+## Daniel Peterson <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
 <img src="daniel-peterson-headstone-2021.jpg" width="50%" />
+
+![Daniel Peterson's headstone](../../assets/dig-finds/daniel-peterson-headstone-2021.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Daniel Peterson's headstone discovered in a Toowong Cemetery Archaeological Dig in 2016.* </small>
 
