@@ -7,15 +7,14 @@ hide:
 
 # Eliza Jane Ritchie
 
-#foundHeadstones
-
 **Died 22 February 1869**
 
-## Eliza Jane Ritchie (29A)
+## Eliza Jane Ritchie ([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))
 
 ### Headstone
 
-<img src="eliza-jane-and-thomas-ritchie-headstone-2023.jpg" width="50%" />
+![Eliza Jane Ritchie's headstone](../../assets/dig-finds/eliza-jane-and-thomas-ritchie-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
+
 
 <small>*Eliza Jane Ritchie's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.* </small>
 
