@@ -24,12 +24,13 @@ hide:
 
 ### Inscription
 
-> …red <br>
+> Sacred <br>
 > to <br>
-> … memory of  <br>
-> …te McKe…   <br>
-> …ted this l… <br>
-> … 186…  <br>
+> the memory of  <br>
+> Charlotte McKeand  <br>
+> who departed this life <br>
+> April t… 1866  <br>
+> Aged … 
 
 
 ### Learn more 
