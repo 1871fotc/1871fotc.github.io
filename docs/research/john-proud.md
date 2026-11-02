@@ -7,7 +7,7 @@ hide:
 
 # John Proud
 
-**==ca. 1819== — 14 July 1872**
+**ca. 1819 — 14 July 1872**
 
 ## John Proud <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
@@ -31,7 +31,7 @@ hide:
 > John Proud <br>
 > who departed this life  <br>
 > July 14^th^ 1872 <br>
-> aged ==53== years <br>
+> aged 53 years <br>
 > Thy will be done <br>
 > …ected by his beloved  <br>
 > widow <br>
