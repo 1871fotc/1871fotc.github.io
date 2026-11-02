@@ -72,8 +72,8 @@ Graham DOUGLAS Mylne d. 1876 - https://onesearch.slq.qld.gov.au/permalink/61SLQ_
 
 --> 
 
-![Helena Mylne](../../assets/dig-finds/helena-mylne.jpg.jpg){ width="45.7%" class="full-width" loading=lazy } 
-![Graham Douglas Mylne](../../assets/dig-finds/graham-douglas-mylne.jpg){ width="49%" class="full-width" loading=lazy }
+![Helena Mylne](../../assets/dig-finds/helena-mylne.jpg){ width="35.7%" class="full-width" loading=lazy } 
+![Graham Douglas Mylne](../../assets/dig-finds/graham-douglas-mylne.jpg){ width="39%" class="full-width" loading=lazy }
 
 <small>*[Helena Mylne](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1cmbrig/alma99183513839702061) - State Library of Queensland.* </small><br> 
 
