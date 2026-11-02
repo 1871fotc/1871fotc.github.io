@@ -5,19 +5,15 @@ hide:
   - navigation 
 ---
 
-
 # Betsy Mather
-
-#foundHeadstones #checkInscription #newPhoto
-
 
 **ca. ==1833== — 1 February 1863**
 
-## Betsy Mather <small>(29A)</small>
+## Betsy Mather <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="betsy-mather-headstone-2023.jpg" width="50%" /> 
+![A fragment of Betsy Mather's headstone](../../assets/dig-finds/betsy-mather-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Betsy Mather's headstone discovered in Toowong Cemetery Archaeological Digs in 2023.* </small>
 
