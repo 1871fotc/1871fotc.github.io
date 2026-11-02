@@ -7,17 +7,16 @@ hide:
 
 # Sarah Ann Pratten
 
-#foundHeadstones #done
-
 **ca. 1837 — 21 November 1859**
 
-## Sarah Ann Pratten <small>(29A)</small>
+## Sarah Ann Pratten <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone and Footstone
 
-<img src="sarah-ann-pratten-headstone-2023.jpg" width="50%" />
+![Sarah Ann Pratten's headstone](../../assets/dig-finds/sarah-ann-pratten-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
-<img src="sarah-ann-pratten-footstone-2023.jpg" width="50%" />
+![Sarah Ann Pratten's footstone](../../assets/dig-finds/sarah-ann-pratten-footstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
+
 
 <small>*Sarah Ann Pratten's headstone and footstone discovered in a Toowong Cemetery Archaeological Dig in 2023.* </small>
 
