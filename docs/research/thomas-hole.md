@@ -15,7 +15,7 @@ hide:
 
 <!-- move to /dig-finds -->
 
-![A fragment of Thomas Hole's headstone](../../assets/dig-finds/thomas-hole-headstone-2023.jpg"){ width="40%" class="full-width" loading=lazy }
+![A fragment of Thomas Hole's headstone](../../assets/dig-finds/thomas-hole-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Thomas Hole's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.* </small>
 
