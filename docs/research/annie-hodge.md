@@ -13,15 +13,11 @@ hide:
 
 ### Headstone
 
-<img src="samuel-hodge-headstone-1.jpg" width="45%" /> <img src="samuel-hodge-headstone.jpg" width="45%" />
-
-<img src="annie-hodge-headstone-2023.jpg" width="50%" />
-
-![Fragments of Annie Hodge's headstone](../../assets/dig-finds/samuel-hodge-headstone-1.jpg){ width="40%" class="full-width" loading=lazy } 
+![Fragments of Annie Hodge's headstone](../../assets/dig-finds/samuel-hodge-headstone-1.jpg){ width="30%" class="full-width" loading=lazy } 
 ![Fragments of Annie Hodge's headstone](../../assets/dig-finds/samuel-hodge-headstone.jpg){ width="40%" class="full-width" loading=lazy }
 
 
-![Fragments of Annie Hodge's headstone](../../assets/dig-finds/annie-hodge-headstone-2023.jpg){ width="50%" class="full-width" loading=lazy }
+![Fragments of Annie Hodge's headstone](../../assets/dig-finds/annie-hodge-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 
 <small>*Fragments of Annie Hodge's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.*</small>
