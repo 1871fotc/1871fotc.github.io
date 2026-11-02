@@ -7,15 +7,13 @@ hide:
 
 # Archer Ashley Ryland
 
-#foundHeadstones #done 
-
 **27 August 1861 — 28 March 1875**
 
-## Archer Ashley Ryland <small>(29A)</small>
+## Archer Ashley Ryland <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="archer-ashley-ryland-headstone-2023.jpg" width="50%" />
+![A fragment of Archer Ashley Ryland's headstone](../../assets/dig-finds/archer-ashley-ryland-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Archer Ashley Ryland's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023*</small>
 
@@ -57,12 +55,13 @@ hide:
 - [DEATH OF MR. RYLAND. (1881, June 2). The Telegraph (Brisbane, Qld. : 1872 - 1947), p. 2.](https://trove.nla.gov.au/newspaper/article/183371326?searchTerm=John%20Hawksworth%20Ryland#)
 
 > DEATH OF MR. RYLAND. <br>
-> We regret to announce the death, at an early hour this morning,of Mr. John Hawksworth Ryland, manager, and for some short time past, acting general manager of the Queensland National Bank. The deceased gentleman has been suffering for six weeks past from a severe affection of the brain— the cause of his death.  Mr. Ryland has been connected with the National since its opening in 1872, and during that time he has enjoyed the entire confidence and approval of his directors, and of the customers of the bank; Mr. Ryland leaves a wife and family to mourn their loss. From the Australasian Insurance and Banking Record, we gather the following particulers of Mr. Ryland <br>
-> Mr. John H. Ryland has been promoted from the assistant managership to be manager at Brisbane, of the Queensland National Bank Mr. Drury retaining of course his position as general manager. Mr Ryland received his early training in the Union Bank of London, and was selected out of three hundred aplicants for the appointment of deputy secretary and treasurer of the Bank of Bombay; whilst there he took part in the initiation of the Government note currency, which replaced that of the local institutions. <br>
-> This, by the way, was a work of some difficulty in a country with half-a-dozen different languages and very little English spoken, and where any change is viewed by the natives with great distrust. He subsequently returned to England and came out to Australia, with the intention of settling in Victoria. Hearing of the opening for a local bank which Queensland presented, he went there in 1872, and succeeded in launching the Queensland National Bank, becoming acting-general manager, until Drury took permanent charge, when he became assistant-general manager, now appointed manager at Brisbane, where the head office is situate. Speaking from the opinion of those who know him, and from the work he has done, there can be no doubt that Mr. Ryland is a banker possessed of high qualifications. Of the success of the Queensland National Bank, in which he has been one factor, there is no room for doubt. <br>
+> We regret to announce the death, at an early hour this morning,of Mr. John Hawksworth Ryland, manager, and for some short time past, acting general manager of the Queensland National Bank. The deceased gentleman has been suffering for six weeks past from a severe affection of the brain— the cause of his death.  Mr. Ryland has been connected with the National since its opening in 1872, and during that time he has enjoyed the entire confidence and approval of his directors, and of the customers of the bank; Mr. Ryland leaves a wife and family to mourn their loss. From the Australasian Insurance and Banking Record, we gather the following particulers of Mr. Ryland <br><br>
+> Mr. John H. Ryland has been promoted from the assistant managership to be manager at Brisbane, of the Queensland National Bank Mr. Drury retaining of course his position as general manager. Mr Ryland received his early training in the Union Bank of London, and was selected out of three hundred aplicants for the appointment of deputy secretary and treasurer of the Bank of Bombay; whilst there he took part in the initiation of the Government note currency, which replaced that of the local institutions. <br><br>
+> This, by the way, was a work of some difficulty in a country with half-a-dozen different languages and very little English spoken, and where any change is viewed by the natives with great distrust. He subsequently returned to England and came out to Australia, with the intention of settling in Victoria. Hearing of the opening for a local bank which Queensland presented, he went there in 1872, and succeeded in launching the Queensland National Bank, becoming acting-general manager, until Drury took permanent charge, when he became assistant-general manager, now appointed manager at Brisbane, where the head office is situate. Speaking from the opinion of those who know him, and from the work he has done, there can be no doubt that Mr. Ryland is a banker possessed of high qualifications. Of the success of the Queensland National Bank, in which he has been one factor, there is no room for doubt. <br><br>
 > The funeral will take place at half-past three to-morrow afternoon.
 
-queensland-national-bank-brisbane-ca-1872.jpg
+
+![Queensland National Bank building, Brisbane, ca. 1872](../../assets/dig-finds/queensland-national-bank-brisbane-ca-1872.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*[Queensland National Bank building, Brisbane, ca. 1872](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1cmbrig/alma99183505821702061) - State Library of Queensland. This Queensland National Bank building was the first head office, opened in this leased three story building known as Warry's Store. It was opened on 3 June 1872. It served as head office until 1885.*</small>
 
