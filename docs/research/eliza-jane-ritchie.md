@@ -29,7 +29,7 @@ hide:
 > to the memory of <br>
 > Eliza Jane Ritchie  <br>
 > who died February 22^nd^ 1869 <br>
-> aged ==5== months <br>
+> aged 5 months <br>
 > also her brother <br>
 > Thomas Ritchie <br>
 > who died May 14^th^ 1875 <br>
