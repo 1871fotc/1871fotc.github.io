@@ -7,15 +7,14 @@ hide:
 
 # Thomas Grenier
 
-#foundHeadstones #done #newPhoto
-
 **ca. 1840 — 25 August 1857**
 
-## Thomas Grenier <small>(29A)</small>
+## Thomas Grenier <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="thomas-grenier-headstone-2023.jpg" width="50%" />
+![Thomas Grenier's headstone](../../assets/dig-finds/thomas-grenier-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
+
 
 <small>*Thomas Grenier's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.* </small>
 
