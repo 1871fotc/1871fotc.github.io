@@ -21,7 +21,7 @@ hide:
 ![Fragment of Sarah Emily Harris' headstone](../../assets/sarah-emily-harris-headstone-2012-2.jpg){ width="40%" class="full-width" loading=lazy }
 
 
-<small>*Fragments of Sarah Emily Harris' headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.* <small>
+<small>*Fragments of Sarah Emily Harris' headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.* </small>
 
 - Erected: North Brisbane Burial Grounds, Episcopalian section. After 17 September 1866 
 - Moved to: North Brisbane Burial Grounds, Reserved Area. ca. 1914. Recorded as S. E. Harris
