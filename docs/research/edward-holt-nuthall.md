@@ -7,15 +7,13 @@ hide:
 
 # Edward Holt Nuthall
 
-#foundHeadstones #done
-
 **ca. 1829 — 21 September 1860**
 
-## Edward Holt Nuthall (29A)
+## Edward Holt Nuthall ([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))
 
 ### Headstone
 
-<img src="edward-holt-nuthall-headstone-2023.jpg" width="50%" />
+![Edward Holt Nuthall's headstone](../../assets/dig-finds/edward-holt-nuthall-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Edward Holt Nuthall's headstone discovered in a Toowong Cemetery Archaeological Dig in 2014.* </small>
 
