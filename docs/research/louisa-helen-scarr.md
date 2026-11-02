@@ -7,15 +7,13 @@ hide:
 
 # Louisa Helen Scarr
 
-#foundHeadstones #checkInscription
-
 **30 August 1874 — 23 October 1874**
 
 ## Louisa Helen Scarr <small>(29A)</small>
 
 ### Headstone
 
-<img src="scarr-headstone-2012.jpg" width="50%" /> 
+![Fragments of Louisa Helen Scarr's headstone](../../assets/dig-finds/scarr-headstone-2012.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragments of Louisa Helen Scarr's headstone discovered in Toowong Cemetery Archaeological Digs in 2012.* </small>
 
@@ -26,7 +24,7 @@ hide:
 
 ### Inscription
 
-> …red
+> …red <br>
 > … memory of  <br>
 > … ur William    <br>
 > …ed only child of <br>
@@ -41,7 +39,7 @@ hide:
 > born 30^th^ August 1874 <br>
 > died 23^rd^ October 1874 <br>
 > Sleep dear baby <br>
-> ==…==
+> …
 
 
 ### Learn more 
@@ -78,6 +76,6 @@ hide:
 
 - [BY GONE BRISBANE. (1908, February 9). Truth (Brisbane, Qld. : 1900 - 1954), p. 7.](https://trove.nla.gov.au/newspaper/article/206486731?searchTerm=scarr)
 
-> The only child of William and Ellen Scarr was buried on October 23,1874. Scarr was a draughtsman in the Survey Office, and still resides in Brisbane.
+> The only child of William and Ellen Scarr was buried on October 23, 1874. Scarr was a draughtsman in the Survey Office, and still resides in Brisbane.
 
 --8<-- "snippets/add-to-this-story.md"
