@@ -7,15 +7,13 @@ hide:
 
 # Joseph Matthews
 
-#foundHeadstones #done
-
 **ca. 1850 — 10 March 1873**
 
-## Joseph Matthews <small>(29A)</small>
+## Joseph Matthews <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="joseph-matthews-headstone-2012.jpg" width="50%" /> 
+![A fragment of Joseph Matthews' headstone](../../assets/dig-finds/joseph-matthews-headstone-2012.jpg){ width="40%" class="full-width" loading=lazy }
 
 *A fragment of Joseph Matthews' headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.*
 
