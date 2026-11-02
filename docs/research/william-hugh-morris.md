@@ -13,7 +13,7 @@ hide:
 
 ### Headstone
 
-![A fragment of William Hugh Morris' headstone](../../assets/dig-finds/william-morris-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
+![A fragment of William Hugh Morris' headstone](../../assets/dig-finds/william-hugh-morris-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of William Hugh Morris' headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.* </small>
 
