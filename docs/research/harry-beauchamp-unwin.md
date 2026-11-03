@@ -7,15 +7,13 @@ hide:
 
 # Harry Beauchamp Unwin
 
-#foundHeadstones
-
 **2 January 1845 — 5 August 1874**
 
-## Harry Beauchamp Unwin <small>(29A)</small>
+## Harry Beauchamp Unwin <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="harry-beauchamp-unwin-headstone-2023.jpg" width="50%" />
+![A fragment of Harry Beauchamp Unwin's headstone](../../assets/dig-finds/harry-beauchamp-unwin-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Harry Beauchamp Unwin's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023* </small>
 
@@ -58,9 +56,7 @@ hide:
 > 
 > FUNERAL.—The Friends of the late H. B. UNWIN are requested to attend his Funeral, which takes place THIS DAY, at half-past 9 a.m., from Campbell's Commercial Hotel, South Brisbane. <br>
 
-<img src="harry-beauchamp-unwin-funeral-notice.jpg" width="50%" />
-
-<br>
+![Harry Beauchamp Unwin's funeral notice](../../assets/dig-finds/harry-beauchamp-unwin-funeral-notice.jpg){ width="40%" class="full-width" loading=lazy }
 
 - [DEATH OF H. B. UNWIN, ESQ. (1874, August 8). Warwick Examiner and Times (Qld. : 1867 - 1919), p. 2.](https://trove.nla.gov.au/newspaper/article/82104922?searchTerm=Harry%20Beauchamp%20Unwin#), Harry Beauchamp Unwin, Esq. was part proprietor of the Warwick Examiner and Times.
 
