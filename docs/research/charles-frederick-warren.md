@@ -5,17 +5,15 @@ hide:
   - navigation  
 ---
 
-# Charles Frederick Warren
-
-#foundHeadstones  
+# Charles Frederick Warren  
 
 **24 September 1862— 19 March 1863**
 
-## Charles Frederick Warren  <small>(29A)</small>
+## Charles Frederick Warren  <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="charles-frederick-warren-headstone.jpg" width="50%" />
+![Charles Frederick Warren's headstone](../../assets/dig-finds/charles-frederick-warren-headstone.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Charles Frederick Warren's headstone discovered in a Toowong Cemetery Archaeological Dig.*</small>
 
