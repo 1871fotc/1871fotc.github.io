@@ -7,15 +7,13 @@ hide:
 
 # Thomas Paine Yeowell
 
-#foundHeadstones #done
-
 **ca. 1833 — 28 April 1873**
 
-## Thomas Paine Yeowell <small>(29A)</small>
+## Thomas Paine Yeowell <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="thomas-paine-yeowell-headstone-2023.jpg" width="50%" />
+![A fragment of Thomas Paine Yeowell's headstone](../../assets/dig-finds/thomas-paine-yeowell-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Thomas Paine Yeowell's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.* </small>
 
@@ -26,12 +24,9 @@ hide:
 
 ### Inscription
 
-
 > 28^th^ April 1873  <br>
 > … d 40 years  <br>
 > …ill be done  <br>
-
-
 
 ### Learn more 
 
