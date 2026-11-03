@@ -7,16 +7,13 @@ hide:
 
 # Allan Ravenscroft Wettenhall
 
-#foundHeadstones  
-
-
 **16 November 1867 — 30 June 1871**
 
-## Allan Ravenscroft Wettenhall <small>(29A)</small>
+## Allan Ravenscroft Wettenhall <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="wettenhall-headstone-2023.jpg" width="50%" /> 
+![A fragment of Isla Frances Wettenhall's headstone](../../assets/dig-finds/wettenhall-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Allan Ravenscroft Wettenhall's headstone discovered in Toowong Cemetery Archaeological Digs.*</small>
 
