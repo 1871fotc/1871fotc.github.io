@@ -13,7 +13,7 @@ hide:
 
 ### Headstone
 
-![Walter Bushell Smith's headstone](../../assets/dig-finds/walter-bushell-smith-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
+![Walter Bushell Smith's headstone](../../assets/dig-finds/walter-bushell-smith-headstone-2023.jpg){ width="35%" class="full-width" loading=lazy }
 
 <small>*Walter Bushell Smith's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.*</small>
 
