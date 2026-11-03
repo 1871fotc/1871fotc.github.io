@@ -7,15 +7,13 @@ hide:
 
 # John Willcocks
 
-#foundHeadstones
-
 **ca. 1834 — 4 January 1872**
 
-## John Willcocks <small>(29A)</small>
+## John Willcocks <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-john-willcocks-headstone-2026.jpg 
+![A fragment of John Willcocks' headstone](../../assets/dig-finds/john-willcocks-headstone-2026.jpg ){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of John Willcocks' headstone discovered in a Toowong Cemetery Archaeological Dig.*</small>
 
