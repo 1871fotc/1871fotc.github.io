@@ -7,19 +7,17 @@ hide:
 
 # William Jackson Sparkes
 
-#foundHeadstones 
-
 **ca. 1799 — 7 January 1851**
 
-## William Jackson Sparkes <small>(29A)</small>
+## William Jackson Sparkes <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 William Jackson Sparkes was recorded as Jackson William Sparkes on his Death Record.
 
 ### Headstone
 
-<img src="william-jackson-sparkes-headstone.jpg" width="50%" /> 
+![Fragments of William Jackson  Sparkes' headstone](../../assets/dig-finds/william-jackson-sparkes-headstone.jpg){ width="40%" class="full-width" loading=lazy }
 
-<img src="elizabeth-bowers-headstone-2023.jpg" width="50%" /> 
+![Fragments of William Jackson  Sparkes' headstone](../../assets/dig-finds/elizabeth-bowers-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragments of William Jackson  Sparkes' headstone discovered in Toowong Cemetery Archaeological Digs in 2023.*</small>
 
