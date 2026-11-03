@@ -7,15 +7,14 @@ hide:
 
 # Edward Rice Thomas
 
-#foundHeadstones #checkInscription
-
 **ca. 1821 — 31 July 1853**
 
-## Edward Rice Thomas (29A)
+## Edward Rice Thomas ([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))
 
 ### Headstone
 
-<img src="edward-rice-thomas-headstone-2023.jpg" width="50%" />
+![A fragment of Edward Rice Thomas' headstone](../../assets/dig-finds/edward-rice-thomas-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
+
 
 <small>*A fragment of Edward Rice Thomas' headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.* </small>
 
