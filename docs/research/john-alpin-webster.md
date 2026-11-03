@@ -27,7 +27,7 @@ hide:
 > In memory <br>
 > of  <br>
 > James William Webster  <br>
-> late ==…==  <br>
+> late … <br>
 > at Cleveland  <br>
 > Who died at Brisbane   <br>
 > February 22^nd^ 1873  <br>
