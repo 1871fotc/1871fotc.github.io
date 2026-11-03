@@ -13,7 +13,7 @@ hide:
 
 ### Headstone
 
-![A fragment of Isla Frances Wettenhall's headstone](../../assets/dig-finds/wettenhall-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
+![A fragment of Allan Ravenscroft Wettenhall's headstone](../../assets/dig-finds/wettenhall-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Allan Ravenscroft Wettenhall's headstone discovered in Toowong Cemetery Archaeological Digs.*</small>
 
