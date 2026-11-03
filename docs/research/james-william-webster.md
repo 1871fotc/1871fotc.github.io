@@ -7,15 +7,13 @@ hide:
 
 # James William Webster
 
-#foundHeadstones #done 
-
 **ca. 1841 — 22 February 1873**
 
-## James William Webster <small>(29A)</small>
+## James William Webster <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="james-william-and-john-aplin-webster-headstone-2023.jpg" width="50%" />
+![Fragments of James William Webster's headstone](../../assets/dig-finds/james-william-and-john-aplin-webster-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragments of James William Webster's headstone discovered in a Toowong Cemetery Archaeological Dig in 2015.* </small>
 
@@ -77,8 +75,7 @@ Caption: [Sunday School group outside Cleveland Court House, ca. 1871](https://o
 > Bishopsbourne, March 5.
 
 
-
-bishopsbourne-ca-1870.jpg
+![Bishopsbourne and adjoining chapel, ca. 1870](../../assets/dig-finds/bishopsbourne-ca-1870.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*[From an early photograph of Bishopsbourne, showing the adjoining chapel, ca. 1870](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1cmbrig/alma99183506261202061) - State Library of Queensland. View of 'Bishopsbourne' (also known as Old Bishopsbourne) at Milton, Brisbane, looking towards the house from the long, drive. The building has been home to many bishops and archbishops since it was built in 1868 for the first Bishop of the Diocese of Brisbane, Edward Wyndham Tufnell.*</small>
 
