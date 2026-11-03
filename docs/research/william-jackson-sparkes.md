@@ -22,9 +22,9 @@ William Jackson Sparkes was recorded as Jackson William Sparkes on his Death Rec
 <small>*Fragments of William Jackson  Sparkes' headstone discovered in Toowong Cemetery Archaeological Digs in 2023.*</small>
 
 
-<img src="william-jackson-sparkes-footstone.jpg" width="50%" /> 
+![William Jackson Sparkes and Elizabeth Bowers' footstone](../../assets/dig-finds/william-jackson-sparkes-footstone.jpg){ width="40%" class="full-width" loading=lazy }
 
-<small>* William Jackson Sparkes and Elizabeth Bowers' footstone discovered in Toowong Cemetery Archaeological Digs in 2023.*</small>
+<small>*William Jackson Sparkes and Elizabeth Bowers' footstone discovered in Toowong Cemetery Archaeological Digs in 2023.*</small>
 
 - Erected: North Brisbane Burial Grounds, Episcopalian section. After 7 January 1851 
 - Moved to: North Brisbane Burial Grounds, Reserved Area. ca. 1914. Recorded as W. J. Sparkes
