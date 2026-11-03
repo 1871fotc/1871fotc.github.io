@@ -7,16 +7,13 @@ hide:
 
 # Isla Frances Wettenhall
 
-#foundHeadstones  
-
-
 **31 March 1864 — 28 April 1864**
 
-## Isla Frances Wettenhall <small>(29A)</small>
+## Isla Frances Wettenhall <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="wettenhall-headstone-2023.jpg" width="50%" /> 
+![A fragment of Isla Frances Wettenhall's headstone](../../assets/dig-finds/wettenhall-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Isla Frances Wettenhall's headstone discovered in Toowong Cemetery Archaeological Digs.*</small>
 
@@ -47,8 +44,6 @@ hide:
 > born 22^nd^ June 1872 <br>
 > died 11^th^ April 1874 <br>
 
-
-
 ### Learn more 
 
 - [Family Notices (1863, May 12). North Australian and Queensland General Advertiser (Ipswich, Qld. : 1862 - 1863), p. 2.](https://trove.nla.gov.au/newspaper/article/77293011?searchTerm=wettenhall)
@@ -63,7 +58,6 @@ hide:
 > Mother's name: Sarah Anne Warde <br>
 > Father/parent's name: Allan Ravenscroft Wettenhall <br>
 > Registration details: 1864/B/2563 <br>
-
 
 - [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/c2b1a207a06c329733b4c5c341f10169bf8188768cc077625452a8300257d4ab) 
 
