@@ -7,15 +7,13 @@ hide:
 
 # Joseph Thompson
 
-#foundHeadstones
-
 **ca. 1819 — 19 December 1857**
 
-## Joseph Thompson <small>(29A)</small>
+## Joseph Thompson <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="joseph-thompson-headstone-2023.jpg" width="50%" />
+![A fragment of Joseph Thompson's headstone](../../assets/dig-finds/joseph-thompson-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 *A fragment of Joseph Thompson's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.*
 
