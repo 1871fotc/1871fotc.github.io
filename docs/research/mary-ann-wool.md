@@ -7,15 +7,13 @@ hide:
 
 # Mary Ann Wool
 
-#foundHeadstones #done
-
 **Died 9 May 1864**
 
-## Mary Ann Wool <small>(29A)</small>
+## Mary Ann Wool <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="mary-ann-wool-headstone-2023.jpg" width="50%" />
+![A fragment of Mary Ann Wool's headstone](../../assets/dig-finds/mary-ann-wool-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Mary Ann Wool's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.*</small>
 
@@ -26,8 +24,8 @@ hide:
 
 ### Inscription
 
-> Sacred
-> to
+> Sacred  <br>
+> to  <br>
 > the memory of    <br>
 > Mary Ann Woo…  <br>
 > relict of the la…   <br>
