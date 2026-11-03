@@ -7,15 +7,15 @@ hide:
 
 # Richard Henry Watson
 
-#foundHeadstones
-
 **ca. 1807 — 12 July 1868** 
 
-## Richard Henry Watson <small>(29A)</small>
+## Richard Henry Watson <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="richard-henry-watson-headstone-2014.jpg" width="50%" />
+<img src="" width="50%" />
+
+![Richard Henry Watson's headstone](../../assets/dig-finds/richard-henry-watson-headstone-2014.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Richard Henry Watson's headstone discovered in a Toowong Cemetery Archaeological Dig in 2014.* </small>
 
