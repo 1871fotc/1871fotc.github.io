@@ -46,8 +46,8 @@ hide:
 > Registration details: 1872/B/7393  <br>
 
 
-- [STANTHORPE. (1872, August 17). The Ipswich Observer and West Moreton Advocate (Qld. : 1870 - 1879), p. 3.](https://trove.nla.gov.au/newspaper/article/284992855?searchTerm=John%20Wilson)
+- [STANTHORPE. (1872, August 17). The Ipswich Observer and West Moreton Advocate (Qld. : 1870 - 1879), p. 3.](https://trove.nla.gov.au/newspaper/article/284992855?searchTerm=John%20Wilson). Note the difference in age and death date with other records.
 
-> I am sorry to say that a fine young fellow, a mounted trooper, named John Wilson, ==aged 22==, and who had been relegated from this district a month ago, on account of bad health, to Brisbane, succumbed to pumonary complaint, accelerated by the severe frosts of this locality, on the ==6th inst==.
+> I am sorry to say that a fine young fellow, a mounted trooper, named John Wilson, aged 22, and who had been relegated from this district a month ago, on account of bad health, to Brisbane, succumbed to pumonary complaint, accelerated by the severe frosts of this locality, on the 6th inst.
 
 --8<-- "snippets/add-to-this-story.md"
