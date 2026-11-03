@@ -18,25 +18,27 @@ hide:
 <small>*A fragment of John Willcocks' headstone discovered in a Toowong Cemetery Archaeological Dig.*</small>
 
 - Erected: North Brisbane Burial Grounds, Episcopalian section. After 4 January 1872
-- Moved to: North Brisbane Burial Grounds, Reserved Area. ca. 1914. Recorded as John ==Wilcox==
+- Moved to: North Brisbane Burial Grounds, Reserved Area. ca. 1914. Recorded as John Wilcox
 - Demolished and disposed of in: Toowong Cemetery, Portion 29A. ca. 1930
 - Discovered: Toowong Cemetery, Portion 29A near Section 72.
 
 ### Inscription
 
 > Sacred <br>
-> to  the memory of  <br>
+> to the memory of <br>
 > John Willcocks <br>
-> who after a lingering illness  <br>
-> departed this life on the  <br>
+> who after a lingering illness <br>
+> departed this life on the <br>
 > …72
 
 
 ### Learn more 
 
+Note the differences in the last name, 'Willcocks', 'Wilcocks', and 'Wilcox' across the records.
+
 - [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/db74e00ed3515eb13d6a8ace25c55b15174f6a2aef85c9e3a1f461396ed52c8a)
 
-> Death registration: John ==Wilcocks== <br>
+> Death registration: John Wilcocks <br>
 > Death date: 04/01/1872 <br>
 > Mother's name: Elizabeth Smith <br>
 > Father/parent's name: Thomas Wilcocks <br>
