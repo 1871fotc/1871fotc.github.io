@@ -12,13 +12,13 @@ hide:
 
 **ca. 1851 — 6 July 1867**
 
-## Rose Hannah Sparkes <small>(29A)</small>
+## Rose Hannah Sparkes <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="william-jackson-sparkes-headstone.jpg" width="50%" /> 
+![Fragments of Rose Hannah Sparkes' headstone](../../assets/dig-finds/william-jackson-sparkes-headstone.jpg){ width="40%" class="full-width" loading=lazy }
 
-<img src="elizabeth-bowers-headstone-2023.jpg" width="50%" />
+![Fragments of Rose Hannah Sparkes' headstone](../../assets/dig-finds/elizabeth-bowers-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragments of Rose Hannah Sparkes' headstone discovered in Toowong Cemetery Archaeological Digs n 2023.*</small>
 
@@ -68,13 +68,9 @@ hide:
 > SPARKES.—On the 6th July, at the residence of her mother, M. A. Rosetta, of Fortitude Valley, Rose Hannah, youngest daughter of the late W. J. Sparkes, and step-daughter of the late H. Rosetta, aged 16 years.
 
 <!-- 
-https://www.familyhistory.bdm.qld.gov.au/details/4e6488559f837ae6e68b84875459fa2e23c775c2a6f68f46cff5fc2b486ba1f8
+- [Birth Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/4e6488559f837ae6e68b84875459fa2e23c775c2a6f68f46cff5fc2b486ba1f8) - Mary Ann Sparkes née Bowers remarried to Henry Rosetta in 25/5/1852 after Jackson Sparkes death. They had a son called "Christmas Gift" 
 
-Mary Ann Sparkes née Bowers remarried to Henry Rosetta in 25/5/1852 after Jackson Sparkes death.
-
-They had a son called "Christmas Gift" 
-
-Family Notices (1864, June 27). The Brisbane Courier (Qld. : 1864 - 1933), p. 2. Retrieved April 17, 2026, from http://nla.gov.au/nla.news-article1259343
+- Family Notices (1864, June 27). The Brisbane Courier (Qld. : 1864 - 1933), p. 2. Retrieved April 17, 2026, from http://nla.gov.au/nla.news-article1259343
 -->
 
 
