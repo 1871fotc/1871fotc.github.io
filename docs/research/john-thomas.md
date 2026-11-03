@@ -7,15 +7,13 @@ hide:
 
 # John Thomas
 
-#foundHeadstones
-
 **ca. 1824 — 25 September 1864**
 
-## John Thomas <small>(29A)</small>
+## John Thomas <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="john-thomas-headstone-2023.jpg" width="50%" />
+![A fragment of John Thomas' headstone](../../assets/dig-finds/john-thomas-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of John Thomas' headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.* </small>
 
