@@ -8,18 +8,16 @@ hide:
 
 # Benjamin Henry Tayler
 
-#foundHeadstones #done #checkInscription
-
-
 **ca. 1841 — 11 March 1870**
 
-## Benjamin Henry Tayler <small>(29A)</small>
+## Benjamin Henry Tayler <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="benjamin-henry-tayler-headstone-2012.jpg" width="50%" />
+![A fragment of Benjamin Henry Tayler's headstone](../../assets/dig-finds/benjamin-henry-tayler-headstone-2012.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Benjamin Henry Tayler's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.*</small>
+
 
 - Erected: North Brisbane Burial Grounds, Episcopalian section. After 11 March 1870
 - Moved to: North Brisbane Burial Grounds, Reserved Area. ca. 1914. Recorded as B. H. Tayler
@@ -29,16 +27,16 @@ hide:
 ### Inscription
 
 > Benjamin Henry Tayler <br>
-> ==…==  <br>
+> …  <br>
 > England <br>
 > Drowned at Oxley <br>
 > 11^th^ March 1870 <br>
 > aged 29 years <br>
-> ==…== <br>
-> ==…== <br>
-> ==…== <br>
+> … <br>
+> … <br>
+> … <br>
 > Cobb & Company Queensland  <br>
-> ==…== <br>
+> … <br>
 
 
 ### Learn more 
