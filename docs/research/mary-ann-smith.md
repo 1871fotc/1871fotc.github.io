@@ -14,7 +14,7 @@ hide:
 
 ### Headstone
 
-![Mary Ann Smith's headstone](../../assets/dig-finds/walter-bushell-smith-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
+![Mary Ann Smith's headstone](../../assets/dig-finds/walter-bushell-smith-headstone-2023.jpg){ width="30%" class="full-width" loading=lazy }
 
 <small>*Mary Ann Smith's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.* </small>
 
