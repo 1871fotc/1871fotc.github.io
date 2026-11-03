@@ -35,7 +35,7 @@ hide:
 > Van Diemens Land <br>
 > who departed this life <br>
 > on the 31^st^ July A.D. 1853 <br>
-> ÆTATIS ==32== years  <br>
+> ÆTATIS 32 years  <br>
 > … <br>
 
 ### Learn more 
