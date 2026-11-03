@@ -7,15 +7,13 @@ hide:
 
 # John Alpin Webster
 
-#foundHeadstones #done #checkInscription
-
 **Died 24 June 1871**
 
-## John Alpin Webster <small>(29A)</small>
+## John Alpin Webster <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="james-william-and-john-aplin-webster-headstone-2023.jpg" width="50%" />
+![Fragments of John Alpin Webster's headstone](../../assets/dig-finds/james-william-and-john-aplin-webster-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 *Fragments of John Alpin Webster's headstone discovered in a Toowong Cemetery Archaeological Dig in 2015.*
 
