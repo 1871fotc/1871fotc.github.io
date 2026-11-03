@@ -7,15 +7,13 @@ hide:
 
 # James Henry Thompson
 
-#foundHeadstones
-
 **ca. 1841 — 9 June 1869**
 
-## James Henry Thompson <small>(29A)</small>
+## James Henry Thompson <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="james-henry-thompson-headstone-2012.jpg" width="50%" />
+![Fragments of James Henry Thompson's headstone](../../assets/dig-finds/james-henry-thompson-headstone-2012.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragments of James Henry Thompson's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012* </small>
 
