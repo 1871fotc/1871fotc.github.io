@@ -7,15 +7,14 @@ hide:
 
 # Emily Matilda Thomson
 
-#foundHeadstones #done #newPhoto
-
 **ca. January 1867 — 11 April 1867**
 
-## Emily Matilda Thomson <small>(29A)</small>
+## Emily Matilda Thomson <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499)
+)</small>
 
 ### Headstone
 
-<img src="james-henry-thompson-headstone-2012.jpg" width="50%" />
+![Fragments of Emily Matilda Thomson's headstone](../../assets/dig-finds/james-henry-thompson-headstone-2012.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragments of Emily Matilda Thomson's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012* </small>
 
