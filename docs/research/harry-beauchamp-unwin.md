@@ -35,7 +35,7 @@ hide:
 ### Learn more 
 
 
-- [Death Record -Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/728561bbdb546cf56a2f1cbaa41598b837dd8be58a5ad8f1d06092eac8ec6175)
+- [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/728561bbdb546cf56a2f1cbaa41598b837dd8be58a5ad8f1d06092eac8ec6175)
 
 > Death registration: Harry Beauchamp Unwin <br>
 > Death date: 05/08/1874 <br>
