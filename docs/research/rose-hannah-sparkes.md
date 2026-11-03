@@ -27,8 +27,8 @@ hide:
 ### Inscription
 
 > Sacred to the memory <br>
-> of  <br>
-> W. J. Sparkes    <br>
+> of <br>
+> W. J. Sparkes <br>
 > who died January 7^th^ 1851 <br>
 > aged 52 years   <br>
 
@@ -63,12 +63,7 @@ hide:
 > DEATH. <br>
 > SPARKES.—On the 6th July, at the residence of her mother, M. A. Rosetta, of Fortitude Valley, Rose Hannah, youngest daughter of the late W. J. Sparkes, and step-daughter of the late H. Rosetta, aged 16 years.
 
-<!-- Research needed.
-
-- [Birth Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/4e6488559f837ae6e68b84875459fa2e23c775c2a6f68f46cff5fc2b486ba1f8) - Mary Ann Sparkes née Bowers remarried to Henry Rosetta in 25/5/1852 after Jackson Sparkes death. They had a son called "Christmas Gift" 
-
-- Family Notices (1864, June 27). The Brisbane Courier (Qld. : 1864 - 1933), p. 2. Retrieved April 17, 2026, from http://nla.gov.au/nla.news-article1259343
--->
+Rose's mother, Mary Ann Sparkes (née Bowers), [married](https://www.familyhistory.bdm.qld.gov.au/details/4e6488559f837ae6e68b84875459fa2e23c775c2a6f68f46cff5fc2b486ba1f8) Henry Rosetta on 25 May 1852 after the death of her husband, William Jackson Sparkes. Mary and Henry had a son called [Christmas Gift](https://www.familyhistory.bdm.qld.gov.au/details/01abeaaa8daea44f75df744dc1fc8550ece680e9e1a53679a85e3e125255f043) (26/12/1858 – 25/6/1864).
 
 
 - [BYGONE BRISBANE. (1908, March 8). Truth (Brisbane, Qld. : 1900 - 1954), p. 7. ](https://trove.nla.gov.au/newspaper/article/206481341?searchTerm=sparkes)
