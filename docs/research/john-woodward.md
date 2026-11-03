@@ -7,13 +7,13 @@ hide:
 
 # John Woodward
 
-**==ca. 1829== — 12 April 1864**
+**ca. 1829 — 12 April 1864**
 
 ## John Woodward <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-![==Name=='s headstone](../../assets/dig-finds/john-woodward-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
+![John Woodward's headstone](../../assets/dig-finds/john-woodward-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*John Woodward's headstone discovered in a Toowong Cemetery Archaeological Dig in 2014.* </small>
 
