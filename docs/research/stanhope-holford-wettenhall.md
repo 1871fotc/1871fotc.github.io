@@ -6,17 +6,14 @@ hide:
 ---
 
 # Stanhope Holford Wettenhall
-
-#foundHeadstones  
-
-
+ 
 **22 June 1872 — 11 April 1874**
 
-## Stanhope Holford Wettenhall <small>(29A)</small>
+## Stanhope Holford Wettenhall <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="wettenhall-headstone-2023.jpg" width="50%" /> 
+![A fragment of Stanhope Holford Wettenhall's headstone](../../assets/dig-finds/wettenhall-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Stanhope Holford Wettenhall's headstone discovered in Toowong Cemetery Archaeological Digs.*</small>
 
