@@ -7,17 +7,15 @@ hide:
 
 # Henry Wells
 
-#foundHeadstones
-
 **ca. 1858 — 22 May 1861** 
 
-## Henry Wells <small>(29A)</small>
+## Henry Wells <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="henry-wells-headstone-2014.jpg" width="50%" />
+![A fragment of Henry Wells' headstone](../../assets/dig-finds/henry-wells-headstone-2014.jpg){ width="40%" class="full-width" loading=lazy }
 
-*A fragment of Henry Wells' headstone discovered in a Toowong Cemetery Archaeological Dig in 2014.*
+<small>*A fragment of Henry Wells' headstone discovered in a Toowong Cemetery Archaeological Dig in 2014.*</small>
 
 - Erected: North Brisbane Burial Grounds. After 22 May 1861 
 - Moved to: North Brisbane Burial Grounds, Reserved Area. ca. 1914. Recorded as Henry Wells
