@@ -7,15 +7,13 @@ hide:
 
 # Sarah Williams
 
-#foundHeadstones 
-
 **ca. 1797 — 7 April 1849**
 
-## Sarah Williams <small>(29A)</small>
+## Sarah Williams <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="sarah-williams-headstone-2023.jpg" width="50%" />
+![Fragments of Sarah William's headstone](../../assets/dig-finds/sarah-williams-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 *Fragments of Sarah William's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.*
 
@@ -26,7 +24,7 @@ hide:
 
 ### Inscription
 
-> Sacred
+> Sacred <br>
 > to the memory of  <br>
 > of  <br>
 > M^rs^ Sarah Williams  <br>
@@ -34,7 +32,7 @@ hide:
 > M^r^ John Williams <br>
 > of South Brisbane  <br>
 > who after a long and painful <br>
-> illness  which she bore with Christi…   <br>
+> illness which she bore with Christi…   <br>
 > … <br> 
 
 ### Learn more 
