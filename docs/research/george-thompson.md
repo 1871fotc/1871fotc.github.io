@@ -7,15 +7,13 @@ hide:
 
 # George Thompson
 
-#foundHeadstones #done
-
 **ca. 1829 — 26 October 1871**
 
-## George Thompson <small>(29A)</small>
+## George Thompson <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="george-thompson-headstone.jpg" width="50%" />
+![A fragment of George Thompson's headstone](../../assets/dig-finds/george-thompson-headstone.jpg){ width="40%" class="full-width" loading=lazy }
 
 *A fragment of George Thompson's headstone discovered in a Toowong Cemetery Archaeological Dig in 2024.*
 
