@@ -8,15 +8,13 @@ hide:
 
 # Mary Ann Smith
 
-#foundHeadstones #done
-
 **28 May 1865 — 16 June 1865**
 
-## Mary Ann Smith <small>(29A)</small>
+## Mary Ann Smith <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="walter-bushell-smith-headstone-2023.jpg" width="50%" />
+![Mary Ann Smith's headstone](../../assets/dig-finds/walter-bushell-smith-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Mary Ann Smith's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.* </small>
 
