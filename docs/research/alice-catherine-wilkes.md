@@ -7,15 +7,13 @@ hide:
 
 # Alice Catherine Wilkes
 
-#foundHeadstones #done
-
 **4 November 1847 — 23 February 1853**
 
-## Alice Catherine Wilkes <small>(29A)</small>
+## Alice Catherine Wilkes <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="alice-catherine-wilkes-headstone-2023.jpg" width="50%" />
+![A fragment of Alice Catherine Wilkes's headstone](../../assets/dig-finds/alice-catherine-wilkes-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Alice Catherine Wilkes's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.*</small>
 
