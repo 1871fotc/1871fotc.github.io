@@ -3,8 +3,6 @@ title: Jackson Allen
 hide:
   - toc
   - navigation
-search:
-  exclude: true
 ---
 
 # Jackson Allen
