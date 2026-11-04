@@ -2,12 +2,16 @@
 title: Alexander Campbell
 hide:
   - toc
-  - navigation 
+  - navigation
+search:
+  exclude: true
 ---
+
+<!-- Research needed. -->
 
 # ==P.== Alexander Campbell (speculation)
 
-#foundHeadstones #toDoHeadstones #index #indexInPDF
+#index #indexInPDF
 
 **==born d mmmm yyyy== — ==died d mmmm yyyy==**
 
@@ -15,7 +19,7 @@ hide:
 
 ### Headstone
 
-<img src="alexander-campbell-headstone-2021.jpg" width="49%" />
+![Fragment of Alexander Campbell's headstone](../../assets/dig-finds/alexander-campbell-headstone-2021.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragment of Alexander Campbell's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.* </small>
 
