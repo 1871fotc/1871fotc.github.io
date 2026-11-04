@@ -8,15 +8,13 @@ hide:
 
 # Mary McQuaker
 
-#foundHeadstones
-
 **Died 13 August 1872**
 
-## Mary McQuaker <small>(29A)</small>
+## Mary McQuaker <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="mary-mcquaker-headstone-2023.jpg" width="50%" />
+![Fragments of Mary McQuaker's headstone](../../assets/dig-finds/mary-mcquaker-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragments of Mary McQuaker's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.* </small>
 
@@ -48,7 +46,7 @@ hide:
 - [Family Notices (1862, February 7). The Courier (Brisbane, Qld. : 1861 - 1864), p. 2.](https://trove.nla.gov.au/newspaper/article/4603774?searchTerm=M%27Quaker)
 
 > MARRIAGE. <br>
-> On the 4th instant, by the Rev. C. Ogg, West Hamilton McQuaker, fourth son of the late William McQuaker, Esq., of Ayrshire, Scotland, to Mary, second daughter of the late Donald ==Sutherland==, Esq., of Sutherlandshire, Scotland, and relict of the late John Souter.
+> On the 4th instant, by the Rev. C. Ogg, West Hamilton McQuaker, fourth son of the late William McQuaker, Esq., of Ayrshire, Scotland, to Mary, second daughter of the late Donald Sutherland, Esq., of Sutherlandshire, Scotland, and relict of the late John Souter.
 
 <!-- 
 Ogg was Presbyterian.
