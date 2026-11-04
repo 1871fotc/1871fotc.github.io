@@ -7,15 +7,13 @@ hide:
 
 # Ralph Black
 
-#foundHeadstones #done
-
 **ca. 1823 — 17 January 1864**
 
-## Ralph Black <small>(29A)</small>
+## Ralph Black <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="ralph-black-headstone-2023.jpg" width="50%" />
+![A fragment of Ralph Black's headstone](../../assets/dig-finds/ralph-black-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Ralph Black's headstone discovered in a Toowong Cemetery Archaeological Dig in 2013.* </small>
 
@@ -26,8 +24,8 @@ hide:
 
 ### Inscription
 
-> … lph Blac…  <br>
-> … d Jan^y^ 17^th^ 1864 <br>
+> …lph Blac…  <br>
+> …d Jan^y^ 17^th^ 1864 <br>
 > Aged XLI years <br>
 
 ### Learn more 
