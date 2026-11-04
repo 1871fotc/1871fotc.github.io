@@ -8,15 +8,13 @@ hide:
 
 # Catherine Isabella Fraser
 
-#foundHeadstones 
-
 **29 January 1858 — 2 March 1862**
 
-## Catherine Isabella Fraser <small>(29A)</small>
+## Catherine Isabella Fraser <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="catherine-isabella-fraser-headstone-2012.jpg" width="50%" />
+![A fragment of Catherine Isabella Fraser's headstone](../../assets/dig-finds/catherine-isabella-fraser-headstone-2012.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Catherine Isabella Fraser's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.* </small>
 
@@ -28,9 +26,9 @@ hide:
 ### Inscription
 
 > In memory of <br>
-> Catherine Isabella    <br>
-> ==daughter of== <br>
-> ==John & Catherine Fraser== <br>
+> Catherine Isabella <br>
+> daughter of <br>
+> John & Catherine Frase <br>
 > …  <br>
 
 ### Learn more 
