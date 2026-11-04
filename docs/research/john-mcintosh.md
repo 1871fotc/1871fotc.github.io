@@ -7,15 +7,13 @@ hide:
 
 # John McIntosh
 
-#foundHeadstones #done
-
 **Died 21 May 1863**
 
-## John McIntosh <small>(29A)</small>
+## John McIntosh <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="john-mcintosh-headstone-2026.jpg" width="50%" />
+![A fragment of John McIntosh's headstone](../../assets/dig-finds/john-mcintosh-headstone-2026.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of John McIntosh's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.* </small>
 
