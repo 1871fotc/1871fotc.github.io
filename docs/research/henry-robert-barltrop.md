@@ -52,4 +52,7 @@ hide:
 
 - [Classified Advertising (1876, February 1). The Brisbane Courier (Qld. : 1864 - 1933), p. 1.](https://trove.nla.gov.au/newspaper/article/1396705?searchTerm=Henry%20Barltrop), Henry Baltrop senior was a  Bootmaker in Adelaide-street.
 
+- [Curse of the ‘Young Australia’](https://historyoutthere.com/2021/01/17/curse-of-the-young-australia/) - In 1885 Henry Barltrop opened the ‘Excelsior Turkish Baths’ at Petrie Bight in Brisbane.
+
+
 --8<-- "snippets/add-to-this-story.md"
