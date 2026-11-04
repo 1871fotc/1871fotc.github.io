@@ -7,15 +7,13 @@ hide:
 
 # Helen McKay Laing
 
-#foundHeadstones #done
-
 **24 April 1864 — 9 April 1865**
 
-## Helen McKay Laing <small>(29A)</small>
+## Helen McKay Laing <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="laing-headstone-2023.jpg" width="50%" /> 
+![Fragments of Margaret Laing's headstone](../../assets/dig-finds/laing-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragments of Helen McKay Laing's headstone discovered in Toowong Cemetery Archaeological Digs in 2021.* </small>
 
