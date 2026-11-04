@@ -3,8 +3,6 @@ title: John Lewis Ashworth
 hide:
   - toc
   - navigation
-search:
-  exclude: true
 ---
 
 # John Lewis Ashworth
