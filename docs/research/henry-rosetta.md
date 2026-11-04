@@ -7,15 +7,13 @@ hide:
 
 # Henry Rosetta
 
-#foundHeadstones #toDoHeadstones #index #indexInPDF #newPhoto
-
 **ca. 1820 — 9 December 1863**
 
-## Henry Rosetta <small>(29A)</small>
+## Henry Rosetta <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="henry-rosetta-headstone-2021.jpg" width="50%" />
+![A fragment of Henry Rosetta's headstone](../../assets/dig-finds/henry-rosetta-headstone-2021.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Henry Rosetta's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.* </small>
 
@@ -47,7 +45,7 @@ hide:
 
 - [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/b7116c1e024fb7a7ae7c5c756438c490755ae9a6b7569befaaa93c9a15c9733f)
 
->  Death registration: Henry Rosetta <br>
+> Death registration: Henry Rosetta <br>
 > Death date: 09/12/1863 <br>
 > Mother's name: - <br>
 > Father/parent's name: - <br>
