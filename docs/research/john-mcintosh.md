@@ -34,13 +34,13 @@ hide:
 
 ### Learn more 
 
-- [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/bac4c816afc003cd027419241e31ee77749a378405b374aa3438c1eb81fe1034) 
+- [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/187b74a49748b0a50b26cea511fdf5846bb5caddc57c84f7794b636e8d0a3435)
 
-> Death registration: John Woodward <br>
-> Death date: 12/04/1864 <br>
+> Death registration: John McIntosh <br>
+> Death date: 21/05/1863 <br>
 > Mother's name: - <br>
-> Father/parent's name: William Toy Woodward <br>
-> Registration details: 1864/B/1653 <br>
+> Father/parent's name: - <br>
+> Registration details: 1863/B/1200 <br>
 
 - [EVENTS OF THE MONTH. (1863, June 18). The Courier (Brisbane, Qld. : 1861 - 1864), p. 3.](https://trove.nla.gov.au/newspaper/article/3163948?searchTerm=John%20mcintosh#)
 
