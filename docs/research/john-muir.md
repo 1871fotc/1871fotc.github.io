@@ -7,15 +7,15 @@ hide:
 
 # John Muir
 
-#foundHeadstones #checkInscription
+**ca. 1848 — 21 August 1863**
 
-**ca. ==1848== — 21 August 1863**
-
-## John Muir <small>(29A)</small>
+## John Muir <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="john-muir-headstone-2021.jpg" width="49%" /> <img src="john-muir-headstone-2023.jpg" width="49%" />
+
+![A fragment of John Muir's headstone](../../assets/dig-finds/john-muir-headstone-2021.jpg){ width="40%" class="full-width" loading=lazy } 
+![A fragment of John Muir's headstone](../../assets/dig-finds/john-muir-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragments of John Muir's headstone discovered in Toowong Cemetery Archaeological Digs in 2021 and 2023.* </small>
 
@@ -26,27 +26,18 @@ hide:
 
 ### Inscription
 
-> E…  <br>
-> Davi…  <br>
-> Shipwrig…     <br>
-> in memor… <br>
+> E…  …ted by <br>
+> Davi…  Muir <br>
+> Shipwrig… … Brisbane    <br>
+> in memor…  of his<br>
 > Son J…    <br>
-> who dep…    <br>
+> who dep…  …his  <br>
 > life at … <br>
-> aged ==15== <br>
-
-<br>
-
-> …ted by <br>
-> … Muir <br>
-> … Brisbane <br>
-> … of his <br>
-> … <br>
-> …his 
+> aged 15 <br>
 
 Speculatively:
 
-Erected by  <br> David Muir  <br> Shipwright of Brisbane  <br> in memory of his  <br> son John  <br> who departed <br> this life at …  <br> aged ==15==. 
+Erected by <br> David Muir  <br> Shipwright of Brisbane  <br> in memory of his  <br> son John  <br> who departed <br> this life at …  <br> aged 15. 
 
 ### Learn more 
 
