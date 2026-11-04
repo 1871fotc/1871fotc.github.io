@@ -7,7 +7,7 @@ hide:
 
 # Alice Hervey
 
-**Died 13 August 1854**
+**ca. 1829 – 13 August 1854**
 
 ## Alice Hervey <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
@@ -56,11 +56,11 @@ Note the differences in last name and death date between the inscription and the
 > DIED. <br>
 > On Friday the 11th inst., at Brisbane, Moreton Bay, Alice, the beloved wife of Matthew Hervey, Esq., M.L.C., Victoria. Friends will please accept of this intimation.
 
-- [BYGONE BRISBANE. (1907, December 1). Truth (Brisbane, Qld. : 1900 - 1954), p. 6.](https://trove.nla.gov.au/newspaper/article/206486389?searchTerm=Matthew%20Henry) 
+- [BYGONE BRISBANE. (1907, December 1). Truth (Brisbane, Qld. : 1900 - 1954), p. 6.](https://trove.nla.gov.au/newspaper/article/206486389?searchTerm=Matthew%20Henry). Note the different last name and death date in this record. 
 
 > BYGONE BRISBANE. <br>
 > The Paddington Cemetery. <br>
-> Alice, the wife of Matthew ==Henry==, died at 25 on ==August 11, 1851==. The stone speaks for the husband "who loved her during life, mourned her death, and reveres her memory." Beneath that "Blessed are the dead who die in the Lord, Amen."
+> Alice, the wife of Matthew Henry, died at 25 on August 11, 1851. The stone speaks for the husband "who loved her during life, mourned her death, and reveres her memory." Beneath that "Blessed are the dead who die in the Lord, Amen."
 
 <!-- 
 
@@ -68,7 +68,7 @@ Matthew Hervey - State Library of Queensland  https://onesearch.slq.qld.gov.au/p
 
 -->
 
-![The Hon. Matthew Hervey](../../assets/dig-finds/[29A]matthew-hervey-1863.jpg){ width="40%" class="full-width" loading=lazy }
+![The Hon. Matthew Hervey](../../assets/dig-finds/matthew-hervey-1863.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*[The Hon. Matthew Hervey](https://find.slv.vic.gov.au/permalink/61SLV_INST/1g4vb22/alma9916440243607636) - State Library Victoria.  Calvert, Samuel, 1828-1913, engraver. August 22, 1863.* </small>
 
