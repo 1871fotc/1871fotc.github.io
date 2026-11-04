@@ -7,17 +7,15 @@ hide:
 
 # Margaret Laing
 
-#foundHeadstones #done
-
 **16 November 1861 — 6 February 1863**
 
-## Margaret Laing <small>(29A)</small>
+## Margaret Laing <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="laing-headstone-2023.jpg" width="50%" /> 
+![Fragments of Margaret Laing's headstone](../../assets/dig-finds/laing-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
-*Fragments of Margaret Laing's headstone discovered in Toowong Cemetery Archaeological Digs in 2021.*
+<small>*Fragments of Margaret Laing's headstone discovered in Toowong Cemetery Archaeological Digs in 2021.*</small>
 
 - Erected: North Brisbane Burial Grounds, Presbyterian section.  After 6 February 1863
 - Moved to: North Brisbane Burial Grounds, Reserved Area. ca. 1914. Recorded as M. Laing
