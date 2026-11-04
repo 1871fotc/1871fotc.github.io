@@ -3,8 +3,6 @@ title: Henry Robert Barltrop
 hide:
   - toc
   - navigation
-search:
-  exclude: true
 ---
 
 # Henry Robert Barltrop
