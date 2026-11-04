@@ -29,12 +29,12 @@ hide:
 > aged two months <br>
 > <br>
 > Amy Winifred Barlee <br>
-> who died on the 17^th^  March 1862  <br>
+> who died on the 17^th^ March 1862  <br>
 > aged two months <br>
 > <br>
 > and
 > Edward Humphrey Barlee  <br>
-> who died on the 31^st^  March 1869  <br>
+> who died on the 31^st^ ==March== 1869  <br>
 > aged six years and two months <br>
 > <br>
 > … <br>
@@ -62,7 +62,7 @@ hide:
 
 -->
 
-- [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/bb0084325ec0c662f0926bb9149ee27517685b6e3315baff6b5edc30757ed122)
+- [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/bb0084325ec0c662f0926bb9149ee27517685b6e3315baff6b5edc30757ed122) - Note the difference in the death date on the inscription.
 
 
 > Death registration: Edward Humphrey Barlee <br>
