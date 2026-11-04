@@ -3,8 +3,6 @@ title: Amos Braysher
 hide:
   - toc
   - navigation 
-search:
-  exclude: true
 ---
 
 # Amos Braysher
@@ -17,7 +15,7 @@ search:
 
 <!-- move to /dig-finds -->
 
-![Amos Braysher's headstone](../../assets/amos-braysher-headstone-2012.jpg){ width="40%" class="full-width" loading=lazy }
+![Amos Braysher's headstone](../../assets/dig-finds/amos-braysher-headstone-2012.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Amos Braysher's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.*</small>
 
