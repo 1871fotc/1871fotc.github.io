@@ -8,15 +8,14 @@ hide:
 
 # Catherine Low
 
-#foundHeadstones
-
 **ca. 1830 — 8 December 1863**
 
-## Catherine Low <small>(29A)</small>
+## Catherine Low <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499)
+)</small>
 
 ### Headstone
 
-<img src="anthony-gowan-low-headstone-2021.jpg" width="50%" />
+![A fragment of Catherine Low's headstone](../../assets/dig-finds/anthony-gowan-low-headstone-2021.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Catherine Low's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.* </small>
 
