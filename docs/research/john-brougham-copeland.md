@@ -7,15 +7,13 @@ hide:
 
 # John Brougham Copeland
 
-#foundHeadstones #toDoHeadstones #index #indexInPDF #symbology
-
 **ca. 1833 — 19 April 1867**
 
 ## John Brougham Copeland <small>[(Toowong Cemetery Symbology Display)](https://maps.app.goo.gl/yDA2J7YJrrdirAJ4A)</small>
 
 ### Headstone
 
-<img src="john-brougham-copeland-headstone-2015.jpg" width="50%" />
+![Fragment of John Brougham Copeland's headstone](../../assets/dig-finds/john-brougham-copeland-headstone-2015.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragment of John Brougham Copeland's headstone discovered in a Toowong Cemetery Archaeological Dig in 2015.*</small>
 
