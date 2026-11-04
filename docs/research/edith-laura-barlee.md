@@ -3,8 +3,6 @@ title: Edith Laura Barlee
 hide:
   - toc
   - navigation
-search:
-  exclude: true
 ---
 
 
