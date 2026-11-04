@@ -7,15 +7,13 @@ hide:
 
 # Jessie Lamont
 
-#foundHeadstones
-
 **ca. 1821 — 4 January 1872**
 
-## Jessie Lamont <small>(29A)</small>
+## Jessie Lamont <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="jessie-lamont-headstone.jpg" width="50%" />
+![A fragment of Jessie Lamont's headstone](../../assets/dig-finds/jessie-lamont-headstone.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Jessie Lamont's headstone discovered in a Toowong Cemetery Archaeological Dig.*</small>
 
@@ -28,18 +26,16 @@ hide:
 
 > …emory of  <br>
 > … Lamont <br>
-> ==…==  <br>
+> …  <br>
 > … Lamont <br>
-> ==…==  <br>
-> ==…==  <br>
+> …  <br>
+> …  <br>
 
 
 ### Learn more 
 
 <!-- 
 Advertising (1861, April 6). The Sydney Morning Herald (NSW : 1842 - 1954), p. 11. Retrieved April 17, 2026, from http://nla.gov.au/nla.news-article13059348
-
-
 -->
 
 - [WHEREAS the Estate of Archibald Lamont was, on the 11th day of April, 1861, placed under (1861, April 30). New South Wales Government Gazette (Sydney, NSW : 1832 - 1900), p. 927.](https://trove.nla.gov.au/newspaper/article/230062410?searchTerm=Archibald%20Lamont#)
