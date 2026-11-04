@@ -15,7 +15,7 @@ hide:
 
 <!-- move to /dig-finds -->
 
-![A fragment of Charlotte Greenwood's headstone](../../assets/charlotte-greenwood-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
+![A fragment of Charlotte Greenwood's headstone](../../assets/dig-finds/charlotte-greenwood-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Charlotte Greenwood's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.* </small>
 
