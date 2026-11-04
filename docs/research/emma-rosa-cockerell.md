@@ -7,15 +7,13 @@ hide:
 
 # Emma Rosa Cockerell
 
-#foundHeadstones #done
-
 **3 March 1868 — 3 December 1871**
 
-## Emma Rosa Cockerell <small>(29A)</small>
+## Emma Rosa Cockerell <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="cockerell-headstone-2026.jpg" width="50%" />
+![A fragment of Emma Rosa Cockerell's headstone](../../assets/dig-finds/cockerell-headstone-2026.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Emma Rosa Cockerell's headstone discovered in a Toowong Cemetery Archaeological Dig in 2024* </small>
 
