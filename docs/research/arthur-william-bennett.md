@@ -16,7 +16,7 @@ hide:
 
 <!-- move to /dig-finds -->
 
-![Arthur William Bennett's headstone](../../assets/arthur-william-bennett-headstone.jpg){ width="40%" class="full-width" loading=lazy }
+![Arthur William Bennett's headstone](../../assets/dig-finds/arthur-william-bennett-headstone.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Arthur William Bennett's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012*</small>
 
