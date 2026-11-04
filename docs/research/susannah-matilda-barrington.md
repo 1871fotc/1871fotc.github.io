@@ -43,6 +43,13 @@ hide:
 > Father/parent's name: George Acres <br>
 > Registration details: 1860/B/480 <br>
 
+- [Family Notices](https://trove.nla.gov.au/newspaper/article/60413591?searchTerm=Barrington) (1860, July 21). Empire (Sydney, NSW : 1850 - 1875)
+
+> DEATHS. <br>
+> BARRINGTON — Of influenza, at Brisbane, Queensland, on the 24th June, Susannah Matilda, wife of F. A. Barrington, Esq., and second daughter of the late George Acres, Esq., of Heywood, near Parramatta.
+
+
+
 
 --8<-- "snippets/add-to-this-story.md"
 
