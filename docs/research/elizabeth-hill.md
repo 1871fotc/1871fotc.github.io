@@ -7,15 +7,13 @@ hide:
 
 # Elizabeth Hill
 
-#foundHeadstones
-
 **Died 13 June 1860**
 
-## Elizabeth Hill (29A)
+## Elizabeth Hill ([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))
 
 ### Headstone
 
-<img src="elizabeth-hill-headstone-2023.jpg" width="50%" />
+![A fragment of Elizabeth Hill's headstone](../../assets/dig-finds/elizabeth-hill-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Elizabeth Hill's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.* </small>
 
@@ -29,7 +27,7 @@ hide:
 > …red <br>
 > … emory of  <br>
 > … th Hill   <br>
-> …   <br>
+> …  
 
 
 ### Learn more 
