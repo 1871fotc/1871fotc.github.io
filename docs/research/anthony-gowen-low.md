@@ -7,15 +7,13 @@ hide:
 
 # Anthony Gowan Low
 
-#foundHeadstones
-
 **ca. April 1838 — 2 September 1857**
 
-## Anthony Gowan Low <small>(29A)</small>
+## Anthony Gowan Low <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="anthony-gowan-low-headstone-2021.jpg" width="50%" />
+![A fragment of Anthony Gowan Low's headstone](../../assets/dig-finds/anthony-gowan-low-headstone-2021.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Anthony Gowan Low's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.*</small>
 
