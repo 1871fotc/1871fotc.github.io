@@ -63,7 +63,6 @@ Classified Advertising (1865, July 22). The Brisbane Courier (Qld. : 1864 - 1933
 
 - [PUBLICANS' ANNUAL LICENSING MEETING. (1862, April 16). The Courier (Brisbane, Qld. : 1861 - 1864), p. 3.](https://trove.nla.gov.au/newspaper/article/4605072?searchTerm=%22West%20Hamilton%20McQuaker%22)
 
-
 > PUBLICANS' ANNUAL LICENSING MEETING. <br>
 > The annual meeting for granting licenses was held at the Police Court at noon yesterday. <br>
 > … <br>
@@ -77,7 +76,7 @@ Classified Advertising (1865, July 22). The Brisbane Courier (Qld. : 1864 - 1933
 > Death registration: Mary McQuaker  <br>
 > Death date: 13/08/1872  <br>
 > Mother's name: -  <br>
-> Father/parent's name: - ==Southerland==  <br>
+> Father/parent's name: - Southerland  <br>
 > Registration details: 1872/B/7392   <br>
 
 - [Classified Advertising (1872, August 14). The Brisbane Courier (Qld. : 1864 - 1933), p. 1.](https://trove.nla.gov.au/newspaper/article/1293446?searchTerm=McQuaker)
