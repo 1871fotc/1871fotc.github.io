@@ -7,15 +7,13 @@ hide:
 
 # Alice Hervey
 
-#foundHeadstones #done
-
 **Died 13 August 1854**
 
-## Alice Hervey <small>(29A)</small>
+## Alice Hervey <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="alice-hervey-headstone-2012.jpg" width="50%" />
+![A fragment of Alice Hervey's headstone](../../assets/dig-finds/alice-hervey-headstone.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Alice Hervey's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012*</small>
 
@@ -32,8 +30,8 @@ hide:
 > Alic… <br>
 > the affectionate faithful… <br>
 > Matthew Herve…  <br>
-> who loved her…  <br>
-> mourned…  <br>
+> who loved her …  <br>
+> mourned …  <br>
 
 The BYGONE BRISBANE article below states the inscription ends with: 
 
@@ -48,15 +46,15 @@ Note the differences in last name and death date between the inscription and the
 - [Death Record -Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/2c3ab2524189c75c82e47003c9ff283582b00f19cbaad2e302e3bcaa46be5ef1)
 
 > Death registration: Alice Hervey <br>
-> Death date: ==13/08/1854== <br>
+> Death date: 13/08/1854 <br>
 > Mother's name: - Buried 13/08/1854 <br>
 > Father/parent's name: - <br>
 > Registration details: 1854/BBU/499 <br>
 
-- [Family Notices (==1854==, August 31). The Argus (Melbourne, Vic. : 1848 - 1957), p. 4.](https://trove.nla.gov.au/newspaper/article/4797091?searchTerm=Alice%20Hervey#)
+- [Family Notices (1854, August 31). The Argus (Melbourne, Vic. : 1848 - 1957), p. 4.](https://trove.nla.gov.au/newspaper/article/4797091?searchTerm=Alice%20Hervey#)
 
 > DIED. <br>
-> On Friday the ==11th== inst., at Brisbane, Moreton Bay, Alice, the beloved wife of Matthew Hervey, Esq., M.L.C., Victoria. Friends will please accept of this intimation.
+> On Friday the 11th inst., at Brisbane, Moreton Bay, Alice, the beloved wife of Matthew Hervey, Esq., M.L.C., Victoria. Friends will please accept of this intimation.
 
 - [BYGONE BRISBANE. (1907, December 1). Truth (Brisbane, Qld. : 1900 - 1954), p. 6.](https://trove.nla.gov.au/newspaper/article/206486389?searchTerm=Matthew%20Henry) 
 
@@ -68,12 +66,9 @@ Note the differences in last name and death date between the inscription and the
 
 Matthew Hervey - State Library of Queensland  https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1cmbrig/alma99183507725502061
 
-https://en.wikipedia.org/wiki/Matthew_Hervey
-
 -->
 
-
-<img src="matthew-hervey-1863.jpg" width="50%" />
+![The Hon. Matthew Hervey](../../assets/dig-finds/[29A]matthew-hervey-1863.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*[The Hon. Matthew Hervey](https://find.slv.vic.gov.au/permalink/61SLV_INST/1g4vb22/alma9916440243607636) - State Library Victoria.  Calvert, Samuel, 1828-1913, engraver. August 22, 1863.* </small>
 
@@ -90,5 +85,7 @@ https://en.wikipedia.org/wiki/Matthew_Hervey
 > [from our own correspondents.] <br>
 > DEATH OF MR. MATTHEW HERVEY, INSPECTOR- OF STOCK. Benalla, Wednesday. <br>
 > Mr Matthew Hervey, formerly acting President of the Legislative Council, and subsequently Commissioner of Public Works in the first M'Culloch Government more recently Inspector of Stock in the Echuca and Castlemaine districts, and finally in the Benalla district, died suddenly on Turnbull's Plains yesterday. He only succeeded Mr M'Eachran in charge of this district recently. Yesterday Mr James Turnbull found him about three o'clock in the afternoon clinging to a fence about two miles from the home station. He seemed to be suffering from an epileptic fit, and was quite unconscious. Mr Turnbull at once removed him to a shady spot, and then started off for the purpose of obtaining assistance. This was speedily procured, but on returning to the spot the unfortunate man was found most violently agitated, but still unconscious. Before he could be removed, or medical aid obtained, he died, his struggles continuing to the last. The body was removed to the Broken Creek Hotel. The deceased man's buggy and horse, the latter partially unharnessed, were found about a mile and a quarter from where. Mr James Turnbull first discovered him clinging to the fence. An inquest was held to-day before Dr Miller, when the. medical evidence showed that death was caused by want of nourishment, accelerated by excessive drinking. A verdict to that effect was returned by the jury.
+
+- [Matthew Hervey](https://en.wikipedia.org/wiki/Matthew_Hervey) - Wikipedia
 
 --8<-- "snippets/add-to-this-story.md"
