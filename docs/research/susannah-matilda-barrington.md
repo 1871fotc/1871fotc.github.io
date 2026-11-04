@@ -3,8 +3,6 @@ title: Susannah Matilda Barrington
 hide:
   - toc
   - navigation
-search:
-  exclude: true
 ---
 
 # Susannah Matilda Barrington
