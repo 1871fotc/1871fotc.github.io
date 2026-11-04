@@ -10,8 +10,7 @@ hide:
 
 **ca. 1830 — 8 December 1863**
 
-## Catherine Low <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499)
-)</small>
+## Catherine Low <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
