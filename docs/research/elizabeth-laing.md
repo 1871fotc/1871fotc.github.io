@@ -7,15 +7,13 @@ hide:
 
 # Elizabeth Laing
 
-#foundHeadstones #done
-
 **20 October 1873 — 23 March 1875**
 
-## Elizabeth Laing (29A)
+## Elizabeth Laing ([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))
 
 ### Headstone
 
-<img src="laing-headstone-2023.jpg" width="50%" /> 
+![Fragments of Elizabeth Laing's headstone](../../assets/dig-finds/laing-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragments of Elizabeth Laing's headstone discovered in Toowong Cemetery Archaeological Digs in 2021.* </small>
 
