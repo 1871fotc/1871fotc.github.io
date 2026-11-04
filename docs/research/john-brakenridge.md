@@ -3,8 +3,6 @@ title: John Brakenridge
 hide:
   - toc
   - navigation 
-search:
-  exclude: true
 ---
 
 # John Brakenridge
@@ -17,7 +15,7 @@ search:
 
 <!-- move to /dig-finds -->
 
-![John Brakenridge's headstone](../../assets/john-brakenridge-headstone-2012.jpg){ width="40%" class="full-width" loading=lazy }
+![John Brakenridge's headstone](../../assets/dig-finds/john-brakenridge-headstone-2012.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of John Brakenridge's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.* </small>
 
