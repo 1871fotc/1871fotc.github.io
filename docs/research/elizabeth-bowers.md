@@ -3,8 +3,6 @@ title: Elizabeth Bowers
 hide:
   - toc
   - navigation  
-search:
-  exclude: true
 ---
 
 # Elizabeth Bowers
