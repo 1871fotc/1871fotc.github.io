@@ -3,8 +3,6 @@ title: Edward Humphrey Barlee
 hide:
   - toc
   - navigation
-search:
-  exclude: true
 ---
 
 # Edward Humphrey Barlee
