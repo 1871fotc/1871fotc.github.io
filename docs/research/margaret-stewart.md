@@ -7,15 +7,13 @@ hide:
 
 # Margaret Stewart
 
-#foundHeadstones
-
 **ca. 1849 — 7 April 1872**
 
-## Margaret Stewart <small>(29A)</small>
+## Margaret Stewart <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="margaret-stewart-headstone-2021.jpg" width="50%" />
+![A fragment of Margaret Stewart's headstone](../../assets/dig-finds/margaret-stewart-headstone-2021.jpg{ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Margaret Stewart's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.* </small>
 
@@ -49,7 +47,7 @@ hide:
 > On the 7th April, at the residence of her father, Waghorn-street, Margaret, the beloved wife of Hugh Stewart, aged 23 years.
 
 <!-- 
-- [BYGONE BRISBANE. (1908, February 16). Truth (Brisbane, Qld. : 1900 - 1954), p. 7.](https://trove.nla.gov.au/newspaper/article/206486987?searchTerm=Stewart)
+- [BYGONE BRISBANE. (1908, February 16). Truth (Brisbane, Qld. : 1900 - 1954), p. 7.](https://trove.nla.gov.au/newspaper/article/206486987?searchTerm=Stewart). Note differences in death date with other records.
 
 > Among those in the Presbyterian cemetery, is Margaret Stewart, who died on ==August 31, 1858==. She was the wife of Hugh ==Stuart==, who died on June 23, 1871, aged ==73==. Hugh was a popular blacksmith, whose smiddy was at the back of Menzies' boarding house, opposite Jerry Scanlan's hotel, in Edward street. 
 -->
