@@ -16,7 +16,7 @@ hide:
 
 <!-- move to /dig-finds -->
 
-![Fragment of Sarah Emily Harris' headstone](../../assets/kate-may-harris-headstone-2012.jpg){ width="40%" class="full-width" loading=lazy }
+![Fragment of Sarah Emily Harris' headstone](../../assets/dig-finds/kate-may-harris-headstone-2012.jpg){ width="40%" class="full-width" loading=lazy }
 
 ![Fragment of Sarah Emily Harris' headstone](../../assets/sarah-emily-harris-headstone-2012-2.jpg){ width="40%" class="full-width" loading=lazy }
 
