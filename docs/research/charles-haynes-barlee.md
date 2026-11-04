@@ -3,8 +3,6 @@ title: Charles Haynes Barlee
 hide:
   - toc
   - navigation
-search:
-  exclude: true
 ---
 
 
