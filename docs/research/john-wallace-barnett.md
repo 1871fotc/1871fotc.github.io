@@ -3,8 +3,6 @@ title: John Wallace Barnett
 hide:
   - toc
   - navigation
-search:
-  exclude: true
 ---
 
 # John Wallace Barnett
