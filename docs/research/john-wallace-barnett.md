@@ -29,7 +29,7 @@ hide:
 > for some years Consular <br>
 > Agent in Brisbane for the  <br>
 > United States of America  <br>
-> Died 3^rd^ September 1871 <br>
+> Died 3^rd^ September 1874 <br>
 > Age…  <br>
 
 ### Learn more 
@@ -52,7 +52,7 @@ hide:
 > DEATHS. BARNETT.—On the 3rd September, at his residence, Leichhardt-street, Brisbane, Mr. John Wallace Barnett, U.S. Consul, formerly of Melbourne, aged 46 years.
 
 
-- [BYGONE BRISBANE. (1908, January 19). Truth (Brisbane, Qld. : 1900 - 1954), p. 6.](https://trove.nla.gov.au/newspaper/article/206489047?searchTerm=Brakenridge#)
+- [BYGONE BRISBANE. (1908, January 19). Truth (Brisbane, Qld. : 1900 - 1954), p. 6.](https://trove.nla.gov.au/newspaper/article/206489047?searchTerm=Barnett#) - Note the difference in the death date with other records.
 
 > BYGONE BRISBANE <br>
 > The Paddington Cemetery. <br>
