@@ -3,8 +3,6 @@ title: Amy Winifred Barlee
 hide:
   - toc
   - navigation
-search:
-  exclude: true
 ---
 
 
