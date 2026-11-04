@@ -7,15 +7,13 @@ hide:
 
 # George Christie
 
-#foundHeadstones  #indexInPDF
-
 **ca. 1821 — 16 March 1857**
 
-## George Christie <small>(29A)</small>
+## George Christie <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="george-christie-headstone-2021.jpg" width="50%" /> 
+![A fragment of George Christie's headstone](../../assets/dig-finds/george-christie-headstone-2021.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of George Christie's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.* </small>
 
