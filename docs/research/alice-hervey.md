@@ -13,7 +13,7 @@ hide:
 
 ### Headstone
 
-![A fragment of Alice Hervey's headstone](../../assets/dig-finds/alice-hervey-headstone.jpg){ width="40%" class="full-width" loading=lazy }
+![A fragment of Alice Hervey's headstone](../../assets/dig-finds/alice-hervey-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Alice Hervey's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012*</small>
 
