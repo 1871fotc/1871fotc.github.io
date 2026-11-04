@@ -13,7 +13,7 @@ hide:
 
 ### Headstone
 
-![A fragment of Margaret Stewart's headstone](../../assets/dig-finds/margaret-stewart-headstone-2021.jpg{ width="40%" class="full-width" loading=lazy }
+![A fragment of Margaret Stewart's headstone](../../assets/dig-finds/margaret-stewart-headstone-2021.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Margaret Stewart's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.* </small>
 
