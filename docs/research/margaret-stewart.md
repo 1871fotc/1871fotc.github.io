@@ -38,7 +38,7 @@ hide:
 > Death registration: Margaret Stewart <br>
 > Death date: 07/04/1872 <br>
 > Mother's name: Catharine Willis <br>
-> Father/parent's name: James Hair <br>
+> Father/parent's name: James Phair <br>
 > Registration details: 1872/C/388  <br>
 
 - [Family Notices (1872, April 9). Queensland Times, Ipswich Herald and General Advertiser (Qld. : 1861 - 1908), p. 2.](https://trove.nla.gov.au/newspaper/article/123621104?searchTerm=Margaret%20Stewart#)
