@@ -28,7 +28,7 @@ hide:
 > Sacred <br>
 > to <br>
 > the memory of  <br>
-> George Hutchison  <br>
+> George Hutchinson  <br>
 > who departed this life <br>
 > June 6^th^ 1872 <br>
 > aged 44 years <br>
