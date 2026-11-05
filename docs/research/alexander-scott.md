@@ -7,15 +7,13 @@ hide:
 
 # Alexander Scott
 
-#foundHeadstones #done
-
 **Died 16 February 1850**
 
-## Alexander Scott <small>(29A)</small>
+## Alexander Scott <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="alexander-scott-headstone-2021.jpg" width="50%" />
+![A fragment of Alexander Scott's headstone](../../assets/dig-finds/alexander-scott-headstone-2021.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Alexander Scott's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.* </small>
 
