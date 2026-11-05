@@ -22,6 +22,7 @@ hide:
 - Moved to: North Brisbane Burial Grounds, Reserved Area. ca. 1914. Recorded as Thomas Grenier
 - Demolished and disposed of in: Toowong Cemetery, Portion 29A. ca. 1930
 - Discovered: Toowong Cemetery, Portion 29A near Section 72. ca. May 2023
+- Moved to: [God's Acre Historic Cemetery - Grenier's Burial Ground](https://heritage.brisbane.qld.gov.au/heritage-places/143)
 
 ### Inscription
 
@@ -49,9 +50,14 @@ hide:
 > DEATHS. <br>
 > On the 25th instant, Thomas, eldest son of Mr. Thomas Grenier, of South Brisbane.
 
+
 ![Thomas Grenier senior](../../assets/dig-finds/thomas-grenier.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Thomas Grenier senior. Supplied by Darcy Maddock* </small>
+
+- [God's Acre Historic Cemetery - Grenier's Burial Ground](https://heritage.brisbane.qld.gov.au/heritage-places/143)
+
+> Established in 1859 by Thomas Grenier as a burial place for his family, it was subsequently used by a number of local families in the district. Grenier left 3 roods of his large property in trust for burial of his family and others. Control of the cemetery passed to the Yeerongpilly Shire Council in 1924, and then to Brisbane City Council in 1925. The cemetery became surrounded by the Archerfield aerodrome from the late 1920s.
 
 
 --8<-- "snippets/add-to-this-story.md"
