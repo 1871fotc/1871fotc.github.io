@@ -41,7 +41,7 @@ hide:
 > Spouse's name: Mary Ann Sparkes <br>
 > Registration details: 1854/BMA/157 <br>
 
-- Henry and Mary had a son called [Christmas Gift](https://www.familyhistory.bdm.qld.gov.au/details/01abeaaa8daea44f75df744dc1fc8550ece680e9e1a53679a85e3e125255f043) (26/12/1858 – 25/6/1864) who was recorded as being remembered on Herny's headstone.
+- Henry and Mary had a son called [Christmas Gift](https://www.familyhistory.bdm.qld.gov.au/details/01abeaaa8daea44f75df744dc1fc8550ece680e9e1a53679a85e3e125255f043) (26/12/1858 – 25/6/1864) who was recorded as being remembered on Henry's headstone.
 
 - [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/b7116c1e024fb7a7ae7c5c756438c490755ae9a6b7569befaaa93c9a15c9733f)
 
