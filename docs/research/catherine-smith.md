@@ -1,22 +1,22 @@
 ---
-title: Catherine Low
+title: Catherine Smith
 hide:
   - toc
   - navigation 
 ---
 
 
-# Catherine Low
+# Catherine Smith
 
 **ca. 1830 — 8 December 1863**
 
-## Catherine Low <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
+## Catherine Smith <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-![A fragment of Catherine Low's headstone](../../assets/dig-finds/anthony-gowan-low-headstone-2021.jpg){ width="40%" class="full-width" loading=lazy }
+![A fragment of Catherine Smith's headstone](../../assets/dig-finds/anthony-gowan-low-headstone-2021.jpg){ width="40%" class="full-width" loading=lazy }
 
-<small>*A fragment of Catherine Low's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.* </small>
+<small>*A fragment of Catherine Smith's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.* </small>
 
 - Erected: North Brisbane Burial Grounds, Presbyterian section. After 8 December 1863
 - Moved to: North Brisbane Burial Grounds, Reserved Area. ca. 1914. Recorded as Catherine Low
