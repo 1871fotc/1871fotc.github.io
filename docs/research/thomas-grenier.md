@@ -49,4 +49,9 @@ hide:
 > DEATHS. <br>
 > On the 25th instant, Thomas, eldest son of Mr. Thomas Grenier, of South Brisbane.
 
+![Thomas Grenier senior](../../assets/dig-finds/thomas-grenier.jpg){ width="40%" class="full-width" loading=lazy }
+
+<small>*Thomas Grenier senior. Supplied by Darcy Maddock* </small>
+
+
 --8<-- "snippets/add-to-this-story.md"
