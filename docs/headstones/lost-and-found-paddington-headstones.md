@@ -41,6 +41,7 @@ The table below lists Paddington Cemetery headstones that were placed in the res
         - Presbyterian prefixed with '4'
         - Wesleyan-Methodist and Congregational prefixed with '5'
         - Baptist prefixed with '6'
+        - Headstones not recorded has being moved to the reserved area, or relocated to Toowong Cemetery have been prefixed with a '7'
        
 
 <!-- broken link -->
@@ -77,12 +78,13 @@ Where additional information has been discovered, it has been added to the table
 
 *<small>Eliza Hartnoll's headstone discovered in a Toowong Cemetery Archaeological Dig.</small>*
 
-
+<!-- 
 ## Download the data
 
 The [Paddington Cemetery Reserved Area Headstones](lost-paddington-headstones.md) by [Friends of Toowong Cemetery Association Inc.](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You must provide attribution if you reuse this work.
 
 Download the Paddington Cemetery Reserved Area Headstones as a Comma Separated Value file (.csv)
+-->
 
 <!--
 Download the Paddington Cemetery Reserved Area Headstones as a <a href="../../assets/data/lost-paddington-cemetery-headstones.csv" download>Comma Separated Value file</a> (.csv)
