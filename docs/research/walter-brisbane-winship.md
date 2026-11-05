@@ -7,21 +7,21 @@ hide:
 
 # Walter Brisbane Winship
 
-#foundHeadstones #notLost #checkInscription #newPhoto
-
 **ca. August 1853 — 22 May 1862**
 
-## Walter Brisbane Winship <small>(29A)</small>
+## Walter Brisbane Winship <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="walter-brisbane-winship-2012.jpg" width="50%" />
+![Fragments of Walter Brisbane Winship's headstone](../../assets/dig-finds/walter-brisbane-winship-2012.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragments of Walter Brisbane Winship's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012.*</small>
 
 - Erected: North Brisbane Burial Grounds, Episcopalian section. After 22 May 1862
 - Not recorded as being moved to the North Brisbane Burial Grounds, Reserved Area
 - Discovered: Toowong Cemetery, Portion 29A near Section 72. ca. May 2012
+
+<!-- Research needed. Check inscription -->
 
 ### Inscription
 
