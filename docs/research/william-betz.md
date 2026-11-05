@@ -3,8 +3,6 @@ title: William Betz
 hide:
   - toc
   - navigation 
-search:
-  exclude: true
 ---
 
 # William Betz
@@ -63,11 +61,10 @@ search:
 > DEATH.
 > BETZ.—On the 26th February, at the School of Arts Hotel, Queen-street, William, only son of Mr. Peter Betz, aged 1 year and 8 months.
 
-<!-- 
-- [BY GONE BRISBANE. (1908, February 9). Truth (Brisbane, Qld. : 1900 - 1954), p. 7.](https://trove.nla.gov.au/newspaper/article/206486731?searchTerm=betz)
 
-> Peter and Magdalena Betz buried a year old child on ==February 20, 1879==. Betz kept the West Riding Hotel at the foot of Queen-street.
--->
+- [BY GONE BRISBANE. (1908, February 9). Truth (Brisbane, Qld. : 1900 - 1954), p. 7.](https://trove.nla.gov.au/newspaper/article/206486731?searchTerm=betz) - Note the difference in death date from other records.
+
+> Peter and Magdalena Betz buried a year old child on February 20, ==1879==. Betz kept the West Riding Hotel at the foot of Queen-street.
 
 
 --8<-- "snippets/add-to-this-story.md"
