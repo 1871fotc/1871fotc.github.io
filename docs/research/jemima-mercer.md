@@ -9,7 +9,7 @@ hide:
 
 **ca. 1847 — 15 February 1861**
 
-## Jemima Mercer <small>(29A)</small>
+## Jemima Mercer <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
