@@ -5,6 +5,11 @@ hide:
   - navigation 
 ---
 
+!!! warning
+
+    Work in progress. We're checking the ==highlighted text== for accuracy. 
+
+
 # Lawrence Daniel Winship
 
 **24 June 1862 — 4 July 1862**
