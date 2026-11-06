@@ -5,6 +5,10 @@ hide:
   - navigation 
 ---
 
+!!! warning
+
+    Work in progress. We're checking the ==highlighted text== for accuracy. 
+
 # Mary Mellor
 
 **Died 17 January 1859**
@@ -17,7 +21,7 @@ hide:
 
 <small>*Fragment of Mary Mellor's headstone discovered in a Toowong Cemetery Archaeological Dig in 2024.* </small>
 
-- Erected: North Brisbane Burial Grounds, Episcopalian section. After 17 January 1859
+- ==Erected: North Brisbane Burial Grounds, Episcopalian section. After 17 January 1859==
 - Moved to: 
 - ==[Remains and headstone moved to Toowong Cemetery](https://brisbane.recollectcms.com/nodes/view/38396)==
 - ==Demolished and disposed of in: Toowong Cemetery, Portion 29A. ca. 1970s==
