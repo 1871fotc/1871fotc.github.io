@@ -7,15 +7,13 @@ hide:
 
 # Ernest Alexander Cairncross
 
-#foundHeadstones  #index #indexInPDF #symbology
-
 **28 August 1867 — 20 September 1867**
 
 ## Ernest Alexander Cairncross <small>[(Toowong Cemetery Symbology Display)](https://maps.app.goo.gl/yDA2J7YJrrdirAJ4A)</small>
 
 ### Headstone
 
-<img src="ernest-alexander-cairncross-headstone-2015.jpg" width="50%" />
+![Fragment of Ernest Alexander Cairncross' headstone](../../assets/dig-finds/ernest-alexander-cairncross-headstone-2015.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragment of Ernest Alexander Cairncross' headstone discovered in a Toowong Cemetery Archaeological Dig in 2015.* </small>
 
