@@ -7,15 +7,13 @@ hide:
 
 # Henry James Walsh
 
-#foundHeadstones #toDoHeadstones #index #indexInPDF #symbology
-
 **==born d mmmm yyyy== — 3 April 1865**
 
 ## Henry James Walsh <small>[(Toowong Cemetery Symbology Display)](https://maps.app.goo.gl/yDA2J7YJrrdirAJ4A)</small>
 
 ### Headstone
 
-<img src="henry-james-walsh-headstone.jpg" width="50%" />
+![Fragment of Henry James Walsh's headstone](../../assets/dig-finds/henry-james-walsh-headstone.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragment of Henry James Walsh's headstone discovered in a Toowong Cemetery Archaeological Dig in 2014.* </small>
 
@@ -32,7 +30,7 @@ hide:
 > Also  <br>
 > Henry James Walsh  <br>
 > Born 20^th^ February 1861  <br>
-> Died ￼ 3^d^ April 186==3==  <br>
+> Died 3^d^ April 186==3==  <br>
 
 ### Learn more 
 
