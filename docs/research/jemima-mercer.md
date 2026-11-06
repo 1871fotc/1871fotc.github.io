@@ -7,15 +7,13 @@ hide:
 
 # Jemima Mercer
 
-#foundHeadstones  #index #indexInPDF
-
 **ca. 1847 — 15 February 1861**
 
 ## Jemima Mercer <small>(29A)</small>
 
 ### Headstone
 
-<img src="jemima-mercer-headstone-2021-2.jpg" width="90%" />
+![Fragment of Jemima Mercer's headstone](../../assets/dig-finds/jemima-mercer-headstone-2021-2.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragment of Jemima Mercer's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.* </small>
 
@@ -34,7 +32,7 @@ hide:
 
 ### Learn more 
 
-<!-- 
+<!-- Research needed. 
 - [Family Notices (1853, June 4). The Moreton Bay Courier (Brisbane, Qld. : 1846 - 1861), p. 3.](https://trove.nla.gov.au/newspaper/article/3714424?searchTerm=William%20Mercer) - ==perhaps too late given "a young girl under fifteen". Working at 8 years old?==
 
 > BIRTHS. <br>
