@@ -7,17 +7,16 @@ hide:
 
 # Frederick Shepperson
 
-#foundHeadstones #index #indexInPDF #symbology
-
 **7 April 1872 —  8 April 1872**
 
 ## Frederick Shepperson <small>[(Toowong Cemetery Symbology Display)](https://maps.app.goo.gl/yDA2J7YJrrdirAJ4A)</small>
 
 ### Headstone
 
-<img src="harry-dobbin-shepperson-headstone-2015.jpg" width="50%" /> 
+![A fragment of Frederick Shepperson's headstone](../../assets/dig-finds/harry-dobbin-shepperson-headstone-2015.jpg){ width="40%" class="full-width" loading=lazy }
 
-<img src="frederick-shepperson-headstone-2015.jpg" width="50%" /> 
+![A fragment of Frederick Shepperson's headstone](../../assets/dig-finds/frederick-shepperson-headstone-2015.jpg){ width="40%" class="full-width" loading=lazy }
+
 
 <small>*Fragments of Frederick Shepperson's headstone discovered in a Toowong Cemetery Archaeological Dig in 2015.* </small>
 
