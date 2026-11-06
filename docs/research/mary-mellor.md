@@ -21,10 +21,9 @@ hide:
 
 <small>*Fragment of Mary Mellor's headstone discovered in a Toowong Cemetery Archaeological Dig in 2024.* </small>
 
-- ==Erected: North Brisbane Burial Grounds, Episcopalian section. After 17 January 1859==
-- Moved to: 
-- ==[Remains and headstone moved to Toowong Cemetery](https://brisbane.recollectcms.com/nodes/view/38396)==
-- ==Demolished and disposed of in: Toowong Cemetery, Portion 29A. ca. 1970s==
+- Erected: North Brisbane Burial Grounds, Episcopalian section. After 17 January 1859
+- Moved to: [Remains and headstone moved to Toowong Cemetery](https://brisbane.recollectcms.com/nodes/view/38396), [9-17-10](https://brisbane.discovereverafter.com/profile/31731874), on 10 May 1913
+- ==Demolished and disposed of in: Toowong Cemetery, Portion 29A, ca. 1970s==
 - Discovered: Toowong Cemetery, Portion 29A near Section 72. ca. May 2024
 
 ### Inscription
