@@ -7,15 +7,13 @@ hide:
 
 # Ernest Victor Williams
 
-#foundHeadstones #toDoHeadstones #index #indexInPDF #symbology
-
 **==born d mmmm yyyy== — ==died d mmmm yyyy==**
 
 ## Ernest Victor Williams <small>[(Toowong Cemetery Symbology Display)](https://maps.app.goo.gl/yDA2J7YJrrdirAJ4A)</small>
 
 ### Headstone
 
-<img src="ernest-victor-williams-headstone.jpg" width="50%" />
+![Ernest Victor Williams's headstone](../../assets/dig-finds/ernest-victor-williams-headstone.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Ernest Victor Williams's headstone discovered in a Toowong Cemetery Archaeological Dig in 2015.* </small>
 
