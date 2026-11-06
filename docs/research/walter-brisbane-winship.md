@@ -5,6 +5,11 @@ hide:
   - navigation 
 ---
 
+!!! warning
+
+    Work in progress. We're checking the ==highlighted text== for accuracy. 
+    
+
 # Walter Brisbane Winship
 
 **ca. August 1853 — 22 May 1862**
