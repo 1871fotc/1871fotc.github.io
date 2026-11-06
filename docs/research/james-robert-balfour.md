@@ -7,15 +7,13 @@ hide:
 
 # James Robert Balfour 
 
-#foundHeadstones  #index #indexInPDF
-
 **ca. 1821 — 13 March 1844**
 
-## James Robert Balfour  <small>(29A)</small>
+## James Robert Balfour  <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="james-robert-balfour-headstone.jpg" width="50%" />
+![A fragment of James Robert Balfour's headstone](../../assets/dig-finds/james-robert-balfour-headstone.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of James Robert Balfour's headstone discovered in a Toowong Cemetery Archaeological Dig in 2014.* </small>
 
