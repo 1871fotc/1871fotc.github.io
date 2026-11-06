@@ -5,6 +5,10 @@ hide:
   - navigation 
 ---
 
+!!! warning
+
+    Work in progress. We're checking the ==highlighted text== for accuracy. 
+
 # Vokes Sinclair Dudgeon
 
 #foundHeadstones #index #indexInPDF #checkInscription #symbology
