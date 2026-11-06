@@ -7,15 +7,13 @@ hide:
 
 # Duncan Francis Yaldwyn
 
-#foundHeadstones #index #indexInPDF
-
 **ca. March 1867 — 13 May 1867**
 
-## Duncan Francis Yaldwyn <small>(29A)</small>
+## Duncan Francis Yaldwyn <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="duncan-francis-yaldwyn-headstone-2016.jpg" width="50%" />
+![Fragment of Duncan Francis Yaldwyn's](../../assets/dig-finds/duncan-francis-yaldwyn-headstone-2016.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragment of Duncan Francis Yaldwyn's headstone discovered in a Toowong Cemetery Archaeological Dig in 2016.* </small>
 
