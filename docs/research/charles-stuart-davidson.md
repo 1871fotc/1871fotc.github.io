@@ -7,15 +7,13 @@ hide:
 
 # Charles Stuart Davidson
 
-#foundHeadstones #checkInscription 
-
 **29 May 1851 — 14 February 1853**
 
-## Charles Stuart Davidson <small>(29A)</small>
+## Charles Stuart Davidson <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="charles-stuart-davidson-headstone-2023.jpg" width="50%" />
+![A fragment of Charles Stuart Davidson's headstone](../../assets/dig-finds/charles-stuart-davidson-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Charles Stuart Davidson's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.* </small>
 
@@ -55,10 +53,10 @@ Family Notices (1853, March 12). The Moreton Bay Courier (Brisbane, Qld. : 1846 
 > Registration details: 1854/BBP/480  <br>
 
 
-- [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/3025b498c220c47e0a6745dedafd1fec4d9b8ccdea2f17e00d5d9157b190d4de) 
+- [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/3025b498c220c47e0a6745dedafd1fec4d9b8ccdea2f17e00d5d9157b190d4de) - Note Death date differs from other records.
 
 > Death registration: Charles Stuart Davidson <br>
-> Death date: ==14/01/1853== <br>
+> Death date: 14/01/1853 <br>
 > Mother's name: - Buried 15/01/1853 <br>
 > Father/parent's name: - <br>
 > Registration details: 1854/BBU/261  <br>
