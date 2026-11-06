@@ -7,15 +7,13 @@ hide:
 
 # John Mace
 
-#foundHeadstones #index #indexInPDF #symbology #toDoHeadstones 
-
 **Died 11 September 1869**
 
 ## John Mace <small>([Toowong Cemetery Symbology Display)](https://maps.app.goo.gl/yDA2J7YJrrdirAJ4A)</small>
 
 ### Headstone
 
-<img src="john-mace-headstone-2015.jpg" width="50%" />
+![A fragment of John Mace's headstone](../../assets/dig-finds/john-mace-headstone-2015.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of John Mace's headstone discovered in a Toowong Cemetery Archaeological Dig in 2015.* </small>
 
@@ -54,8 +52,6 @@ hide:
 - [WEEKLY EPITOME. (1869, September 18). The Brisbane Courier (Qld. : 1864 - 1933), p. 5.](https://trove.nla.gov.au/newspaper/article/1296307?searchTerm=%22John%20Mace%22)
 
 >  The body of a man named John Mace, belonging to the cutter Jessie was found in the river on Thursday. He is supposed to have fallen overboard while in a state of intoxication.<br>
-
-
 
 
 --8<-- "snippets/add-to-this-story.md"
