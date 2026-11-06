@@ -7,15 +7,13 @@ hide:
 
 # Henry Joseph Thomas
 
-#foundHeadstones #checkInscription #index #indexInPDF #symbology 
-
 **ca. 1811 — 4 July 1865**
 
 ## Henry Joseph Thomas <small>([Toowong Cemetery Symbology Display](https://maps.app.goo.gl/yDA2J7YJrrdirAJ4A))</small>
 
 ### Headstone
 
-<img src="henry-joseph-thomas-headstone.jpg" width="50%" />
+![Fragment of Henry Joseph Thomas' headstone](../../assets/dig-finds/henry-joseph-thomas-headstone.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragment of Henry Joseph Thomas' headstone discovered in a Toowong Cemetery Archaeological Dig in 2015.* </small>
 
