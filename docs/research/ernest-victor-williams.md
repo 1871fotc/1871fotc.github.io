@@ -5,6 +5,11 @@ hide:
   - navigation 
 ---
 
+!!! warning
+
+    Work in progress. We're checking the ==highlighted text== for accuracy. 
+
+
 # Ernest Victor Williams
 
 **==born d mmmm yyyy== — ==died d mmmm yyyy==**
