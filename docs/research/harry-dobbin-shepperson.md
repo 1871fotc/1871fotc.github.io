@@ -7,17 +7,15 @@ hide:
 
 # Harry Dobbin Shepperson
 
-#foundHeadstones #index #indexInPDF  #symbology
-
 **4 December 1868 —  17 September 1870**
 
 ## Harry Dobbin Shepperson <small>[(Toowong Cemetery Symbology Display)](https://maps.app.goo.gl/yDA2J7YJrrdirAJ4A)</small>
 
 ### Headstone
 
-<img src="harry-dobbin-shepperson-headstone-2015.jpg" width="50%" /> 
+![A fragment of Harry Dobbin's headstone](../../assets/dig-finds/harry-dobbin-shepperson-headstone-2015.jpg){ width="40%" class="full-width" loading=lazy }
 
-<img src="frederick-shepperson-headstone-2015.jpg" width="50%" /> 
+![A fragment of Harry Dobbin's headstone](../../assets/dig-finds/frederick-shepperson-headstone-2015.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragments of Harry Dobbin Shepperson's headstone discovered in a Toowong Cemetery Archaeological Dig in 2015.* </small>
 
