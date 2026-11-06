@@ -7,15 +7,13 @@ hide:
 
 # Caroline Sophia Comyn
 
-#foundHeadstones #toDoHeadstones #index #indexInPDF #symbology
-
 **ca. 1842 — 16 September 1869**
 
 ## Caroline Sophia Comyn <small>[(Toowong Cemetery Symbology Display)](https://maps.app.goo.gl/yDA2J7YJrrdirAJ4A)</small>
 
 ### Headstone
 
-<img src="caroline-sophia-comyn-headstone.jpg" width="50%" /> 
+![Caroline Sophia Comyn's headstone](../../assets/dig-finds/caroline-sophia-comyn-headstone.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Caroline Sophia Comyn's headstone discovered in a Toowong Cemetery Archaeological Dig in 2015.* </small>
 
