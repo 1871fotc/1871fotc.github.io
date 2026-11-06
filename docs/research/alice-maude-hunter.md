@@ -7,15 +7,13 @@ hide:
 
 # Alice Maude Hunter
 
-#foundHeadstones  #index #indexInPDF
-
 **16 March 1873 — 1 November  1873**
 
-## Alice Maude Hunter <small>(29A)</small>
+## Alice Maude Hunter <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="alice-maude-hunter-headstone-2021.jpg" width="50%" />
+![A fragment of Alice Maude Hunter's headstone](../../assets/dig-finds/alice-maude-hunter-headstone-2021.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Alice Maude Hunter's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.* </small>
 
