@@ -5,6 +5,11 @@ hide:
   - navigation 
 ---
 
+!!! warning
+
+    Work in progress. We're checking the ==highlighted text== for accuracy. 
+
+
 # Henry James Walsh
 
 **==born d mmmm yyyy== — 3 April 1865**
