@@ -7,15 +7,13 @@ hide:
 
 # Margaret Wallace
 
-#foundHeadstones #toDoHeadstones #index #indexInPDF
-
 **Died 28 January 1870**
 
-## Margaret Wallace  <small>(29A)</small>
+## Margaret Wallace <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="margaret-wallace-headstone.jpg" width="50%" />
+![A fragment of Margaret Wallace's headstone](../../assets/dig-finds/margaret-wallace-headstone.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Margaret Wallace's headstone discovered in a Toowong Cemetery Archaeological Dig in 2013.* </small>
 
@@ -75,8 +73,8 @@ Patrick died - Family Notices (1861, May 27). The Courier (Brisbane, Qld. : 1861
 > PATRICK MAXWELL STEWART WALLACE; and MICHAEL SHAW STEWART WALLACE
 
 > Transported for Inciting a Person to Cast Away and Destroy a Merchant Ship. The crime of these prisoners was of a most heinous description, and fully entitled them to receive that measure of punishment which, by the sentence of the court, they were directed to undergo. They were persons of respectable origin and connexions, and had for some time carried on business in the city of London as merchants. They were tried at the Central Criminal Court, at the March sessions, 1841, on a charge of inciting one Edmund Loose to cast away the ship Dryad.
-
- > The indictment contained twenty-six counts and charges: First --"That one Edmund Loose, late of London, mariner, on the 10th of November, in the third year of her present Majesty's reign, being the captain of a certain vessel called the Dryad, the property of Alexander Howden and others, did, with force and arms, upon the high seas, within the jurisdiction, &c,, feloniously, unlawfully, and maliciously, cast away and destroy the said vessel, with intent thereby to prejudice the said Alexander Howden and another, against the form of the statute in such case made and provided; and further, that Patrick Maxwell Stewart Wallace, late of London aforesaid, before the said felony was committed in form aforesaid, namely, on the 1st of August in the year aforesaid, did feloniously and maliciously incite, move, procure, aid, counsel, hire, and command the said Edmund Loose the said felony, in manner and form aforesaid, to do and commit, against the form of the statute in such case made and provided, against the peace, &c.; and further that Michael Shaw Stewart Wallace, late of London aforesaid, before the said felony was committed, &c., did feloniously and maliciously incite, &c., the said Edmund Loose the said felony in manner and form aforesaid, to do and commit, against the form of the statute," &c.
+>
+> The indictment contained twenty-six counts and charges: First --"That one Edmund Loose, late of London, mariner, on the 10th of November, in the third year of her present Majesty's reign, being the captain of a certain vessel called the Dryad, the property of Alexander Howden and others, did, with force and arms, upon the high seas, within the jurisdiction, &c,, feloniously, unlawfully, and maliciously, cast away and destroy the said vessel, with intent thereby to prejudice the said Alexander Howden and another, against the form of the statute in such case made and provided; and further, that Patrick Maxwell Stewart Wallace, late of London aforesaid, before the said felony was committed in form aforesaid, namely, on the 1st of August in the year aforesaid, did feloniously and maliciously incite, move, procure, aid, counsel, hire, and command the said Edmund Loose the said felony, in manner and form aforesaid, to do and commit, against the form of the statute in such case made and provided, against the peace, &c.; and further that Michael Shaw Stewart Wallace, late of London aforesaid, before the said felony was committed, &c., did feloniously and maliciously incite, &c., the said Edmund Loose the said felony in manner and form aforesaid, to do and commit, against the form of the statute," &c.
 > 
 > Second count -- The same as the first, but without naming the owner of the vessel.
 > 
@@ -117,7 +115,6 @@ Patrick died - Family Notices (1861, May 27). The Courier (Brisbane, Qld. : 1861
 > The two brothers were then placed at the bar to receive sentence.
 > 
 > The Lord Chief Justice in delivering judgment said that it would of course depend upon the decision upon the point of law whether the punishment which he should direct them to undergo would be carried out. The prisoners had been found guilty, after fair and impartial trials before intelligent juries, of the offence of having feloniously incited one Edmond Loose, the captain of the ship Dryad, wilfully to cast away that ship for the purpose of defrauding the underwriters. He felt bound to say that he was perfectly satisfied with the verdicts which the two juries had found in the respective cases of the two prisoners. It was an offence of very grave importance, tending to check the spirit of mercantile adventure, and the commerce of this country, because it was aimed at defrauding those persons upon whose responsibility much of that adventure and commerce depended. It was to be observed that the loss in this case had fallen upon the underwriters, and the checking of their business might produce serious results. The effect of a policy of insurance was to cast upon a company a loss which, if it fell upon one individual only, might be ruinous in its consequences; and it could not but be observed that the numerous insurance companies of this city could no longer exist unless their proceedings were protected by the law, and offences directed against their fair and honest gains were punished with its just severity. In this case there were circumstances of great aggravation, because the result of the foul crime which had been committed might have been not only the loss of property, but of life. The penalty applied by the law to this offence was no longer capital. He rejoiced at that, but at the same time he felt that it was his duty to visit the offence of the prisoners with a severe punishment. The sentence of the court was, "That the prisoners should be transported beyond the seas for the respective terms of their natural lives." The prisoners were then removed from the bar.
-> 
 
 
 --8<-- "snippets/add-to-this-story.md"
