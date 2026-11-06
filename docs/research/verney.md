@@ -7,15 +7,13 @@ hide:
 
 # unnamed Verney
 
-#foundHeadstones #index #indexInPDF #newPhoto #symbology
-
 **26 November 1870 — 26 November 1870**
 
 ## unnamed Verney <small>[(Toowong Cemetery Symbology Display)](https://maps.app.goo.gl/yDA2J7YJrrdirAJ4A)</small>
 
 ### Headstone
 
-<img src="verney-headstone.jpg" width="50%" />
+![A fragment of the headstone of an unnamed infant son of George Hope and Morforwyn Verney](../../assets/dig-finds/verney-headstone.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of the headstone of an unnamed infant son of George Hope and Morforwyn Verney, discovered in a Toowong Cemetery Archaeological Dig in 2015.* </small>
 
@@ -33,7 +31,7 @@ hide:
 > Morforwyn Verney <br>
 > born and died <br>
 > 26 November 1870 <br>
-> The Lord ==gave== and the <br>
+> The Lord gave and the <br>
 > Lord hath taken away <br>
 > … the way of the <br>
 > Lord <br>
@@ -55,9 +53,9 @@ hide:
 > BIRTH. <br>
 > VERNEY.—On the 26th November, the wife of Geo. H. Verney, Esq., A.D.C., of a son, who survived his birth only a few minutes.
 
-<img src="george-hope-verney.jpg" width="43.5%" /> <img src="harriet-julia-morfarwyn-verney.jpg" width="49%" />
+![Major George Hope Verney](../../assets/dig-finds/george-hope-verney.jpg){ width="43.5%" class="full-width" loading=lazy } ![Harriet Julia Morfarwyn Verney](../../assets/dig-finds/harriet-julia-morfarwyn-verney.jpg){ width="49%" class="full-width" loading=lazy }
 
-<small>*[Major George Hope Verney](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/7vfc6o/alma99183508000802061), ca. 1895, was previously A.D.C. to the Governor Blackall Queensland, from 1868 - 1871. State Library of Queensland*</small><br>
+<small>*[Major George Hope Verney](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/7vfc6o/alma99183508000802061), ca. 1895, was previously Aide‑de‑Camp to the Governor Blackall Queensland, from 1868 - 1871. State Library of Queensland*</small><br>
 
 <!-- A.D.C. = Aide‑de‑Camp -->
 
