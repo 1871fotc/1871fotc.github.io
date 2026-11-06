@@ -7,15 +7,13 @@ hide:
 
 # Julius William Deedes
 
-#foundHeadstones #index #indexInPDF #symbology 
-
 **ca. 1831 — 3 November 1866**
 
 ## Julius William Deedes <small>[(Toowong Cemetery Symbology Display)](https://maps.app.goo.gl/yDA2J7YJrrdirAJ4A)</small>
 
 ### Headstone
 
-<img src="julius-william-deedes-headstone.jpg" width="50%" />
+![Julius William Deedes' headstone](../../assets/dig-finds/julius-william-deedes-headstone.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Julius William Deedes' headstone discovered in a Toowong Cemetery Archaeological Dig in 2015.* </small>
 
