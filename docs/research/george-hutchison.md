@@ -13,7 +13,7 @@ hide:
 
 ### Headstone
 
-![A fragment of George Hutchison's headstone](../../assets/dig-finds/george-hutchinson-headstone-2024.jpg){ width="40%" class="full-width" loading=lazy }
+![A fragment of George Hutchison's headstone](../../assets/dig-finds/george-hutchison-headstone-2024.jpg){ width="40%" class="full-width" loading=lazy }
 
 
 <small>*A fragment of George Hutchison's headstone discovered in a Toowong Cemetery Archaeological Dig in 2024.* </small>
