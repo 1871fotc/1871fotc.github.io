@@ -42,7 +42,7 @@ hide:
 
 - [Advertising (1863, September 29)](https://nla.gov.au/nla.news-article288531095). Queensland Daily Guardian (Brisbane, Qld. : 1863 - 1868; 1883 - 1884), p. 1. 
 
-![Advertisement for Julius Kopp'](../../assets/dig-finds/julius-kopp-advertisement.jpg){ width="20%" class="full-width" loading=lazy }
+![Advertisement for Julius Kopp](../../assets/dig-finds/julius-kopp-advertisement.jpg){ width="20%" class="full-width" loading=lazy }
 
 
 - [TELEGRAPHIC. (1863, December 22)](https://nla.gov.au/nla.news-article3167572). The Courier (Brisbane, Qld. : 1861 - 1864), p. 2.
