@@ -7,15 +7,13 @@ hide:
 
 # Jemima Emily Daly
 
-#foundHeadstones  #index #indexInPDF
-
 **4 April 1856 — 28 April 1874**
 
-## Jemima Emily Daly <small>(29A)</small>
+## Jemima Emily Daly <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="jemima-emily-daly-headstone-2021.jpg" width="50%" />
+![A fragment of Jemima Emily Daly's headstone](../../assets/dig-finds/jemima-emily-daly-headstone-2021.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Jemima Emily Daly's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.* </small>
 
