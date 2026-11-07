@@ -19,7 +19,7 @@ hide:
 <small>*Richard Stanley Mosse's headstone discovered in a Toowong Cemetery Archaeological Dig in 2014.* </small>
 
 - Erected: North Brisbane Burial Grounds, Episcopalian section. ca. 7 May 1872
-- May have been moved to North Brisbane Burial Grounds, Reserved Area. ca. 1914. There is a record for R.S. Morse.
+- May have been moved to North Brisbane Burial Grounds, Reserved Area. ca. 1914. Recorded as R.S. Morse
 - May have been disposed of in Toowong Cemetery, Portion 29A. ca. 1930
 - Discovered: Toowong Cemetery, Portion 29A near Section 72. ca. May 2014
 
@@ -44,7 +44,7 @@ hide:
 
 ### Learn more 
 
-Note, the Father's first name in the references below conflict with what is carved in the headstone inscription. 
+Note, the Father's first name in the references below conflicts with what is carved in the headstone inscription. 
 
 - [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/bb04f4b5de8557550fb93110c1e2dccb83a654e690e6f7c5c563727323e344de)
 
