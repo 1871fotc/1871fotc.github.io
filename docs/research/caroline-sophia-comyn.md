@@ -61,10 +61,10 @@ hide:
 > Registration details: 1869/B/6000  <br>
 
  
-- [Family Notices (1869, September 17). The Brisbane Courier (Qld. : 1864 - 1933), p. 2.](https://trove.nla.gov.au/newspaper/article/1296162?searchTerm=Caroline%20Sophia%20Comyn%EF%BF%BC%EF%BF%BC)
+- [Family Notices (1869, September 17). The Brisbane Courier (Qld. : 1864 - 1933), p. 2.](https://trove.nla.gov.au/newspaper/article/1296162?searchTerm=Caroline%20Sophia%20Comyn%EF%BF%BC%EF%BF%BC) - Note the difference between first name initial, and last name with other records.
 
 > DEATH. <br>
-> COMYN.—On the 16th September, at Brisbane, Caroline Sophia, the beloved wife of ==J.== D. Comyn, Esq., and eldest daughter of William ==Vallach==, Esq., Balmain, Sydney, aged 27 years. <br>
+> COMYN.—On the 16th September, at Brisbane, Caroline Sophia, the beloved wife of J. D. Comyn, Esq., and eldest daughter of William Vallach, Esq., Balmain, Sydney, aged 27 years. <br>
 
 
 - [Family Notices (1869, December 24). The Sydney Morning Herald (NSW : 1842 - 1954), p. 1.](https://trove.nla.gov.au/newspaper/article/13197642?searchTerm=Caroline%20Sophia%20Comyn%EF%BF%BC%EF%BF%BC)
