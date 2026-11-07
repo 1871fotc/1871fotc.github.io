@@ -9,7 +9,7 @@ hide:
 
 **ca. 1823 — 15 March 1872**
 
-## John Parker <small>(29A)</small>
+## John Parker <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
