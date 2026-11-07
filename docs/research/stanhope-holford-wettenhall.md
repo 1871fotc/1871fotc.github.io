@@ -48,7 +48,7 @@ hide:
 
 ### Learn more 
 
-- [Family Notices (1863, May 12). North Australian and Queensland General Advertiser (Ipswich, Qld. : 1862 - 1863), p. 2.](https://trove.nla.gov.au/newspaper/article/77293011?searchTerm=wettenhall)
+- [Family Notices (1863, May 12). North Australian and Queensland General Advertiser (Ipswich, Qld. : 1862 - 1863), p. 2.](https://trove.nla.gov.au/newspaper/article/77293011?searchTerm=wettenhall). Parents married.
 
 > Married. <br>
 > At St. Paul's Church, Ipswich, by the Rev. Philip R. S. Baily, B.A., Allan Ravenscroft, eldest son of Captain Wettenhall, R.N., of Queechy, near Launceston, Tasmania, to Sarah Ann, only daughter of St. Andrew Warde, Esq., of George Town, Tasmania. [No cards.]
