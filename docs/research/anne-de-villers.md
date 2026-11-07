@@ -36,6 +36,8 @@ hide:
 
 ### Learn more 
 
+Note the difference in first name between the records.
+
 - [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/edc78156422e54d8e2abf167fb4fc77a9cfbe1f4c4a6fbef1fb42865588c8570)
 
 > Death registration: Anne de Villers <br>
