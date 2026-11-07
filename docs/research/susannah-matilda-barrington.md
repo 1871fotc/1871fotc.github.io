@@ -35,6 +35,12 @@ hide:
 
 ### Learn more 
 
+- [Family Notices (1853, April 28)](http://nla.gov.au/nla.news-article28644463). The Sydney Morning Herald (NSW : 1842 - 1954), p. 3.
+
+> MARRIED. <br>
+> On the 23rd instant, at Parramatta, by the Rev. H. H. Bobart, Frederick Atlantic Barrington, to Susanna Matilda, second daughter of the late Adam Acres, Esq., of Heywood, Parramatta.
+
+
 - [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/62178f0d52acef8d052853724fade20494adac662a1e0de2ec216219059472fa) 
 
 > Death registration: Susannah Matilda Barrington <br>
