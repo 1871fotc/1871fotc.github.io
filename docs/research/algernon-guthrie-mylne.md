@@ -55,7 +55,7 @@ Note the difference in the last name ("Milne") in the [Paddington Cemetery Heads
 > Father/parent's name: Graham Mylne <br>
 > Registration details: 1868/B/7984 <br>
 
-![Algernon Guthrie Mylne's parents](../../assets/dig-finds/algernon-guthrie-mylne-parents.jpg){ width="35.7" class="full-width" loading=lazy } 
+![Algernon Guthrie Mylne's parents](../../assets/dig-finds/algernon-guthrie-mylne-parents.jpg){ width="35.7%" class="full-width" loading=lazy } 
 
 <small>*Algernon Guthrie Mylne's parents. Courtesy of Maree Worthington.* </small><br> 
 
