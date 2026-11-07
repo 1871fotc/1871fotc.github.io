@@ -33,9 +33,7 @@ hide:
 
 ### Learn more 
 
-Note the difference between the last name on the headstone inscription and the records below.
-
-- [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/9eefd64acd57b4d45f24fc9cd204e232d4726bf2e97aa0c4f337fbfd8ec1e26a), note the different spelling of the last name on the headstone.
+- [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/9eefd64acd57b4d45f24fc9cd204e232d4726bf2e97aa0c4f337fbfd8ec1e26a). Note the different spelling of the last name on the headstone.
 
 > Death registration: Thomas Mitchison <br>
 > Death date: 14/04/1858 <br>
