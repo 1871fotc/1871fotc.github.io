@@ -39,14 +39,16 @@ hide:
 
 ### Learn more 
 
-- [Marriage Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/b7aec485aa92960b7845f68c24cb9d65d2da8b70f5282ed1776f39966e441f35)
+- [Marriage Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/b7aec485aa92960b7845f68c24cb9d65d2da8b70f5282ed1776f39966e441f35) - Parents married.
 
-> Marriage registration: Charlotte Letitia Hingston
-> Marriage date: 04/03/1861
-> Spouse's name: Henry Franklin
-> Registration details: 1861/B/101
+> Marriage registration: Charlotte Letitia Hingston <br>
+> Marriage date: 04/03/1861 <br>
+> Spouse's name: Henry Franklin <br>
+> Registration details: 1861/B/101 <br>
 
+![Charlotte Letitia Franklin's parents and brother](../../assets/dig-finds/charlotte-letitia-franklin-parents.jpg){ width="40%" class="full-width" loading=lazy }
 
+<small>*Charlotte Letitia Franklin's parents and brother. Courtesy of Hayden Ian Govers.*</small>
 
 - [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/517e0857e134bf86acb68208aa29f2ec745f29e3e9a3b3f68aa33983d719bd9c)
 
@@ -62,10 +64,6 @@ hide:
 > DEATHS. <br>
 > THE Friends of Mr. HENRY FRANKLIN, of John-street, New Farm Road, are respectfully requested to attend the Funeral of his late Wife, Charlotte Letitia, only daughter of Mr. Hingston, THIS DAY, at 3 p.m. <br>
 > 580 JOSHUA EBENSTON, Undertaker.
-
-![Charlotte Letitia Franklin's parents and brother](../../assets/dig-finds/charlotte-letitia-franklin-parents.jpg){ width="40%" class="full-width" loading=lazy }
-
-<small>*Charlotte Letitia Franklin's parents and brother. Courtesy of Hayden Ian Govers.*</small>
 
 
 --8<-- "snippets/add-to-this-story.md"
