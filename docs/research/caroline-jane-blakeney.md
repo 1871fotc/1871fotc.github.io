@@ -54,7 +54,7 @@ search:
 > DEATH. <br>
 > BLAKENEY.—On the 23rd March, at Cooltigue, Caroline Jane, the beloved child of William T. Blakeney, aged three years and three weeks.
 
-- [BY GONE BRISBANE. (1908, February 9). Truth (Brisbane, Qld. : 1900 - 1954), p. 7.](https://trove.nla.gov.au/newspaper/article/206486731?searchTerm=Caroline%20Jane%20Blakeney%20Bygone%20Brisbane#) 
+- [BY GONE BRISBANE. (1908, February 9). Truth (Brisbane, Qld. : 1900 - 1954), p. 7.](https://trove.nla.gov.au/newspaper/article/206486731?searchTerm=Caroline%20Jane%20Blakeney%20Bygone%20Brisbane#) - Note the difference in age with other records.
 
 > Caroline Jane Blakeney, buried on March 23, 1866, was a little girl, six years and 20 days, of age, daughter of William and Eliza Blakeney. Blakeney was the once well-known Registrar-General, and son of Judge Blakeney. One of his daughters married T. H. B. Barron, and another married S. B. Leishman, the squatter. Both were fine looking women. One of Mrs. Barron's daughters is the wife of one of Sir Arthur Palmer's sons. C.J. Blakeney, a once well-known lawyer at Brisbane, Cairns, and Cooktown, was another son of the Judge. 
 
