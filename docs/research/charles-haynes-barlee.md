@@ -51,7 +51,7 @@ hide:
 
 ### Learn more 
 
-- [Family Notices (1858, April 14). Empire (Sydney, NSW : 1850 - 1875), p. 4](https://trove.nla.gov.au/newspaper/article/60427857?searchTerm=Charles%20Haynes%20Barlee%20%20Amy%20Louisa%20Laurence#)
+- [Family Notices (1858, April 14). Empire (Sydney, NSW : 1850 - 1875), p. 4](https://trove.nla.gov.au/newspaper/article/60427857?searchTerm=Charles%20Haynes%20Barlee%20%20Amy%20Louisa%20Laurence#) - Parents married.
 
 > MARRIED. <br>
 > On the 10th instant, by special license, at St. John's Church, Darlinghurst, by the Rev. Thomas Haydon, Charles Haynes, second son of the late Rev. Edward Barlee, Rector of Worlingworth, Suffolk, and brother of the honorable F. P. Barlee, Esq., Colonial Secretary for Western Australia, to Amy Louisa, second daughter of the late Benjamin Laurence, Esq., of Hornsey Park, London.
