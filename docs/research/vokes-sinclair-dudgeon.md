@@ -5,14 +5,7 @@ hide:
   - navigation 
 ---
 
-!!! warning
-
-    Work in progress. We're checking the ==highlighted text== for accuracy. 
-
 # Vokes Sinclair Dudgeon
-
-#foundHeadstones #index #indexInPDF #checkInscription #symbology
-
 
 **ca. January 1859 — 28 October 1863**
 
@@ -20,7 +13,7 @@ hide:
 
 ### Headstone
 
-<img src="vokes-sinclair-dudgeon-headstone-2015.jpg" width="50%" />
+![Fragment of Vokes Sinclair Dudgeon's headstone](../../assets/dig-finds/vokes-sinclair-dudgeon-headstone-2015.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragment of Vokes Sinclair Dudgeon's headstone discovered in a Toowong Cemetery Archaeological Dig in 2015.* </small>
 
@@ -34,7 +27,7 @@ hide:
 
 > In Memoriam <br>
 > Vokes S. Dudgeon <br>
-> born January ==28^th^== 1859  <br>
+> born January 28^th^ 1859  <br>
 > died November ==??^??^ 1863== <br>
 
 ### Learn more 
