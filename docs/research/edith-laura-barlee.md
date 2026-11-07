@@ -50,7 +50,7 @@ hide:
 
 ### Learn more 
 
-- [Family Notices (1858, April 14). Empire (Sydney, NSW : 1850 - 1875), p. 4](https://trove.nla.gov.au/newspaper/article/60427857?searchTerm=Charles%20Haynes%20Barlee%20%20Amy%20Louisa%20Laurence#)
+- [Family Notices (1858, April 14). Empire (Sydney, NSW : 1850 - 1875), p. 4](https://trove.nla.gov.au/newspaper/article/60427857?searchTerm=Charles%20Haynes%20Barlee%20%20Amy%20Louisa%20Laurence#) - Parents married.
 
 > MARRIED. <br>
 > On the 10th instant, by special license, at St. John's Church, Darlinghurst, by the Rev. Thomas Haydon, Charles Haynes, second son of the late Rev. Edward Barlee, Rector of Worlingworth, Suffolk, and brother of the honorable F. P. Barlee, Esq., Colonial Secretary for Western Australia, to Amy Louisa, second daughter of the late Benjamin Laurence, Esq., of Hornsey Park, London.
@@ -77,7 +77,7 @@ hide:
 
 <!-- Colonial Telegrams. (1882, May 17). Maryborough Chronicle, Wide Bay and Burnett Advertiser (Qld. : 1860 - 1947), p. 2. Retrieved April 4, 2026, from http://nla.gov.au/nla.news-article146515963 -->
 
-- [Country News. (1882, May 20). The Queenslander (Brisbane, Qld. : 1866 - 1939), p. 615.](http://nla.gov.au/nla.news-article19784263)
+- [Country News. (1882, May 20). The Queenslander (Brisbane, Qld. : 1866 - 1939), p. 615.](http://nla.gov.au/nla.news-article19784263) - Edith's Father was a journalist.
 
 > The late Mr. C. H. Barlee, whose death is announced in our telegrams this week, was well known to old Brisbane residents as a Parliamentary shorthand-writer in the early days of the colony. He was cousin to Mr. F. P. Barlee, the Colonial. Secretary of Western Australia. As a genial and prolific writer, Mr. Barlee stood high amongst his fellow journalists, and many of us will remember his graphic sketches of the " Caboolture Hunt," for he was an ardent votary of the chase. His fugitive sketches, written whilst at Gympie, were also full of dry caustic humour. As with many other Queenslanders, Sydney did not improve his health, yet he made a gallant fight for success even there. His little brochure of " Once a Week," published in Sydney in 1878, was well written and edited, and showed the energy of the man and his talent as a litterateur. but it fell stillborn on a market which craved the more modern, successful, and sensational style of "weekly." Mr. Barlee's chief fault was an aptness to take offence at times when none was meant, and but for this he might have been a more successful man. He can, however, be ill spared from the ranks of colonial journalism.
 
