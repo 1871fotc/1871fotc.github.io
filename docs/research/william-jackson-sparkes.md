@@ -11,8 +11,6 @@ hide:
 
 ## William Jackson Sparkes <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
-William Jackson Sparkes was recorded as Jackson William Sparkes on his Death Record.
-
 ### Headstone
 
 ![Fragments of William Jackson  Sparkes' headstone](../../assets/dig-finds/william-jackson-sparkes-headstone.jpg){ width="40%" class="full-width" loading=lazy }
@@ -64,7 +62,8 @@ William Jackson Sparkes was recorded as Jackson William Sparkes on his Death Rec
 ### Learn more 
 
 
-- [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/bc284df4f758616255495a1ac280e2dce820e3d2cd2966c0075d8965cb5adb86) 
+- [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/bc284df4f758616255495a1ac280e2dce820e3d2cd2966c0075d8965cb5adb86). William Jackson Sparkes was recorded as Jackson William Sparkes on his Death Record.
+ 
 
 > Death registration: Jackson William Sparkes <br>
 > Death date: 07/01/1851 <br>
