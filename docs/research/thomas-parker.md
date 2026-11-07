@@ -7,17 +7,15 @@ hide:
 
 # Thomas Parker
 
-#foundHeadstones #toDoHeadstones #newPhoto
+<!-- **==ca. 18?? — 18?? ==** -->
 
-**==ca.  —==**
-
-## Thomas Parker <small>(29A)</small>
+## Thomas Parker <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="john-parker-headstone-2013.jpg" width="50%" />
+![Fragment of John Parker's headstone](../../assets/dig-finds/john-parker-headstone-2013.jpg){ width="40%" class="full-width" loading=lazy }
 
-<img src="thomas-parker-headstone-2023.jpg" width="50%" />
+![Fragment of John Parker's headstone](../../assets/dig-finds/thomas-parker-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragments of Thomas Parker's headstone discovered in a Toowong Cemetery Archaeological Dig in 2013 (Top) and 2014.*</small>
 
@@ -42,11 +40,6 @@ hide:
 
 > Thomas Parker
 
-### Learn more 
-
-==no Trove==
-
-==BDM?==
 
 
 
