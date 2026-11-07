@@ -32,9 +32,9 @@ hide:
 
 ### Learn more 
 
-- [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/e936bb67bce1d2f97036ae273015f15b7cbd5ea9d9d36f7e42a44ccc2b454ab0)
+- [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/e936bb67bce1d2f97036ae273015f15b7cbd5ea9d9d36f7e42a44ccc2b454ab0) - Note the difference in middle name with other records
 
-> Death registration: George ==Darby== Blanche <br>
+> Death registration: George Darby Blanche <br>
 > Death date: 30/03/1866 <br>
 > Mother's name: - <br>
 > Father/parent's name: - <br>
