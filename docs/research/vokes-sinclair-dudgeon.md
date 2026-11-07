@@ -28,9 +28,11 @@ hide:
 > In Memoriam <br>
 > Vokes S. Dudgeon <br>
 > born January 28^th^ 1859  <br>
-> died November ==??^??^ 1863== <br>
+> died November 28^th^ 1863 <br>
 
 ### Learn more 
+
+Note the difference in the death date month on the inscription and the other records.
 
 - Birth Record - New South Wales Government 
 
