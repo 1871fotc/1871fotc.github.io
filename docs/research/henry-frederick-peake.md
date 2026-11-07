@@ -9,7 +9,7 @@ hide:
 
 **Died 2 May 1871**
 
-## Henry Frederick Peake <small>(29A)</small>
+## Henry Frederick Peake <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499)))</small>
 
 ### Headstone
 
