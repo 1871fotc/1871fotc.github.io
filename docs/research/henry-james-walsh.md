@@ -5,14 +5,9 @@ hide:
   - navigation 
 ---
 
-!!! warning
-
-    Work in progress. We're checking the ==highlighted text== for accuracy. 
-
-
 # Henry James Walsh
 
-**==born d mmmm yyyy== — 3 April 1865**
+**20 February 1861 — 3 April 1865**
 
 ## Henry James Walsh <small>[(Toowong Cemetery Symbology Display)](https://maps.app.goo.gl/yDA2J7YJrrdirAJ4A)</small>
 
@@ -35,38 +30,18 @@ hide:
 > Also  <br>
 > Henry James Walsh  <br>
 > Born 20^th^ February 1861  <br>
-> Died 3^d^ April 186==3==  <br>
+> Died 3^d^ April 1865  <br>
 
 ### Learn more 
-
-<!-- References in time order -->
-
-- [Birth Record - Queensland Government]()
-
->  <br>
->  <br>
->  <br>
-
-
-- [Marriage Record - Queensland Government]()
-
->  <br>
->  <br>
->  <br>
 
 
 - [Death Record - Queensland Government]()
 
->  <br>
->  <br>
->  <br>
-
- 
-- [Family Notice]()
-
->  <br>
->  <br>
->  <br>
+> Death registration: Henry James Walsh  <br>
+> Death date: 03/04/1865  <br>
+> Mother's name: Mary Ann Adwick  <br>
+> Father/parent's name: Robert Walsh  <br>
+> Registration details: 1865/B/2254 <br>
 
 
 
