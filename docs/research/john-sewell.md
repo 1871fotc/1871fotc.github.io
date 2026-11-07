@@ -7,9 +7,14 @@ hide:
 
 <!-- Research needed. born ca. 1826 -->
 
+!!! warning
+
+    Work in progress. We're checking the ==highlighted text== for accuracy. 
+
+
 # John Sewell
 
-**Died 31 July 1865**
+**Died ==31 July 1865==**
 
 <!-- There is another John Sewell 31. July 1863. This page needs further investigation -->
 
@@ -32,17 +37,17 @@ hide:
 > In memory of  <br>
 > John Sewell <br>
 > eldest son of <br>
-> F. T. D. Sewell <br>
+> ==F. T. D.== Sewell <br>
 
-<!-- 
-### Learn more 
+
+### ==Learn more==
 
 - [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/4ea71a1c205f0900cb73b6295209f5feadde53b623f1e7d16f96b40a53ef0883). ==This may not be the correct record based on the difference in the Father's name.==
 
 > Death registration: John Sewell <br>
 > Death date: 31/07/1865 <br>
 > Mother's name: - <br>
-> Father/parent's name: John Sewell <br>
+> Father/parent's name: ==John== Sewell <br>
 > Registration details: 1865/B/2451 <br>
 
 
@@ -56,6 +61,5 @@ hide:
 
 > DIED. SEWELL.— July 31st, at his residence, Adelaide-street, Brisbane, John, eldest son of the late Sir John Sewell, Knt., of Wick Hill House, Bracknell, Berkshire, aged 39 years. (Heading and Windsor papers please copy.) 
 
--->
 
 --8<-- "snippets/add-to-this-story.md"
