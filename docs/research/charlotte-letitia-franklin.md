@@ -63,4 +63,9 @@ hide:
 > THE Friends of Mr. HENRY FRANKLIN, of John-street, New Farm Road, are respectfully requested to attend the Funeral of his late Wife, Charlotte Letitia, only daughter of Mr. Hingston, THIS DAY, at 3 p.m. <br>
 > 580 JOSHUA EBENSTON, Undertaker.
 
+![Charlotte Letitia Franklin's parents and brother](../../assets/dig-finds/charlotte-letitia-franklin-parents.jpg){ width="40%" class="full-width" loading=lazy }
+
+<small>*Charlotte Letitia Franklin's parents and brother. Courtesy of Hayden Ian Govers.*</small>
+
+
 --8<-- "snippets/add-to-this-story.md"
