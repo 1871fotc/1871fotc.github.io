@@ -13,7 +13,7 @@ hide:
 
 ### Headstone
 
-![Fragment of James Joseph Fitzgerald's headstone headstone](../../assets/dig-finds/james-joseph-fitzgerald-headstone-2026.jpg){ width="40%" class="full-width" loading=lazy }
+![Fragment of James Joseph Fitzgerald's headstone](../../assets/dig-finds/james-joseph-fitzgerald-headstone-2026.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Fragment of James Joseph Fitzgerald's headstone discovered in a Toowong Cemetery Archaeological Dig in 2014.* </small>
 
