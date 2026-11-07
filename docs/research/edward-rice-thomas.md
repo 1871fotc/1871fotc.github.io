@@ -9,7 +9,7 @@ hide:
 
 **ca. 1821 — 31 July 1853**
 
-## Edward Rice Thomas ([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))
+## Edward Rice Thomas (Tasmania)
 
 ### Headstone
 
