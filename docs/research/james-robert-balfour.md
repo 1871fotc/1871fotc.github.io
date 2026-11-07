@@ -9,7 +9,7 @@ hide:
 
 **ca. 1821 — 13 March 1844**
 
-## James Robert Balfour  <small>([Toowong Cemetery Museum](https://maps.app.goo.gl/tgb8biUeEF9NnF499](https://maps.app.goo.gl/JaMz9L7Np7mRW92w6))</small>
+## James Robert Balfour  <small>([Toowong Cemetery Museum](https://maps.app.goo.gl/JaMz9L7Np7mRW92w6))</small>
 
 ### Headstone
 
