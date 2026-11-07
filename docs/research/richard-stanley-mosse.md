@@ -13,7 +13,7 @@ hide:
 
 ### Headstone
 
-![Richard Stanley Mosse's headstone](../../assets/dig-finds/richard-stanley-mosse-headstone-2014.jpg){ width="40%" class="full-width" loading=lazy }
+![Richard Stanley Mosse's headstone](../../assets/dig-finds/richard-stanley-mosse-headstone-2014.jpg){ width="30%" class="full-width" loading=lazy }
 
 
 <small>*Richard Stanley Mosse's headstone discovered in a Toowong Cemetery Archaeological Dig in 2014.* </small>
