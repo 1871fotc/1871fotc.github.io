@@ -12,7 +12,7 @@ hide:
 
 # Ernest Victor Williams
 
-**==born d mmmm yyyy== — ==died d mmmm yyyy==**
+**==d mmmm yyyy== — 20 February 1869**
 
 ## Ernest Victor Williams <small>[(Toowong Cemetery Symbology Display)](https://maps.app.goo.gl/yDA2J7YJrrdirAJ4A)</small>
 
@@ -43,35 +43,12 @@ hide:
 
 ### Learn more 
 
-<!-- References in time order -->
+- [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/3ece18f187a50feea9689eba45c7a1413f95ec593785aa6dbd641e87bb9c6080)
 
-- [Birth Record - Queensland Government]()
-
->  <br>
->  <br>
->  <br>
-
-
-- [Marriage Record - Queensland Government]()
-
->  <br>
->  <br>
->  <br>
-
-
-- [Death Record - Queensland Government]()
-
->  <br>
->  <br>
->  <br>
-
- 
-- [Family Notice]()
-
->  <br>
->  <br>
->  <br>
-
-
+> Death registration: Ernest Victor Williams <br>
+> Death date: 20/02/1869 <br>
+> Mother's name: Georgina Adale Everett <br>
+> Father/parent's name: Samuel Williams <br>
+> Registration details: 1869/B/4865 <br>
 
 --8<-- "snippets/add-to-this-story.md"
