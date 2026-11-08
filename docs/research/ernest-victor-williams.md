@@ -38,6 +38,15 @@ hide:
 
 ### Learn more 
 
+- [Birth Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/0563513e88d443038ea025e9cdbc62eece0f5f3398ea082a45410867ee98a08e)
+
+> Birth registration: Ernest Victor Williams  <br>
+> Birth date: 27/05/1868  <br>
+> Mother's name: Georgina Adele Everett  <br>
+> Father/parent's name: Samuel Williams  <br>
+> Registration details: 1868/B/8499  <br>
+
+
 - [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/3ece18f187a50feea9689eba45c7a1413f95ec593785aa6dbd641e87bb9c6080)
 
 > Death registration: Ernest Victor Williams <br>
@@ -45,5 +54,10 @@ hide:
 > Mother's name: Georgina Adale Everett <br>
 > Father/parent's name: Samuel Williams <br>
 > Registration details: 1869/B/4865 <br>
+
+- [Family Notices (1869, February 23)](https://nla.gov.au/nla.news-article1300935). The Brisbane Courier (Qld. : 1864 - 1933), p. 1.
+
+> DEATHS. <br>
+> WILLIAMS.—On the 20th February, at Bowen-terrace, Brisbane, Ernest Victor, the dearly loved child of Samuel and Georgiana Adele Williams, aged 8 months and 3 weeks.
 
 --8<-- "snippets/add-to-this-story.md"
