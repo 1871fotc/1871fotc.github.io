@@ -5,14 +5,9 @@ hide:
   - navigation 
 ---
 
-!!! warning
-
-    Work in progress. We're checking the ==highlighted text== for accuracy. 
-
-
 # Ernest Victor Williams
 
-**==d mmmm yyyy== — 20 February 1869**
+**ca. 30 May 1868 — 20 February 1869**
 
 ## Ernest Victor Williams <small>[(Toowong Cemetery Symbology Display)](https://maps.app.goo.gl/yDA2J7YJrrdirAJ4A)</small>
 
@@ -36,7 +31,7 @@ hide:
 > Samuel & Georgiana  <br>
 > Adele Williams <br>
 > Who died <br>
-> February 20th 1869 <br>
+> February 20^th^ 1869 <br>
 > Aged eight months & three weeks <br>
 > Of such is the kingdom of heaven <br>
 
