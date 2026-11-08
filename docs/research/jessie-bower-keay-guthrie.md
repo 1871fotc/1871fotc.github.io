@@ -49,4 +49,14 @@ hide:
 > DEATHS. <br>
 > GUTHRIE.—At Lucerne, Milton, Jessie, the beloved wife of John Guthrie.
 
+
+- [BYGONE BRISBANE. (1907, December 8)](http://nla.gov.au/nla.news-article206482730). Truth (Brisbane, Qld. : 1900 - 1954), p. 10.
+
+> Jessie Guthrie, who died on June 20, 1871, was the wife of John Guthrie, who was first a solicitor with Little and Brown, and afterwards on his own account. He lived in a house called "Lucerne," long occupied after-wards by John Scott, once Chairman of Committees, at Milton. Beside it stood one of the handsomest fig trees in Brisbane.
+> 
+> Jessie was Guthrie's, first wife. His second was Miss Fowles, sister of William Lambert Fowles, once M.L.A. for Clermont, and father of the present Under-Secretary in the Treasury. Guthrie was residing at Wooloowin when he died, and his second wife now resides in Tasmania.
+> 
+> In the grave with the first wife are her two children, Mary Isabella, aged 4, and Francis Drummond, aged 2, one died in July, 1864, the other in July, 1861. intensely pathetic are those graves that hold THE MOTHERS AND THEIR CHILDREN.
+
+
 --8<-- "snippets/add-to-this-story.md"
