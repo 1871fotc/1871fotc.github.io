@@ -46,4 +46,8 @@ hide:
 > DEATH. <br>
 > YALDWYN.—On the 13th May, at No. 1, Harris' Terrace, Duncan Francis, the infant son of William Yaldwyn, Esq., aged eight weeks.<br>
 
+- [BY GONE BRISBANE. (1908, January 12)](http://nla.gov.au/nla.news-article206487850). Truth (Brisbane, Qld. : 1900 - 1954), p. 6.
+
+> William, Yaldwyn, the now RETIRED POLICE MAGISTRATE, of Brisbane, buried a six week old child on May 12, 1867. Yaldwyn’s second wife is a daughter of the general Phil Agnew, Post and Telegraph Master at Dunwich. The child of 1867 was named Duncan Francis. Yaldwyn was one of the early squatters on tho Dawson, and out there in 1861, when 19 people were killled on Wills' station, on the Comet. 
+
 --8<-- "snippets/add-to-this-story.md"
