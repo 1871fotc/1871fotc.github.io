@@ -64,10 +64,11 @@ Advertising (1861, April 6). The Sydney Morning Herald (NSW : 1842 - 1954), p. 1
 - [BY GONE BRISBANE. (1907, December 29). Truth (Brisbane, Qld. : 1900 - 1954), p. 7.](https://trove.nla.gov.au/newspaper/article/206486279?searchTerm=lamont)
 
 > Jessie Lamont, a widow, died on April 3, 1866, aged 51. THE STONE RECORDS : <br>
-> "Take comfort Christians when your friends In Jesus, fall asleep. <br> 
-> Their better being never ends, Why then dejected weep ? <br> 
-> Why inconsolable, as those To whom no hope is given ? <br>
-> Death is the messenger of peace, And calls the soul to Heaven." <br>
+> "*Take comfort Christians when your friends In Jesus, fall asleep.* <br> 
+> *Their better being never ends, Why then dejected weep ?* <br> 
+> *Why inconsolable, as those To whom no hope is given ?* <br>
+> *Death is the messenger of peace, And calls the soul to Heaven.*" <br>
+>
 > (This is the 53rd. Paraphrase.)
 > <br>
 > One of the daughters, Marion Flora, died on May 23, 1873, aged only 29. She was the wife of James Chapman, father of Ebenezer Chapman, now a builder in Fortitude Valley. Jessie Lamont lies in the Presbyterian ground, near to Margaret Elizabeth Bethune, wife of David Lachlan Brown, head of the firm of D. L. Brown and Co.
