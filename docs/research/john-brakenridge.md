@@ -58,10 +58,10 @@ hide:
 
 <small>*[St John's Cathedral facing William Street, Brisbane taken about 1876](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1cmbrig/alma99183505767602061) - State Library of Queensland.* </small>
 
-- [BYGONE BRISBANE. (1908, January 19). Truth (Brisbane, Qld. : 1900 - 1954), p. 6.](https://trove.nla.gov.au/newspaper/article/206489047?searchTerm=Brakenridge#), note the word "departed" instead of "Reverend" as shown on the headstone.
+- [BYGONE BRISBANE. (1908, January 19). Truth (Brisbane, Qld. : 1900 - 1954), p. 6.](https://trove.nla.gov.au/newspaper/article/206489047?searchTerm=Brakenridge#), note the word "*departed*" instead of "*Reverend*" as shown on the headstone.
 
 > BYGONE BRISBANE <br>
 > The Paddington Cemetery. <br>
-> A young Church of England clergyman is thus recorded : “Jesu Mercy. In memory of the departed John Brakenridge, M.A. of Christ's College, Cambridge, Clerk in Holy Orders. Died March 20, 1861, aged 31.” He was one of the many young men who have come out to Queensland in that advanced stage of consumption which no climate can cure. 
+> A young Church of England clergyman is thus recorded : “*Jesu Mercy. In memory of the departed John Brakenridge, M.A. of Christ's College, Cambridge, Clerk in Holy Orders. Died March 20, 1861, aged 31.*” He was one of the many young men who have come out to Queensland in that advanced stage of consumption which no climate can cure. 
 
 --8<-- "snippets/add-to-this-story.md"
