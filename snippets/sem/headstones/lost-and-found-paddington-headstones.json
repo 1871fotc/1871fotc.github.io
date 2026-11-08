@@ -1,0 +1,58 @@
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org/",
+  "@graph":[
+    {
+      "@type": "Organization",
+      "@id": "https://www.fotc.au/#/schema/organization/1",
+      "name": "Friends of Toowong Cemetery Association Inc.",
+      "url": "https://www.fotc.au/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.fotc.au/#/schema/website/1",
+      "name": "Friends of Toowong Cemetery",
+      "url": "https://www.fotc.au/",
+      "publisher": {
+          "@id": "https://www.fotc.au/#/schema/organization/1"
+      }
+    },  
+    {
+      "@type": "WebPage",
+      "@id": "https://www.fotc.au/headstones/lost-and-found-paddington-headstones/",
+      "url": "https://www.fotc.au/headstones/lost-and-found-paddington-headstones/",
+      "name": "Lost Paddington Cemetery Headstones",
+      "mentions": [
+        {"@type": "Place","name": "Toowong Cemetery","sameAs": "https://en.wikipedia.org/wiki/Toowong_Cemetery"}, 
+        {"@type": "Place","name": "Christ Church Milton","sameAs": "https://en.wikipedia.org/wiki/Christ_Church%2C_Milton"}, 
+        {"@type": "Thing","name": "Headstone","sameAs": "https://en.wikipedia.org/wiki/Headstone"}, 
+        {"@type": "Place","name": "Paddington Cemetery","sameAs": "https://en.wikipedia.org/wiki/North_Brisbane_Burial_Ground"}
+      ],
+      "isPartOf": {
+          "@id": "https://www.fotc.au/#/schema/website/1"
+      }
+    },
+    {  
+      "@type": "Dataset",
+      "name": "Lost and Found Paddington Cemetery Headstones",
+      "description": "Headstones from the closed Paddington Cemetery that were placed in a reserved area beside Christ Church Milton in 1914 and disappeared in the 1930s",
+      "url": "https://www.fotc.au/headstones/lost-paddington-headstones/", 
+      "alternateName": "North Brisbane Burial Grounds Lost Headstones",
+      "keywords": ["North Brisbane Burial Grounds Headstones", "Paddington Cemetery Headstones"],
+      "license" : "https://creativecommons.org/licenses/by/4.0/",
+      "isAccessibleForFree" : true,
+      "creator":{
+          "@id": "https://www.fotc.au/#/schema/organization/1"
+      },
+      "distribution":[{
+            "@type":"DataDownload",
+            "encodingFormat":"CSV",
+            "contentUrl":"https://www.fotc.au/assets/data/lost-and-found-paddington-cemetery-headstones.csv"
+         }
+      ],
+      "temporalCoverage" : "1831/..",
+      "spatialCoverage": "Paddington Cemetery, Brisbane, Queensland, Australia"
+    }
+  ]
+}  
+</script>
