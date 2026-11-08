@@ -34,7 +34,7 @@ hide:
 > <br>
 > and
 > Edward Humphrey Barlee  <br>
-> who died on the 31^st^ ==March== 1869  <br>
+> who died on the 31^st^ March 1869  <br>
 > aged six years and two months <br>
 > <br>
 > … <br>
