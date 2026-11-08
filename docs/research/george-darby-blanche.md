@@ -1,21 +1,21 @@
 ---
-title: George Danby Blanche
+title: George Darby Blanche
 hide:
   - toc
   - navigation 
 ---
 
-# George Danby Blanche
+# George Darby Blanche
 
 **Died 30 March 1866**
 
-## George Danby Blanche <small>[(Toowong Cemetery Symbology Display)](https://maps.app.goo.gl/yDA2J7YJrrdirAJ4A)</small>
+## George Darby Blanche <small>[(Toowong Cemetery Symbology Display)](https://maps.app.goo.gl/yDA2J7YJrrdirAJ4A)</small>
 
 ### Headstone
 
-![Fragment of George Danby Blanche's headstone](../../assets/dig-finds/george-danby-blanche-headstone.jpg){ width="40%" class="full-width" loading=lazy }
+![Fragment of George Darby Blanche's headstone](../../assets/dig-finds/george-darby-blanche-headstone.jpg){ width="40%" class="full-width" loading=lazy }
 
-<small>*Fragment of George Danby Blanche's headstone discovered in a Toowong Cemetery Archaeological Dig in 2015.* </small>
+<small>*Fragment of George Darby Blanche's headstone discovered in a Toowong Cemetery Archaeological Dig in 2015.* </small>
 
 - Erected: North Brisbane Burial Grounds, Episcopalian section. After 30 March 1866
 - Moved to: North Brisbane Burial Grounds, Reserved Area. ca. 1914. Recorded as G. D. Blanche
@@ -27,7 +27,7 @@ hide:
 ### Inscription
 
 > In memory of <br>
-> George Danby …  <br>
+> George ==Danby== …  <br>
 > …  <br>
 
 ### Learn more 
@@ -43,7 +43,7 @@ hide:
  
 - [TELEGRAPHIC. (1866, April 2). The Brisbane Courier (Qld. : 1864 - 1933), p. 2.](https://trove.nla.gov.au/newspaper/article/1265046?searchTerm=George%20Danby%20Blanche#)
 
-> The inquest on the body of George Danby Blanche, who was drowned in the Brisbane River on Friday evening, was held on Saturday. Since publishing the paragraph which appeared in our last issue, we have ascertained that Mr. Blanche's parents are at present living at Dapto, Illawarra, and not near Melbourne, which they left some time ago; nor was the deceased an only son. The evidence adduced at the inquest differs little from the account we have given, but as the facts are set out at greater length, we subjoin the statements of the witnesses :
+> The inquest on the body of George ==Danby== Blanche, who was drowned in the Brisbane River on Friday evening, was held on Saturday. Since publishing the paragraph which appeared in our last issue, we have ascertained that Mr. Blanche's parents are at present living at Dapto, Illawarra, and not near Melbourne, which they left some time ago; nor was the deceased an only son. The evidence adduced at the inquest differs little from the account we have given, but as the facts are set out at greater length, we subjoin the statements of the witnesses :
 > 
 > -Sub-inspector Lloyd deposed that, at about 8 o'clock on Friday evening, he received information that the deceased had been drowned; he went to the locality pointed out to him, and dragged the river ; after an hour's search, he found the body eight or ten yards from the river bank, and opposite an old wharf, in the reach below Kangaroo Point ; the deceased was dressed in his ordinary clothes ; there were no marks of external injury on his body ; found in his coat pocket letters to him from his father and sister, dated from Dapto, Illawarra.
 > 
