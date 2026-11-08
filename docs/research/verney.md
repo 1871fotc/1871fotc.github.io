@@ -53,6 +53,15 @@ hide:
 > BIRTH. <br>
 > VERNEY.—On the 26th November, the wife of Geo. H. Verney, Esq., A.D.C., of a son, who survived his birth only a few minutes.
 
+- [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/ef57a6a0b34aa5b8aa17b52867c3c48346aab327ffe0f2f9d567262ac60ec6bf)
+
+> Death registration: Unnamed (M) Verney  <br>
+> Death date: 26/11/1870  <br>
+> Mother's name: Harriet Julia Morfarwyn Hinde  <br>
+> Father/parent's name: George Hope Verney  <br>
+> Registration details: 1870/B/6536  <br>
+
+
 ![Major George Hope Verney](../../assets/dig-finds/george-hope-verney.jpg){ width="26.1%" class="full-width" loading=lazy } ![Harriet Julia Morfarwyn Verney](../../assets/dig-finds/harriet-julia-morfarwyn-verney.jpg){ width="33%" class="full-width" loading=lazy }
 
 <small>*[Major George Hope Verney](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/7vfc6o/alma99183508000802061), ca. 1895, was previously Aide‑de‑Camp to the Governor Blackall Queensland, from 1868 - 1871. State Library of Queensland*</small><br>
