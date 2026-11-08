@@ -60,5 +60,8 @@ hide:
 > At his residence, South Brisbane, on Monday, the 16th instant, George Christie, Esq., aged 36 years. <br>
 -->
 
+- [BYGONE BRISBANE. (1907, December 1)](https://nla.gov.au/nla.news-article206486389). Truth (Brisbane, Qld. : 1900 - 1954), p. 6. 
+
+> George Christie died on March 16, 1857, aged 36, his daughter, Sarah Ogilvie, having died on April 27,1856, aged 3, and his brother on February 12, in the same year. George Christie was manager of a store at the corner of Russell and Grey streets, in South Brisbane. The store belonged to old Ebby Town and Co., and Christie was their representative. 
 
 --8<-- "snippets/add-to-this-story.md"
