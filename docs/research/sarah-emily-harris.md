@@ -90,4 +90,11 @@ hide:
 > DEATHS. <br>
 > HARRIS.—On the 17th September, at her residence, No. 2, Harris' Terrace, Adelaide-street, Mrs. Harris, sen., in her 79th year.
 
+- [BY GONE BRISBANE. (1908, January 12)](https://nla.gov.au/nla.news-article206487850). Truth (Brisbane, Qld. : 1900 - 1954), p. 6.
+
+> Sarah Emily Harris, who died on September 17, 1866, aged 78, was the mother of John and George Harris, once the leading Brisbane merchants and shipping agents.
+> 
+> George married a sister of the late George Thorn, of Ipswich and their well-known home, "Newstead," at the mouth of Breakfast Creek, was famous for its generous hospitallity.
+
+
 --8<-- "snippets/add-to-this-story.md"
