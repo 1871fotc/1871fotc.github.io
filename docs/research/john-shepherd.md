@@ -7,15 +7,13 @@ hide:
 
 # John Shepherd
 
-#foundHeadstones #done
-
 **20 September 1843 — 4 April 1871**
 
-## John Shepherd <small>(29A)</small>
+## John Shepherd <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="john-shepherd-headstone-2014.jpg" width="50%" />
+![A fragment of John Shepherd's headstone](../../assets/dig-finds/john-shepherd-headstone-2014.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of John Shepherd's headstone discovered in a Toowong Cemetery Archaeological Dig in 2012*</small>
 
