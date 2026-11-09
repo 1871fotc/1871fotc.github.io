@@ -3,6 +3,8 @@ title: Alexander Scott
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 # Alexander Scott
