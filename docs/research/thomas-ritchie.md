@@ -3,6 +3,8 @@ title: Thomas Ritchie
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 # Thomas Ritchie
