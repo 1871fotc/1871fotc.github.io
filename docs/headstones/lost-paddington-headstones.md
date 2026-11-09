@@ -7,7 +7,7 @@ search:
   exclude: true
 ---
 
---8<-- "snippets/sem/headstones/lost-and-found-paddington-headstones.json"
+--8<-- "snippets/sem/headstones/lost-paddington-headstones.json"
 
 # Lost Paddington Cemetery Headstones 
 
@@ -44,9 +44,7 @@ The table below lists Paddington Cemetery headstones that were placed in the res
         - Headstones not recorded has being moved to the reserved area, or relocated to Toowong Cemetery have been prefixed with a '7'
        
 
-<!-- broken link -->
-
---8<-- "snippets/paddington-cemetery-reserved-area-memorials-new.html"
+--8<-- "snippets/paddington-cemetery-reserved-area-memorials.html"
 
 ## Abbreviations
 
@@ -88,11 +86,12 @@ Download the Paddington Cemetery Reserved Area Headstones as a Comma Separated V
 
 <!--
 Download the Paddington Cemetery Reserved Area Headstones as a <a href="../../assets/data/lost-paddington-cemetery-headstones.csv" download>Comma Separated Value file</a> (.csv)
--->
+
 
 [Download the data][data]{ .md-button .md-button--primary download}
 
 [data]: ../../assets/data/lost-paddington-cemetery-headstones.csv
+-->
 
 <!-- 
 https://trove.nla.gov.au/newspaper/article/77435062?searchTerm=James%20Teevan builder before George Prentice moved into Charlotte St?
