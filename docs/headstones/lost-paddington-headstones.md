@@ -1,5 +1,5 @@
 ---
-title: Lost and Found Paddington Cemetery Headstones 
+title: Lost Paddington Cemetery Headstones 
 description: Headstones from Paddington Cemetery that were lost in the 1930's and rediscovered in the next century
 hide:
   - toc
@@ -9,7 +9,7 @@ search:
 
 --8<-- "snippets/sem/headstones/lost-and-found-paddington-headstones.json"
 
-# Lost and Found Paddington Cemetery Headstones 
+# Lost Paddington Cemetery Headstones 
 
 By 1914, headstones from the closed Paddington Cemetery that hadn't been relocated to other cemeteries were placed in a reserved area beside [Christ Church Milton](https://apps.des.qld.gov.au/heritage-register/detail/?id=600252). 
 
@@ -21,7 +21,7 @@ In the 1930's these headstones disappeared. Some of the headstones have been fou
 
 ## Paddington Cemetery Headstones moved to the Reserved Area { data-search-exclude }
 
-The table below lists Paddington Cemetery headstones that were placed in the reserved area. If the Last Name has a link, the headstone has been found at Toowong Cemetery and the link goes to a page showing what was found and what is known about the person on the headstone.
+The table below lists Paddington Cemetery headstones that were placed in the reserved area. If the Last Name has a link, the headstone has been found at Toowong Cemetery. The link goes to a page showing what was found and what is known about the person on the headstone.
 
 ??? directions "About the data"
 
