@@ -3,6 +3,8 @@ title: George Darby Blanche
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 # George Darby Blanche
