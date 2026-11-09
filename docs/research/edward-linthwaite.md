@@ -3,6 +3,8 @@ title: Edward Linthwaite
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 # Edward Linthwaite
