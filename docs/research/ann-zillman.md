@@ -3,6 +3,8 @@ title: Ann Zillman
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 
