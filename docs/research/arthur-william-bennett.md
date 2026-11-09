@@ -3,6 +3,8 @@ title: Arthur William Bennett
 hide:
   - toc
   - navigation
+search:
+  exclude: true
 ---
 
 # Arthur William Bennett
