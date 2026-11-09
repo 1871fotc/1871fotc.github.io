@@ -3,6 +3,8 @@ title: Margaret Wallace
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 # Margaret Wallace
