@@ -3,6 +3,8 @@ title: Emma Rosa Cockerell
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 # Emma Rosa Cockerell
