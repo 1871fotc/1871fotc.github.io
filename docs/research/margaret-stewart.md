@@ -3,6 +3,8 @@ title: Margaret Stewart
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 # Margaret Stewart
