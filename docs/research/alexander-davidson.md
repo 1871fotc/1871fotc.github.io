@@ -5,22 +5,22 @@ hide:
   - navigation 
 ---
 
-# Alexander Davidson (speculative)
+!!! warning
 
-#foundHeadstones #research #checkInscription #toDoHeadstones
+    Work in progress. We're checking the ==highlighted text==.
+
+    
+# Alexander Davidson
 
 **==29 May 1851 — 14 January 1853==**
 
-## Alexander Davidson <small>(29A)</small>
+## Alexander Davidson <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-==do these go together?== 
+![](../../assets/dig-finds/alexander-lastname-headstone-2021.jpg){ width="40%" class="full-width" loading=lazy }
 
-alexander-lastname-headstone-2021.jpg
-charles-stuart-davidson-headstone-2023.jpg
-
-<!-- img src="charles-stuart-davidson-headstone-2023.jpg" width="50%" --/>
+![](../../assets/dig-finds/charles-stuart-davidson-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Alexander Davidson's headstone discovered in a Toowong Cemetery Archaeological Dig in ==2023==.* </small>
 
@@ -46,7 +46,7 @@ Registration details: 1854/BBP/816
 
 Family Notices (1853, March 12). The Moreton Bay Courier (Brisbane, Qld. : 1846 - 1861), p. 3. Retrieved April 9, 2026, from http://nla.gov.au/nla.news-article3708382
 
--->
+
 
 ### Learn more 
 
@@ -71,5 +71,8 @@ Family Notices (1853, March 12). The Moreton Bay Courier (Brisbane, Qld. : 1846 
 
 > DEATHS. <br>
 > At North Brisbane, on the 14th instant, Charles Stuart, son of Mr. R. Davidson ; aged one year and eight months.
+
+-->
+
 
 --8<-- "snippets/add-to-this-story.md"
