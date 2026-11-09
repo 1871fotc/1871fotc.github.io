@@ -3,6 +3,8 @@ title: Anthony Gowan Low
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 # Anthony Gowan Low
