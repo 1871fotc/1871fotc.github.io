@@ -3,6 +3,8 @@ title: Ralph Black
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 # Ralph Black
