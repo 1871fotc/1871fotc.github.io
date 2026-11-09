@@ -1,11 +1,11 @@
 ---
-title: Caroline Sophia Comyn
+title: Caroline Sophia Comyn Vallack
 hide:
   - toc
   - navigation 
 ---
 
-# Caroline Sophia Comyn
+# Caroline Sophia Comyn Vallack
 
 **ca. 1842 — 16 September 1869**
 
@@ -13,9 +13,9 @@ hide:
 
 ### Headstone
 
-![Caroline Sophia Comyn's headstone](../../assets/dig-finds/caroline-sophia-comyn-headstone.jpg){ width="40%" class="full-width" loading=lazy }
+![Caroline Sophia Comyn Vallack's headstone](../../assets/dig-finds/caroline-sophia-comyn-vallack-headstone.jpg){ width="40%" class="full-width" loading=lazy }
 
-<small>*Caroline Sophia Comyn's headstone discovered in a Toowong Cemetery Archaeological Dig in 2015.* </small>
+<small>*Caroline Sophia Comyn Vallack's headstone discovered in a Toowong Cemetery Archaeological Dig in 2015.* </small>
 
 - Erected: North Brisbane Burial Grounds, Episcopalian section. After 16 September 1869
 - Moved to: North Brisbane Burial Grounds, Reserved Area. ca. 1914. Recorded as C. S. C. Vallack
