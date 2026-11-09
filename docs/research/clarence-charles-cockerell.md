@@ -3,6 +3,8 @@ title: Clarence Charles Cockerell
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 # Clarence Charles Cockerell
