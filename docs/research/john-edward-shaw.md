@@ -4,18 +4,16 @@ hide:
   - toc
   - navigation 
 ---
-
+    
 # John Edward Shaw
-
-#foundHeadstones #research 
 
 **ca. 29 December 1862 — 29 October 1864** 
 
-## John Edward Shaw <small>(29A)</small>
+## John Edward Shaw <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
-<img src="john-edward-shaw-headstone.jpg" width="50%" />
+![A fragment of John Edward Shaw's headstone](../../assets/dig-finds/john-edward-shaw-headstone.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of John Edward Shaw's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.*</small>
 
@@ -48,7 +46,7 @@ hide:
 > DIED. <br>
 > SHAW—On Saturday, October 29th, John Edward, son of Rev. Bowyer E. Shaw, aged one year and ten months. <br>
 
-<img src="bowyer-edward-shaw.jpg" width="50%" />
+![Rev. Bowyer Edward Shaw (top left)](../../assets/dig-finds/bowyer-edward-shaw.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*Rev. Bowyer Edward Shaw (top left) - [State Library of Queensland](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/1cmbrig/alma99183509948902061)*</small>
 
