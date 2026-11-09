@@ -10,9 +10,9 @@ hide:
     Work in progress. We're checking the ==highlighted text==.
 
     
-# Alexander Davidson
+# Alexander lastname
 
-**==29 May 1851 — 14 January 1853==**
+**==dd mmmm yyyy — dd mmmm yyyy==**
 
 ## Alexander Davidson <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
@@ -20,11 +20,13 @@ hide:
 
 ![](../../assets/dig-finds/alexander-lastname-headstone-2021.jpg){ width="40%" class="full-width" loading=lazy }
 
+<!-- 
 ![](../../assets/dig-finds/charles-stuart-davidson-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
+-->
 
 <small>*A fragment of Alexander Davidson's headstone discovered in a Toowong Cemetery Archaeological Dig in ==2023==.* </small>
 
-- Erected: North Brisbane Burial Grounds, Episcopalian section. After ==14 January 1853==
+- Erected: North Brisbane Burial Grounds, Episcopalian section. After ==dd mmmm yyyy 1853==
 - Moved to: North Brisbane Burial Grounds, Reserved Area. ca. 1914. Recorded as ==Davidson==
 - Demolished and disposed of in: Toowong Cemetery, Portion 29A. ca. 1930
 - Discovered: Toowong Cemetery, Portion 29A near Section 72. ca. May ==2023==
