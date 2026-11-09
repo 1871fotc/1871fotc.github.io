@@ -2,7 +2,9 @@
 title: Alexander lastname
 hide:
   - toc
-  - navigation 
+  - navigation
+search:
+  exclude: true
 ---
 
 !!! warning
