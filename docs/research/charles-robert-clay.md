@@ -3,6 +3,8 @@ title: Charles Robert Clay
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 
