@@ -3,6 +3,8 @@ title: John McIntosh
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 # John McIntosh
