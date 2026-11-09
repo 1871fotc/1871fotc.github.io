@@ -3,6 +3,8 @@ title: James Joseph Fitzgerald
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 # James Joseph Fitzgerald
