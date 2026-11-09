@@ -3,6 +3,8 @@ title: George Christie
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 # George Christie
