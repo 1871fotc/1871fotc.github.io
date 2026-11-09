@@ -7,15 +7,18 @@ search:
   exclude: true
 ---
 
+!!! warning
+
+    Work in progress. We're checking the ==highlighted text.==
+    
 <!-- Research needed. -->
 
-# ==P.== Alexander Campbell (speculation)
+# ==P.== Alexander Campbell
 
-#index #indexInPDF
 
-**==born d mmmm yyyy== — ==died d mmmm yyyy==**
+**==d mmmm yyyy== — ==d mmmm yyyy==**
 
-## Alexander Campbell <small>(29A)</small>
+## Alexander Campbell <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
 ### Headstone
 
@@ -35,9 +38,9 @@ search:
 > 2^nd^ of M…  <br>
 > Aged XX…  <br>
 
+<!-- 
 ### Learn more 
 
-<!-- References in time order -->
 
 - [Birth Record - Queensland Government]()
 
@@ -66,6 +69,7 @@ search:
 >  <br>
 >  <br>
 
+-->
 
 
 --8<-- "snippets/add-to-this-story.md"
