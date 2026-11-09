@@ -3,6 +3,8 @@ title: Elizabeth Jane Venner
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 # Elizabeth Jane Venner
