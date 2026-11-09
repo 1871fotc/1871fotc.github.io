@@ -7,15 +7,14 @@ hide:
 
 # Elizabeth Jane Venner
 
-#foundHeadstones #done
-
 **Died 24 May 1872**
 
-## Elizabeth Jane Venner (29A)
+## Elizabeth Jane Venner ([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499)
+)
 
 ### Headstone
 
-<img src="elizabeth-jane-venner-headstone-2023.jpg" width="50%" />
+![A fragment of Elizabeth Jane Venner's headstone](../../assets/dig-finds/elizabeth-jane-venner-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 
 <small>*A fragment of Elizabeth Jane Venner's headstone discovered in a Toowong Cemetery Archaeological Dig in 2023.* </small>
 
@@ -33,7 +32,7 @@ hide:
 
 ### Learn more 
 
-Note the misspelling of Elizabeth in the death record. 
+Note the misspelling of Elizabeth in the death record and Venner in the movement record.
 
 - [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/a1836b4ceea6f5c0c598fcba95642cd5e2832fe5d187f35805679e0bcf582e1f)
 
