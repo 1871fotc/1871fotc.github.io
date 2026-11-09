@@ -3,6 +3,8 @@ title: William Betz
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 # William Betz
