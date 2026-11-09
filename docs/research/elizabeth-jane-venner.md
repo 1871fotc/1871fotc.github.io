@@ -9,8 +9,7 @@ hide:
 
 **Died 24 May 1872**
 
-## Elizabeth Jane Venner ([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499)
-)
+## Elizabeth Jane Venner ([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))
 
 ### Headstone
 
