@@ -3,6 +3,8 @@ title: Thomas Paine Yeowell
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 # Thomas Paine Yeowell
