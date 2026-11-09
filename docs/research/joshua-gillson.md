@@ -3,6 +3,8 @@ title: Joshua Gillson
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 # Joshua Gillson
