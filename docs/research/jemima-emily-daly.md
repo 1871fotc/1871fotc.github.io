@@ -3,6 +3,8 @@ title: Jemima Emily Daly
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 # Jemima Emily Daly
