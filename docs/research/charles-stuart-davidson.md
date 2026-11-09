@@ -3,6 +3,8 @@ title: Charles Stuart Davidson
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 # Charles Stuart Davidson
