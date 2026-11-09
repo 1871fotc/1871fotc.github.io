@@ -3,6 +3,8 @@ title: Catherine Smith
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 
