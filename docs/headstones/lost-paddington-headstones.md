@@ -17,7 +17,7 @@ In 1934 the headstones were [used to fill a gully in Toowong Cemetery](http://nl
 
 *<small>[Paddington Cemetery ca. 1900's](https://brisbane.recollectcms.com/nodes/view/17392#idx41189) — Brisbane City Council, Brisbane City Archives, BCC-D-20130035. Cropped. This photo is captioned 'Memorials standing in the reserved area' in Volume 2 of the 1914 Parliamentary papers.</small>* 
 
-## Paddington Cemetery Headstones moved to the Reserved Area { data-search-exclude }
+## Paddington Cemetery Headstones moved to the Reserved Area 
 
 The table below lists Paddington Cemetery headstones that were placed in the reserved area. If the Last Name has a link, the headstone has been found at Toowong Cemetery. The link goes to a page showing what was found and what is known about the person on the headstone.
 
