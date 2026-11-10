@@ -94,6 +94,37 @@ The IHS Emblem is from the Greek alphabet, (I) Iota, (H) Eta, and (Σ) Sigma and
 ![IHS Emblem carved on headstone](../assets/ihs.jpg){ width="70%" }
 <!-- add caption and grave id -->
 
+
+## Symbolism Display Headstones
+
+Headstones from left to right. 
+
+1. William Henry Evan Morgan  (not Paddington)
+2. [Ernest Alexander Cairncross](../research/ernest-alexander-cairncross/)
+3. [Caroline Sophia Comyn](../research/caroline-sophia-comyn/)
+4. [John Mace](../research/john-mace/)
+5. [Henry James Walsh](../research/henry-james-walsh/)
+6. [unnamed ￼Verney](../research/verney/)
+7. [Frederick Shepperson](../research/frederick-shepperson/)
+8. [Julius William Deedes](../research/julius-william-deedes/)
+9. Bridget McDuff￼￼ (not Paddington)
+10. [John Brougham Copeland](../research/john-brougham-copeland/)
+11. [Ernest Victor Williams](../research/ernest-victor-williams/)
+12. [Harry Dobbin Shepperson](../research/harry-dobbin-shepperson/)
+13. Dora
+14. [Algernon Guthrie Mylne](../research/algernon-guthrie-mylne/)
+15. [Vokes Sinclair Dudgeon](../research/vokes-sinclair-dudgeon/)
+16. [Henry Joseph Thomas](../research/henry-joseph-thomas/)
+17. Empty space 
+18. [Ernest Elphinstone Dalrymple](../research/ernest-george-beck-elphinston-dalrymple/)
+19. George Darby Blanche  <!-- ](../research/george-darby-blanche/) -->
+20. IHS symbol
+21. [Julius Kopp](../research/julius-kopp/)
+22. [Andrew S Ferguson](../research/Andrew-s-ferguson/), Jessie Manwaring, and Samuel Manwaring
+23. Francis Downes￼ (not Paddington)
+
+
+
 ## Books
 
 Books often symbolise the Bible and the faith of its reader. An open book has also been associated with the human heart.
