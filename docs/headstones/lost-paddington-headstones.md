@@ -74,6 +74,7 @@ Where additional information has been discovered, it has been added to the table
 
 *<small>Eliza Hartnoll's headstone discovered in a Toowong Cemetery Archaeological Dig.</small>*
 
+<!-- 
 
 ## Download the data
 
@@ -81,11 +82,8 @@ The [Paddington Cemetery Reserved Area Headstones](lost-paddington-headstones.md
 
 Download the Paddington Cemetery Reserved Area Headstones as a Comma Separated Value file (.csv)
 
-<!-- 
-Download the Paddington Cemetery Reserved Area Headstones as a <a href="../../assets/data/lost-paddington-cemetery-headstones.csv" download>Comma Separated Value file</a> (.csv)
--->
-
 [Download the data][data]{ .md-button .md-button--primary download}
 
 [data]: ../../assets/data/lost-paddington-cemetery-headstones.csv
 
+-->
