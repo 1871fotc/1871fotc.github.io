@@ -101,13 +101,13 @@ Headstones from left to right.
 
 1. William Henry Evan Morgan  <!-- (not Paddington) -->
 2. [Ernest Alexander Cairncross](../research/ernest-alexander-cairncross/)
-3. [Caroline Sophia Comyn](../research/caroline-sophia-comyn-vallack/)
+3. [Caroline Sophia Comyn Vallack](../research/caroline-sophia-comyn-vallack/)
 4. [John Mace](../research/john-mace/)
 5. [Henry James Walsh](../research/henry-james-walsh/)
 6. [unnamed ￼Verney](../research/verney/)
 7. [Frederick Shepperson](../research/frederick-shepperson/)
 8. [Julius William Deedes](../research/julius-william-deedes/)
-9. Bridget MacDuff￼￼<!--  (not Paddington) see https://bsky.app/profile/fotc.au/post/3lulf24voxp2j -->
+9. Bridget MacDuff￼￼<!--  (not Paddington) see https://bsky.app/profile/fotc.au/post/3lulf24voxp2j and -->
 10. [John Brougham Copeland](../research/john-brougham-copeland/)
 11. [Ernest Victor Williams](../research/ernest-victor-williams/)
 12. [Harry Dobbin Shepperson](../research/harry-dobbin-shepperson/)
