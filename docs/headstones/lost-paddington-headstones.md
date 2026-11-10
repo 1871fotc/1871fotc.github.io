@@ -11,7 +11,7 @@ hide:
 
 By 1914, headstones from the closed Paddington Cemetery that hadn't been relocated to other cemeteries were placed in a reserved area beside [Christ Church Milton](https://apps.des.qld.gov.au/heritage-register/detail/?id=600252). 
 
-In the 1930's these headstones disappeared. Some of the headstones have been found buried in Toowong Cemetery.
+In 1934 the headstones were [used to fill a gully in Toowong Cemetery](http://nla.gov.au/nla.news-article36726157). Friends of Toowong Cemetery have found some of the headstones.
 
 ![Memorials standing in the reserved area in Paddington](../assets/paddington-cemetery-ca-1900-16x9.jpg)
 
