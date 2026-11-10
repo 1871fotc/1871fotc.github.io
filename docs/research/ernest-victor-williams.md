@@ -13,7 +13,7 @@ hide:
 
 ### Headstone
 
-![Ernest Victor Williams's headstone](../../assets/dig-finds/ernest-victor-williams-headstone.jpg){ width="40%" class="full-width" loading=lazy }
+![Ernest Victor Williams's headstone](../../assets/dig-finds/ernest-victor-williams-headstone.jpg){ width="40%" class="full-width" }
 
 <small>*Ernest Victor Williams's headstone discovered in a Toowong Cemetery Archaeological Dig in 2015.* </small>
 
