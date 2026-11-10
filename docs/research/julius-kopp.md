@@ -9,7 +9,7 @@ hide:
 
 **ca. 1834 — 5 January 1866**
 
-## Julius Kopp  <small>[(Toowong Cemetery Symbology Display)](https://maps.app.goo.gl/yDA2J7YJrrdirAJ4A)</small>
+## Julius Kopp  <small>([Toowong Cemetery Symbology Display](https://maps.app.goo.gl/yDA2J7YJrrdirAJ4A))</small>
 
 ### Headstone
 
