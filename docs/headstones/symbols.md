@@ -107,7 +107,7 @@ Headstones from left to right.
 6. [unnamed ￼Verney](../research/verney/)
 7. [Frederick Shepperson](../research/frederick-shepperson/)
 8. [Julius William Deedes](../research/julius-william-deedes/)
-9. Bridget McDuff￼￼<!--  (not Paddington) -->
+9. Bridget MacDuff￼￼<!--  (not Paddington) see https://bsky.app/profile/fotc.au/post/3lulf24voxp2j -->
 10. [John Brougham Copeland](../research/john-brougham-copeland/)
 11. [Ernest Victor Williams](../research/ernest-victor-williams/)
 12. [Harry Dobbin Shepperson](../research/harry-dobbin-shepperson/)
