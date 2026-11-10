@@ -99,15 +99,15 @@ The IHS Emblem is from the Greek alphabet, (I) Iota, (H) Eta, and (Σ) Sigma and
 
 Headstones from left to right. 
 
-1. William Henry Evan Morgan  (not Paddington)
+1. William Henry Evan Morgan  <!-- (not Paddington) -->
 2. [Ernest Alexander Cairncross](../research/ernest-alexander-cairncross/)
-3. [Caroline Sophia Comyn](../research/caroline-sophia-comyn/)
+3. [Caroline Sophia Comyn](../research/caroline-sophia-comyn-vallack/)
 4. [John Mace](../research/john-mace/)
 5. [Henry James Walsh](../research/henry-james-walsh/)
 6. [unnamed ￼Verney](../research/verney/)
 7. [Frederick Shepperson](../research/frederick-shepperson/)
 8. [Julius William Deedes](../research/julius-william-deedes/)
-9. Bridget McDuff￼￼ (not Paddington)
+9. Bridget McDuff￼￼<!--  (not Paddington) -->
 10. [John Brougham Copeland](../research/john-brougham-copeland/)
 11. [Ernest Victor Williams](../research/ernest-victor-williams/)
 12. [Harry Dobbin Shepperson](../research/harry-dobbin-shepperson/)
@@ -120,8 +120,8 @@ Headstones from left to right.
 19. George Darby Blanche  <!-- ](../research/george-darby-blanche/) -->
 20. IHS symbol
 21. [Julius Kopp](../research/julius-kopp/)
-22. [Andrew S Ferguson](../research/Andrew-s-ferguson/), Jessie Manwaring, and Samuel Manwaring
-23. Francis Downes￼ (not Paddington)
+22. [Andrew S Ferguson](../research/andrew-s-ferguson/), Jessie Manwaring, and Samuel Manwaring
+23. Francis Downes￼ <!-- (not Paddington) -->
 
 
 
