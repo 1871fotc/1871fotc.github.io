@@ -15,11 +15,7 @@ hide:
 
 ![A fragment of Julius Kopp's headstone](../../assets/dig-finds/julius-kopp-headstone.jpg){ width="40%" class="full-width" loading=lazy }
 
-<!-- 
 ![A fragment of Julius Kopp's headstone](../../assets/dig-finds/julius-kopp-headstone-2.jpg){ width="40%" class="full-width" loading=lazy }
-
-- Note the difference in death date between the inscription and other records. 
--->
 
 <small>*A fragment of Julius Kopp's headstone discovered in a Toowong Cemetery Archaeological Dig in 2015.* </small>
 
@@ -52,7 +48,7 @@ hide:
 > Mr. Kopp proved that he understands the power of his instrument, and that he is earnest in his desire to avail himself of it by all the resources of his art. He was very ably assisted by Mr. J. Klein (of Brisbane) in a beautiful and familiar composition of Kallivois, arranged as a violin duett, and which was encored.
 
 
-- [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/a39e36a1b554398e214d976d0c66174ca59decf16011e78f37a3022766493591)
+- [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/a39e36a1b554398e214d976d0c66174ca59decf16011e78f37a3022766493591) - Note the difference in death date on the inscription.
 
 > Death registration: Julius Kopp <br>
 > Death date: 05/01/1866 <br>
