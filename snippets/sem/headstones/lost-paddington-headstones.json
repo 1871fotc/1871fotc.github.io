@@ -31,27 +31,6 @@
       "isPartOf": {
           "@id": "https://www.fotc.au/#/schema/website/1"
       }
-    },
-    {  
-      "@type": "Dataset",
-      "name": "Lost Paddington Cemetery Headstones",
-      "description": "Headstones from the closed Paddington Cemetery that were placed in a reserved area beside Christ Church Milton in 1914 and disappeared in the 1930s",
-      "url": "https://www.fotc.au/headstones/lost-paddington-headstones/", 
-      "alternateName": "North Brisbane Burial Grounds Lost Headstones",
-      "keywords": ["North Brisbane Burial Grounds Headstones", "Paddington Cemetery Headstones"],
-      "license" : "https://creativecommons.org/licenses/by/4.0/",
-      "isAccessibleForFree" : true,
-      "creator":{
-          "@id": "https://www.fotc.au/#/schema/organization/1"
-      },
-      "distribution":[{
-            "@type":"DataDownload",
-            "encodingFormat":"CSV",
-            "contentUrl":"https://www.fotc.au/assets/data/lost-paddington-cemetery-headstones.csv"
-         }
-      ],
-      "temporalCoverage" : "1831/..",
-      "spatialCoverage": "Paddington Cemetery, Brisbane, Queensland, Australia"
     }
   ]
 }  
