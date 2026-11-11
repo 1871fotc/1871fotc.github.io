@@ -12,7 +12,7 @@ hide:
 # Theodocius William Poulden
 
 
-**==ca. 1840 — 16 October 1870**
+**ca. 1840 — 16 October 1870**
 
 ## Theodocius William Poulden <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
@@ -55,16 +55,18 @@ hide:
 - [Classified Advertising (1870, October 17)](https://nla.gov.au/nla.news-article1332010). The Brisbane Courier (Qld. : 1864 - 1933), p. 1.
 
 >  FUNERAL.-The Friends of the late Mr. THEODOCIUS WILLIAM POULDEN, are respectfully invited to attend his Funeral, to move from the Hospital, Bowen Bridge-road, THIS DAY, (Monday) at 3 p.m. <br>
-> 3420 G. B. PETRIE, Undertaker.<br><br>
+> 3420 G. B. PETRIE, Undertaker.
 
+<br>
 
 > NO. 1. BATTERY, Q. V. A., will parade at the Drill-room, George-street, THIS DAY, at 2 p.m., sharp, and march from thence to the Hospital, to attend the FUNERAL of the late Gunner, T. W. POULDEN. Undress uniform, belts, white gloves. Each member to wear a piece of crape, three inches wide, round the left arm, above the elbow. Every member of the Battery who can possibly attend is earnestly requested to do so. <br>
 > 
 > GODFREY N. B. GEARY, <br>
 > 3421 Lieutenant-Commanding. <br>
 > Volunteer Brigade-office,  <br>
-> Brisbane, October 17,1870.  <br><br>
+> Brisbane, October 17,1870.  
 
+<br>
 
 > NO. 1 Battery Q.V. Artillery will PARADE at the Hospital, at 2.30 p.m., on MONDAY, the 17th instant, for the Funeral of the late Gunner T. W. Poulden, of No. 1 Battery Q.V.A.  <br>
 > 
