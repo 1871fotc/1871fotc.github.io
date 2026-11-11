@@ -99,7 +99,7 @@ The IHS Emblem is from the Greek alphabet, (I) Iota, (H) Eta, and (Σ) Sigma and
 
 Headstones from left to right. 
 
-1. William Henry Evan Morgan  <!-- (not Paddington) -->
+1. William Henry Evan Morgan  <!-- (not Paddington) https://brisbane.discovereverafter.com/profile/31881775 -->
 2. [Ernest Alexander Cairncross](../research/ernest-alexander-cairncross/)
 3. [Caroline Sophia Comyn Vallack](../research/caroline-sophia-comyn-vallack/)
 4. [John Mace](../research/john-mace/)
@@ -107,7 +107,7 @@ Headstones from left to right.
 6. [unnamed ￼Verney](../research/verney/)
 7. [Frederick Shepperson](../research/frederick-shepperson/)
 8. [Julius William Deedes](../research/julius-william-deedes/)
-9. Bridget MacDuff￼￼<!--  (not Paddington) see https://bsky.app/profile/fotc.au/post/3lulf24voxp2j and -->
+9. Bridget MacDuff￼￼<!--  (not Paddington) see https://bsky.app/profile/fotc.au/post/3lulf24voxp2j and https://brisbane.discovereverafter.com/profile/31773272 -->
 10. [John Brougham Copeland](../research/john-brougham-copeland/)
 11. [Ernest Victor Williams](../research/ernest-victor-williams/)
 12. [Harry Dobbin Shepperson](../research/harry-dobbin-shepperson/)
@@ -121,9 +121,7 @@ Headstones from left to right.
 20. IHS symbol
 21. [Julius Kopp](../research/julius-kopp/)
 22. [Andrew S Ferguson](../research/andrew-s-ferguson/), Jessie Manwaring, and Samuel Manwaring
-23. Francis Downes￼ <!-- (not Paddington) -->
-
-
+23. Francis Downes￼ <!-- (not Paddington) https://brisbane.discovereverafter.com/profile/31877981 -->
 
 ## Books
 
