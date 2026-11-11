@@ -26,7 +26,7 @@ The Headstones are listed from left to right. Click a name to read that person's
 14. [Algernon Guthrie Mylne](../research/algernon-guthrie-mylne/)
 15. [Vokes Sinclair Dudgeon](../research/vokes-sinclair-dudgeon/)
 16. [Henry Joseph Thomas](../research/henry-joseph-thomas/)
-17. Empty space 
+17. empty space 
 18. [Ernest Elphinstone Dalrymple](../research/ernest-george-beck-elphinston-dalrymple/) :fontawesome-solid-crown:{ .heart }
 19. George Darby Blanche  :fontawesome-solid-book:{ .heart } <!-- ](../research/george-darby-blanche/) -->
 20. [IHS symbol](../headstones/symbols/#ihs-emblem) :fontawesome-solid-dollar-sign:{ .heart }
