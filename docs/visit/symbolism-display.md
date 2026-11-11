@@ -1,0 +1,42 @@
+--- 
+description: Learn about the hidden meaning of headstone symbols at the Toowong Cemetery Symbolism Display
+---
+
+# Toowong Cemetery Symbolism Display
+
+In Portion 2 of the cemetery, at the [intersection of Soldiers Parade and Garland Avenue)](https://maps.app.goo.gl/yDA2J7YJrrdirAJ4A), you'll find a display of symbols on headstones. Some headstones are from the old Paddington cemetery which closed in 1914.
+
+![Toowong Cemetery headstone symbolism display](../assets/symbolism-display.jpg)
+
+The Headstones from left to right, are: 
+
+1. William Henry Evan Morgan (Trumpet symbol) <!-- (not Paddington) https://brisbane.discovereverafter.com/profile/31881775 -->
+2. [Ernest Alexander Cairncross](../research/ernest-alexander-cairncross/)
+3. [Caroline Sophia Comyn Vallack](../research/caroline-sophia-comyn-vallack/)
+4. [John Mace](../research/john-mace/)
+5. [Henry James Walsh](../research/henry-james-walsh/)
+6. [unnamed ￼Verney](../research/verney/)
+7. [Frederick Shepperson](../research/frederick-shepperson/)
+8. [Julius William Deedes](../research/julius-william-deedes/)
+9. Bridget MacDuff￼￼<!--  (not Paddington) see https://bsky.app/profile/fotc.au/post/3lulf24voxp2j and https://brisbane.discovereverafter.com/profile/31773272 -->
+10. [John Brougham Copeland](../research/john-brougham-copeland/)
+11. [Ernest Victor Williams](../research/ernest-victor-williams/)
+12. [Harry Dobbin Shepperson](../research/harry-dobbin-shepperson/)
+13. Dora
+14. [Algernon Guthrie Mylne](../research/algernon-guthrie-mylne/)
+15. [Vokes Sinclair Dudgeon](../research/vokes-sinclair-dudgeon/)
+16. [Henry Joseph Thomas](../research/henry-joseph-thomas/)
+17. Empty space 
+18. [Ernest Elphinstone Dalrymple](../research/ernest-george-beck-elphinston-dalrymple/) (Crown symbol)
+19. George Darby Blanche (Book symbol) <!-- ](../research/george-darby-blanche/) --> 
+20. IHS symbol
+21. [Julius Kopp](../research/julius-kopp/) (Harp symbol)
+22. [Andrew S Ferguson](../research/andrew-s-ferguson/), Jessie Manwaring, and Samuel Manwaring
+23. Francis Downes￼(Anchor symbol) <!-- (not Paddington) https://brisbane.discovereverafter.com/profile/31877981 -->
+
+Click their names to read their stories.
+
+[Learn about these and other symbols you can see in Toowong Cemetery](../headstones/symbols/).
+
+
+![Ship's Anchor symbol carved on a headstone](../assets/anchor.jpg) 
