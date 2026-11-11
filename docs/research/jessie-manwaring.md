@@ -58,11 +58,8 @@ hide:
 > Registration details: 1875/B/9792  <br>
 
  
-- [Family Notices (1863, August 28)](http://nla.gov.au/nla.news-article123605260). Queensland Times, Ipswich Herald and General Advertiser (Qld. : 1861 - 1908), p. 2. 
+- [Family Notices (1875, August 14)](http://nla.gov.au/nla.news-article18337394). The Queenslander (Brisbane, Qld. : 1866 - 1939), p. 4. 
 
->  DEATHS. <br>
-> On the 6th instant, at Spring Hill, Brisbane, Andrew Ferguson, late of Scotland, aged 30 years.
-
-
+> MANWARING.—On the 29th July, at Violet Hill, Great Northern-road, Jessie, the beloved wife of J. S. Manwaring, and seventh daughter of the late Jas. Kinkaed, Esq., Tanderagee, Armagh, Ireland. 
 
 --8<-- "snippets/add-to-this-story.md"
