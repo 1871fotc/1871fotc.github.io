@@ -60,6 +60,16 @@ hide:
  
 - [Family Notices (1875, August 14)](http://nla.gov.au/nla.news-article18337394). The Queenslander (Brisbane, Qld. : 1866 - 1939), p. 4. 
 
-> MANWARING.—On the 29th July, at Violet Hill, Great Northern-road, Jessie, the beloved wife of J. S. Manwaring, and seventh daughter of the late Jas. Kinkaed, Esq., Tanderagee, Armagh, Ireland. 
+> MANWARING.—On the 29th July, at Violet Hill, Great Northern-road, Jessie, the beloved wife of J. S. Manwaring, and seventh daughter of the late Jas. Kinkaed, Esq., Tanderagee, Armagh, Ireland.
+
+<!-- 
+Family Notices (1885, January 24). The Queenslander (Brisbane, Qld. : 1866 - 1939), p. 139. Retrieved November 11, 2026, from http://nla.gov.au/nla.news-article19796053
+Violet Hill, Enoggera. 
+-->
+
+<!-- 
+Family Notices (1900, February 10). The Brisbane Courier (Qld. : 1864 - 1933), p. 2. Retrieved November 11, 2026, from http://nla.gov.au/nla.news-article19053143 
+Father was a tailor.
+-->
 
 --8<-- "snippets/add-to-this-story.md"
