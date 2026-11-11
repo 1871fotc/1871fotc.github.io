@@ -28,8 +28,8 @@ The Headstones are listed from left to right. Click a name to read that person's
 16. [Henry Joseph Thomas](../research/henry-joseph-thomas/)
 17. Empty space 
 18. [Ernest Elphinstone Dalrymple](../research/ernest-george-beck-elphinston-dalrymple/) :fontawesome-solid-crown:{ .heart }
-19. George Darby Blanche  :fontawesome-regular-book-open:{ .heart } <!-- ](../research/george-darby-blanche/) --> 
-20. IHS symbol
+19. George Darby Blanche  :fontawesome-regular-book:{ .heart } <!-- ](../research/george-darby-blanche/) --> 
+20. [IHS symbol](../headstones/symbols/#ihs-emblem) :fontawesome-solid-dollar-sign:{ .heart }
 21. [Julius Kopp](../research/julius-kopp/)  :fontawesome-solid-music:{ .heart }
 22. [Andrew S Ferguson](../research/andrew-s-ferguson/), Jessie Manwaring, and Samuel Manwaring
 23. Francis Downes ￼:fontawesome-solid-anchor:{ .heart } <!-- (not Paddington) https://brisbane.discovereverafter.com/profile/31877981 -->
@@ -40,4 +40,4 @@ The Headstones are listed from left to right. Click a name to read that person's
 
 <br>
 
-![Ship's Anchor symbol carved on a headstone](../assets/anchor.jpg){ width="33.8%" class="full-width" loading=lazy } ![Bronze Greenman symbol on a headstone](../assets/john-joseph-thompson-headstone.webp){ width="45%" class="full-width" loading=lazy }
+![Ship's Anchor symbol carved on a headstone](../assets/anchor.jpg){ width="33.75%" class="full-width" loading=lazy } ![Bronze Greenman symbol on a headstone](../assets/john-joseph-thompson-headstone.webp){ width="45%" class="full-width" loading=lazy }
