@@ -10,7 +10,7 @@ In Portion 2 of the cemetery, at the [intersection of Soldiers Parade and Garlan
 
 The Headstones are listed from left to right. Click a name to read that person's story. 
 
-1. William Henry Evan Morgan :material-mdiTrumpet: <!-- (not Paddington) https://brisbane.discovereverafter.com/profile/31881775 -->
+1. William Henry Evan Morgan  :material-trumpet:{ .heart } <!-- (not Paddington) https://brisbane.discovereverafter.com/profile/31881775 -->
 2. [Ernest Alexander Cairncross](../research/ernest-alexander-cairncross/)
 3. [Caroline Sophia Comyn Vallack](../research/caroline-sophia-comyn-vallack/)
 4. [John Mace](../research/john-mace/)
@@ -27,12 +27,12 @@ The Headstones are listed from left to right. Click a name to read that person's
 15. [Vokes Sinclair Dudgeon](../research/vokes-sinclair-dudgeon/)
 16. [Henry Joseph Thomas](../research/henry-joseph-thomas/)
 17. Empty space 
-18. [Ernest Elphinstone Dalrymple](../research/ernest-george-beck-elphinston-dalrymple/) :fontawesome-solid-crown:
-19. George Darby Blanche :fontawesome-regular-book-open: <!-- ](../research/george-darby-blanche/) --> 
+18. [Ernest Elphinstone Dalrymple](../research/ernest-george-beck-elphinston-dalrymple/) :fontawesome-solid-crown:{ .heart }
+19. George Darby Blanche  :fontawesome-regular-book-open:{ .heart } <!-- ](../research/george-darby-blanche/) --> 
 20. IHS symbol
-21. [Julius Kopp](../research/julius-kopp/) :fontawesome-solid-music:
+21. [Julius Kopp](../research/julius-kopp/)  :fontawesome-solid-music:{ .heart }
 22. [Andrew S Ferguson](../research/andrew-s-ferguson/), Jessie Manwaring, and Samuel Manwaring
-23. Francis Downes￼(Anchor symbol) <!-- (not Paddington) https://brisbane.discovereverafter.com/profile/31877981 -->
+23. Francis Downes ￼:fontawesome-solid-anchor:{ .heart } <!-- (not Paddington) https://brisbane.discovereverafter.com/profile/31877981 -->
 
 <br>
 
@@ -40,4 +40,4 @@ The Headstones are listed from left to right. Click a name to read that person's
 
 <br>
 
-![Ship's Anchor symbol carved on a headstone](../assets/anchor.jpg){ width="33.7%" class="full-width" loading=lazy } ![Bronze Greenman symbol on a headstone](../assets/john-joseph-thompson-headstone.webp){ width="45%" class="full-width" loading=lazy }
+![Ship's Anchor symbol carved on a headstone](../assets/anchor.jpg){ width="33.8%" class="full-width" loading=lazy } ![Bronze Greenman symbol on a headstone](../assets/john-joseph-thompson-headstone.webp){ width="45%" class="full-width" loading=lazy }
