@@ -34,12 +34,12 @@ The Headstones are listed from left to right. Click a name to read that person's
 22. [Andrew S Ferguson](../research/andrew-s-ferguson/), Jessie Manwaring, and Samuel Manwaring
 23. Francis Downes￼(Anchor symbol) <!-- (not Paddington) https://brisbane.discovereverafter.com/profile/31877981 -->
 
-
-
-<br><br>
+<br>
 
 [Learn more about headstone symbols in Toowong Cemetery](../headstones/symbols/){ .md-button .md-button--primary }
 
-<br><br>
+<br>
 
-![Ship's Anchor symbol carved on a headstone](../assets/anchor.jpg) 
+![Ship's Anchor symbol carved on a headstone](../assets/anchor.jpg){ width="25%" class="full-width" loading=lazy } ![Bronze Greenman symbol on a headstone](../assets/john-joseph-thompson-headstone.webp){ width="25%" class="full-width" loading=lazy }
+
+
