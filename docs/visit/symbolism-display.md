@@ -4,11 +4,11 @@ description: Learn about the hidden meaning of headstone symbols at the Toowong 
 
 # Toowong Cemetery Symbolism Display
 
-In Portion 2 of the cemetery, at the [intersection of Soldiers Parade and Garland Avenue)](https://maps.app.goo.gl/yDA2J7YJrrdirAJ4A), you'll find a display of symbols on headstones. Some headstones are from the old Paddington cemetery which closed in 1914.
+In Portion 2 of the cemetery, at the [intersection of Soldiers Parade and Garland Avenue)](https://maps.app.goo.gl/yDA2J7YJrrdirAJ4A), you'll find a display of symbols on headstones. Some headstones are from the old Paddington cemetery, that were discovered in our [Archaeology Digs](../headstones/https://www.fotc.au/headstones/lost-paddington-headstones/archaeological-digs/).
 
 ![Toowong Cemetery headstone symbolism display](../assets/symbolism-display.jpg)
 
-The Headstones from left to right, are: 
+The Headstones are listed from left to right. Click a name to read that person's story. 
 
 1. William Henry Evan Morgan (Trumpet symbol) <!-- (not Paddington) https://brisbane.discovereverafter.com/profile/31881775 -->
 2. [Ernest Alexander Cairncross](../research/ernest-alexander-cairncross/)
@@ -34,9 +34,12 @@ The Headstones from left to right, are:
 22. [Andrew S Ferguson](../research/andrew-s-ferguson/), Jessie Manwaring, and Samuel Manwaring
 23. Francis Downes￼(Anchor symbol) <!-- (not Paddington) https://brisbane.discovereverafter.com/profile/31877981 -->
 
-Click their names to read their stories.
-<br>
-[Learn more about headstone symbols in Toowong Cemetery](../headstones/symbols/){ .md-button }
-<br>
+
+
+<br><br>
+
+[Learn more about headstone symbols in Toowong Cemetery](../headstones/symbols/){ .md-button .md-button--primary }
+
+<br><br>
 
 ![Ship's Anchor symbol carved on a headstone](../assets/anchor.jpg) 
