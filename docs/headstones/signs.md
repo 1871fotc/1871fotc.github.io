@@ -127,7 +127,7 @@ These signs, names or acronyms can be found on headstones in Toowong Cemetery.
 | OES     | [Order of the Eastern Star][OES]                             | Freemasonry       | <a href="https://brisbane.discovereverafter.com/profile/31865987" title="Go to Memorial Information">28-42-26</a>          | <!-- 1-147-26 -->
 | OST     | Order of the Sons of Temperance                              | Temperance        | <!--pp-ss-gg-->          |
 | PAFS    | [Protestant Alliance Friendly Society][PAFS]                 | Friendly Society  | <a href="https://brisbane.discovereverafter.com/profile/31813039" title="Go to Memorial Information">4-31-19</a>          |
-| RA      | [Royal Arch][RA]                                             | Friendly Society  | 28-50-24.                | 
+| RA      | [Royal Arch][RA]                                             | Friendly Society  | <!-- 28-50-24 -->        | 
 | RAOB    | Royal Antediluvian Order of Buffaloes                        | Friendly Society  | <!--pp-ss-gg-->          |
 | RBP     | [Royal Black Preceptory][RBP] [^2]                           |                   | <!--pp-ss-gg-->          | <!-- TODO THOMAS HUGHES 5-59-10 --> 
 | SC      | Scottish Constitution                                        | Freemasonry       | <a href="https://brisbane.discovereverafter.com/profile/31879481" title="Go to Memorial Information">25-46-17</a>           |
