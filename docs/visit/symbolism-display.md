@@ -22,7 +22,7 @@ The Headstones are listed from left to right. Click a name to read that person's
 10. [John Brougham Copeland](../research/john-brougham-copeland/)
 11. [Ernest Victor Williams](../research/ernest-victor-williams/)
 12. [Harry Dobbin Shepperson](../research/harry-dobbin-shepperson/)
-13. Dora Ethelind Lamonnerie Broughton
+13. [Dora Ethelind Lamonnerie Broughton](../research/dora-ethelind-lamonnerie-broughton/)
 14. [Algernon Guthrie Mylne](../research/algernon-guthrie-mylne/)
 15. [Vokes Sinclair Dudgeon](../research/vokes-sinclair-dudgeon/)
 16. [Henry Joseph Thomas](../research/henry-joseph-thomas/)
