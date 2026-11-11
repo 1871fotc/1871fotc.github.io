@@ -59,7 +59,13 @@ Toowong Cemetery is open every day from 6am to 6pm. It's lovely to wander around
  
     ---
 
-    Visit Queenslands oldest headstone from 1831. 
+    Visit Queenslands oldest headstone from 1831.
+
+-   :fontawesome-solid-anchor:{ .lg .middle } **[Headstone Symbolism Display](symbolism-display/)**
+ 
+    ---
+
+    Learn about the headstones in Symbolism Display and the symbols you can find in Toowong Cemetery.     
     
 </div>
 
