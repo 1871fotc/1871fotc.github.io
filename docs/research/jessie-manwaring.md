@@ -23,7 +23,7 @@ hide:
 *<small>Jessie Manwaring's headstone discovered in a Toowong Cemetery Archaeological Dig in ==20??==.</small>*
 
 - Erected: North Brisbane Burial Grounds, Presbyterian section. After 29 July 1875 ==Inscription added after headstone moved?==
-- Moved to: Toowong Cemetery, [10-19-19](https://brisbane.discovereverafter.com/profile/31729164). 19 May 1913
+- Moved to: Toowong Cemetery, [10-19-19](https://brisbane.discovereverafter.com/profile/31723536). 19 May 1913
 - Demolished and disposed of: Toowong Cemetery, Portion 29A near Section 72. ca. ==1974==
 - Discovered: Toowong Cemetery, Portion 29A near Section 72. ca. May ==20yy==
 - Moved to [Toowong Cemetery Symbology Display](https://maps.app.goo.gl/yDA2J7YJrrdirAJ4A). ca. 2016
