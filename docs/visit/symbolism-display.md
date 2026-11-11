@@ -4,7 +4,7 @@ description: Learn about the hidden meaning of headstone symbols at the Toowong 
 
 # Toowong Cemetery Symbolism Display
 
-In Portion 2 of the cemetery, at the [intersection of Soldiers Parade and Garland Avenue)](https://maps.app.goo.gl/yDA2J7YJrrdirAJ4A), you'll find a display of symbols on headstones. Some headstones are from the old Paddington cemetery, that were discovered in our [Archaeology Digs](../headstones/https://www.fotc.au/headstones/lost-paddington-headstones/archaeological-digs/).
+In Portion 2 of the cemetery, at the [intersection of Soldiers Parade and Garland Avenue)](https://maps.app.goo.gl/yDA2J7YJrrdirAJ4A), you'll find a display of symbols on headstones. Some headstones are from the old Paddington cemetery, that were discovered in our [Archaeology Digs](../headstones/archaeological-digs/).
 
 ![Toowong Cemetery headstone symbolism display](../assets/symbolism-display.jpg)
 
