@@ -35,8 +35,8 @@ The Headstones from left to right, are:
 23. Francis Downes￼(Anchor symbol) <!-- (not Paddington) https://brisbane.discovereverafter.com/profile/31877981 -->
 
 Click their names to read their stories.
-
-[Learn about these and other symbols you can see in Toowong Cemetery](../headstones/symbols/).
-
+<br>
+[Learn more about headstone symbols in Toowong Cemetery](../headstones/symbols/){ .md-button }
+<br>
 
 ![Ship's Anchor symbol carved on a headstone](../assets/anchor.jpg) 
