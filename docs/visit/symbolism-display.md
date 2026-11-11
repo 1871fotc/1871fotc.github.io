@@ -40,4 +40,4 @@ The Headstones are listed from left to right. Click a name to read that person's
 
 <br>
 
-![Ship's Anchor symbol carved on a headstone](../assets/anchor.jpg){ width="33%" class="full-width" loading=lazy } ![Bronze Greenman symbol on a headstone](../assets/john-joseph-thompson-headstone.webp){ width="45%" class="full-width" loading=lazy }
+![Ship's Anchor symbol carved on a headstone](../assets/anchor.jpg){ width="34%" class="full-width" loading=lazy } ![Bronze Greenman symbol on a headstone](../assets/john-joseph-thompson-headstone.webp){ width="45%" class="full-width" loading=lazy }
