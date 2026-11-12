@@ -47,9 +47,9 @@ hide:
 - [Family Notices (1864, June 17)](https://nla.gov.au/nla.news-article288321722). The Guardian (Brisbane, Qld. : 1860 - 1868), p. 4. 
 
 > Died. <br>
-> BROUGHTON.— May 23rd, at Kangaroo Point, Dora E. L. Broughton, aged four months and three days. 
+> BROUGHTON.— May 23rd, at Kangaroo Point, Dora E. L. Broughton, aged four months and three days. <br>
 
-
+- [Alfred Delves Broughton and the Broughton Estate](https://toowonghistory.org.au/alfred-delves-broughton-and-the-broughton-estate/) - Toowong and District Historical Society Inc. 
 
 
 --8<-- "snippets/add-to-this-story.md"
