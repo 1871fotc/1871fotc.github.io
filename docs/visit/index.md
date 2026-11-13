@@ -65,7 +65,7 @@ Toowong Cemetery is open every day from 6am to 6pm. It's lovely to wander around
  
     ---
 
-    Learn about the headstones in Symbolism Display and the symbols you can find in Toowong Cemetery.
+    Learn about the symbols you can find in Toowong Cemetery.
 
 -   :fontawesome-solid-calendar:{ .lg .middle } **[Upcoming Events](../get-involved/)**
  
