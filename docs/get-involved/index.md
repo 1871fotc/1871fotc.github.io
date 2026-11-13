@@ -39,15 +39,17 @@ Whether you're <!-- **[visiting](explorer.md)** for the first time,--> looking t
 
     A new way to explore Toowong Cemetery 
 
-
-</div>
 -->
-
 <!-- 
 
 -   :fontawesome-solid-map-location-dot:{ .lg .middle } &nbsp; **Coming soon…**
     
 -->
+
+</div>
+
+
+
 
 ## Upcoming Events
 
