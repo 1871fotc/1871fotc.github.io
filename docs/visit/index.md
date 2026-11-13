@@ -65,140 +65,17 @@ Toowong Cemetery is open every day from 6am to 6pm. It's lovely to wander around
  
     ---
 
-    Learn about the headstones in Symbolism Display and the symbols you can find in Toowong Cemetery.     
-    
-</div>
+    Learn about the headstones in Symbolism Display and the symbols you can find in Toowong Cemetery.
 
-<!-- 
-## Guided Tours
-
-Friends of Toowong Cemetery provide **free guided tours** — every tour is different. 
-
-![Pat Hill's headstone][image11]{ width="32%" } ![Harry Potter's headstone][image9]{ width="32%" } ![Cherub headstone][image8]{ width="32%" }
-
-[image4]: ../assets/140-commemoration-sml.png
-[image5]: ../assets/museum.jpg
-[image6]: ../assets/federation-pavilion.jpg
-[image7]: ../assets/peter-jackson.jpg "Peter Jackson's Headstone"
-[image8]: ../assets/cherub.jpg
-[image9]: ../assets/harry-potter-16x9.jpg 
-[image10]: ../assets/clasped-hands.jpg "We Part To Meet Again"
-[image11]: ../assets/pat-hill-headstone.jpg 
-
-
-**Guided tours are free** but [donations](../get-involved/donate.md) are appreciated to help us continue **[our work](../about/index.md)**.
-
-Tours are on the **first Sunday of each month** (February to December) from **10:30am to 12:00**. 
-
-There's no need to book, just meet under the flagpole in Canon Garland Place at the Toowong Cemetery. Parking is available inside the cemetery.
-
-![Canon Garland Place](../assets/flag-pole.jpg){ width="98%" data-title="Guided tours start at Canon Garland Place" }
-
-*<small>The Flagpole in Canon Garland Place</small>*
-
-### Upcoming Guided Tours
-
-Our next tour is on **Sunday 4 October 2026** and is titled, "**Odd Jobs**".
-
-The tour is limited to 20 people. 
-
-!!! Warning "What to bring"
-
-    Wear enclosed shoes, a hat and sunscreen or bring an umbrella, and don't forget a bottle of water. 
-    Some tours include steep hills and a walking stick or walking poles may be helpful.
-
-## Toowong Cemetery Museum
-
-The Museum may be open in conjunction with our guided tours if cemetery staff are on-site.
-
-![Toowong Cemetery Museum](../assets/museum.jpg){ width="98%" data-title="Toowong Cemetery Museum is open in conjunction with our guided tours"}
-
-*<small>The Toowong Cemetery Museum is the former Sexton's office.</small>*
-
-The Museum has an extensive display of photographs and artefacts.
-
-![Museum photo display](../assets/museum-photos-1.jpg){ width="48.5%" } ![Museum photo display](../assets/museum-photos-2.jpg){ width="48.5%" }
-![Museum photo display](../assets/museum-photos-3.jpg){ width="48.5%" } ![Museum photo display](../assets/museum-photos-4.jpg){ width="48.5%" }
-
--->
-<!-- 
-## Self-Guided Walks
-
-Explore graves of notable people that shape Queensland's past. Each self-guided walk has a map, directions, photos and stories about some of the people remembered in Toowong Cemetery. Choose a walk:
- 
-
-<div class="grid cards" markdown>  
-
--   :fontawesome-solid-person-walking:{ .lg .middle } **[The Federation Walk](../walks/federation-walk.md)** 
-  
-    ---
-
-    Discover the stories of Queenslander's who contributed to Australia's federation and our constitution.
-
-    :fontawesome-regular-clock: 30 minutes  
-
-    
--   :fontawesome-solid-person-walking:{ .lg .middle } **[Dr. Lilian Cooper walk](../walks/lilian-cooper-walk.md)**
-  
-    ---
-
-    Uncover Brisbane's history along the gently sloping Dr. Lilian Cooper Drive.<br><br>
-
-    :fontawesome-regular-clock: 1 hour  
-    
-
--   :fontawesome-solid-person-walking:{ .lg .middle } **[The Jewish Walk](../walks/jewish-walk.md)**
+-   :fontawesome-solid-calendar:{ .lg .middle } **[Upcoming Events](../get-involved/)**
  
     ---
 
-    Learn about Jewish customs and local identities including a world champion wrestler and a bush balladeer.
-
-    :fontawesome-regular-clock: 45 minutes  
-
-
-
--   :fontawesome-solid-person-walking:{ .lg .middle } **Mount Blackall walk**
-  
-    ---
-
-    Discover the historic highlights on and around Mount Blackall. <br>*A new walk coming soon…* 
-
-    :fontawesome-regular-clock: 1½ - 2 hours  
-
-  
-
+    There's plenty planned for the months ahead. Get Involved.
+             
+    
 </div>
 
--->
-<!-- 
-
-## Headstone Symbolism Display
-
-Discover the meaning of **[headstone symbols](../headstones/symbols.md)** at the Toowong Cemetery Symbolism display.
-
-<figure markdown>
-  ![Toowong Cemetery Headstone Symbolism Display](assets/symbolism-display.jpg){ class="full-width" }
-  <figcaption markdown>Toowong Cemetery Headstone Symbolism Display</figcaption>
-</figure>
--->
-
-<!-- 
-## Federation Pavilion
-
-Visit the **[Federation Pavilion](../about/federation-pavilion.md)** and learn about Queenslanders who played a lead role in the federation of Australia.
-
-![Federation Pavilion](../assets/federation-pavilion.jpg)
-
--->
-<!-- 
-## Queensland's Oldest Headstones
-
-**[Queensland's oldest surviving headstone](../headstones/queenslands-oldest-headstones.md)** is from 15 November 1831 and can be found in Toowong Cemetery.
-
-## Archaeological Dig Finds
-
-Wander over to Portion 29A off Steele Rudd Avenue and see the **[lost Paddington Cemetery headstones](../headstones/lost-paddington-headstones.md)** we've uncovered in our **[Archaeological Digs](../headstones/archaeological-digs/)**.
--->
 
 
 ## Plan your trip
