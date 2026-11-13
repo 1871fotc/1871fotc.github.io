@@ -24,7 +24,7 @@ hide:
 - Erected: North Brisbane Burial Grounds, Episcopalian section. After 10 May 1864
 - Moved to: North Brisbane Burial Grounds, Reserved Area. ca. 1914. Recorded as Alfred Compigne
 - Demolished and disposed of in: Toowong Cemetery, Portion 29A. ca. 1934
-- Discovered: Toowong Cemetery, Portion 29A near Section 72. ca. May ==20??== 
+- Discovered: Toowong Cemetery, Portion 29A near Section 72. ca. May ==20??==
 
 ### Inscription
 
