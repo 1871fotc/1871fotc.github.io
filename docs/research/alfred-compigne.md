@@ -7,7 +7,7 @@ hide:
 
 !!! warning
 
-    We're checking the ==highlighted text== and looking for that photo that's around here somewhere!
+    We're checking the ==highlighted text== 
     
 # Alfred Compigne
 
