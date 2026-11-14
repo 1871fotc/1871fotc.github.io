@@ -293,10 +293,10 @@ nav:
     - Data: research/data.md
   - Get Involved: 
     - Get Involved: get-involved/index.md
-#    - Explorer: get-involved/explorer.md  
     - Volunteer: get-involved/volunteer.md  
     - Join: get-involved/join.md  
-    - Donate: get-involved/donate.md  
+    - Donate: get-involved/donate.md
+    - Member Meetings: get-involved/member-meetings.md
   - About Us: 
     - About Us: about/index.md
     - Publications: about/publications.md
