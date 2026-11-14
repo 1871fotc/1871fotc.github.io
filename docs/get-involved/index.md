@@ -6,34 +6,34 @@ description: Learn how to get involved with Friends of Toowong Cemetery
 
 # Get Involved
 
-Whether you're <!-- **[visiting](explorer.md)** for the first time,--> looking to **[volunteer](volunteer.md)**, considering **[membership](join.md)**, or wanting to **[support our work](donate.md)**, there are many ways to get involved with the Friends of Toowong Cemetery, and more coming soon.
+Whether you're <!-- **[visiting](explorer.md)** for the first time,--> looking to **[volunteer](volunteer/)**, considering **[membership](join/)**, wanting to **[influence our work](member-meetings/)** or would like to **[support our work](donate/)**, there are many ways to get involved with the Friends of Toowong Cemetery.
 
 <div class="grid cards" markdown>  
 
 
 
--   :fontawesome-solid-hand-holding-heart:{ .lg .middle } &nbsp; **[Volunteer](volunteer.md)**
+-   :fontawesome-solid-hand-holding-heart:{ .lg .middle } &nbsp; **[Volunteer](volunteer/)**
   
     ---
 
-    **[Become a Heritage Hero](volunteer.md)**  — help preserve the cemetery's heritage at community volunteering events
+    **[Become a Heritage Hero](volunteer/)**  — help preserve the cemetery's heritage at community volunteering events
 
 
--   :fontawesome-solid-users:{ .lg .middle } &nbsp; **[Join](join.md)**
+-   :fontawesome-solid-users:{ .lg .middle } &nbsp; **[Join](join/)**
   
     ---
 
     **[Join Friends of Toowong Cemetery member](join.md)**  — become a member and contribute to our vision
     
 
--   :fontawesome-solid-piggy-bank:{ .lg .middle } &nbsp; **[Donate](donate.md)**
+-   :fontawesome-solid-piggy-bank:{ .lg .middle } &nbsp; **[Donate](donate/)**
   
     ---
 
-    **[Support our work](donate.md)**  — help fund conservation, research, and community engagement projects
+    **[Support our work](donate/)**  — help fund conservation, research, and community engagement projects
     
  
--   :fontawesome-solid-comments:{ .lg .middle } &nbsp; Member meetings
+-   :fontawesome-solid-comments:{ .lg .middle } &nbsp; **[Member meetings](member-meetings/]**
 
     ---
 
