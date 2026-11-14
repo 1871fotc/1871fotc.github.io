@@ -6,38 +6,38 @@ description: Learn how to get involved with Friends of Toowong Cemetery
 
 # Get Involved
 
-Whether you're <!-- **[visiting](explorer.md)** for the first time,--> looking to **[volunteer](volunteer/)**, considering **[membership](join/)**, wanting to **[influence our work](member-meetings/)** or would like to **[support our work](donate/)**, there are many ways to get involved with the Friends of Toowong Cemetery.
+Whether you're <!-- **[visiting](explorer.md)** for the first time,--> looking to **[volunteer](volunteer.md)**, considering **[membership](join.md)**, wanting to **[influence our work](member-meetings.md)** or would like to **[support our work](donate.md)**, there are many ways to get involved with the Friends of Toowong Cemetery.
 
 <div class="grid cards" markdown>  
 
 
 
--   :fontawesome-solid-hand-holding-heart:{ .lg .middle } &nbsp; **[Volunteer](volunteer/)**
+-   :fontawesome-solid-hand-holding-heart:{ .lg .middle } &nbsp; **[Volunteer](volunteer.md)**
   
     ---
 
-    **[Become a Heritage Hero](volunteer/)**  — help preserve the cemetery's heritage at community volunteering events
+    **[Become a Heritage Hero](volunteer.md)**  — help preserve the cemetery's heritage at community volunteering events
 
 
--   :fontawesome-solid-users:{ .lg .middle } &nbsp; **[Join](join/)**
+-   :fontawesome-solid-users:{ .lg .middle } &nbsp; **[Join](join.md)**
   
     ---
 
-    **[Join Friends of Toowong Cemetery member](join.md)**  — become a member and contribute to our vision
+    **[Join Friends of Toowong Cemetery](join.md)**  — become a member and contribute to our vision
     
 
--   :fontawesome-solid-piggy-bank:{ .lg .middle } &nbsp; **[Donate](donate/)**
+-   :fontawesome-solid-piggy-bank:{ .lg .middle } &nbsp; **[Donate](donate.md)**
   
     ---
 
-    **[Support our work](donate/)**  — help fund conservation, research, and community engagement projects
+    **[Support our work](donate.md)**  — help fund conservation, research, and community engagement projects
     
  
--   :fontawesome-solid-comments:{ .lg .middle } &nbsp; **[Member meetings](member-meetings/]**
+-   :fontawesome-solid-comments:{ .lg .middle } &nbsp; **[Member meetings](member-meetings.md]**
 
     ---
 
-    **[Member meetings](member-meetings/)** - plan projects, review progress, and share discoveries 
+    **[Member meetings](member-meetings.md)** - plan projects, review progress, and share discoveries 
 
 
 </div>
