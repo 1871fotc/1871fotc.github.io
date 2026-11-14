@@ -32,19 +32,13 @@ Whether you're <!-- **[visiting](explorer.md)** for the first time,--> looking t
 
     **[Support our work](donate.md)**  — help fund conservation, research, and community engagement projects
     
-<!-- 
--   :material-map-marker-question:{ .lg .middle } &nbsp; Coming soon…
+ 
+-   :fontawesome-solid-comments:{ .lg .middle } &nbsp; Member meetings
 
     ---
 
-    A new way to explore Toowong Cemetery 
+    **[Member meetings](member-meetings/)** - plan projects, review progress, and share discoveries 
 
--->
-<!-- 
-
--   :fontawesome-solid-map-location-dot:{ .lg .middle } &nbsp; **Coming soon…**
-    
--->
 
 </div>
 
