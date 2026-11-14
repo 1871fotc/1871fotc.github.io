@@ -6,7 +6,7 @@ description: Learn how to get involved with Friends of Toowong Cemetery
 
 # Get Involved
 
-Whether you're <!-- **[visiting](explorer.md)** for the first time,--> looking to **[volunteer](volunteer.md)**, considering **[membership](join.md)**, wanting to **[influence our work](member-meetings.md)** or would like to **[support our work](donate.md)**, there are many ways to get involved with the Friends of Toowong Cemetery.
+Whether you're <!-- **[visiting](explorer.md)** for the first time,--> looking to **[volunteer](volunteer.md)**, considering **[membership](join.md)**, wanting to **[influence our work](member-meetings.md)**, or would like to **[support our work](donate.md)**, there are many ways to get involved with Friends of Toowong Cemetery.
 
 <div class="grid cards" markdown>  
 
@@ -33,7 +33,7 @@ Whether you're <!-- **[visiting](explorer.md)** for the first time,--> looking t
     **[Support our work](donate.md)**  — help fund conservation, research, and community engagement projects
     
  
--   :fontawesome-solid-comments:{ .lg .middle } &nbsp; **[Member meetings](member-meetings.md]**
+-   :fontawesome-solid-comments:{ .lg .middle } &nbsp; **[Member meetings](member-meetings.md)**
 
     ---
 
