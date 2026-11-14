@@ -13,6 +13,8 @@ Friends of Toowong Cemetery run regular volunteer events to help preserve the he
 
 Our event on **15 November from 8:00–10:30 has been cancelled due to rain**.
 
+The next Heritage Heroes is planned for 14 March 2027.
+
 Meet under the flagpole in Canon Garland Place at the Toowong Cemetery near the Frederick St entrance. Parking is available inside the cemetery.
 
 ![Canon Garland Place](../assets/flag-pole.jpg){ width="98%" data-title="Heritage Hero events start at Canon Garland Place" }
