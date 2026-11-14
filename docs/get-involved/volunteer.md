@@ -11,7 +11,7 @@ search:
 
 Friends of Toowong Cemetery run regular volunteer events to help preserve the heritage of the cemetery. 
 
-Our next event, and last for 2026, will be on **15 November from 8:00–10:30am**. Arrive when it suits you if 8am is too early.
+Our event on **15 November from 8:00–10:30am** has been cancelled due to rain.
 
 Meet under the flagpole in Canon Garland Place at the Toowong Cemetery near the Frederick St entrance. Parking is available inside the cemetery.
 
