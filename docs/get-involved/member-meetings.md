@@ -1,6 +1,8 @@
-# Friends of Toowong Cemetery Member Meetings
+# Member Meetings
 
 Friends of Toowong Cemetery meet at Mt. Coot‑tha Botanical Gardens Auditorium from **6pm to 7pm on the last Wednesday of the month** (except December). 
+
+![Mt Coot‑tha Botanical Gardens Auditorium](../assets/auditorium.jpg)
 
 All current members are welcome to attend. Not a member? **[Apply to join](join/)**
 
@@ -25,4 +27,3 @@ All current members are welcome to attend. Not a member? **[Apply to join](join/
 | Member Meeting | 27 October 2027 |  |
 | Member Meeting | 24 November 2027 |  |
 
-![Mt Coot‑tha Botanical Gardens Auditorium](../assets/auditorium.jpg)
