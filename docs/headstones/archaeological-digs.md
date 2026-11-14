@@ -14,7 +14,7 @@ description: Get your hands dirty and uncover stories from Brisbane's past
 Friends of Toowong Cemetery, in conjunction with [The University of Queensland School of Social Science](https://social-science.uq.edu.au/undergraduate/archaeology), have been searching for buried headstones in the cemetery grounds since 2006. With the support of the Brisbane City Council, the annual archaeology dig is [a chance to unearth Brisbane's history](https://www.abc.net.au/news/2018-05-26/archaeology-dig-at-toowong-cemetery-a-chance-to-unearth-history/9800474). 
 
 
-**Our 2027 Dig is tentatively planned for 21–23 May. Come along and watch the dig, or join in - make sure you wear appropriate clothing, closed shoes, and gardening gloves. We'll provide tools and instruction.**
+**Our 2027 Dig is tentatively planned for 21–23 May**. Come along and watch the dig, or join in. <!-- - make sure you wear appropriate clothing, closed shoes, and gardening gloves. We'll provide tools and instruction. -->
 
 
 <div class="video-wrapper">
