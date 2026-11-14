@@ -55,6 +55,22 @@ Friends of Toowong Cemetery meet at Mt. Coot‑tha Botanical Gardens Auditorium 
 
 ![Mt Coot‑tha Botanical Gardens Auditorium](../assets/auditorium.jpg)
 
+## Upcoming Meetings
+
+| Event | Date | Notes |
+|:--|--:|:--|
+| Member Meeting | 25 November 2026 | Last meeting for 2026 |
+| Member Meeting | 27 January 2027  |  |
+| Member Meeting | 24 February 2027 |  |
+| Member Meeting | 31 March 2027 |  |
+| Member Meeting | 28 April 2027 |  |
+| Member Meeting | 26 May 2027 |  |
+| Member Meeting | 30 June 2027 |  |
+| Member Meeting | 28 July 2027 |  |
+| Member Meeting | 25 August 2027 |  |
+| Member Meeting | 29 September 2027 |  |
+| Member Meeting | 27 October 2027 |  |
+| Member Meeting | 24 November 2027 |  |
 
 
 <!--
