@@ -8,15 +8,15 @@ search:
 
 # Heritage Heroes 
 
-
 Friends of Toowong Cemetery run regular volunteer events to help preserve the heritage of the cemetery. 
 
-The next Heritage Heroes is planned for **14 March 2027**.
+**The next Heritage Heroes is planned for 14 March 2027**.
 
-Can't wait? Contact Us - There are always odd jobs to do, either at the cemetery or remotely.
+Can't wait? No problem - There are always odd jobs to do, either at the cemetery or remotely.
 
 [Contact Us &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=I%20want%20to%20be%20a%20Heritage%20Hero){ .md-button .md-button--primary }
 
+## Heritage Hero events
 
 Meet under the flagpole in Canon Garland Place at the Toowong Cemetery near the Frederick St entrance. Parking is available inside the cemetery.
 
