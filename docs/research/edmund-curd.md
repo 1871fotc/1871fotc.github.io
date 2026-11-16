@@ -3,7 +3,9 @@ title: Edmund Curd
 description: First principal of the Toowong State School which opened in January 1880
 hide:
   - toc
-  - navigation 
+  - navigation
+search:
+  exclude: true
 ---
 
 # Edmund Curd
