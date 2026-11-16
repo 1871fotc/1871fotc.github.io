@@ -120,7 +120,7 @@ Allotments on [Heussler Terrace][Heussler Terrace] (renamed Birdwood Terrace) on
 
 ![Chermside Park advertisement](../assets/chermside-park.jpg){ width="96%" loading=lazy data-title="Chermside Park advertisement" }  
 
-*<small>[Chermside Park, second section : Auchenflower](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21190073930002061), 1921 — State Library of Queensland. Note in the Inset how the tram stopped at the Toowong Cemetery gates. [Third Avenue was renamed Couldrey St](../assets/documents/new-streets-1939.pdf) in 1939 after a Queensland Miner. 
+*<small>[Chermside Park, second section : Auchenflower](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21190073930002061), 1921 — State Library of Queensland. Note in the Inset how the tram stopped at the Toowong Cemetery gates. [Third Avenue was renamed Couldrey St](../assets/documents/new-streets-1939.pdf) in 1939 after a Queensland Miner. </small>*
 
 <!-- broken link 
 [Queensland Miner](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:24525/one?qu=Duplicated+Street+Names+-+Extracts+from+Council+Records+re+Final+Approval+and+ORIGINS+of+names+1938+-+1939&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS). </small>*
@@ -148,7 +148,7 @@ Garland, aged 75, died at Red Hill on 11 October 1939. His grave is located at P
 
 ![Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](../assets/unveiling-cross-of-sacrifice.jpg){ width="96%" loading=lazy data-title="Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924"}  
 
-*<small>[Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/tqqf2h/alma99183857293402061) — State Library of Queensland. <!-- The Union Jack flag was placed on the building to mask the fact that it was the amenities. --> </small>*
+*<small>[Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](https://onesearch.slq.qld.gov.au/permalink/61SLQ_INST/tqqf2h/alma99183857293402061) — State Library of Queensland. </small>* <!-- The Union Jack flag was placed on the building to mask the fact that it was the amenities. --> 
 
 <!--
 ![Cross of Sacrifice and Stone of Remembrance memorials at Toowong Cemetery, Brisbane, 1924](../assets/stone-of-remembrance.jpg){ width="96%" }  
