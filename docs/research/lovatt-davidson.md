@@ -3,7 +3,9 @@ title: Lovatt Davidson
 description: A forgotten World War One soldier, now remembered
 hide:
   - toc
-  - navigation 
+  - navigation
+search:
+  exclude: true
 ---
 
 # Lovatt Davidson
