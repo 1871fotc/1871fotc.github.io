@@ -2,6 +2,8 @@
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 # Lord Sidney Horace Dutton 
