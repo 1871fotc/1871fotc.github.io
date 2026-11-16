@@ -4,6 +4,8 @@ description: A forgotten World War One soldier, now remembered
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 # John Frederick Inkson
