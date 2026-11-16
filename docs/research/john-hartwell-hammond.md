@@ -2,6 +2,8 @@
 hide:
   - toc
   - navigation 
+search:
+  exclude: true
 ---
 
 # John Hartwell Hammond
