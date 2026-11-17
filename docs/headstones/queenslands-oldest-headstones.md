@@ -15,7 +15,7 @@ The oldest surviving headstone in Queensland is from **15 November 1831** and ca
 
 *<small>Pioneer Children's Graves (13-10-4), Queensland's oldest surviving headstones from the 1830's </small>*
 
-Three children, William Henry Roberts, Peter McCauley, and Jane Pittard were originally interred on the banks of the Brisbane River. They were re‑interred at Toowong Cemetery in October 1881. 
+Three children, William Henry Roberts, Peter McCauley, and Jane Pittard were originally interred on the banks of the Brisbane River. They were re‑interred at Toowong Cemetery on 5 October 1881. 
 
 ![Map of Brisbane, 1844](../assets/map-of-brisbane-1844.jpg){ width="100%"}
 
@@ -31,7 +31,7 @@ Three children, William Henry Roberts, Peter McCauley, and Jane Pittard were ori
 
 
 
-## William Henry Roberts <small>(13-10-4)</small>
+## William Henry Roberts <small>([13-10-4](https://brisbane.discovereverafter.com/profile/31698698)</small>
 
 Esther Roberts, mother of William Henry Roberts, was the first teacher of girls in the Moreton Bay settlement. His father, Charles Roberts was transferred to Dunwich to take charge of the government store in August 1828. William was born on 15 September 1828 and died of illness on 15 November 1831. 
 
@@ -41,10 +41,10 @@ The tomb lid originally had a bible verse inscribed on it based on Matthew 19:14
 
 It has since been lost to weathering. After the death of their son, the Roberts family returned to Sydney in 1834.
 
-## Peter McCauley <small>(13-10-4)</small>
+## Peter McCauley <small>([13-10-4](https://brisbane.discovereverafter.com/profile/31709797)</small>
 
 Peter McCauley was born in Sydney on 17 April 1826, the son of Private Peter McCauley, a member of the 17^th^ Regiment. His monther, Mary, was appointed as matron of the Brisbane Town Female Factory in June 1831. On 5 January 1832, young Peter wandered away from his brothers on an outing and drowned in the Brisbane River near the present Botanical Gardens. The family returned to Sydney in 1832.
 
-## Jane Pittard <small>(13-10-4)</small>
+## Jane Pittard <small>([13-10-4](https://brisbane.discovereverafter.com/profile/31879918)</small>
 
 Jane Pittard was the infant daughter of John Pittard, late Color Sergeant of the 57^th^ Regiment. He had drowned in Van Diemen's Land on 23 July 1831, shortly before his daughter's birth. Jane's mother, Margaret, remarried and came to Moreton Bay with Color Sergeant David Collins in August 1832. On 23 January 1833, Jane died and her family returned to Sydney the following year.
