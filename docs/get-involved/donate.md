@@ -13,7 +13,32 @@ search:
 
 *Sorry: Donations are not tax deductible.*
 
+<div class="grid cards" markdown>  
 
+
+-   :simple-square:{ .lg .middle } &nbsp; **Donate using Square**
+  
+    ---
+
+    **[Donate using Apple Pay, Google Pay or Credit Card](https://square.link/u/BZsUb6ck)**
+    
+    ![Scan to donate using Square](../assets/donation-link-qr-code.png)
+
+
+-   :fontawesome-solid-piggy-bank:{ .lg .middle } &nbsp; **Donate using Direct Debit**
+  
+    ---
+
+    **Transfer your donation directly into our bank account**:
+    
+    - Branch: NAB Brisbane
+    - BSB: 084034
+    - Account Number: 522327844
+    - Reference: *your name*
+
+</div>
+
+<!-- 
 ## Donate using Apple Pay, Google Pay, or your Credit Card
 
 We use Square :simple-square: so you can donate any amount using Apple Pay, Google Pay, or your Credit Card.
@@ -22,7 +47,7 @@ We use Square :simple-square: so you can donate any amount using Apple Pay, Goog
 
 ![Scan to donate using Square](../assets/donation-link-qr-code.png)
 
-## Donate using Direct Deposit <!-- :fontawesome-solid-money-check-alternative: -->
+## Donate using Direct Deposit 
 
 Transfer your donation directly into our bank account: 
 
@@ -31,11 +56,14 @@ Transfer your donation directly into our bank account:
 - Account Number: 522327844
 - Reference: *your name*
 
+-->
+
 ## Donate for a specific purpose
 
 Would you like to make a donation for a specific purpose?
   
 [Email to discuss your idea &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=I'd%20like%20to%20support%20Friends%20of%20Toowong%20Cemetery){ .md-button .md-button--primary }
+
 
 <!-- 
 ### Help fund the Toowong Cemetery Honour Board
@@ -47,27 +75,3 @@ We're raising funds for an Honour Board and Pavilion in Toowong Cemetery to reco
 [Donate to the Honour Board &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=I'd%20like%20to%20support%20the%20Honour%20Board){ .md-button .md-button--primary }
 -->
 
-<div class="grid cards" markdown>  
-
-
--   :simple-square:{ .lg .middle } &nbsp; **[Donate using Square](https://square.link/u/BZsUb6ck)**
-  
-    ---
-
-    **[Donate](https://square.link/u/BZsUb6ck)** using Apple Pay, Google Pay or Credit Card
- 
-    ![Scan to donate using Square](../assets/donation-link-qr-code.png)
-
-
--   :fontawesome-solid-piggy-bank:{ .lg .middle } &nbsp; **Donate using Direct Debit**
-  
-    ---
-
-    Transfer your donation directly into our bank account: 
-    
-    - Branch: NAB Brisbane
-    - BSB: 084034
-    - Account Number: 522327844
-    - Reference: *your name*
-
-</div>
