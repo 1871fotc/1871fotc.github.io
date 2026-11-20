@@ -7,7 +7,7 @@ search:
 
 ## Why donate?
 
-- Show your appreciation for Friends of Toowong Cemetery finding, cleaning, or re-lettering a family grave.
+- Show your appreciation for Friends of Toowong Cemetery finding, cleaning, or re‑lettering a family grave.
 - Say thank you for a guided tour you attended.
 - Help fund our improvement ideas or one of your own.
 
