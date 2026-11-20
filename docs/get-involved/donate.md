@@ -50,26 +50,24 @@ We're raising funds for an Honour Board and Pavilion in Toowong Cemetery to reco
 <div class="grid cards" markdown>  
 
 
--   :fontawesome-solid-piggy-bank:{ .lg .middle } &nbsp; **[Donate using Square](https://square.link/u/BZsUb6ck)**
+-   :simple-square:{ .lg .middle } &nbsp; **[Donate using Square](https://square.link/u/BZsUb6ck)**
   
     ---
 
-    **[Donate](https://square.link/u/BZsUb6ck)** any amount using
-
-    - Apple Pay
-    - Google Pay
-    - Credit Card
+    **[Donate](https://square.link/u/BZsUb6ck)** using Apple Pay, Google Pay or Credit Card
+ 
+    ![Scan to donate using Square](../assets/donation-link-qr-code.png)
 
 
--   :fontawesome-solid-money-check-alternative:{ .lg .middle } &nbsp; **Donate using Direct Debit**
+-   :fontawesome-solid-piggy-bank:{ .lg .middle } &nbsp; **Donate using Direct Debit**
   
     ---
 
     Transfer your donation directly into our bank account: 
-        
-        - Branch: NAB Brisbane
-        - BSB: 084034
-        - Account Number: 522327844
-        - Reference: *your name*
+    
+    - Branch: NAB Brisbane
+    - BSB: 084034
+    - Account Number: 522327844
+    - Reference: *your name*
 
 </div>
