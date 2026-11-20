@@ -3,27 +3,18 @@ search:
   boost: 2
 ---
 
-# Donate
+# Donate :fontawesome-solid-piggy-bank:{ .heart }
 
-**Thanks for thinking about supporting our work** :fontawesome-solid-piggy-bank:{ .heart }
+**Why donate?**
 
-## Why donate?
+- Show your appreciation for Friends of Toowong Cemetery finding, cleaning, or re-lettering a family grave.
+- Say thank you for a guided tour you attended.
+- Help fund our improvement ideas or one of your own.
 
-- To show your appreciation for Friends of Toowong Cemetery finding, cleaning, or re-lettering a family grave.
-- To say thank you for a guided tour you attended.
-- To help fund our improvement ideas or one of your own.
+You can donate online using Square or Direct Deposit.
 
-Sorry: Donations are not tax deductible.
+*Sorry: Donations are not tax deductible.*
 
-<!-- 
-### Help fund the Toowong Cemetery Honour Board
-
-We're raising funds for an Honour Board and Pavilion in Toowong Cemetery to recognise people who served their country in war, who are now buried in Toowong Cemetery. 
-
-![Honour Board Pavilion](../assets/honour-board-pavilion.jpg){ width="96%" class="full-width" } 
-
-[Donate to the Honour Board &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=I'd%20like%20to%20support%20the%20Honour%20Board){ .md-button .md-button--primary }
--->
 
 ## Donate online using Square :simple-square:
 
@@ -33,7 +24,7 @@ Choose the amount you'd like to donate. Pay with Apple Pay, Google Pay, or your 
 
 ![Scan to donate using Square](../assets/donation-link-qr-code.png)
 
-## Donate using Direct Deposit :fontawesome-solid-money-check-alt:
+## Donate using Direct Deposit <!-- :fontawesome-solid-money-check-alternative: -->
 
 Transfer your donation directly into our bank account: 
 
@@ -48,4 +39,12 @@ Would you like to make a donation for a specific purpose.
   
 [Email to discuss your idea &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=I'd%20like%20to%20support%20Friends%20of%20Toowong%20Cemetery){ .md-button .md-button--primary }
 
+<!-- 
+### Help fund the Toowong Cemetery Honour Board
 
+We're raising funds for an Honour Board and Pavilion in Toowong Cemetery to recognise people who served their country in war, who are now buried in Toowong Cemetery. 
+
+![Honour Board Pavilion](../assets/honour-board-pavilion.jpg){ width="96%" class="full-width" } 
+
+[Donate to the Honour Board &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=I'd%20like%20to%20support%20the%20Honour%20Board){ .md-button .md-button--primary }
+-->
