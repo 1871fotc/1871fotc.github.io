@@ -46,3 +46,30 @@ We're raising funds for an Honour Board and Pavilion in Toowong Cemetery to reco
 
 [Donate to the Honour Board &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=I'd%20like%20to%20support%20the%20Honour%20Board){ .md-button .md-button--primary }
 -->
+
+<div class="grid cards" markdown>  
+
+
+-   :fontawesome-solid-piggy-bank:{ .lg .middle } &nbsp; **[Donate using Square](https://square.link/u/BZsUb6ck)**
+  
+    ---
+
+    **[Donate](https://square.link/u/BZsUb6ck)** any amount using
+
+    - Apple Pay
+    - Google Pay
+    - Credit Card
+
+
+-   :fontawesome-solid-money-check-alternative:{ .lg .middle } &nbsp; **Donate using Direct Debit**
+  
+    ---
+
+    Transfer your donation directly into our bank account: 
+        
+        - Branch: NAB Brisbane
+        - BSB: 084034
+        - Account Number: 522327844
+        - Reference: *your name*
+
+</div>
