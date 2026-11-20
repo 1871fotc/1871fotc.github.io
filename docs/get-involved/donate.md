@@ -5,13 +5,14 @@ search:
 
 # Donate :fontawesome-solid-piggy-bank:{ .heart }
 
-**Why donate?**
+## Why donate?
 
 - Show your appreciation for Friends of Toowong Cemetery finding, cleaning, or re-lettering a family grave.
 - Say thank you for a guided tour you attended.
 - Help fund our improvement ideas or one of your own.
 
-*Sorry: Donations are not tax deductible.*
+
+## How to donate
 
 <div class="grid cards" markdown>  
 
@@ -38,6 +39,19 @@ search:
 
 </div>
 
+*Sorry: Donations are not tax deductible.*
+
+
+
+## Donate for a specific purpose
+
+Would you like to make a donation for a specific purpose?
+  
+[Email to discuss your idea &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=I'd%20like%20to%20support%20Friends%20of%20Toowong%20Cemetery){ .md-button .md-button--primary }
+
+
+
+
 <!-- 
 ## Donate using Apple Pay, Google Pay, or your Credit Card
 
@@ -57,13 +71,6 @@ Transfer your donation directly into our bank account:
 - Reference: *your name*
 
 -->
-
-## Donate for a specific purpose
-
-Would you like to make a donation for a specific purpose?
-  
-[Email to discuss your idea &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=I'd%20like%20to%20support%20Friends%20of%20Toowong%20Cemetery){ .md-button .md-button--primary }
-
 
 <!-- 
 ### Help fund the Toowong Cemetery Honour Board
