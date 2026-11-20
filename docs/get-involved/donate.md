@@ -11,7 +11,7 @@ search:
 - Say thank you for a guided tour you attended.
 - Help fund our improvement ideas or one of your own.
 
-You can donate online using Square or Direct Deposit.
+You can donate online using Square or [Direct Deposit](#donate-using-direct-deposit).
 
 *Sorry: Donations are not tax deductible.*
 
