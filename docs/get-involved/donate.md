@@ -11,14 +11,12 @@ search:
 - Say thank you for a guided tour you attended.
 - Help fund our improvement ideas or one of your own.
 
-You can donate online using Square or [Direct Deposit](#donate-using-direct-deposit).
-
 *Sorry: Donations are not tax deductible.*
 
 
-## Donate online using Square :simple-square:
+## Donate using Apple Pay, Google Pay, or your Credit Card
 
-Choose the amount you'd like to donate. Pay with Apple Pay, Google Pay, or your Credit Card.
+We use Square :simple-square: so you can donate any amount using Apple Pay, Google Pay, or your Credit Card.
 
 [Donate :fontawesome-solid-piggy-bank:](https://square.link/u/BZsUb6ck){ .md-button .md-button--primary }
 
@@ -35,7 +33,7 @@ Transfer your donation directly into our bank account:
 
 ## Donate for a specific purpose
 
-Would you like to make a donation for a specific purpose.
+Would you like to make a donation for a specific purpose?
   
 [Email to discuss your idea &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=I'd%20like%20to%20support%20Friends%20of%20Toowong%20Cemetery){ .md-button .md-button--primary }
 
