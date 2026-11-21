@@ -62,6 +62,7 @@ In 1988, as a Bicentennial project, the [Queensland Family History Society](http
 - [Research Guide to cemetery records at Queensland State Archives](https://www.publications.qld.gov.au/ckan-publications-attachments-prod/resources/3b2f93a8-3229-4739-bae5-a130fb199cf9/research-guide-to-cemetery-records.pdf)
 - [Baptist Church Archives Queensland](https://www.bhsq.org/barq/)
 - [Virtual War Memorial Australia](https://vwma.org.au/explore/cemeteries/1788)
+- [There once was a creek](https://www.oncewasacreek.org/creeks/) - Langsville Creek is a historic waterway flowing through parts of Toowong and Auchenflower, including the Toowong Cemetery, the Mount Coot-tha Gardens and Anzac Park.
 
 <!--
 - The [Under the Lino](http://www.underthelino.com.au) community have a [catalogue of research resources](http://www.underthelino.com.au/resources/)
