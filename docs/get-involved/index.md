@@ -25,14 +25,6 @@ Whether you're <!-- **[visiting](explorer.md)** for the first time,--> looking t
 
     **[Join Friends of Toowong Cemetery](join.md)**  — become a member and contribute to our vision
     
-<!-- 
--   :fontawesome-solid-piggy-bank:{ .lg .middle } &nbsp; **[Donate](donate.md)**
-  
-    ---
-
-    **[Support our work](donate.md)**  — help fund conservation, research, and community engagement projects
-
--->    
  
 -   :fontawesome-solid-comments:{ .lg .middle } &nbsp; **[Member meetings](member-meetings.md)**
 
