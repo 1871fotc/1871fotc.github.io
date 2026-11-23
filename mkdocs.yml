@@ -73,10 +73,7 @@ extra:
       name: Follow us on Bluesky
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/groups/1148777796317356/
-      name: Facebook
-    - icon: fontawesome/solid/piggy-bank
-      link: https://www.fotc.au/get-involved/donate/
-      name: Donate       
+      name: Facebook      
 #    - icon: fontawesome/brands/youtube
 #      link: https://www.youtube.com/@1871fotc
 #      name: YouTube @1871fotc  
