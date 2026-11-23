@@ -46,8 +46,9 @@
     {% if config.extra.alternate %}
       {% include "partials/alternate.html" %}
     {% endif %}
-<!-- add donate link -->
+<!-- add donate link.  Needs styling
     <a href="https://www.fotc.au/get-involved/donate/" title="Donate and support our work"><b> &nbsp;Donate&nbsp; </b></a>
+-->    
     {% if "search" in config.plugins %}
       {% set search = config.plugins["search"] | attr("config") %}
       {% if search.enabled %}
