@@ -32,8 +32,8 @@ On this site you'll find information about:
 - **[headstones](headstones/index.md)** including Paddington Cemetery headstones found in our **[archaeological digs](headstones/archaeological-digs.md)**.
 - **[research resources](research/index.md)** including an **[index of people in our stories](research/find-a-story.md)**.
 - **[how to get involved](get-involved/index.md)** — discover upcoming events, become a **[Heritage Hero](get-involved/volunteer/)**, or **[join Friends of Toowong Cemetery](get-involved/join/)**.
-- **[donate and support our work](get-involved/donate/)**.
-- **[Friends of Toowong Cemetery](about/index.md)** — what we do and what we've done.
+- **[donating and supporting our work](donate/)** - donate using Apple Pay, Google Pay, Credit Card or Direct Deposit.
+- **[Friends of Toowong Cemetery](about/index.md)** — learn what we do and what we've done.
 
 
 
