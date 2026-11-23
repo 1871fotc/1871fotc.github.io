@@ -169,8 +169,9 @@ plugins:
       draggable: false
       auto_caption: true
       caption_position: bottom
-#  - redirects:
-#      redirect_maps:
+  - redirects:
+      redirect_maps:
+        get-involved/donate.md: donate.md
 #        about/federation-pavilion.md: visit/federation-pavilion.md
 #        guided-tour.md: visit/guided-tour.md
 #        research/find-a-grave.md: find-a-grave.md/index.md
@@ -295,8 +296,8 @@ nav:
     - Get Involved: get-involved/index.md
     - Volunteer: get-involved/volunteer.md  
     - Join: get-involved/join.md  
-    - Donate: get-involved/donate.md
     - Member Meetings: get-involved/member-meetings.md
+  - Donate: donate.md
   - About Us: 
     - About Us: about/index.md
     - Publications: about/publications.md
