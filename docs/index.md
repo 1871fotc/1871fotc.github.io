@@ -31,7 +31,7 @@ On this site you'll find information about:
 - **[how to find a grave in Toowong Cemetery](find-a-grave.md)** and a **[Toowong Cemetery map](visit/#toowong-cemetery-map)**.
 - **[headstones](headstones/index.md)** including Paddington Cemetery headstones found in our **[archaeological digs](headstones/archaeological-digs.md)**.
 - **[research resources](research/index.md)** including an **[index of people in our stories](research/find-a-story.md)**.
-- **[how to get involved](get-involved/index.md)** — become a Heritage Hero, join Friends of Toowong Cemetery, or donate and support our work.
+- **[how to get involved](get-involved/index.md)** — become a Heritage Hero, join Friends of Toowong Cemetery, or **[donate and support our work](get-involved/donate/)**.
 - **[Friends of Toowong Cemetery](about/index.md)** — what we do and what we've done.
 
 
