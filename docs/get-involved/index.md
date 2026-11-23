@@ -6,7 +6,7 @@ description: Learn how to get involved with Friends of Toowong Cemetery
 
 # Get Involved
 
-Whether you're <!-- **[visiting](explorer.md)** for the first time,--> looking to **[volunteer](volunteer.md)**, considering **[membership](join.md)**, wanting to **[influence our work](member-meetings.md)**, or would like to **[support our work](donate.md)**, there are many ways to get involved with Friends of Toowong Cemetery.
+Whether you're <!-- **[visiting](explorer.md)** for the first time,--> looking to **[volunteer](volunteer.md)**, considering **[membership](join.md)**, or want to **[influence our work](member-meetings.md)**, there are many ways to get involved with Friends of Toowong Cemetery.
 
 <div class="grid cards" markdown>  
 
@@ -25,13 +25,14 @@ Whether you're <!-- **[visiting](explorer.md)** for the first time,--> looking t
 
     **[Join Friends of Toowong Cemetery](join.md)**  — become a member and contribute to our vision
     
-
+<!-- 
 -   :fontawesome-solid-piggy-bank:{ .lg .middle } &nbsp; **[Donate](donate.md)**
   
     ---
 
     **[Support our work](donate.md)**  — help fund conservation, research, and community engagement projects
-    
+
+-->    
  
 -   :fontawesome-solid-comments:{ .lg .middle } &nbsp; **[Member meetings](member-meetings.md)**
 
@@ -48,7 +49,6 @@ Whether you're <!-- **[visiting](explorer.md)** for the first time,--> looking t
 
 | Event | Date | Notes |
 |:--|--:|:--|
-| ~~[Heritage Heroes](../get-involved/volunteer/)~~ | 15 November  2026 | Cancelled due to rain |
 | **[Guided Tour](../visit/guided-tours/)** | 6 December 2026 | Last Guided Tour for 2026 |
 | **[Guided Tour](../visit/guided-tours/)** | 7 February 2027 | Last Guided Tour on the first Sunday of the month |
 | **[Heritage Heroes](../get-involved/volunteer/)** | 14 March  2027 | Help preserve Toowong Cemetery's heritage |
@@ -69,28 +69,3 @@ Whether you're <!-- **[visiting](explorer.md)** for the first time,--> looking t
 | Open Day | 24 October 2027 | to be confirmed |
 | **[Heritage Heroes](../get-involved/volunteer/)** | 7 November 2027 | Last volunteer event for 2027 |
 | **[Guided Tour](../visit/guided-tours/)** | 21 November 2027 | Last Guided Tour for 2027  |
-
-<!-- 
-| Event | Day | Month | Year | Notes |
-|:--|--:|--:|--:|:--|
-| [Guided Tour](../visit/guided-tours/) | 07 | 02 | 2027 | Last Guided Tour on the first Sunday of the month |
-| [Heritage Heroes](../get-involved/volunteer/) | 14 | 03 | 2027 | Help preserve Toowong Cemetery's heritage |
-| [Guided Tour](../visit/guided-tours/) | 21 | 03 | 2027 | Guided Tour now on the third Sunday of the month |
-| [Guided Tour](../visit/guided-tours/) | 18 | 04 | 2027 | Guided Tour now on the third Sunday of the month |
-| [Heritage Heroes](../get-involved/volunteer/) | 31 | 04 | 2027 | Help preserve Toowong Cemetery's heritage |
-| [Guided Tour](../visit/guided-tours/) | 16 | 05 | 2027 | Guided Tours are now on the third Sunday of the month |
-| [Archaeology Dig](../headstones/archaeological-digs/) | 21 | 05 | 2027 | to be confirmed |
-| [Archaeology Dig](../headstones/archaeological-digs/) | 22 | 05 | 2027 | to be confirmed |
-| [Archaeology Dig](../headstones/archaeological-digs/) | 23 | 05 | 2027 | to be confirmed |
-| [Guided Tour](../visit/guided-tours/) | 20 | 06 | 2027 |   |
-| [Guided Tour](../visit/guided-tours/) | 18 | 07 | 2027 |   |
-| [Heritage Heroes](../get-involved/volunteer/) | 25 | 07 | 2027 | Help preserve Toowong Cemetery's heritage |
-| [Guided Tour](../visit/guided-tours/) | 15 | 08 | 2027 |   |
-| [Heritage Heroes](../get-involved/volunteer/) | 12 | 09 | 2027 | Help preserve Toowong Cemetery's heritage |
-| [Guided Tour](../visit/guided-tours/) | 19 | 09 | 2027 |   |
-| [Guided Tour](../visit/guided-tours/) | 17 | 10 | 2027 |   |
-| Open Day | 24 | 10 | 2027 | to be confirmed |
-| [Heritage Heroes](../get-involved/volunteer/) | 07 | 11 | 2027 | Help preserve Toowong Cemetery's heritage |
-| [Guided Tour](../visit/guided-tours/) | 21 | 11 | 2027 | The last for 2027  |
-
--->
