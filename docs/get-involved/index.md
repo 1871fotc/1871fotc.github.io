@@ -65,6 +65,5 @@ Whether you're <!-- **[visiting](explorer.md)** for the first time,--> looking t
 | **[Heritage Heroes](../get-involved/volunteer/)** | 12 September 2027 |  |
 | **[Guided Tour](../visit/guided-tours/)** | 19 September 2027 |   |
 | **[Guided Tour](../visit/guided-tours/)** | 17 October 2027 |   |
-| Open Day | 24 October 2027 | to be confirmed |
 | **[Heritage Heroes](../get-involved/volunteer/)** | 7 November 2027 | Last volunteer event for 2027 |
 | **[Guided Tour](../visit/guided-tours/)** | 21 November 2027 | Last Guided Tour for 2027  |
