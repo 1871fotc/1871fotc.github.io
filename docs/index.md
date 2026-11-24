@@ -25,15 +25,15 @@ hide:
 
 Heritage‑listed Toowong Cemetery is the largest cemetery in Queensland. The first burial was of **[Governor Samuel Blackall](research/samuel-wensley-blackall.md)** on 3 January 1871. Read his and hundreds of other stories about the people who shaped Brisbane, Queensland, and Australia's history.
 
-On this site you'll find information including:
+On this site you'll find:
 
 - **[Toowong Cemetery's history](research/history.md)** and the **[stories of people remembered here](stories/index.md)**.
 - **[How to find a grave in Toowong Cemetery](find-a-grave.md)** and a **[Toowong Cemetery map](visit/#toowong-cemetery-map)**.
 - **[Headstones](headstones/index.md)** including Paddington Cemetery headstones found in our **[archaeological digs](headstones/archaeological-digs.md)**.
 - **[Research resources](research/index.md)** including an **[index of people in our stories](research/find-a-story.md)**.
-- **[How to get involved](get-involved/index.md)** — discover upcoming events, become a **[Heritage Hero](get-involved/volunteer/)**, or **[join Friends of Toowong Cemetery](get-involved/join/)**.
-- **[How to Donate and support our work](donate/)** 
-- **[Friends of Toowong Cemetery](about/index.md)** — learn what we do and what we've done.
+- **[Discover upcoming events](get-involved/index.md)** and how to get involved.
+- **[How to Donate](donate/)** and support our work.
+- and much more.
 
 The cemetery is maintained by the **[Brisbane City Council](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery)**.
 
