@@ -15,8 +15,12 @@ No special software is needed and we've got instructions and templates to get yo
 
 ![Markdown plain text is converted into webpages](../assets/markdown-example.jpg){ width="90%" }
 
+*<small>Write in any text editor, see you work published as a webpage</small>*
 
-Go further with your detective work and investigate the people mentioned in the stories. 
+
+Go further with your detective work and [research](../research/) the people mentioned in the stories.
+
+Our experts can coach you on research techniques. 
 
 
 ## Can you help?
