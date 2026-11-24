@@ -34,7 +34,7 @@
       "description": "Become a Heritage Hero by volunteering to clean gravesites and preserve the memory of people buried in the cemetery.",
       "mainEntityOfPage": "https://www.fotc.au/visit/guided-tours/",
       "keywords": "Toowong Cemetery Volunteer Event",
-      "dateModified": "2026-10-20",
+      "dateModified": "2026-11-24",
       "datePublished": "2026-10-20",
       "author": {
           "@id": "https://www.fotc.au/#/schema/organization/1"
@@ -83,9 +83,9 @@
         "image": ["https://www.fotc.au/assets/flag-pole.jpg"],
         "name": "Toowong Cemetery"
       },
-      "startDate": "2026-11-15T08:00:00+10:00",
-      "endDate": "2026-11-15T10:30:00+10:00",
-      "description": "Free Guided Tour of Toowong Cemetery visiting graves and telling stories of the past.",
+      "startDate": "2027-03-14T08:00:00+10:00",
+      "endDate": "2027-03-14T10:30:00+10:00",
+      "description": "Heritage Heroes volunteering events help preserve the memory of people buried in Toowong Cemetery",
       "eventStatus": "https://schema.org/EventScheduled",
       "isAccessibleForFree": true,
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
@@ -96,7 +96,7 @@
         "priceCurrency": "AUD",
         "price": "0",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2026-10-20T12:00"
+        "validFrom": "2026-11-24T12:00"
       },
       "performer": {
         "@id": "https://www.fotc.au/#/schema/organization/1"
