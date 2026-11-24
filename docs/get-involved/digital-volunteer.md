@@ -14,9 +14,11 @@ We have a large collection of guided tour brochures that have been scanned and n
 
 No special software is needed and we've got instructions and templates to get you started. 
 
-You can even go a step further and do more research on the people mentioned in the stories. 
 
 ![Markdown plain text is converted into webpages](../assets/markdown-example.jpg){ width="90%" }
+
+
+Go further and do more research on the people mentioned in the stories. 
 
 
 ## Can you help?
