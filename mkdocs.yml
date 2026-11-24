@@ -291,7 +291,8 @@ nav:
     - Data: research/data.md
   - Get Involved: 
     - Get Involved: get-involved/index.md
-    - Volunteer: get-involved/volunteer.md  
+    - Volunteer onsite: get-involved/volunteer.md
+    - Volunteer online: get-involved/digital-volunteer.md
     - Join: get-involved/join.md  
     - Member Meetings: get-involved/member-meetings.md
   - Donate: donate.md
