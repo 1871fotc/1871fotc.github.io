@@ -12,7 +12,7 @@ Friends of Toowong Cemetery run regular volunteer events to help preserve the he
 
 **The next Heritage Heroes is planned for 14 March 2027**.
 
-Can't wait? No problem - There are always odd jobs to do, either at the cemetery or [remotely](digital-volunteer/).
+Can't wait? No problem - there are always odd jobs to do, either at the cemetery or [remotely](digital-volunteer/).
 
 [Contact Us &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=I%20want%20to%20be%20a%20Heritage%20Hero){ .md-button .md-button--primary }
 
