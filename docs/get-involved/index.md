@@ -49,9 +49,9 @@ Whether you're <!-- **[visiting](explorer.md)** for the first time,--> looking t
 | Event | Date | Notes |
 |:--|--:|:--|
 | **[Guided Tour](../visit/guided-tours/)** | 6 December 2026 | Last Guided Tour for 2026 |
-| **[Guided Tour](../visit/guided-tours/)** | 7 February 2027 | Last Guided Tour on the first Sunday of the month |
+| **[Guided Tour](../visit/guided-tours/)** | 7 February 2027 | Last Guided Tour on the 1^st^ Sunday of the month |
 | **[Heritage Heroes](../get-involved/volunteer/)** | 14 March  2027 | Help preserve Toowong Cemetery's heritage |
-| **[Guided Tour](../visit/guided-tours/)** | 21 March 2027 | Guided Tours are now on the third Sunday of the month |
+| **[Guided Tour](../visit/guided-tours/)** | 21 March 2027 | Guided Tours are now on the 3^rd^ Sunday of the month |
 | **[Guided Tour](../visit/guided-tours/)** | 18 April 2027 |  |
 | **[Heritage Heroes](../get-involved/volunteer/)** | 31 April 2027 |  |
 | **[Guided Tour](../visit/guided-tours/)** | 16 May 2027 |  |
