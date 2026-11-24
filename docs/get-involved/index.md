@@ -23,7 +23,7 @@ Whether you're <!-- **[visiting](explorer.md)** for the first time,--> looking t
   
     ---
 
-    **[Become a Heritage Hero](volunteer.md)**  — help preserve the cemetery's heritage at community volunteering events
+    **[Become a Digital Volunteer](digital-volunteer.md)**  — help share Toowong Cemetery's stories online 
 
 
 -   :fontawesome-solid-users:{ .lg .middle } &nbsp; **[Join](join.md)**
