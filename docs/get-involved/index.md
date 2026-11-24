@@ -12,7 +12,14 @@ Whether you're <!-- **[visiting](explorer.md)** for the first time,--> looking t
 
 
 
--   :fontawesome-solid-hand-holding-heart:{ .lg .middle } &nbsp; **[Volunteer](volunteer.md)**
+-   :fontawesome-solid-person-digging:{ .lg .middle } &nbsp; **[Volunteer onsite](volunteer.md)**
+  
+    ---
+
+    **[Become a Heritage Hero](volunteer.md)**  — help preserve the cemetery's heritage at community volunteering events
+
+
+-   :fontawesome-solid-hand-holding-heart:{ .lg .middle } &nbsp; **[Volunteer online](digital-volunteer.md)**
   
     ---
 
