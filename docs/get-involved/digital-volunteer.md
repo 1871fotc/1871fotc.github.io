@@ -23,5 +23,5 @@ Go further with your detective work and investigate the people mentioned in the 
 
 Do as little or a much as you like, when and where it suits you. 
 
-[I want to be a Digital Detective &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=I%20want%20to%20be%20a%Digital%20Detective){ .md-button .md-button--primary }
+[I want to be a Digital Detective &nbsp; :fontawesome-solid-paper-plane:](mailto:president@fotc.au?subject=I%20want%20to%20be%20a%20Digital%20Detective){ .md-button .md-button--primary }
 
