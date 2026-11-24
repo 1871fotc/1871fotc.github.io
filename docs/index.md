@@ -37,7 +37,6 @@ On this site you'll find:
 
 The cemetery is maintained by the **[Brisbane City Council](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery)**.
 
-
 ## Things to do at Toowong Cemetery
 
 At Toowong Cemetery you can:
