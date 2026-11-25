@@ -1,10 +1,12 @@
 ---
 hide:
   - toc
-  - navigation 
+  - navigation
+search:
+  exclude: true 
 ---
 
-# Constance Campbell
+# Constance Campbell Stuart
 
 **16 December 1872 — 4 July 1926**
 
