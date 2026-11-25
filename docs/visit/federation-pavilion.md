@@ -7,7 +7,7 @@ description: Commemorating Queensland's contribution to Australian's federation
 
 ![Federation Pavilion](../assets/federation-pavilion.jpg)
 
-The Federation Pavilion commemorates the contribution of the delegates who attended the 1891 Australian Federation Convention that are buried at the Toowong Cemetery. It was designed by Ian Sinnamon, and officially opened on 3 March 2001.
+The Federation Pavilion commemorates the contribution of the delegates who attended the 1891 Australian Federation Convention that are buried at the Toowong Cemetery. It was designed by [Ian Sinnamon](https://australia.icomos.org/e-news/australia-icomos-e-mail-news-no-812/#1), and officially opened on 3 March 2001.
 
 ![Federation Pavilion wall](../assets/federation-pavilion-wall.jpg)
 
