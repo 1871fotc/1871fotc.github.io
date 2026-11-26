@@ -14,7 +14,7 @@ search:
 
 **Donations help Friends of Toowong Cemetery keep the cemetery's heritage and stories alive**. 
 
-![][image1]{ width="70%" class="full-width" } 
+![][image1]{ width="64%" class="full-width" } ![][image2]{ width="35%" class="full-width" } 
 
 [image1]: ../assets/guided-tour.jpg
 [image2]: ../assets/relettering-during.jpg
