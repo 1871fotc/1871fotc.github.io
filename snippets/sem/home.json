@@ -24,11 +24,7 @@
       "Google Pay",
       "Credit Card",
       "Direct Bank Deposit"
-    ],  
-    "potentialAction": {
-      "@type": "DonateAction",
-      "target": "https://www.fotc.au/donate/"
-    },
+    ], 
     "knowsAbout": {
         "@id": "https://www.fotc.au/#/schema/place/1",
         "Queensland history",
