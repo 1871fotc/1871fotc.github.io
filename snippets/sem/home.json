@@ -3,7 +3,7 @@
   "@context": "https://schema.org",
   "@graph":[
     {
-    "@type": "Organization",
+    "@type": "NGO",
     "@id": "https://www.fotc.au/#/schema/organization/1",
     "name": "Friends of Toowong Cemetery",
     "legalName": "Friends of Toowong Cemetery Association Inc.",
@@ -19,18 +19,50 @@
     ],
     "description": "Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.",
     "slogan": "Discover and share the history and stories of Toowong Cemetery",
+    "acceptedPaymentMethod": [
+      "Apple Pay",
+      "Google Pay",
+      "Credit Card",
+      "Direct Bank Deposit"
+    ],  
+    "potentialAction": {
+      "@type": "DonateAction",
+      "target": "https://www.fotc.au/donate/"
+    },
     "knowsAbout": {
-        "@id": "https://www.fotc.au/#/schema/place/1"
+        "@id": "https://www.fotc.au/#/schema/place/1",
+        "Queensland history",
+        "Brisbane history",
+        "Genealogy",
+        "Family history",
+        "Heritage conservation",
+        "Historic cemeteries",
+        "Funerary symbolism",
+        "Monumental masonry",
+        "War graves"
+    },
+    "areaServed": [
+      {
+        "@type": "City",
+        "name": "Brisbane"
       },
-    "email": "mailto:inquiries@fotc.au",
-    "telephone": "0439998053",
+      {
+        "@type": "Country",
+        "name": "Australia"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Worldwide"
+      }
+    ],      
+    "email": "mailto:president@fotc.au",
     "address": {
       "@type": "PostalAddress",
-      "addressLocality": "Toowong",
+      "addressLocality": "St. Lucia",
       "addressRegion": "Queensland",
-      "postalCode": "4066",
+      "postalCode": "4067",
+      "streetAddress": "13 Baty Street",
       "name": "Friends of Toowong Cemetery Association Inc.",
-      "postOfficeBoxNumber": "808",
       "addressCountry": {
           "@type": "country",
           "name": "https://www.wikidata.org/wiki/Q408"
@@ -103,7 +135,7 @@
         {"@type": "Thing","name": "Headstone","sameAs": "https://en.wikipedia.org/wiki/Headstone"}, 
         {"@type": "Organization","name": "Brisbane City Council","sameAs": "https://en.wikipedia.org/wiki/City_of_Brisbane"}
       ],
-      "dateModified": "2026-09-23",
+      "dateModified": "2026-11-27",
       "datePublished": "2022-08-29",
       "author": {
           "@id": "https://www.fotc.au/#/schema/organization/1"
