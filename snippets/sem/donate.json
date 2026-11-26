@@ -1,0 +1,43 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://www.fotc.au/donate/",
+      "url": "https://www.fotc.au/donate/",
+      "name": "Donate to Friends of Toowong Cemetery",
+      "description": "Support Friends of Toowong Cemetery through a donation. Donations help preserve heritage, share stories, answer family history enquiries and help people connect with Queensland's past.",
+      "inLanguage": "en-AU",
+      "isPartOf": {
+        "@id": "https://www.fotc.au/#/schema/website/1"
+      },
+      "about": {
+        "@id": "https://www.fotc.au/#/schema/organization/1"
+      },
+      "author": {
+        "@id": "https://www.fotc.au/#/schema/organization/1"
+      },
+      "mainEntity": {
+        "@id": "https://www.fotc.au/#/schema/donateaction/1"
+      }
+    },
+    {
+      "@type": "DonateAction",
+      "@id": "https://www.fotc.au/#/schema/donateaction/1",
+      "name": "Donate to Friends of Toowong Cemetery",
+      "description": "Make a voluntary donation to support the preservation of Toowong Cemetery's heritage and the discovery and sharing of its stories.",
+      "recipient": {
+        "@id": "https://www.fotc.au/#/schema/organization/1"
+      },
+      "object": {
+        "@id": "https://www.fotc.au/#/schema/place/1"
+      },
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://www.fotc.au/donate/"
+      }
+    }
+  ]
+}
+</script>
