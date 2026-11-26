@@ -5,6 +5,9 @@ search:
 
 --8<-- "snippets/hide-nav.html"
 
+--8<-- "snippets/sem/donate.json"
+
+
 # Donate :fontawesome-solid-piggy-bank:{ .heart }
 
 ## Why donate?
