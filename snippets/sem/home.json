@@ -25,18 +25,20 @@
       "Credit Card",
       "Direct Bank Deposit"
     ], 
-    "knowsAbout": {
-        "@id": "https://www.fotc.au/#/schema/place/1",
-        "Queensland history",
-        "Brisbane history",
-        "Genealogy",
-        "Family history",
-        "Heritage conservation",
-        "Historic cemeteries",
-        "Funerary symbolism",
-        "Monumental masonry",
-        "War graves"
-    },
+    "knowsAbout": [
+      {
+        "@id": "https://www.fotc.au/#/schema/place/1"
+      },
+      "Queensland history",
+      "Brisbane history",
+      "Genealogy",
+      "Family history",
+      "Heritage conservation",
+      "Historic cemeteries",
+      "Funerary symbolism",
+      "Monumental masonry",
+      "War graves"
+    ]
     "areaServed": [
       {
         "@type": "City",
@@ -45,10 +47,6 @@
       {
         "@type": "Country",
         "name": "Australia"
-      },
-      {
-        "@type": "AdministrativeArea",
-        "name": "Worldwide"
       }
     ],      
     "email": "mailto:president@fotc.au",
@@ -59,10 +57,7 @@
       "postalCode": "4067",
       "streetAddress": "13 Baty Street",
       "name": "Friends of Toowong Cemetery Association Inc.",
-      "addressCountry": {
-          "@type": "country",
-          "name": "https://www.wikidata.org/wiki/Q408"
-        }  
+      "addressCountry": "AU"  
     },
     "memberOf": {
       "@id": "https://www.fotc.au/#/schema/organization/2"  
