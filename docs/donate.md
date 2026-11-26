@@ -3,6 +3,8 @@ search:
   boost: 2
 ---
 
+--8<-- "snippets/hide-nav.html"
+
 # Donate :fontawesome-solid-piggy-bank:{ .heart }
 
 ## Why donate?
