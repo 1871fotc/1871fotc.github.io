@@ -12,7 +12,7 @@ search:
 
 ## Why donate?
 
-**Donations help Friends of Toowong Cemetery keep the cemetery's heritage and stories alive**. 
+**Help Friends of Toowong Cemetery keep the cemetery's heritage and stories alive**. 
 
 ![][image1]{ width="64%" class="full-width" } ![][image2]{ width="35%" class="full-width" } 
 
