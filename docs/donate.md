@@ -9,9 +9,13 @@ search:
 
 ## Why donate?
 
+Donations help Friends of Toowong Cemetery keep the cemetery's heritage and stories alive. 
+
+Your support help to discover and share stories, preserve heritage, answer family history enquiries, care for gravesites, and help more people connect with Queensland's past.
+
 - Show your appreciation for Friends of Toowong Cemetery finding, cleaning, or re‑lettering a family grave.
 - Say thank you for a guided tour you attended.
-- Help fund our improvement ideas or one of your own.
+- Help fund one of our improvement ideas, or suggest one of your own.
 
 
 ## How to donate
