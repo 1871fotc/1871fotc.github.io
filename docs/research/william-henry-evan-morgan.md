@@ -26,26 +26,34 @@ search:
 ### Inscription
 
 > ==to do==
+-->
 
 ### Learn more 
 
-- [Birth Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/98e3b246ce783a55dc6a329de82dceeeb0586e8e15e5527935bf988ba8dd17a2)
+- [Birth Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/7e8e40f5ce869373e7b3b996ab7b2dc453cfcdd543b1fd1569c988e0c6489773)
 
-> Birth registration: Earnest Alexander Cairncross <br>
-> Birth date: 28/08/1867 <br>
-> Mother's name: Jane Cormick <br>
-> Father/parent's name: Robert Cairncross <br>
-> Registration details: 1867/B/7506 <br>
+> Birth registration: William Henry Evan Morgan  <br>
+> Birth date: 21/07/1891  <br>
+> Mother's name: Annie Evans  <br>
+> Father/parent's name: Charles Morgan  <br>
+> Registration details: 1891/B/48781  <br>
 
 
-- [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/7449b35f0516c0eb165b1bdad474e4fd64eea679459c2756ebb7fc7f5bb5236f)
+- [Death Record - Queensland Government](https://www.familyhistory.bdm.qld.gov.au/details/caf122bcb9f7051c308a2071103036d0d77fdf9d67fb7cdcb8cec6dff8d18d23)
 
-> Death registration: Earnest Alexander Cairncross  <br>
-> Death date: 20/09/1867  <br>
-> Mother's name: Jane Cormick  <br>
-> Father/parent's name: Robert Cairncross  <br>
-> Registration details: 1867/B/4159  <br>
+> Death registration: William Henry Evan Morgan  <br>
+> Death date: 19/07/1911  <br>
+> Mother's name: Annie Evans  <br>
+> Father/parent's name: Charles Morgan  <br>
+> Registration details: 1911/B/14365  <br>
 
--->
+![William Henry Evan Morgan's death certificate](../../assets/william-henry-evan-morgan-death-certificate.jpg){ width="40%" class="full-width" }
+
+<small>*William Henry Evan Morgan's death certificate.* </small>
+
+![Charles Morgan's Wood Depot](../../assets/charles-morgan-wood-yard.jpg){ width="40%" class="full-width" }
+
+<small>*Charles Morgan's Wood Depot.* </small>
+
 
 --8<-- "snippets/add-to-this-story.md"
