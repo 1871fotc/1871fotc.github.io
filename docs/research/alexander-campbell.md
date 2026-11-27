@@ -9,7 +9,9 @@ search:
 
 !!! warning
 
-    Work in progress. We're checking the ==highlighted text.==
+    We haven't solved this mystery - Can you help? 
+    
+    We've added our best guess about who this headstone commemorates. Check the ==highlighted text.==
     
 <!-- Research needed. -->
 
@@ -24,11 +26,11 @@ search:
 
 ![Fragment of Alexander Campbell's headstone](../../assets/dig-finds/alexander-campbell-headstone-2021.jpg){ width="40%" class="full-width" loading=lazy }
 
-<small>*Fragment of Alexander Campbell's headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.* </small>
+<small>*Fragment of ==Alexander Campbell=='s headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.* </small>
 
 - Erected: North Brisbane Burial Grounds, ==Presbyterian== section. After ==died d mmmm yyyy==
-- Moved to: North Brisbane Burial Grounds, Reserved Area. ca. 1914. Recorded as ==P. A. Campbell==
-- Demolished and disposed of in: Toowong Cemetery, Portion 29A. ca. 1930
+- Moved to: North Brisbane Burial Grounds, Reserved Area. ca. 1914. Recorded as ==Campbell, P. A. (almost illegible)==
+- Demolished and disposed of in: Toowong Cemetery, Portion 29A. 1934
 - Discovered: Toowong Cemetery, Portion 29A near Section 72. 22 May 2021 
 
 ### Inscription
