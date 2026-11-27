@@ -9,7 +9,7 @@ hide:
 
 # Moved Paddington Cemetery Headstones
 
-The North Brisbane Burial Grounds were also known as 'Paddington Cemetery' or 'Milton Cemetery'. The burial grounds opened in 1844 and closed in 1875. 
+The North Brisbane Burial Grounds were also known as 'Paddington Cemetery' or 'Milton Cemetery'. The burial grounds opened in 1844 and closed in 1875. <!-- The first memorial was erected in January 1838 - https://austcemindex.com/cemetery?cemid=490 -->
 
 The burial grounds had seven distinct denominational sections: Episcopalian (Anglican), Presbyterian, Roman Catholic, Jewish, Wesleyan Methodist, Congregational, and Baptist.
 
