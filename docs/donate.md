@@ -14,7 +14,7 @@ search:
 
 **Help Friends of Toowong Cemetery keep the cemetery's heritage and stories alive**. 
 
-![][image1]{ width="58%" class="full-width" } ![][image2]{ width="41%" class="full-width" } 
+![][image1]{ width="58%" class="full-width" } ![][image2]{ width="40.5%" class="full-width" } 
 
 [image1]: ../assets/guided-tour.jpg
 [image2]: ../assets/relettering-during.jpg
