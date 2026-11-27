@@ -10,7 +10,7 @@ In Portion 2 of the cemetery, at the [intersection of Soldiers Parade and Garlan
 
 The Headstones are listed from left to right. Click a name to read that person's story. 
 
-1. William Henry Evan Morgan  :material-trumpet:{ .heart } <!-- (not Paddington) https://brisbane.discovereverafter.com/profile/31881775 -->
+1. [William Henry Evan Morgan](../research/william-henry-evan-morgan/)  :material-trumpet:{ .heart } <!-- (not Paddington) https://brisbane.discovereverafter.com/profile/31881775 -->
 2. [Ernest Alexander Cairncross](../research/ernest-alexander-cairncross/)
 3. [Caroline Sophia Comyn Vallack](../research/caroline-sophia-comyn-vallack/)
 4. [John Mace](../research/john-mace/)
