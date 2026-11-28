@@ -30,7 +30,7 @@ search:
 ![](../../assets/dig-finds/charles-stuart-davidson-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 -->
 
-<small>*A fragment of Alexander ==lastname=='s headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.* </small>
+<small>*A headstone fragment discovered in a Toowong Cemetery Archaeological Dig in 2021.* </small>
 
 - Erected: North Brisbane Burial Grounds, Episcopalian section. After ==dd mmmm yyyy==
 - Moved to: North Brisbane Burial Grounds, Reserved Area. ca. 1914. Recorded as ==???==
