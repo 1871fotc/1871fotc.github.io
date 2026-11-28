@@ -23,7 +23,7 @@ Click a picture below to see what we know about a headstone fragment and see if 
 [![](../../assets/dig-finds/alexander-campbell-headstone-2021.jpg "Try solve this mystery"){ width="52.65%" class="full-width" }](../research/alexander-campbell/)
 
 [![](../../assets/dig-finds/img-9002-lockyer-headstone-2023.jpg "Try solve this mystery"){ width="50%" class="full-width" loading=lazy }](../research/?/)
-[![](../../assets/dig-finds/img-0491-7-march-186x-headstone.jpg "Try solve this mystery"){ width="39" class="full-width" loading=lazy }](../research/?/)
+[![](../../assets/dig-finds/img-0491-7-march-186x-headstone.jpg "Try solve this mystery"){ width="37" class="full-width" loading=lazy }](../research/?/)
 
 [![](../../assets/dig-finds/?-headstone.jpg "Try solve this mystery"){ width="39%" class="full-width" loading=lazy }](../research/?/)
 [![](../../assets/dig-finds/?.jpg "Try solve this mystery"){ width="40&" class="full-width" loading=lazy }](../research/?/)
