@@ -23,9 +23,9 @@ Click a picture below to see what we know about a headstone fragment and see if 
 [![](../../assets/dig-finds/alexander-campbell-headstone-2021.jpg "Try solve this mystery"){ width="52.65%" class="full-width" loading=lazy }](../research/alexander-campbell/)
 
    
-## How to investigate
+## How to investigate 
 
-Be a digital detective:
+Be a digital detective :lucide-hat-glasses:
 
 - These headstone fragments most likely come from Paddington Cemetery (aka North Brisbane Burial Grounds).
 - They were found with other headstone fragments we've already identified (either [headstones dumped in Toowong Cemetery  by the Ithaca Council](lost-paddington-headstones/), or [headstones moved to Toowong Cemetery  when Paddington Cemetery closed](moved-paddington-headstones/).
@@ -41,7 +41,7 @@ Visit Toowong Cemetery:
 
 ## What happens if you solve a mystery?
 
-**Your discovery will help restore a forgotten piece of Queensland history.**
+**Your discovery will help restore a forgotten piece of Queensland history.** 🎉
 
 - We'll publish the person's story and the evidence behind the identification.
 - If you wish, we'll acknowledge your contribution on the webpage and in social media.
