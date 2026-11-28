@@ -7,7 +7,7 @@ search:
 
 #  Unsolved Headstone Mysteries
 
-Since 2006, Friends of Toowong Cemetery and [The University of Queensland](https://social-science.uq.edu.au/undergraduate/archaeology) have uncovered headstone fragments during [archaeological digs](archaeological-digs/).
+Since 2006, Friends of Toowong Cemetery and the [University of Queensland](https://social-science.uq.edu.au/undergraduate/archaeology) have uncovered headstone fragments during [archaeological digs](archaeological-digs/).
 
 More than 150 lost headstones have been reunited with the people they commemorate. Yet a handful of fragments still refuse to give up their secrets. A few letters. Part of a date, A fragment of a name.
 
@@ -19,8 +19,8 @@ Explore the mysteries below and see if you can help solve one.
 
 Click a picture below to see what we know about a headstone fragment and see if you can help identify who it belongs to.
 
-[![](../../assets/dig-finds/alexander-lastname-headstone-2021.jpg "Try solve this mystery"){ width="39%" class="full-width" loading=lazy }](../research/alexander-lastname/)
-[![](../../assets/dig-finds/alexander-campbell-headstone-2021.jpg "Try solve this mystery"){ width="52.6%" class="full-width" loading=lazy }](../research/alexander-campbell/)
+[![](../../assets/dig-finds/alexander-lastname-headstone-2021.jpg "Try solve this mystery"){ width="39%" class="full-width" }](../research/alexander-lastname/)
+[![](../../assets/dig-finds/alexander-campbell-headstone-2021.jpg "Try solve this mystery"){ width="52.65%" class="full-width" loading=lazy }](../research/alexander-campbell/)
 
    
 ## How to investigate
