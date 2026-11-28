@@ -22,17 +22,23 @@ Click a picture below to see what we know about a headstone fragment and see if 
 [![](../../assets/dig-finds/alexander-lastname-headstone-2021.jpg "Try solve this mystery"){ width="39%" class="full-width" }](../research/alexander-lastname/)
 [![](../../assets/dig-finds/alexander-campbell-headstone-2021.jpg "Try solve this mystery"){ width="52.65%" class="full-width" loading=lazy }](../research/alexander-campbell/)
 
+[![](../../assets/dig-finds/img-0491-7-march-186x-headstone.jpg "Try solve this mystery"){ width="40%" class="full-width" loading=lazy }](../research/?/)
+[![](../../assets/dig-finds/img-9002-lockyer-headstone-2023.jpg "Try solve this mystery"){ width="40" class="full-width" loading=lazy }](../research/?/)
+
    
 ## How to investigate 
 
-Be a digital detective :lucide-hat-glasses:
+Here are you clues :lucide-hat-glasses:
 
 - These headstone fragments most likely come from Paddington Cemetery (aka North Brisbane Burial Grounds).
-- They were found with other headstone fragments we've already identified (either [headstones dumped in Toowong Cemetery  by the Ithaca Council](lost-paddington-headstones/), or [headstones moved to Toowong Cemetery  when Paddington Cemetery closed](moved-paddington-headstones/).
 - [A list of headstones moved or set aside](https://brisbane.recollectcms.com/nodes/view/38396) (and later dumped) was published by the Queensland government.
-- Use the [Queensland Government's Family History Research Service](https://www.familyhistory.bdm.qld.gov.au) to find Death records.
+- We've found and identified other headstone fragments:
+  - [headstones dumped in Toowong Cemetery by the Ithaca Council](lost-paddington-headstones/), or
+  - [headstones moved to Toowong Cemetery when Paddington Cemetery closed](moved-paddington-headstones/).
+- Use the [Queensland Government's Family History Research Service](https://www.familyhistory.bdm.qld.gov.au) to find Death records and compare with the inscription. 
 - Use [Trove](https://trove.nla.gov.au) to find Family Notices in historic newspapers. Sometimes notices are in newspapers from other States.
-- The headstones may also come from Toowong Cemetery  where [over 1000 were demolished in the 1970's](demolished-toowong-headstones/) by the Brisbane City Council.
+- Sometimes Monumental Masons, Newspapers and people maintaining registers, make mistakes with dates and names.
+- The headstones may also come from Toowong Cemetery where [over 1000 headstone were demolished in the 1970's](demolished-toowong-headstones/) by the Brisbane City Council.
 
 Visit Toowong Cemetery:
 
