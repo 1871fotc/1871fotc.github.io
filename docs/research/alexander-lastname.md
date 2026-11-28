@@ -9,7 +9,9 @@ search:
 
 !!! warning
 
-    Work in progress. We're checking the ==highlighted text==.
+    We haven't solved this mystery - Can you help? 
+    
+    We've added our best guess about who this headstone commemorates. Check the ==highlighted text.==
 
     
 # Alexander ==lastname==
@@ -79,4 +81,4 @@ Family Notices (1853, March 12). The Moreton Bay Courier (Brisbane, Qld. : 1846 
 -->
 
 
---8<-- "snippets/add-to-this-story.md"
+--8<-- "snippets/mystery-solved.md"
