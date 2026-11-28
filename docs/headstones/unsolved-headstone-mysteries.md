@@ -26,7 +26,7 @@ Click a picture below to see what we know about a headstone fragment and see if 
 [![](../../assets/dig-finds/186x-03-07-headstone.jpg "Try solve this mystery"){ width="49.6%" class="full-width" loading=lazy }](../research/186x-03-07/)
 
 [![](../../assets/dig-finds/1873-04-28-headstone-2023.jpg "Try solve this mystery"){ width="29%" class="full-width" loading=lazy }](../research/1873-04-28/)
-[![](../../assets/dig-finds/mary-therse-1863-01-26-headstone.jpg "Try solve this mystery"){ width="49.7%" class="full-width" loading=lazy }](../research/mary-therse/)
+[![](../../assets/dig-finds/mary-therse-1863-01-26-headstone.jpg "Try solve this mystery"){ width="49.7%" class="full-width" loading=lazy }](../research/mary-therse-lastname/)
 
    
 ## How to investigate 
