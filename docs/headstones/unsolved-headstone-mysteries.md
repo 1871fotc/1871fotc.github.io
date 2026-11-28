@@ -20,10 +20,13 @@ Explore the mysteries below and see if you can help solve one.
 Click a picture below to see what we know about a headstone fragment and see if you can help identify who it belongs to.
 
 [![](../../assets/dig-finds/alexander-lastname-headstone-2021.jpg "Try solve this mystery"){ width="39%" class="full-width" }](../research/alexander-lastname/)
-[![](../../assets/dig-finds/alexander-campbell-headstone-2021.jpg "Try solve this mystery"){ width="52.65%" class="full-width" loading=lazy }](../research/alexander-campbell/)
+[![](../../assets/dig-finds/alexander-campbell-headstone-2021.jpg "Try solve this mystery"){ width="52.65%" class="full-width" }](../research/alexander-campbell/)
 
 [![](../../assets/dig-finds/img-0491-7-march-186x-headstone.jpg "Try solve this mystery"){ width="39%" class="full-width" loading=lazy }](../research/?/)
 [![](../../assets/dig-finds/img-9002-lockyer-headstone-2023.jpg "Try solve this mystery"){ width="40&" class="full-width" loading=lazy }](../research/?/)
+
+[![](../../assets/dig-finds/?-headstone.jpg "Try solve this mystery"){ width="39%" class="full-width" loading=lazy }](../research/?/)
+[![](../../assets/dig-finds/?.jpg "Try solve this mystery"){ width="40&" class="full-width" loading=lazy }](../research/?/)
 
    
 ## How to investigate 
