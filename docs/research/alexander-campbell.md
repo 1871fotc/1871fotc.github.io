@@ -18,7 +18,7 @@ search:
 # ==P.== Alexander Campbell
 
 
-**==d mmmm yyyy== — ==d mmmm yyyy==**
+**==d mmmm yyyy== — 2 ==mmmm yyyy==**
 
 ## Alexander Campbell <small>([29A](https://maps.app.goo.gl/tgb8biUeEF9NnF499))</small>
 
@@ -28,7 +28,8 @@ search:
 
 <small>*Fragment of ==Alexander Campbell=='s headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.* </small>
 
-- Erected: North Brisbane Burial Grounds, ==Presbyterian== section. After ==died d mmmm yyyy==
+
+- Erected: North Brisbane Burial Grounds, ==Presbyterian== section. After 2 ==mmmm yyyy==
 - Moved to: North Brisbane Burial Grounds, Reserved Area. ca. 1914. Recorded as ==Campbell, P. A. (almost illegible)==
 - Demolished and disposed of in: Toowong Cemetery, Portion 29A. 1934
 - Discovered: Toowong Cemetery, Portion 29A near Section 72. 22 May 2021 
