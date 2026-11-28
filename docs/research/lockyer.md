@@ -35,7 +35,7 @@ search:
 
 ### Inscription
 
-> …idol  <br>
+> …idow  <br>
 > …Lockyer  <br>
 
 <!-- 
