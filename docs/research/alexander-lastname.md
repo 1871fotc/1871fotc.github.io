@@ -13,6 +13,8 @@ search:
     
     We've added our best guess about who this headstone commemorates. Check the ==highlighted text.==
 
+    Alexander may be the Father's name.
+
     
 # Alexander ==lastname==
 
@@ -22,18 +24,18 @@ search:
 
 ### Headstone
 
-![](../../assets/dig-finds/alexander-lastname-headstone-2021.jpg){ width="40%" class="full-width" loading=lazy }
+![](../../assets/dig-finds/alexander-lastname-headstone-2021.jpg){ width="40%" class="full-width" }
 
 <!-- 
 ![](../../assets/dig-finds/charles-stuart-davidson-headstone-2023.jpg){ width="40%" class="full-width" loading=lazy }
 -->
 
-<small>*A fragment of Alexander ==lastname=='s headstone discovered in a Toowong Cemetery Archaeological Dig in ==2023==.* </small>
+<small>*A fragment of Alexander ==lastname=='s headstone discovered in a Toowong Cemetery Archaeological Dig in 2021.* </small>
 
-- Erected: North Brisbane Burial Grounds, Episcopalian section. After ==dd mmmm yyyy 1853==
-- Moved to: North Brisbane Burial Grounds, Reserved Area. ca. 1914. Recorded as ==Davidson==
-- Demolished and disposed of in: Toowong Cemetery, Portion 29A. ca. 1930
-- Discovered: Toowong Cemetery, Portion 29A near Section 72. ca. May ==2023==
+- Erected: North Brisbane Burial Grounds, Episcopalian section. After ==dd mmmm yyyy==
+- Moved to: North Brisbane Burial Grounds, Reserved Area. ca. 1914. Recorded as ==???==
+- Demolished and disposed of in: Toowong Cemetery, Portion 29A. 1934
+- Discovered: Toowong Cemetery, Portion 29A near Section 72. ca. May ==2021==
 
 ### Inscription
 
