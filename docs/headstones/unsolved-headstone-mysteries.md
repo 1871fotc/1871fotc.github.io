@@ -1,6 +1,8 @@
 ---
 title: Unsolved Headstone Mysteries
 description: Can you solve a headstone mystery?
+search:
+  exclude: true
 ---
 
 #  Unsolved Headstone Mysteries
@@ -18,7 +20,7 @@ Explore the mysteries below and see if you can help solve one.
 Click a picture below to see what we know about a headstone fragment and see if you can help identify who it belongs to.
 
 [![](../../assets/dig-finds/alexander-lastname-headstone-2021.jpg "Try solve this mystery"){ width="39%" class="full-width" loading=lazy }](../research/alexander-lastname/)
-[![](../../assets/dig-finds/alexander-campbell-headstone-2021.jpg "Try solve this mystery"){ width="53%" class="full-width" loading=lazy }](../research/alexander-campbell/)
+[![](../../assets/dig-finds/alexander-campbell-headstone-2021.jpg "Try solve this mystery"){ width="52.5%" class="full-width" loading=lazy }](../research/alexander-campbell/)
 
    
 ## How to investigate
