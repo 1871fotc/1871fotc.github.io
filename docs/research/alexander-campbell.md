@@ -74,4 +74,4 @@ search:
 -->
 
 
---8<-- "snippets/add-to-this-story.md"
+--8<-- "snippets/mystery-solved.md"
