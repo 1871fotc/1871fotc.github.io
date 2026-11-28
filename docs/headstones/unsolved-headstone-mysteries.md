@@ -23,10 +23,10 @@ Click a picture below to see what we know about a headstone fragment and see if 
 [![](../../assets/dig-finds/alexander-campbell-headstone-2021.jpg "Try solve this mystery"){ width="52.65%" class="full-width" }](../research/alexander-campbell/)
 
 [![](../../assets/dig-finds/img-9002-lockyer-headstone-2023.jpg "Try solve this mystery"){ width="39%" class="full-width" loading=lazy }](../research/lockyer/)
-[![](../../assets/dig-finds/186x-03-07-headstone.jpg "Try solve this mystery"){ width="51%" class="full-width" loading=lazy }](../research/186x-03-07/)
+[![](../../assets/dig-finds/186x-03-07-headstone.jpg "Try solve this mystery"){ width="49%" class="full-width" loading=lazy }](../research/186x-03-07/)
 
 [![](../../assets/dig-finds/1873-04-28-headstone-2023.jpg "Try solve this mystery"){ width="29%" class="full-width" loading=lazy }](../research/1873-04-28/)
-[![](../../assets/dig-finds/mary-therse-1863-01-26-headstone.jpg "Try solve this mystery"){ width="50%" class="full-width" loading=lazy }](../research/mary-therse/)
+[![](../../assets/dig-finds/mary-therse-1863-01-26-headstone.jpg "Try solve this mystery"){ width="49.5%" class="full-width" loading=lazy }](../research/mary-therse/)
 
    
 ## How to investigate 
